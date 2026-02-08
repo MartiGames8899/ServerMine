@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
+  "result": {
+    "id": "evilcraft:display_stand",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

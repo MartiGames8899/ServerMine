@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "regions_unexplored:joshua_planks"
+  },
+  "result": {
+    "id": "supplementaries:regions_unexplored/way_sign_joshua",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

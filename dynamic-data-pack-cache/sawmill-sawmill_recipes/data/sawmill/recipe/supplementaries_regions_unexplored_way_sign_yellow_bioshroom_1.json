@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "regions_unexplored:yellow_bioshroom_planks"
+  },
+  "result": {
+    "id": "supplementaries:regions_unexplored/way_sign_yellow_bioshroom",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}
