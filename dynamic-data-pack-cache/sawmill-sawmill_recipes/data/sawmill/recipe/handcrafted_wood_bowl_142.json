@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:key_lime_log"
+      "item": "biomeswevegone:white_mangrove_log"
     },
     {
-      "item": "productivetrees:key_lime_wood"
+      "item": "biomeswevegone:white_mangrove_wood"
     },
     {
-      "item": "productivetrees:key_lime_stripped_log"
+      "item": "biomeswevegone:stripped_white_mangrove_log"
     },
     {
-      "item": "productivetrees:key_lime_stripped_wood"
+      "item": "biomeswevegone:stripped_white_mangrove_wood"
     }
   ],
   "result": {

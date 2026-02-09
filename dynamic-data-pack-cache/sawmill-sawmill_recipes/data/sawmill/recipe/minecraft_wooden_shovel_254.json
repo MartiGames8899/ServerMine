@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:red_banana_log"
+      "item": "regions_unexplored:baobab_log"
     },
     {
-      "item": "productivetrees:red_banana_wood"
+      "item": "regions_unexplored:baobab_wood"
     },
     {
-      "item": "productivetrees:red_banana_stripped_log"
+      "item": "regions_unexplored:stripped_baobab_log"
     },
     {
-      "item": "productivetrees:red_banana_stripped_wood"
+      "item": "regions_unexplored:stripped_baobab_wood"
     }
   ],
   "result": {

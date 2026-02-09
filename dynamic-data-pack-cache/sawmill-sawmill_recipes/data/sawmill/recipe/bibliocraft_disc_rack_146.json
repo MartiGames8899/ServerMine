@@ -2,15 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "productivetrees:brazilwood_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "productivetrees:brazilwood_wood"
+    },
+    {
+      "item": "productivetrees:brazilwood_stripped_log"
+    },
+    {
+      "item": "productivetrees:brazilwood_stripped_wood"
     }
   ],
   "result": {
     "id": "bibliocraft:disc_rack",
-    "count": 1
+    "count": 2
   },
   "type": "sawmill:woodcutting"
 }

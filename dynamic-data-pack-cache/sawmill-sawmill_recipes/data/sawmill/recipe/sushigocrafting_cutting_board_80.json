@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:juniper_log"
+      "item": "regions_unexplored:pine_log"
     },
     {
-      "item": "productivetrees:juniper_wood"
+      "item": "regions_unexplored:pine_wood"
     },
     {
-      "item": "productivetrees:juniper_stripped_log"
+      "item": "regions_unexplored:stripped_pine_log"
     },
     {
-      "item": "productivetrees:juniper_stripped_wood"
+      "item": "regions_unexplored:stripped_pine_wood"
     }
   ],
   "result": {

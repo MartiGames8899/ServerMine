@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cultivated_pear_log"
+      "item": "regions_unexplored:brimwood_log"
     },
     {
-      "item": "productivetrees:cultivated_pear_wood"
+      "item": "regions_unexplored:brimwood_wood"
     },
     {
-      "item": "productivetrees:cultivated_pear_stripped_log"
+      "item": "regions_unexplored:stripped_brimwood_log"
     },
     {
-      "item": "productivetrees:cultivated_pear_stripped_wood"
+      "item": "regions_unexplored:stripped_brimwood_wood"
     }
   ],
   "result": {

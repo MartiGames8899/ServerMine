@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:rainbow_eucalyptus_log"
+      "item": "biomeswevegone:cypress_log"
     },
     {
-      "item": "biomeswevegone:rainbow_eucalyptus_wood"
+      "item": "biomeswevegone:cypress_wood"
     },
     {
-      "item": "biomeswevegone:stripped_rainbow_eucalyptus_log"
+      "item": "biomeswevegone:stripped_cypress_log"
     },
     {
-      "item": "biomeswevegone:stripped_rainbow_eucalyptus_wood"
+      "item": "biomeswevegone:stripped_cypress_wood"
     }
   ],
   "result": {

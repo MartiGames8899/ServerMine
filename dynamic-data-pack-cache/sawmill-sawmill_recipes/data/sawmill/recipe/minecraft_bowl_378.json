@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:blackthorn_log"
+      "item": "productivetrees:purple_spiral_log"
     },
     {
-      "item": "productivetrees:blackthorn_wood"
+      "item": "productivetrees:purple_spiral_wood"
     },
     {
-      "item": "productivetrees:blackthorn_stripped_log"
+      "item": "productivetrees:purple_spiral_stripped_log"
     },
     {
-      "item": "productivetrees:blackthorn_stripped_wood"
+      "item": "productivetrees:purple_spiral_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

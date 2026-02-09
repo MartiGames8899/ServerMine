@@ -1,11 +1,22 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "forbidden_arcanus:edelwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "biomeswevegone:rainbow_eucalyptus_log"
+    },
+    {
+      "item": "biomeswevegone:rainbow_eucalyptus_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_rainbow_eucalyptus_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_rainbow_eucalyptus_wood"
+    }
+  ],
   "result": {
     "id": "handcrafted:wood_plate",
-    "count": 4
+    "count": 8
   },
   "type": "sawmill:woodcutting"
 }

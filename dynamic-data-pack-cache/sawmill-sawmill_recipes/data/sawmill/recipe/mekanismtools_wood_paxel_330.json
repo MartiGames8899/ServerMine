@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:jinglestem_log"
+      "item": "productivetrees:tangerine_log"
     },
     {
-      "item": "eternal_starlight:jinglestem_wood"
+      "item": "productivetrees:tangerine_wood"
     },
     {
-      "item": "eternal_starlight:stripped_jinglestem_log"
+      "item": "productivetrees:tangerine_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_jinglestem_wood"
+      "item": "productivetrees:tangerine_stripped_wood"
     }
   ],
   "result": {

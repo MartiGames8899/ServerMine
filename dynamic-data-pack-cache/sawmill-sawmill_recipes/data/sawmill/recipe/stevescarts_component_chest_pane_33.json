@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:sparkle_cherry_planks"
+    "item": "regions_unexplored:blue_bioshroom_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pistachio_log"
+      "item": "biomeswevegone:redwood_log"
     },
     {
-      "item": "productivetrees:pistachio_wood"
+      "item": "biomeswevegone:redwood_wood"
     },
     {
-      "item": "productivetrees:pistachio_stripped_log"
+      "item": "biomeswevegone:stripped_redwood_log"
     },
     {
-      "item": "productivetrees:pistachio_stripped_wood"
+      "item": "biomeswevegone:stripped_redwood_wood"
     }
   ],
   "result": {

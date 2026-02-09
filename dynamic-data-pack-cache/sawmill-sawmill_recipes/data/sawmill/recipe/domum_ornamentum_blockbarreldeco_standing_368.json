@@ -2,16 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "productivetrees:black_locust_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "productivetrees:black_locust_wood"
+    },
+    {
+      "item": "productivetrees:black_locust_stripped_log"
+    },
+    {
+      "item": "productivetrees:black_locust_stripped_wood"
     }
   ],
   "result": {
     "id": "domum_ornamentum:blockbarreldeco_standing",
     "count": 1
   },
-  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:bull_pine_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "productivetrees:bull_pine_wood"
-    },
-    {
-      "item": "productivetrees:bull_pine_stripped_log"
-    },
-    {
-      "item": "productivetrees:bull_pine_stripped_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {

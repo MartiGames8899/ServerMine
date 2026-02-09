@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sparkle_cherry_log"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "productivetrees:sparkle_cherry_wood"
-    },
-    {
-      "item": "productivetrees:sparkle_cherry_stripped_log"
-    },
-    {
-      "item": "productivetrees:sparkle_cherry_stripped_wood"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

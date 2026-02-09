@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:joshua_log"
+      "item": "productivetrees:cempedak_log"
     },
     {
-      "item": "regions_unexplored:joshua_wood"
+      "item": "productivetrees:cempedak_wood"
     },
     {
-      "item": "regions_unexplored:stripped_joshua_log"
+      "item": "productivetrees:cempedak_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_joshua_wood"
+      "item": "productivetrees:cempedak_stripped_wood"
     }
   ],
   "result": {

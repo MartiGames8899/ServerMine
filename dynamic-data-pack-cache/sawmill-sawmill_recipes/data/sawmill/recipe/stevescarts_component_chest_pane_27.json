@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:mango_planks"
+    "item": "deeperdarker:echo_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

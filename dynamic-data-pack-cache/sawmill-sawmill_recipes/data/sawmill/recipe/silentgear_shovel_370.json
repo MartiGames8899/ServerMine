@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:blooming_stem"
+      "item": "productivetrees:white_ipe_log"
     },
     {
-      "item": "deeperdarker:stripped_blooming_stem"
+      "item": "productivetrees:white_ipe_wood"
+    },
+    {
+      "item": "productivetrees:white_ipe_stripped_log"
+    },
+    {
+      "item": "productivetrees:white_ipe_stripped_wood"
     }
   ],
   "result": {

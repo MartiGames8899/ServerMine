@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:satsuma_log"
+      "item": "biomeswevegone:rainbow_eucalyptus_log"
     },
     {
-      "item": "productivetrees:satsuma_wood"
+      "item": "biomeswevegone:rainbow_eucalyptus_wood"
     },
     {
-      "item": "productivetrees:satsuma_stripped_log"
+      "item": "biomeswevegone:stripped_rainbow_eucalyptus_log"
     },
     {
-      "item": "productivetrees:satsuma_stripped_wood"
+      "item": "biomeswevegone:stripped_rainbow_eucalyptus_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:balsa_log"
+      "item": "productivetrees:almond_log"
     },
     {
-      "item": "productivetrees:balsa_wood"
+      "item": "productivetrees:almond_wood"
     },
     {
-      "item": "productivetrees:balsa_stripped_log"
+      "item": "productivetrees:almond_stripped_log"
     },
     {
-      "item": "productivetrees:balsa_stripped_wood"
+      "item": "productivetrees:almond_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

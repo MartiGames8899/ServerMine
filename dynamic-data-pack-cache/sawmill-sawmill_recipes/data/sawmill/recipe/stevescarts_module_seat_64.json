@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:larch_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "regions_unexplored:larch_wood"
-    },
-    {
-      "item": "regions_unexplored:stripped_larch_log"
-    },
-    {
-      "item": "regions_unexplored:stripped_larch_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {

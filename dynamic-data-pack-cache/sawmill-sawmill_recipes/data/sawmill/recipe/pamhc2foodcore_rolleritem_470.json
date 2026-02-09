@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "biomeswevegone:maple_log"
+    },
+    {
+      "item": "biomeswevegone:maple_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_maple_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_maple_wood"
+    }
+  ],
   "result": {
     "id": "pamhc2foodcore:rolleritem",
     "count": 1

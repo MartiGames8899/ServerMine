@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:baobab_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "regions_unexplored:baobab_wood"
-    },
-    {
-      "item": "regions_unexplored:stripped_baobab_log"
-    },
-    {
-      "item": "regions_unexplored:stripped_baobab_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

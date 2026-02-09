@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "biomeswevegone:ironwood_log"
-    },
-    {
-      "item": "biomeswevegone:ironwood_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_ironwood_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_ironwood_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "evilcraft:display_stand",
     "count": 1

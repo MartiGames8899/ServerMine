@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:spirit_log"
+      "item": "productivetrees:olive_log"
     },
     {
-      "item": "biomeswevegone:spirit_wood"
+      "item": "productivetrees:olive_wood"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_log"
+      "item": "productivetrees:olive_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_wood"
+      "item": "productivetrees:olive_stripped_wood"
     }
   ],
   "result": {

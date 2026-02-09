@@ -2,21 +2,15 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:mauve_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "regions_unexplored:mauve_wood"
-    },
-    {
-      "item": "regions_unexplored:stripped_mauve_log"
-    },
-    {
-      "item": "regions_unexplored:stripped_mauve_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "handcrafted:wood_crockery_combo",
-    "count": 4
+    "count": 2
   },
   "type": "sawmill:woodcutting"
 }

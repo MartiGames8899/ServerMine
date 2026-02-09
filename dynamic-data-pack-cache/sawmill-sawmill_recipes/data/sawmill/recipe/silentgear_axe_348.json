@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "minecraft:jungle_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "minecraft:jungle_wood"
+    },
+    {
+      "item": "minecraft:stripped_jungle_log"
+    },
+    {
+      "item": "minecraft:stripped_jungle_wood"
     }
   ],
   "result": {

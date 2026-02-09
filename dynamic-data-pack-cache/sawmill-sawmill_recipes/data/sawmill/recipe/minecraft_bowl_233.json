@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:jacaranda_planks"
+    "item": "productivetrees:cork_oak_planks"
   },
   "result": {
     "id": "minecraft:bowl",

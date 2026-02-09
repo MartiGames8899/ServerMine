@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:starlight_mangrove_log"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "eternal_starlight:starlight_mangrove_wood"
+      "item": "deeperdarker:echo_wood"
     },
     {
-      "item": "eternal_starlight:stripped_starlight_mangrove_log"
+      "item": "deeperdarker:stripped_echo_log"
     },
     {
-      "item": "eternal_starlight:stripped_starlight_mangrove_wood"
+      "item": "deeperdarker:stripped_echo_wood"
     }
   ],
   "result": {

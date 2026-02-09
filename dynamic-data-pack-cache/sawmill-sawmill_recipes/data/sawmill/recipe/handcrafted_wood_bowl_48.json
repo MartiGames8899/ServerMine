@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:date_palm_log"
-    },
-    {
-      "item": "productivetrees:date_palm_wood"
-    },
-    {
-      "item": "productivetrees:date_palm_stripped_log"
-    },
-    {
-      "item": "productivetrees:date_palm_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "handcrafted:wood_bowl",
     "count": 6

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:great_sallow_log"
+      "item": "productivetrees:ceylon_ebony_log"
     },
     {
-      "item": "productivetrees:great_sallow_wood"
+      "item": "productivetrees:ceylon_ebony_wood"
     },
     {
-      "item": "productivetrees:great_sallow_stripped_log"
+      "item": "productivetrees:ceylon_ebony_stripped_log"
     },
     {
-      "item": "productivetrees:great_sallow_stripped_wood"
+      "item": "productivetrees:ceylon_ebony_stripped_wood"
     }
   ],
   "result": {

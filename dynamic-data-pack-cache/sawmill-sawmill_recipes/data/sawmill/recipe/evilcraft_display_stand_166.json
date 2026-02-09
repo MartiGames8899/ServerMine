@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:blooming_stem"
+      "item": "biomeswevegone:cika_log"
     },
     {
-      "item": "deeperdarker:stripped_blooming_stem"
+      "item": "biomeswevegone:cika_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_cika_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_cika_wood"
     }
   ],
   "result": {

@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:demonic_log"
+      "item": "biomeswevegone:baobab_log"
     },
     {
-      "item": "allthemodium:stripped_demonic_log"
+      "item": "biomeswevegone:baobab_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_baobab_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_baobab_wood"
     }
   ],
   "result": {

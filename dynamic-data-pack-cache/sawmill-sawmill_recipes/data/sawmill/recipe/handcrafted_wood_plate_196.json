@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:brimwood_log"
+      "item": "regions_unexplored:cobalt_log"
     },
     {
-      "item": "regions_unexplored:brimwood_wood"
+      "item": "regions_unexplored:cobalt_wood"
     },
     {
-      "item": "regions_unexplored:stripped_brimwood_log"
+      "item": "regions_unexplored:stripped_cobalt_log"
     },
     {
-      "item": "regions_unexplored:stripped_brimwood_wood"
+      "item": "regions_unexplored:stripped_cobalt_wood"
     }
   ],
   "result": {

@@ -2,15 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "aether:skyroot_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "aether:skyroot_wood"
+    },
+    {
+      "item": "aether:stripped_skyroot_log"
+    },
+    {
+      "item": "aether:stripped_skyroot_wood"
     }
   ],
   "result": {
     "id": "cookingforblockheads:spice_rack",
-    "count": 2
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

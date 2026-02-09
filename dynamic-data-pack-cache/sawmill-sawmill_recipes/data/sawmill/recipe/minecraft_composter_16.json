@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:ironwood_log"
+      "item": "twilightforest:canopy_log"
     },
     {
-      "item": "biomeswevegone:ironwood_wood"
+      "item": "twilightforest:canopy_wood"
     },
     {
-      "item": "biomeswevegone:stripped_ironwood_log"
+      "item": "twilightforest:stripped_canopy_log"
     },
     {
-      "item": "biomeswevegone:stripped_ironwood_wood"
+      "item": "twilightforest:stripped_canopy_wood"
     }
   ],
   "result": {

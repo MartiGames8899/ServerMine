@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sweetgum_log"
+      "item": "biomeswevegone:ebony_log"
     },
     {
-      "item": "productivetrees:sweetgum_wood"
+      "item": "biomeswevegone:ebony_wood"
     },
     {
-      "item": "productivetrees:sweetgum_stripped_log"
+      "item": "biomeswevegone:stripped_ebony_log"
     },
     {
-      "item": "productivetrees:sweetgum_stripped_wood"
+      "item": "biomeswevegone:stripped_ebony_wood"
     }
   ],
   "result": {

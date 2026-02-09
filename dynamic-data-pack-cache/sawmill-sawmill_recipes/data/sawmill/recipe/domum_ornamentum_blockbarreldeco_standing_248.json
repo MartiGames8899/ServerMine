@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:smogstem_log"
+      "item": "productivetrees:blue_mahoe_log"
     },
     {
-      "item": "undergarden:smogstem_wood"
+      "item": "productivetrees:blue_mahoe_wood"
     },
     {
-      "item": "undergarden:stripped_smogstem_log"
+      "item": "productivetrees:blue_mahoe_stripped_log"
     },
     {
-      "item": "undergarden:stripped_smogstem_wood"
+      "item": "productivetrees:blue_mahoe_stripped_wood"
     }
   ],
   "result": {

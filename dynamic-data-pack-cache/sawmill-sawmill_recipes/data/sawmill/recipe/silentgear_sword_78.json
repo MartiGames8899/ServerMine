@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:holly_log"
+      "item": "allthemodium:soul_log"
     },
     {
-      "item": "biomeswevegone:holly_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_holly_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_holly_wood"
+      "item": "allthemodium:stripped_soul_log"
     }
   ],
   "result": {

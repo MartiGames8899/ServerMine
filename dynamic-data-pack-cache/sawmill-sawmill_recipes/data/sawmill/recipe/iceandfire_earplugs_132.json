@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "twilightforest:transformation_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "twilightforest:transformation_wood"
+    },
+    {
+      "item": "twilightforest:stripped_transformation_log"
+    },
+    {
+      "item": "twilightforest:stripped_transformation_wood"
     }
   ],
   "result": {

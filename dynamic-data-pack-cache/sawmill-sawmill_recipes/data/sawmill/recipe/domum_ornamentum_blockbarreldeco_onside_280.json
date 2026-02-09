@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:plantain_log"
+      "item": "allthemodium:soul_log"
     },
     {
-      "item": "productivetrees:plantain_wood"
-    },
-    {
-      "item": "productivetrees:plantain_stripped_log"
-    },
-    {
-      "item": "productivetrees:plantain_stripped_wood"
+      "item": "allthemodium:stripped_soul_log"
     }
   ],
   "result": {

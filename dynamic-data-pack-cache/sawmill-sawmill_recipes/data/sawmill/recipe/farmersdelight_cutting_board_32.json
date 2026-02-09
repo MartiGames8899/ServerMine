@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:redwood_log"
+      "item": "productivetrees:iroko_log"
     },
     {
-      "item": "biomeswevegone:redwood_wood"
+      "item": "productivetrees:iroko_wood"
     },
     {
-      "item": "biomeswevegone:stripped_redwood_log"
+      "item": "productivetrees:iroko_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_redwood_wood"
+      "item": "productivetrees:iroko_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cinnamon_log"
+      "item": "biomeswevegone:white_mangrove_log"
     },
     {
-      "item": "productivetrees:cinnamon_wood"
+      "item": "biomeswevegone:white_mangrove_wood"
     },
     {
-      "item": "productivetrees:cinnamon_stripped_log"
+      "item": "biomeswevegone:stripped_white_mangrove_log"
     },
     {
-      "item": "productivetrees:cinnamon_stripped_wood"
+      "item": "biomeswevegone:stripped_white_mangrove_wood"
     }
   ],
   "result": {

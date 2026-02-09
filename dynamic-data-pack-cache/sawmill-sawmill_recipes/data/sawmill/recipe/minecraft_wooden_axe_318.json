@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:black_locust_log"
+      "item": "biomeswevegone:holly_log"
     },
     {
-      "item": "productivetrees:black_locust_wood"
+      "item": "biomeswevegone:holly_wood"
     },
     {
-      "item": "productivetrees:black_locust_stripped_log"
+      "item": "biomeswevegone:stripped_holly_log"
     },
     {
-      "item": "productivetrees:black_locust_stripped_wood"
+      "item": "biomeswevegone:stripped_holly_wood"
     }
   ],
   "result": {

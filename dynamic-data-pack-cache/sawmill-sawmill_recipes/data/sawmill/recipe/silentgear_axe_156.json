@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:grandidiers_baobab_log"
+      "item": "biomeswevegone:zelkova_log"
     },
     {
-      "item": "productivetrees:grandidiers_baobab_wood"
+      "item": "biomeswevegone:zelkova_wood"
     },
     {
-      "item": "productivetrees:grandidiers_baobab_stripped_log"
+      "item": "biomeswevegone:stripped_zelkova_log"
     },
     {
-      "item": "productivetrees:grandidiers_baobab_stripped_wood"
+      "item": "biomeswevegone:stripped_zelkova_wood"
     }
   ],
   "result": {

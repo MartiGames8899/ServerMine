@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:cika_planks"
+    "item": "deeperdarker:echo_planks"
   },
   "result": {
     "id": "minecraft:bowl",

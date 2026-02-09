@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:aurum_log"
+      "item": "productivetrees:nutmeg_log"
     },
     {
-      "item": "forbidden_arcanus:aurum_wood"
+      "item": "productivetrees:nutmeg_wood"
     },
     {
-      "item": "forbidden_arcanus:stripped_aurum_log"
+      "item": "productivetrees:nutmeg_stripped_log"
     },
     {
-      "item": "forbidden_arcanus:stripped_aurum_wood"
+      "item": "productivetrees:nutmeg_stripped_wood"
     }
   ],
   "result": {

@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "eternal_starlight:scarlet_log"
+    },
+    {
+      "item": "eternal_starlight:scarlet_wood"
+    },
+    {
+      "item": "eternal_starlight:stripped_scarlet_log"
+    },
+    {
+      "item": "eternal_starlight:stripped_scarlet_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:crafting_table",
     "count": 1

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:pine_planks"
+    "item": "productivetrees:satsuma_planks"
   },
   "result": {
     "id": "minecraft:bowl",

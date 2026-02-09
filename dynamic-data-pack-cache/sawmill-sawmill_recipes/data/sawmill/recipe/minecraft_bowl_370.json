@@ -2,15 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "productivetrees:lawson_cypress_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "productivetrees:lawson_cypress_wood"
+    },
+    {
+      "item": "productivetrees:lawson_cypress_stripped_log"
+    },
+    {
+      "item": "productivetrees:lawson_cypress_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 3
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

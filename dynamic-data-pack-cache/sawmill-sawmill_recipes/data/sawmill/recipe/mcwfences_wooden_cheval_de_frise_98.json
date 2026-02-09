@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:lime_log"
+      "item": "productivetrees:whitebeam_log"
     },
     {
-      "item": "productivetrees:lime_wood"
+      "item": "productivetrees:whitebeam_wood"
     },
     {
-      "item": "productivetrees:lime_stripped_log"
+      "item": "productivetrees:whitebeam_stripped_log"
     },
     {
-      "item": "productivetrees:lime_stripped_wood"
+      "item": "productivetrees:whitebeam_stripped_wood"
     }
   ],
   "result": {

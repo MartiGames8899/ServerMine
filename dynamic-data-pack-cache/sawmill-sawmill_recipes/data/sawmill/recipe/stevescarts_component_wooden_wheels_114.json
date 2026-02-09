@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:eucalyptus_log"
+      "item": "biomeswevegone:fir_log"
     },
     {
-      "item": "regions_unexplored:eucalyptus_wood"
+      "item": "biomeswevegone:fir_wood"
     },
     {
-      "item": "regions_unexplored:stripped_eucalyptus_log"
+      "item": "biomeswevegone:stripped_fir_log"
     },
     {
-      "item": "regions_unexplored:stripped_eucalyptus_wood"
+      "item": "biomeswevegone:stripped_fir_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pomegranate_log"
+      "item": "biomeswevegone:willow_log"
     },
     {
-      "item": "productivetrees:pomegranate_wood"
+      "item": "biomeswevegone:willow_wood"
     },
     {
-      "item": "productivetrees:pomegranate_stripped_log"
+      "item": "biomeswevegone:stripped_willow_log"
     },
     {
-      "item": "productivetrees:pomegranate_stripped_wood"
+      "item": "biomeswevegone:stripped_willow_wood"
     }
   ],
   "result": {

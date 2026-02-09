@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:blooming_stem"
+      "item": "productivetrees:purpleheart_log"
     },
     {
-      "item": "deeperdarker:stripped_blooming_stem"
+      "item": "productivetrees:purpleheart_wood"
+    },
+    {
+      "item": "productivetrees:purpleheart_stripped_log"
+    },
+    {
+      "item": "productivetrees:purpleheart_stripped_wood"
     }
   ],
   "result": {

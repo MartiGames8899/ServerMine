@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "regions_unexplored:redwood_log"
-    },
-    {
-      "item": "regions_unexplored:redwood_wood"
-    },
-    {
-      "item": "regions_unexplored:stripped_redwood_log"
-    },
-    {
-      "item": "regions_unexplored:stripped_redwood_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "minecraft:wooden_shovel",
     "count": 1

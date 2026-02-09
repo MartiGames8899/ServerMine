@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:blooming_stem"
+      "item": "eternal_starlight:scarlet_log"
     },
     {
-      "item": "deeperdarker:stripped_blooming_stem"
+      "item": "eternal_starlight:scarlet_wood"
+    },
+    {
+      "item": "eternal_starlight:stripped_scarlet_log"
+    },
+    {
+      "item": "eternal_starlight:stripped_scarlet_wood"
     }
   ],
   "result": {

@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:yellow_meranti_log"
+    },
+    {
+      "item": "productivetrees:yellow_meranti_wood"
+    },
+    {
+      "item": "productivetrees:yellow_meranti_stripped_log"
+    },
+    {
+      "item": "productivetrees:yellow_meranti_stripped_wood"
+    }
+  ],
   "result": {
     "id": "actuallyadditions:wood_casing",
     "count": 1

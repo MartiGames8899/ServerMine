@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:cradlewood_planks"
+    "item": "productivetrees:monkey_puzzle_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

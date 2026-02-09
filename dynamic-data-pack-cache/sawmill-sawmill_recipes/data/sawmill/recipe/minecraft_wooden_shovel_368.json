@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:dark_log"
+      "item": "biomeswevegone:white_mangrove_log"
     },
     {
-      "item": "twilightforest:dark_wood"
+      "item": "biomeswevegone:white_mangrove_wood"
     },
     {
-      "item": "twilightforest:stripped_dark_log"
+      "item": "biomeswevegone:stripped_white_mangrove_log"
     },
     {
-      "item": "twilightforest:stripped_dark_wood"
+      "item": "biomeswevegone:stripped_white_mangrove_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:dead_log"
+      "item": "productivetrees:blackthorn_log"
     },
     {
-      "item": "regions_unexplored:dead_wood"
+      "item": "productivetrees:blackthorn_wood"
     },
     {
-      "item": "regions_unexplored:stripped_dead_log"
+      "item": "productivetrees:blackthorn_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_dead_wood"
+      "item": "productivetrees:blackthorn_stripped_wood"
     }
   ],
   "result": {

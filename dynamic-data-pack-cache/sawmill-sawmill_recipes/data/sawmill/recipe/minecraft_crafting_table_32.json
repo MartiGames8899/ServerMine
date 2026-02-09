@@ -2,16 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "silentgear:netherwood_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "silentgear:netherwood_wood"
+    },
+    {
+      "item": "silentgear:stripped_netherwood_log"
+    },
+    {
+      "item": "silentgear:stripped_netherwood_wood"
     }
   ],
   "result": {
     "id": "minecraft:crafting_table",
     "count": 1
   },
-  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

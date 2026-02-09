@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:ironwood_log"
+      "item": "eternal_starlight:scarlet_log"
     },
     {
-      "item": "biomeswevegone:ironwood_wood"
+      "item": "eternal_starlight:scarlet_wood"
     },
     {
-      "item": "biomeswevegone:stripped_ironwood_log"
+      "item": "eternal_starlight:stripped_scarlet_log"
     },
     {
-      "item": "biomeswevegone:stripped_ironwood_wood"
+      "item": "eternal_starlight:stripped_scarlet_wood"
     }
   ],
   "result": {

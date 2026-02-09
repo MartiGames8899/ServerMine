@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:redwood_log"
+      "item": "minecraft:oak_log"
     },
     {
-      "item": "biomeswevegone:redwood_wood"
+      "item": "minecraft:oak_wood"
     },
     {
-      "item": "biomeswevegone:stripped_redwood_log"
+      "item": "minecraft:stripped_oak_log"
     },
     {
-      "item": "biomeswevegone:stripped_redwood_wood"
+      "item": "minecraft:stripped_oak_wood"
     }
   ],
   "result": {

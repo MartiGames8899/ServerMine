@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:bull_pine_log"
+      "item": "productivetrees:water_wonder_log"
     },
     {
-      "item": "productivetrees:bull_pine_wood"
+      "item": "productivetrees:water_wonder_wood"
     },
     {
-      "item": "productivetrees:bull_pine_stripped_log"
+      "item": "productivetrees:water_wonder_stripped_log"
     },
     {
-      "item": "productivetrees:bull_pine_stripped_wood"
+      "item": "productivetrees:water_wonder_stripped_wood"
     }
   ],
   "result": {

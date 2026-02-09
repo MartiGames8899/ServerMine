@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:yellow_bioshroom_stem"
+      "item": "productivetrees:pistachio_log"
     },
     {
-      "item": "regions_unexplored:yellow_bioshroom_hyphae"
+      "item": "productivetrees:pistachio_wood"
     },
     {
-      "item": "regions_unexplored:stripped_yellow_bioshroom_stem"
+      "item": "productivetrees:pistachio_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_yellow_bioshroom_hyphae"
+      "item": "productivetrees:pistachio_stripped_wood"
     }
   ],
   "result": {

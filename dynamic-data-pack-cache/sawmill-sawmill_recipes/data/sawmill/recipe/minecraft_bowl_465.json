@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:pandanus_planks"
+    "item": "productivetrees:sandalwood_planks"
   },
   "result": {
     "id": "minecraft:bowl",

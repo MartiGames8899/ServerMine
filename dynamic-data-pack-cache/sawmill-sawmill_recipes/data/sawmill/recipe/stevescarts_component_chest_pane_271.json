@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:blue_bioshroom_planks"
+    "item": "regions_unexplored:pink_bioshroom_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

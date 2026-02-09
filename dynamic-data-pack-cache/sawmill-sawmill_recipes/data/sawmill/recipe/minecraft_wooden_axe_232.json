@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:cika_log"
+      "item": "productivetrees:monkey_puzzle_log"
     },
     {
-      "item": "biomeswevegone:cika_wood"
+      "item": "productivetrees:monkey_puzzle_wood"
     },
     {
-      "item": "biomeswevegone:stripped_cika_log"
+      "item": "productivetrees:monkey_puzzle_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_cika_wood"
+      "item": "productivetrees:monkey_puzzle_stripped_wood"
     }
   ],
   "result": {

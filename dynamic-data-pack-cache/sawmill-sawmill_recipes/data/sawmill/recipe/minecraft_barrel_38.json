@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:florus_stem"
+      "item": "minecraft:dark_oak_log"
     },
     {
-      "item": "biomeswevegone:florus_wood"
+      "item": "minecraft:dark_oak_wood"
     },
     {
-      "item": "biomeswevegone:stripped_florus_stem"
+      "item": "minecraft:stripped_dark_oak_log"
     },
     {
-      "item": "biomeswevegone:stripped_florus_wood"
+      "item": "minecraft:stripped_dark_oak_wood"
     }
   ],
   "result": {

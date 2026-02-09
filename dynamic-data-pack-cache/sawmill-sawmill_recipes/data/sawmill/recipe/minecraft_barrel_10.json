@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:cobalt_log"
+      "item": "silentgear:netherwood_log"
     },
     {
-      "item": "regions_unexplored:cobalt_wood"
+      "item": "silentgear:netherwood_wood"
     },
     {
-      "item": "regions_unexplored:stripped_cobalt_log"
+      "item": "silentgear:stripped_netherwood_log"
     },
     {
-      "item": "regions_unexplored:stripped_cobalt_wood"
+      "item": "silentgear:stripped_netherwood_wood"
     }
   ],
   "result": {

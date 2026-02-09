@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:coconut_log"
+      "item": "biomeswevegone:rainbow_eucalyptus_log"
     },
     {
-      "item": "productivetrees:coconut_wood"
+      "item": "biomeswevegone:rainbow_eucalyptus_wood"
     },
     {
-      "item": "productivetrees:coconut_stripped_log"
+      "item": "biomeswevegone:stripped_rainbow_eucalyptus_log"
     },
     {
-      "item": "productivetrees:coconut_stripped_wood"
+      "item": "biomeswevegone:stripped_rainbow_eucalyptus_wood"
     }
   ],
   "result": {

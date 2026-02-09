@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:pink_bioshroom_stem"
+      "item": "twilightforest:time_log"
     },
     {
-      "item": "regions_unexplored:pink_bioshroom_hyphae"
+      "item": "twilightforest:time_wood"
     },
     {
-      "item": "regions_unexplored:stripped_pink_bioshroom_stem"
+      "item": "twilightforest:stripped_time_log"
     },
     {
-      "item": "regions_unexplored:stripped_pink_bioshroom_hyphae"
+      "item": "twilightforest:stripped_time_wood"
     }
   ],
   "result": {

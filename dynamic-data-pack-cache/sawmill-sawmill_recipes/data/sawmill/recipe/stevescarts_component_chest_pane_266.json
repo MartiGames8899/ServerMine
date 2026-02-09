@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:cradlewood_log"
+      "item": "productivetrees:cinnamon_log"
     },
     {
-      "item": "eternal_starlight:cradlewood_wood"
+      "item": "productivetrees:cinnamon_wood"
     },
     {
-      "item": "eternal_starlight:stripped_cradlewood_log"
+      "item": "productivetrees:cinnamon_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_cradlewood_wood"
+      "item": "productivetrees:cinnamon_stripped_wood"
     }
   ],
   "result": {

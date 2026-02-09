@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "biomeswevegone:baobab_log"
-    },
-    {
-      "item": "biomeswevegone:baobab_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_baobab_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_baobab_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "evilcraft:display_stand",
     "count": 1

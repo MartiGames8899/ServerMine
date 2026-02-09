@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "aether:skyroot_log"
+      "item": "productivetrees:cork_oak_log"
     },
     {
-      "item": "aether:skyroot_wood"
+      "item": "productivetrees:cork_oak_wood"
     },
     {
-      "item": "aether:stripped_skyroot_log"
+      "item": "productivetrees:cork_oak_stripped_log"
     },
     {
-      "item": "aether:stripped_skyroot_wood"
+      "item": "productivetrees:cork_oak_stripped_wood"
     }
   ],
   "result": {

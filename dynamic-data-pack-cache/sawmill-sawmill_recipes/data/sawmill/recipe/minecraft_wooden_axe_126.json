@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:butternut_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:butternut_wood"
-    },
-    {
-      "item": "productivetrees:butternut_stripped_log"
-    },
-    {
-      "item": "productivetrees:butternut_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

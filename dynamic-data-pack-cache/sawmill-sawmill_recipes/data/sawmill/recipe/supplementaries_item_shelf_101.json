@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:aspen_planks"
+    "item": "regions_unexplored:palm_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

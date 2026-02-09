@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:juniper_log"
+      "item": "productivetrees:nectarine_log"
     },
     {
-      "item": "productivetrees:juniper_wood"
+      "item": "productivetrees:nectarine_wood"
     },
     {
-      "item": "productivetrees:juniper_stripped_log"
+      "item": "productivetrees:nectarine_stripped_log"
     },
     {
-      "item": "productivetrees:juniper_stripped_wood"
+      "item": "productivetrees:nectarine_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

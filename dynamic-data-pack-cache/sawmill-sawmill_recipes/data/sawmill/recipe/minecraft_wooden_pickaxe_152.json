@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:blue_bioshroom_stem"
+      "item": "productivetrees:lime_log"
     },
     {
-      "item": "regions_unexplored:blue_bioshroom_hyphae"
+      "item": "productivetrees:lime_wood"
     },
     {
-      "item": "regions_unexplored:stripped_blue_bioshroom_stem"
+      "item": "productivetrees:lime_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_blue_bioshroom_hyphae"
+      "item": "productivetrees:lime_stripped_wood"
     }
   ],
   "result": {

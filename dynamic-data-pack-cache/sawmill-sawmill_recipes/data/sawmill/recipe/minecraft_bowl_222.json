@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:cypress_log"
+      "item": "productivetrees:brown_amber_log"
     },
     {
-      "item": "regions_unexplored:cypress_wood"
+      "item": "productivetrees:brown_amber_wood"
     },
     {
-      "item": "regions_unexplored:stripped_cypress_log"
+      "item": "productivetrees:brown_amber_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_cypress_wood"
+      "item": "productivetrees:brown_amber_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

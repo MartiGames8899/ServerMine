@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "deeperdarker:echo_wood"
+    },
+    {
+      "item": "deeperdarker:stripped_echo_log"
+    },
+    {
+      "item": "deeperdarker:stripped_echo_wood"
     }
   ],
   "result": {

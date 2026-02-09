@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:rainbow_eucalyptus_log"
+      "item": "allthemodium:demonic_log"
     },
     {
-      "item": "biomeswevegone:rainbow_eucalyptus_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_rainbow_eucalyptus_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_rainbow_eucalyptus_wood"
+      "item": "allthemodium:stripped_demonic_log"
     }
   ],
   "result": {

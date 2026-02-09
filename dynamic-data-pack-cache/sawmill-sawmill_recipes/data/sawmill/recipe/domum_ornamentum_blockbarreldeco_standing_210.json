@@ -1,22 +1,12 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "regions_unexplored:blue_bioshroom_stem"
-    },
-    {
-      "item": "regions_unexplored:blue_bioshroom_hyphae"
-    },
-    {
-      "item": "regions_unexplored:stripped_blue_bioshroom_stem"
-    },
-    {
-      "item": "regions_unexplored:stripped_blue_bioshroom_hyphae"
-    }
-  ],
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
   "result": {
     "id": "domum_ornamentum:blockbarreldeco_standing",
     "count": 1
   },
+  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

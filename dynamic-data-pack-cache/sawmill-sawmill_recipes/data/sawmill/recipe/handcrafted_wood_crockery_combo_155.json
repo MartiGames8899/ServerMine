@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:twilight_oak_planks"
+    "item": "regions_unexplored:kapok_planks"
   },
   "result": {
     "id": "handcrafted:wood_crockery_combo",

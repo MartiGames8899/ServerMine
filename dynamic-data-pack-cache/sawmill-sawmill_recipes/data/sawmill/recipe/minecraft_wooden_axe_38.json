@@ -2,10 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "evilcraft:undead_log"
+      "item": "allthemodium:demonic_log"
     },
     {
-      "item": "evilcraft:undead_wood"
+      "item": "allthemodium:stripped_demonic_log"
     }
   ],
   "result": {

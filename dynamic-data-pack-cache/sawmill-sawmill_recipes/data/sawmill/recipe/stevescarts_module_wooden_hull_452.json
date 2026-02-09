@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:cashew_log"
+    },
+    {
+      "item": "productivetrees:cashew_wood"
+    },
+    {
+      "item": "productivetrees:cashew_stripped_log"
+    },
+    {
+      "item": "productivetrees:cashew_stripped_wood"
+    }
+  ],
   "result": {
     "id": "stevescarts:module_wooden_hull",
     "count": 1

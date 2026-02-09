@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:pine_planks"
+    "item": "productivetrees:alder_planks"
   },
   "result": {
     "id": "minecraft:bowl",

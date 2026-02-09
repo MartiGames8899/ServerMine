@@ -1,13 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "deeperdarker:blooming_stem"
-    },
-    {
-      "item": "deeperdarker:stripped_blooming_stem"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "stevescarts:module_seat",
     "count": 1

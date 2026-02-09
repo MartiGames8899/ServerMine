@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "silentgear:netherwood_log"
+    },
+    {
+      "item": "silentgear:netherwood_wood"
+    },
+    {
+      "item": "silentgear:stripped_netherwood_log"
+    },
+    {
+      "item": "silentgear:stripped_netherwood_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:chest",
     "count": 1

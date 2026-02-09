@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:larch_log"
+      "item": "productivetrees:slimy_delight_log"
     },
     {
-      "item": "regions_unexplored:larch_wood"
+      "item": "productivetrees:slimy_delight_wood"
     },
     {
-      "item": "regions_unexplored:stripped_larch_log"
+      "item": "productivetrees:slimy_delight_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_larch_wood"
+      "item": "productivetrees:slimy_delight_stripped_wood"
     }
   ],
   "result": {

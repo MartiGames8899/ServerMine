@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:mauve_log"
+      "item": "biomeswevegone:ebony_log"
     },
     {
-      "item": "regions_unexplored:mauve_wood"
+      "item": "biomeswevegone:ebony_wood"
     },
     {
-      "item": "regions_unexplored:stripped_mauve_log"
+      "item": "biomeswevegone:stripped_ebony_log"
     },
     {
-      "item": "regions_unexplored:stripped_mauve_wood"
+      "item": "biomeswevegone:stripped_ebony_wood"
     }
   ],
   "result": {

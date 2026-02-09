@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "biomeswevegone:aspen_log"
+    },
+    {
+      "item": "biomeswevegone:aspen_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_aspen_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_aspen_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:wooden_shovel",
     "count": 1

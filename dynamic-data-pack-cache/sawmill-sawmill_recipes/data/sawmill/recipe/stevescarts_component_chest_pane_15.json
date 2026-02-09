@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:blackwood_planks"
+    "item": "productivetrees:sweetgum_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

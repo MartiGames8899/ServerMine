@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:white_poplar_log"
+      "item": "biomeswevegone:witch_hazel_log"
     },
     {
-      "item": "productivetrees:white_poplar_wood"
+      "item": "biomeswevegone:witch_hazel_wood"
     },
     {
-      "item": "productivetrees:white_poplar_stripped_log"
+      "item": "biomeswevegone:stripped_witch_hazel_log"
     },
     {
-      "item": "productivetrees:white_poplar_stripped_wood"
+      "item": "biomeswevegone:stripped_witch_hazel_wood"
     }
   ],
   "result": {

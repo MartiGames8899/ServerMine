@@ -1,13 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "naturesaura:ancient_log"
-    },
-    {
-      "item": "naturesaura:ancient_bark"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "minecraft:wooden_pickaxe",
     "count": 1

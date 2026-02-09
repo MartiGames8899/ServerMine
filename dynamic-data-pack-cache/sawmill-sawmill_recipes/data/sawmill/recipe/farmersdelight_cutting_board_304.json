@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cultivated_pear_log"
+      "item": "productivetrees:swamp_gum_log"
     },
     {
-      "item": "productivetrees:cultivated_pear_wood"
+      "item": "productivetrees:swamp_gum_wood"
     },
     {
-      "item": "productivetrees:cultivated_pear_stripped_log"
+      "item": "productivetrees:swamp_gum_stripped_log"
     },
     {
-      "item": "productivetrees:cultivated_pear_stripped_wood"
+      "item": "productivetrees:swamp_gum_stripped_wood"
     }
   ],
   "result": {

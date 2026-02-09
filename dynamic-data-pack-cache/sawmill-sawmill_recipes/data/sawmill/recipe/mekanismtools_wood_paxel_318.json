@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:hornbeam_log"
+      "item": "biomeswevegone:holly_log"
     },
     {
-      "item": "productivetrees:hornbeam_wood"
+      "item": "biomeswevegone:holly_wood"
     },
     {
-      "item": "productivetrees:hornbeam_stripped_log"
+      "item": "biomeswevegone:stripped_holly_log"
     },
     {
-      "item": "productivetrees:hornbeam_stripped_wood"
+      "item": "biomeswevegone:stripped_holly_wood"
     }
   ],
   "result": {

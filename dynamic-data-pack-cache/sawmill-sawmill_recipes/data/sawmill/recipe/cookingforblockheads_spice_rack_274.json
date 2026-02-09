@@ -1,22 +1,11 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "regions_unexplored:cypress_log"
-    },
-    {
-      "item": "regions_unexplored:cypress_wood"
-    },
-    {
-      "item": "regions_unexplored:stripped_cypress_log"
-    },
-    {
-      "item": "regions_unexplored:stripped_cypress_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "cookingforblockheads:spice_rack",
-    "count": 4
+    "count": 2
   },
   "type": "sawmill:woodcutting"
 }

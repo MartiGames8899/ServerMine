@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:cobalt_log"
+      "item": "productivetrees:lemon_log"
     },
     {
-      "item": "regions_unexplored:cobalt_wood"
+      "item": "productivetrees:lemon_wood"
     },
     {
-      "item": "regions_unexplored:stripped_cobalt_log"
+      "item": "productivetrees:lemon_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_cobalt_wood"
+      "item": "productivetrees:lemon_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

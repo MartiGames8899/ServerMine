@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:avocado_log"
+      "item": "productivetrees:pandanus_log"
     },
     {
-      "item": "productivetrees:avocado_wood"
+      "item": "productivetrees:pandanus_wood"
     },
     {
-      "item": "productivetrees:avocado_stripped_log"
+      "item": "productivetrees:pandanus_stripped_log"
     },
     {
-      "item": "productivetrees:avocado_stripped_wood"
+      "item": "productivetrees:pandanus_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:western_hemlock_log"
+      "item": "biomeswevegone:mahogany_log"
     },
     {
-      "item": "productivetrees:western_hemlock_wood"
+      "item": "biomeswevegone:mahogany_wood"
     },
     {
-      "item": "productivetrees:western_hemlock_stripped_log"
+      "item": "biomeswevegone:stripped_mahogany_log"
     },
     {
-      "item": "productivetrees:western_hemlock_stripped_wood"
+      "item": "biomeswevegone:stripped_mahogany_wood"
     }
   ],
   "result": {

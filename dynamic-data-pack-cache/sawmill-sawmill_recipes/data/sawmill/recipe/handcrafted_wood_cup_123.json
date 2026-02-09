@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:dark_planks"
+    "item": "regions_unexplored:green_bioshroom_planks"
   },
   "result": {
     "id": "handcrafted:wood_cup",

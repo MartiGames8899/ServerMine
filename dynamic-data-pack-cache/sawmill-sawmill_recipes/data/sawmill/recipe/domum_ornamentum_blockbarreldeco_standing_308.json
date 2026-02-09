@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "silentgear:netherwood_log"
+      "item": "biomeswevegone:ironwood_log"
     },
     {
-      "item": "silentgear:netherwood_wood"
+      "item": "biomeswevegone:ironwood_wood"
     },
     {
-      "item": "silentgear:stripped_netherwood_log"
+      "item": "biomeswevegone:stripped_ironwood_log"
     },
     {
-      "item": "silentgear:stripped_netherwood_wood"
+      "item": "biomeswevegone:stripped_ironwood_wood"
     }
   ],
   "result": {

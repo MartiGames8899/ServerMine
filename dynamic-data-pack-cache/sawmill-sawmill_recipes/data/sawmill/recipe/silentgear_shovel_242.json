@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:banana_log"
-    },
-    {
-      "item": "productivetrees:banana_wood"
-    },
-    {
-      "item": "productivetrees:banana_stripped_log"
-    },
-    {
-      "item": "productivetrees:banana_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "silentgear:shovel",
     "count": 1

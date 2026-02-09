@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:old_fustic_log"
+      "item": "regions_unexplored:yellow_bioshroom_stem"
     },
     {
-      "item": "productivetrees:old_fustic_wood"
+      "item": "regions_unexplored:yellow_bioshroom_hyphae"
     },
     {
-      "item": "productivetrees:old_fustic_stripped_log"
+      "item": "regions_unexplored:stripped_yellow_bioshroom_stem"
     },
     {
-      "item": "productivetrees:old_fustic_stripped_wood"
+      "item": "regions_unexplored:stripped_yellow_bioshroom_hyphae"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:persimmon_log"
+      "item": "biomeswevegone:jacaranda_log"
     },
     {
-      "item": "productivetrees:persimmon_wood"
+      "item": "biomeswevegone:jacaranda_wood"
     },
     {
-      "item": "productivetrees:persimmon_stripped_log"
+      "item": "biomeswevegone:stripped_jacaranda_log"
     },
     {
-      "item": "productivetrees:persimmon_stripped_wood"
+      "item": "biomeswevegone:stripped_jacaranda_wood"
     }
   ],
   "result": {

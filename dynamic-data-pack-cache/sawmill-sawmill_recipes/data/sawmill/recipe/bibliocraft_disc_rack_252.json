@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:sorting_log"
+      "item": "biomeswevegone:cika_log"
     },
     {
-      "item": "twilightforest:sorting_wood"
+      "item": "biomeswevegone:cika_wood"
     },
     {
-      "item": "twilightforest:stripped_sorting_log"
+      "item": "biomeswevegone:stripped_cika_log"
     },
     {
-      "item": "twilightforest:stripped_sorting_wood"
+      "item": "biomeswevegone:stripped_cika_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:eucalyptus_log"
+      "item": "productivetrees:cedar_log"
     },
     {
-      "item": "regions_unexplored:eucalyptus_wood"
+      "item": "productivetrees:cedar_wood"
     },
     {
-      "item": "regions_unexplored:stripped_eucalyptus_log"
+      "item": "productivetrees:cedar_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_eucalyptus_wood"
+      "item": "productivetrees:cedar_stripped_wood"
     }
   ],
   "result": {

@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "integrateddynamics:menril_log"
+      "item": "forbidden_arcanus:aurum_log"
     },
     {
-      "item": "integrateddynamics:menril_wood"
+      "item": "forbidden_arcanus:aurum_wood"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_aurum_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_aurum_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:pine_log"
+      "item": "biomeswevegone:palm_log"
     },
     {
-      "item": "biomeswevegone:pine_wood"
+      "item": "biomeswevegone:palm_wood"
     },
     {
-      "item": "biomeswevegone:stripped_pine_log"
+      "item": "biomeswevegone:stripped_palm_log"
     },
     {
-      "item": "biomeswevegone:stripped_pine_wood"
+      "item": "biomeswevegone:stripped_palm_wood"
     }
   ],
   "result": {

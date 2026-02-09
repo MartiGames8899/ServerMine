@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:aspen_planks"
+    "item": "regions_unexplored:larch_planks"
   },
   "result": {
     "id": "stevescarts:component_large_chest_pane",

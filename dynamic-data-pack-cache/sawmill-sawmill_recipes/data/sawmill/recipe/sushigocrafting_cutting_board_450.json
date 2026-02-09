@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:aurum_log"
+      "item": "regions_unexplored:brimwood_log"
     },
     {
-      "item": "forbidden_arcanus:aurum_wood"
+      "item": "regions_unexplored:brimwood_wood"
     },
     {
-      "item": "forbidden_arcanus:stripped_aurum_log"
+      "item": "regions_unexplored:stripped_brimwood_log"
     },
     {
-      "item": "forbidden_arcanus:stripped_aurum_wood"
+      "item": "regions_unexplored:stripped_brimwood_wood"
     }
   ],
   "result": {

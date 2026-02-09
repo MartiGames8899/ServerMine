@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:wigglewood_log"
+      "item": "biomeswevegone:sakura_log"
     },
     {
-      "item": "undergarden:wigglewood_wood"
+      "item": "biomeswevegone:sakura_wood"
     },
     {
-      "item": "undergarden:stripped_wigglewood_log"
+      "item": "biomeswevegone:stripped_sakura_log"
     },
     {
-      "item": "undergarden:stripped_wigglewood_wood"
+      "item": "biomeswevegone:stripped_sakura_wood"
     }
   ],
   "result": {

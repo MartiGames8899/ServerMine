@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:black_ember_log"
+      "item": "regions_unexplored:pine_log"
     },
     {
-      "item": "productivetrees:black_ember_wood"
+      "item": "regions_unexplored:pine_wood"
     },
     {
-      "item": "productivetrees:black_ember_stripped_log"
+      "item": "regions_unexplored:stripped_pine_log"
     },
     {
-      "item": "productivetrees:black_ember_stripped_wood"
+      "item": "regions_unexplored:stripped_pine_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:palm_log"
+      "item": "productivetrees:citron_log"
     },
     {
-      "item": "biomeswevegone:palm_wood"
+      "item": "productivetrees:citron_wood"
     },
     {
-      "item": "biomeswevegone:stripped_palm_log"
+      "item": "productivetrees:citron_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_palm_wood"
+      "item": "productivetrees:citron_stripped_wood"
     }
   ],
   "result": {

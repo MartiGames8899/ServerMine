@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:persimmon_log"
+      "item": "biomeswevegone:cika_log"
     },
     {
-      "item": "productivetrees:persimmon_wood"
+      "item": "biomeswevegone:cika_wood"
     },
     {
-      "item": "productivetrees:persimmon_stripped_log"
+      "item": "biomeswevegone:stripped_cika_log"
     },
     {
-      "item": "productivetrees:persimmon_stripped_wood"
+      "item": "biomeswevegone:stripped_cika_wood"
     }
   ],
   "result": {

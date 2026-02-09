@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:monkey_puzzle_log"
+      "item": "biomeswevegone:florus_stem"
     },
     {
-      "item": "productivetrees:monkey_puzzle_wood"
+      "item": "biomeswevegone:florus_wood"
     },
     {
-      "item": "productivetrees:monkey_puzzle_stripped_log"
+      "item": "biomeswevegone:stripped_florus_stem"
     },
     {
-      "item": "productivetrees:monkey_puzzle_stripped_wood"
+      "item": "biomeswevegone:stripped_florus_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

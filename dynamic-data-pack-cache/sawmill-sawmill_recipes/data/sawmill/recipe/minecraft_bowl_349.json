@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "undergarden:wigglewood_planks"
+    "item": "productivetrees:pistachio_planks"
   },
   "result": {
     "id": "minecraft:bowl",

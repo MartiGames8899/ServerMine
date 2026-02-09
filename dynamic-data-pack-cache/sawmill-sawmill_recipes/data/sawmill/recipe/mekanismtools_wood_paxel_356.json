@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:greenheart_log"
+    },
+    {
+      "item": "productivetrees:greenheart_wood"
+    },
+    {
+      "item": "productivetrees:greenheart_stripped_log"
+    },
+    {
+      "item": "productivetrees:greenheart_stripped_wood"
+    }
+  ],
   "result": {
     "id": "mekanismtools:wood_paxel",
     "count": 1

@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:mauve_planks"
+    "item": "productivetrees:pink_ipe_planks"
   },
   "result": {
     "id": "minecraft:bowl",
-    "count": 2
+    "count": 1
   },
   "type": "sawmill:woodcutting"
 }

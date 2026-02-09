@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "regions_unexplored:socotra_log"
-    },
-    {
-      "item": "regions_unexplored:socotra_wood"
-    },
-    {
-      "item": "regions_unexplored:stripped_socotra_log"
-    },
-    {
-      "item": "regions_unexplored:stripped_socotra_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "silentgear:hoe",
     "count": 1

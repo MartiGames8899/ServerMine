@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:witch_hazel_log"
+      "item": "regions_unexplored:yellow_bioshroom_stem"
     },
     {
-      "item": "biomeswevegone:witch_hazel_wood"
+      "item": "regions_unexplored:yellow_bioshroom_hyphae"
     },
     {
-      "item": "biomeswevegone:stripped_witch_hazel_log"
+      "item": "regions_unexplored:stripped_yellow_bioshroom_stem"
     },
     {
-      "item": "biomeswevegone:stripped_witch_hazel_wood"
+      "item": "regions_unexplored:stripped_yellow_bioshroom_hyphae"
     }
   ],
   "result": {

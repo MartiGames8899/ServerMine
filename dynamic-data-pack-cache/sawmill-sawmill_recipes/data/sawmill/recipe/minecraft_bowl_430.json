@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:ash_log"
+      "item": "eternal_starlight:jinglestem_log"
     },
     {
-      "item": "productivetrees:ash_wood"
+      "item": "eternal_starlight:jinglestem_wood"
     },
     {
-      "item": "productivetrees:ash_stripped_log"
+      "item": "eternal_starlight:stripped_jinglestem_log"
     },
     {
-      "item": "productivetrees:ash_stripped_wood"
+      "item": "eternal_starlight:stripped_jinglestem_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

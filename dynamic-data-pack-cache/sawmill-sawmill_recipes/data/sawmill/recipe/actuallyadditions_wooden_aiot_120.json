@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:magnolia_log"
+      "item": "eternal_starlight:northland_log"
     },
     {
-      "item": "regions_unexplored:magnolia_wood"
+      "item": "eternal_starlight:northland_wood"
     },
     {
-      "item": "regions_unexplored:stripped_magnolia_log"
+      "item": "eternal_starlight:stripped_northland_log"
     },
     {
-      "item": "regions_unexplored:stripped_magnolia_wood"
+      "item": "eternal_starlight:stripped_northland_wood"
     }
   ],
   "result": {

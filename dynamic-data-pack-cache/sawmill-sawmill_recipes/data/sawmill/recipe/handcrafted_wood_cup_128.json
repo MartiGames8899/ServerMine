@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "biomeswevegone:zelkova_log"
+    },
+    {
+      "item": "biomeswevegone:zelkova_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_zelkova_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_zelkova_wood"
+    }
+  ],
   "result": {
     "id": "handcrafted:wood_cup",
     "count": 8

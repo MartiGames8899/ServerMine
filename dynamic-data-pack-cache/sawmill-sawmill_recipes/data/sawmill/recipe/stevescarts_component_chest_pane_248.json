@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:larch_log"
+      "item": "productivetrees:citron_log"
     },
     {
-      "item": "regions_unexplored:larch_wood"
+      "item": "productivetrees:citron_wood"
     },
     {
-      "item": "regions_unexplored:stripped_larch_log"
+      "item": "productivetrees:citron_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_larch_wood"
+      "item": "productivetrees:citron_stripped_wood"
     }
   ],
   "result": {

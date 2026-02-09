@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:spirit_log"
+      "item": "productivetrees:cinnamon_log"
     },
     {
-      "item": "biomeswevegone:spirit_wood"
+      "item": "productivetrees:cinnamon_wood"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_log"
+      "item": "productivetrees:cinnamon_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_wood"
+      "item": "productivetrees:cinnamon_stripped_wood"
     }
   ],
   "result": {

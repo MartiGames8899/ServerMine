@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:slimy_delight_log"
+      "item": "productivetrees:water_wonder_log"
     },
     {
-      "item": "productivetrees:slimy_delight_wood"
+      "item": "productivetrees:water_wonder_wood"
     },
     {
-      "item": "productivetrees:slimy_delight_stripped_log"
+      "item": "productivetrees:water_wonder_stripped_log"
     },
     {
-      "item": "productivetrees:slimy_delight_stripped_wood"
+      "item": "productivetrees:water_wonder_stripped_wood"
     }
   ],
   "result": {

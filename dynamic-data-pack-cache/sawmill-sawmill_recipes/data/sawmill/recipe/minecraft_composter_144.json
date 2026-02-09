@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:flowering_crabapple_log"
+    },
+    {
+      "item": "productivetrees:flowering_crabapple_wood"
+    },
+    {
+      "item": "productivetrees:flowering_crabapple_stripped_log"
+    },
+    {
+      "item": "productivetrees:flowering_crabapple_stripped_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:composter",
     "count": 1

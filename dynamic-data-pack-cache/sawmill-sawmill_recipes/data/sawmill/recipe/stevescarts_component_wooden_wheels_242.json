@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:warped_stem"
+      "item": "regions_unexplored:blue_bioshroom_stem"
     },
     {
-      "item": "minecraft:warped_hyphae"
+      "item": "regions_unexplored:blue_bioshroom_hyphae"
     },
     {
-      "item": "minecraft:stripped_warped_stem"
+      "item": "regions_unexplored:stripped_blue_bioshroom_stem"
     },
     {
-      "item": "minecraft:stripped_warped_hyphae"
+      "item": "regions_unexplored:stripped_blue_bioshroom_hyphae"
     }
   ],
   "result": {

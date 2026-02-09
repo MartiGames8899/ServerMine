@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:yellow_bioshroom_stem"
+      "item": "twilightforest:dark_log"
     },
     {
-      "item": "regions_unexplored:yellow_bioshroom_hyphae"
+      "item": "twilightforest:dark_wood"
     },
     {
-      "item": "regions_unexplored:stripped_yellow_bioshroom_stem"
+      "item": "twilightforest:stripped_dark_log"
     },
     {
-      "item": "regions_unexplored:stripped_yellow_bioshroom_hyphae"
+      "item": "twilightforest:stripped_dark_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "aether:skyroot_log"
+      "item": "eternal_starlight:torreya_log"
     },
     {
-      "item": "aether:skyroot_wood"
+      "item": "eternal_starlight:torreya_wood"
     },
     {
-      "item": "aether:stripped_skyroot_log"
+      "item": "eternal_starlight:stripped_torreya_log"
     },
     {
-      "item": "aether:stripped_skyroot_wood"
+      "item": "eternal_starlight:stripped_torreya_wood"
     }
   ],
   "result": {

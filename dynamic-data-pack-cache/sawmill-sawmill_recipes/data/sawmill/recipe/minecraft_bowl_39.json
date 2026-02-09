@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "evilcraft:undead_planks"
+    "item": "productivetrees:yew_planks"
   },
   "result": {
     "id": "minecraft:bowl",
-    "count": 1
+    "count": 2
   },
   "type": "sawmill:woodcutting"
 }

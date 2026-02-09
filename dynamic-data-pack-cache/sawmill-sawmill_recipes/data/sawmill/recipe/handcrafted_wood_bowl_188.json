@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:spirit_log"
+      "item": "biomeswevegone:cika_log"
     },
     {
-      "item": "biomeswevegone:spirit_wood"
+      "item": "biomeswevegone:cika_wood"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_log"
+      "item": "biomeswevegone:stripped_cika_log"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_wood"
+      "item": "biomeswevegone:stripped_cika_wood"
     }
   ],
   "result": {

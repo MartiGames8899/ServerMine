@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:satsuma_log"
+      "item": "biomeswevegone:willow_log"
     },
     {
-      "item": "productivetrees:satsuma_wood"
+      "item": "biomeswevegone:willow_wood"
     },
     {
-      "item": "productivetrees:satsuma_stripped_log"
+      "item": "biomeswevegone:stripped_willow_log"
     },
     {
-      "item": "productivetrees:satsuma_stripped_wood"
+      "item": "biomeswevegone:stripped_willow_wood"
     }
   ],
   "result": {

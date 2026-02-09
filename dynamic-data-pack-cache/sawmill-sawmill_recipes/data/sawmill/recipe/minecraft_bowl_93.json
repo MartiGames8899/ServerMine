@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:padauk_planks"
+    "item": "eternal_starlight:northland_planks"
   },
   "result": {
     "id": "minecraft:bowl",

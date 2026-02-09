@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "regions_unexplored:eucalyptus_log"
+    },
+    {
+      "item": "regions_unexplored:eucalyptus_wood"
+    },
+    {
+      "item": "regions_unexplored:stripped_eucalyptus_log"
+    },
+    {
+      "item": "regions_unexplored:stripped_eucalyptus_wood"
+    }
+  ],
   "result": {
     "id": "bibliocraft:disc_rack",
     "count": 2

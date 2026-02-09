@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:golden_delicious_apple_log"
+      "item": "biomeswevegone:sakura_log"
     },
     {
-      "item": "productivetrees:golden_delicious_apple_wood"
+      "item": "biomeswevegone:sakura_wood"
     },
     {
-      "item": "productivetrees:golden_delicious_apple_stripped_log"
+      "item": "biomeswevegone:stripped_sakura_log"
     },
     {
-      "item": "productivetrees:golden_delicious_apple_stripped_wood"
+      "item": "biomeswevegone:stripped_sakura_wood"
     }
   ],
   "result": {

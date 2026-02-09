@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:grapefruit_log"
+      "item": "biomeswevegone:aspen_log"
     },
     {
-      "item": "productivetrees:grapefruit_wood"
+      "item": "biomeswevegone:aspen_wood"
     },
     {
-      "item": "productivetrees:grapefruit_stripped_log"
+      "item": "biomeswevegone:stripped_aspen_log"
     },
     {
-      "item": "productivetrees:grapefruit_stripped_wood"
+      "item": "biomeswevegone:stripped_aspen_wood"
     }
   ],
   "result": {

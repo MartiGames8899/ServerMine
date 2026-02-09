@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:firecracker_log"
+      "item": "productivetrees:logwood_log"
     },
     {
-      "item": "productivetrees:firecracker_wood"
+      "item": "productivetrees:logwood_wood"
     },
     {
-      "item": "productivetrees:firecracker_stripped_log"
+      "item": "productivetrees:logwood_stripped_log"
     },
     {
-      "item": "productivetrees:firecracker_stripped_wood"
+      "item": "productivetrees:logwood_stripped_wood"
     }
   ],
   "result": {

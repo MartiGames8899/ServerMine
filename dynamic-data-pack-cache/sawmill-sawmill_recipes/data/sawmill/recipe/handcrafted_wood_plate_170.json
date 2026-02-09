@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:time_log"
+      "item": "biomeswevegone:pine_log"
     },
     {
-      "item": "twilightforest:time_wood"
+      "item": "biomeswevegone:pine_wood"
     },
     {
-      "item": "twilightforest:stripped_time_log"
+      "item": "biomeswevegone:stripped_pine_log"
     },
     {
-      "item": "twilightforest:stripped_time_wood"
+      "item": "biomeswevegone:stripped_pine_wood"
     }
   ],
   "result": {

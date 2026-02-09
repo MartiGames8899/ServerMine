@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:echo_log"
+      "item": "twilightforest:twilight_oak_log"
     },
     {
-      "item": "deeperdarker:echo_wood"
+      "item": "twilightforest:twilight_oak_wood"
     },
     {
-      "item": "deeperdarker:stripped_echo_log"
+      "item": "twilightforest:stripped_twilight_oak_log"
     },
     {
-      "item": "deeperdarker:stripped_echo_wood"
+      "item": "twilightforest:stripped_twilight_oak_wood"
     }
   ],
   "result": {

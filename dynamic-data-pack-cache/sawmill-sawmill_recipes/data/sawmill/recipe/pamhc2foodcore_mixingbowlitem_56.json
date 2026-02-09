@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sweetgum_log"
+      "item": "biomeswevegone:cypress_log"
     },
     {
-      "item": "productivetrees:sweetgum_wood"
+      "item": "biomeswevegone:cypress_wood"
     },
     {
-      "item": "productivetrees:sweetgum_stripped_log"
+      "item": "biomeswevegone:stripped_cypress_log"
     },
     {
-      "item": "productivetrees:sweetgum_stripped_wood"
+      "item": "biomeswevegone:stripped_cypress_wood"
     }
   ],
   "result": {

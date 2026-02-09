@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:redwood_log"
+      "item": "productivetrees:monkey_puzzle_log"
     },
     {
-      "item": "biomeswevegone:redwood_wood"
+      "item": "productivetrees:monkey_puzzle_wood"
     },
     {
-      "item": "biomeswevegone:stripped_redwood_log"
+      "item": "productivetrees:monkey_puzzle_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_redwood_wood"
+      "item": "productivetrees:monkey_puzzle_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "silentgear:netherwood_log"
+      "item": "regions_unexplored:green_bioshroom_stem"
     },
     {
-      "item": "silentgear:netherwood_wood"
+      "item": "regions_unexplored:green_bioshroom_hyphae"
     },
     {
-      "item": "silentgear:stripped_netherwood_log"
+      "item": "regions_unexplored:stripped_green_bioshroom_stem"
     },
     {
-      "item": "silentgear:stripped_netherwood_wood"
+      "item": "regions_unexplored:stripped_green_bioshroom_hyphae"
     }
   ],
   "result": {

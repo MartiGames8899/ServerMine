@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:spirit_log"
+      "item": "biomeswevegone:florus_stem"
     },
     {
-      "item": "biomeswevegone:spirit_wood"
+      "item": "biomeswevegone:florus_wood"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_log"
+      "item": "biomeswevegone:stripped_florus_stem"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_wood"
+      "item": "biomeswevegone:stripped_florus_wood"
     }
   ],
   "result": {

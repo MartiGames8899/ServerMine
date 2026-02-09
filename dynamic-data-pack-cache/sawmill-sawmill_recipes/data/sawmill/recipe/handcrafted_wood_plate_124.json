@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:blooming_stem"
+      "item": "regions_unexplored:palm_log"
     },
     {
-      "item": "deeperdarker:stripped_blooming_stem"
+      "item": "regions_unexplored:palm_wood"
+    },
+    {
+      "item": "regions_unexplored:stripped_palm_log"
+    },
+    {
+      "item": "regions_unexplored:stripped_palm_wood"
     }
   ],
   "result": {

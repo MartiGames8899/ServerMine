@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:crimson_stem"
+      "item": "biomeswevegone:blue_enchanted_log"
     },
     {
-      "item": "minecraft:crimson_hyphae"
+      "item": "biomeswevegone:blue_enchanted_wood"
     },
     {
-      "item": "minecraft:stripped_crimson_stem"
+      "item": "biomeswevegone:stripped_blue_enchanted_log"
     },
     {
-      "item": "minecraft:stripped_crimson_hyphae"
+      "item": "biomeswevegone:stripped_blue_enchanted_wood"
     }
   ],
   "result": {

@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "integrateddynamics:menril_log"
+      "item": "undergarden:grongle_log"
     },
     {
-      "item": "integrateddynamics:menril_wood"
+      "item": "undergarden:grongle_wood"
+    },
+    {
+      "item": "undergarden:stripped_grongle_log"
+    },
+    {
+      "item": "undergarden:stripped_grongle_wood"
     }
   ],
   "result": {

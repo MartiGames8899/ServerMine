@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "minecraft:birch_log"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "minecraft:birch_wood"
+    },
+    {
+      "item": "minecraft:stripped_birch_log"
+    },
+    {
+      "item": "minecraft:stripped_birch_wood"
     }
   ],
   "result": {

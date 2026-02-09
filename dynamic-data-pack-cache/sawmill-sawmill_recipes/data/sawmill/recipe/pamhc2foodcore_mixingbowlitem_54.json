@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:mauve_log"
+      "item": "allthemodium:demonic_log"
     },
     {
-      "item": "regions_unexplored:mauve_wood"
-    },
-    {
-      "item": "regions_unexplored:stripped_mauve_log"
-    },
-    {
-      "item": "regions_unexplored:stripped_mauve_wood"
+      "item": "allthemodium:stripped_demonic_log"
     }
   ],
   "result": {

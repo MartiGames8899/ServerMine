@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:mangrove_planks"
+    "item": "eternal_starlight:cradlewood_planks"
   },
   "result": {
     "id": "minecraft:bowl",

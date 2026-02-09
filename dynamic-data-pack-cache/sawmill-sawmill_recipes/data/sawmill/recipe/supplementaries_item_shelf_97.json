@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:eucalyptus_planks"
+    "item": "minecraft:crimson_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

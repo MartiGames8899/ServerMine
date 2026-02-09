@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:grapefruit_log"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "productivetrees:grapefruit_wood"
+      "item": "deeperdarker:echo_wood"
     },
     {
-      "item": "productivetrees:grapefruit_stripped_log"
+      "item": "deeperdarker:stripped_echo_log"
     },
     {
-      "item": "productivetrees:grapefruit_stripped_wood"
+      "item": "deeperdarker:stripped_echo_wood"
     }
   ],
   "result": {

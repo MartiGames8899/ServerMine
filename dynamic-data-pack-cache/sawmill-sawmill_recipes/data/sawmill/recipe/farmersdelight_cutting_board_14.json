@@ -2,21 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:blackwood_log"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "regions_unexplored:blackwood_wood"
-    },
-    {
-      "item": "regions_unexplored:stripped_blackwood_log"
-    },
-    {
-      "item": "regions_unexplored:stripped_blackwood_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {
     "id": "farmersdelight:cutting_board",
     "count": 1
   },
+  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

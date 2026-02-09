@@ -2,22 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:date_palm_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "productivetrees:date_palm_wood"
-    },
-    {
-      "item": "productivetrees:date_palm_stripped_log"
-    },
-    {
-      "item": "productivetrees:date_palm_stripped_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "stevescarts:module_wooden_hull",
     "count": 1
   },
-  "ingredient_count": 3,
+  "ingredient_count": 5,
   "type": "sawmill:woodcutting"
 }

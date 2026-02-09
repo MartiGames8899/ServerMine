@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:starlight_mangrove_planks"
+    "item": "undergarden:wigglewood_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

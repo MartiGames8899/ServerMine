@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:spirit_log"
+      "item": "productivetrees:western_hemlock_log"
     },
     {
-      "item": "biomeswevegone:spirit_wood"
+      "item": "productivetrees:western_hemlock_wood"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_log"
+      "item": "productivetrees:western_hemlock_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_wood"
+      "item": "productivetrees:western_hemlock_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:yellow_meranti_log"
+      "item": "biomeswevegone:ironwood_log"
     },
     {
-      "item": "productivetrees:yellow_meranti_wood"
+      "item": "biomeswevegone:ironwood_wood"
     },
     {
-      "item": "productivetrees:yellow_meranti_stripped_log"
+      "item": "biomeswevegone:stripped_ironwood_log"
     },
     {
-      "item": "productivetrees:yellow_meranti_stripped_wood"
+      "item": "biomeswevegone:stripped_ironwood_wood"
     }
   ],
   "result": {

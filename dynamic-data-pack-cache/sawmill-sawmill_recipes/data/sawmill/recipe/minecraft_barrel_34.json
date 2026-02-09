@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:starlight_mangrove_log"
+      "item": "eternal_starlight:jinglestem_log"
     },
     {
-      "item": "eternal_starlight:starlight_mangrove_wood"
+      "item": "eternal_starlight:jinglestem_wood"
     },
     {
-      "item": "eternal_starlight:stripped_starlight_mangrove_log"
+      "item": "eternal_starlight:stripped_jinglestem_log"
     },
     {
-      "item": "eternal_starlight:stripped_starlight_mangrove_wood"
+      "item": "eternal_starlight:stripped_jinglestem_wood"
     }
   ],
   "result": {

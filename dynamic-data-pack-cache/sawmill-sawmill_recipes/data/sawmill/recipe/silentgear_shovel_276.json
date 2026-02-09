@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "silentgear:netherwood_log"
+      "item": "productivetrees:zebrano_log"
     },
     {
-      "item": "silentgear:netherwood_wood"
+      "item": "productivetrees:zebrano_wood"
     },
     {
-      "item": "silentgear:stripped_netherwood_log"
+      "item": "productivetrees:zebrano_stripped_log"
     },
     {
-      "item": "silentgear:stripped_netherwood_wood"
+      "item": "productivetrees:zebrano_stripped_wood"
     }
   ],
   "result": {

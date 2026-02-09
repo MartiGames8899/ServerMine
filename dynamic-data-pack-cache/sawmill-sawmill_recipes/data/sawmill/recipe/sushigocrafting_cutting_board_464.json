@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:zelkova_log"
+      "item": "productivetrees:firecracker_log"
     },
     {
-      "item": "biomeswevegone:zelkova_wood"
+      "item": "productivetrees:firecracker_wood"
     },
     {
-      "item": "biomeswevegone:stripped_zelkova_log"
+      "item": "productivetrees:firecracker_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_zelkova_wood"
+      "item": "productivetrees:firecracker_stripped_wood"
     }
   ],
   "result": {

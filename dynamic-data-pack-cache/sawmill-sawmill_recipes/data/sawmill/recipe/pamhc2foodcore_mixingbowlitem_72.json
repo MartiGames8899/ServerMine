@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "eternal_starlight:jinglestem_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "eternal_starlight:jinglestem_wood"
+    },
+    {
+      "item": "eternal_starlight:stripped_jinglestem_log"
+    },
+    {
+      "item": "eternal_starlight:stripped_jinglestem_wood"
     }
   ],
   "result": {

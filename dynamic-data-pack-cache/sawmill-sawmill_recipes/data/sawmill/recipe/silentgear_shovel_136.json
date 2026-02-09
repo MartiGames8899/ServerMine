@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:great_sallow_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:great_sallow_wood"
-    },
-    {
-      "item": "productivetrees:great_sallow_stripped_log"
-    },
-    {
-      "item": "productivetrees:great_sallow_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

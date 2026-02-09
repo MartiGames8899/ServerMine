@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "biomeswevegone:baobab_log"
-    },
-    {
-      "item": "biomeswevegone:baobab_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_baobab_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_baobab_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "minecraft:composter",
     "count": 1

@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:smogstem_log"
+      "item": "forbidden_arcanus:fungyss_stem"
     },
     {
-      "item": "undergarden:smogstem_wood"
-    },
-    {
-      "item": "undergarden:stripped_smogstem_log"
-    },
-    {
-      "item": "undergarden:stripped_smogstem_wood"
+      "item": "forbidden_arcanus:fungyss_hyphae"
     }
   ],
   "result": {

@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pomegranate_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:pomegranate_wood"
-    },
-    {
-      "item": "productivetrees:pomegranate_stripped_log"
-    },
-    {
-      "item": "productivetrees:pomegranate_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

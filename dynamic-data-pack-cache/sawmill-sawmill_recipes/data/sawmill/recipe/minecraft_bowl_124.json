@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:mining_log"
+      "item": "regions_unexplored:palm_log"
     },
     {
-      "item": "twilightforest:mining_wood"
+      "item": "regions_unexplored:palm_wood"
     },
     {
-      "item": "twilightforest:stripped_mining_log"
+      "item": "regions_unexplored:stripped_palm_log"
     },
     {
-      "item": "twilightforest:stripped_mining_wood"
+      "item": "regions_unexplored:stripped_palm_wood"
     }
   ],
   "result": {

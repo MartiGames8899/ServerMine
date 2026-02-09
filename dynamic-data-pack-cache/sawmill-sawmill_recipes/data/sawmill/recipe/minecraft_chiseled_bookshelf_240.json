@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:larch_log"
+      "item": "productivetrees:cultivated_pear_log"
     },
     {
-      "item": "regions_unexplored:larch_wood"
+      "item": "productivetrees:cultivated_pear_wood"
     },
     {
-      "item": "regions_unexplored:stripped_larch_log"
+      "item": "productivetrees:cultivated_pear_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_larch_wood"
+      "item": "productivetrees:cultivated_pear_stripped_wood"
     }
   ],
   "result": {

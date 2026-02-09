@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:socotra_dragon_planks"
+    "item": "productivetrees:silver_lime_planks"
   },
   "result": {
     "id": "minecraft:bowl",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:magnolia_log"
+      "item": "productivetrees:kapok_log"
     },
     {
-      "item": "regions_unexplored:magnolia_wood"
+      "item": "productivetrees:kapok_wood"
     },
     {
-      "item": "regions_unexplored:stripped_magnolia_log"
+      "item": "productivetrees:kapok_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_magnolia_wood"
+      "item": "productivetrees:kapok_stripped_wood"
     }
   ],
   "result": {

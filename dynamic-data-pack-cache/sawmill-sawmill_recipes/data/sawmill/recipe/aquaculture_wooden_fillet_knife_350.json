@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "productivetrees:rippling_willow_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "productivetrees:rippling_willow_wood"
+    },
+    {
+      "item": "productivetrees:rippling_willow_stripped_log"
+    },
+    {
+      "item": "productivetrees:rippling_willow_stripped_wood"
     }
   ],
   "result": {

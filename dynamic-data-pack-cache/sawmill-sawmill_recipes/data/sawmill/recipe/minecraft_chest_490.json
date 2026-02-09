@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:grongle_log"
+      "item": "biomeswevegone:baobab_log"
     },
     {
-      "item": "undergarden:grongle_wood"
+      "item": "biomeswevegone:baobab_wood"
     },
     {
-      "item": "undergarden:stripped_grongle_log"
+      "item": "biomeswevegone:stripped_baobab_log"
     },
     {
-      "item": "undergarden:stripped_grongle_wood"
+      "item": "biomeswevegone:stripped_baobab_wood"
     }
   ],
   "result": {

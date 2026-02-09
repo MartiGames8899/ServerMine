@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:star_anise_log"
+      "item": "minecraft:warped_stem"
     },
     {
-      "item": "productivetrees:star_anise_wood"
+      "item": "minecraft:warped_hyphae"
     },
     {
-      "item": "productivetrees:star_anise_stripped_log"
+      "item": "minecraft:stripped_warped_stem"
     },
     {
-      "item": "productivetrees:star_anise_stripped_wood"
+      "item": "minecraft:stripped_warped_hyphae"
     }
   ],
   "result": {

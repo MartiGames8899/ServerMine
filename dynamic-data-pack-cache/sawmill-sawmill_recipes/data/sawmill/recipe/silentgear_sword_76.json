@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:lime_log"
+      "item": "biomeswevegone:sakura_log"
     },
     {
-      "item": "productivetrees:lime_wood"
+      "item": "biomeswevegone:sakura_wood"
     },
     {
-      "item": "productivetrees:lime_stripped_log"
+      "item": "biomeswevegone:stripped_sakura_log"
     },
     {
-      "item": "productivetrees:lime_stripped_wood"
+      "item": "biomeswevegone:stripped_sakura_wood"
     }
   ],
   "result": {

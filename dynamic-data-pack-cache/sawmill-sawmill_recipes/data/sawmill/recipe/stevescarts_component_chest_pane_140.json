@@ -2,15 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "biomeswevegone:fir_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "biomeswevegone:fir_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_fir_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_fir_wood"
     }
   ],
   "result": {
     "id": "stevescarts:component_chest_pane",
-    "count": 7
+    "count": 10
   },
   "type": "sawmill:woodcutting"
 }

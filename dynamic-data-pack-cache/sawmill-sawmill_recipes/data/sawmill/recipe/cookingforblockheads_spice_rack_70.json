@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:elderberry_log"
+      "item": "biomeswevegone:spirit_log"
     },
     {
-      "item": "productivetrees:elderberry_wood"
+      "item": "biomeswevegone:spirit_wood"
     },
     {
-      "item": "productivetrees:elderberry_stripped_log"
+      "item": "biomeswevegone:stripped_spirit_log"
     },
     {
-      "item": "productivetrees:elderberry_stripped_wood"
+      "item": "biomeswevegone:stripped_spirit_wood"
     }
   ],
   "result": {

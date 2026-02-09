@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rowan_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:rowan_wood"
-    },
-    {
-      "item": "productivetrees:rowan_stripped_log"
-    },
-    {
-      "item": "productivetrees:rowan_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

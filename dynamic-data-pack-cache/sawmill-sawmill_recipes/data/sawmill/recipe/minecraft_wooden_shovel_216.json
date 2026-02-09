@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "productivetrees:sweetgum_log"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "productivetrees:sweetgum_wood"
+    },
+    {
+      "item": "productivetrees:sweetgum_stripped_log"
+    },
+    {
+      "item": "productivetrees:sweetgum_stripped_wood"
     }
   ],
   "result": {

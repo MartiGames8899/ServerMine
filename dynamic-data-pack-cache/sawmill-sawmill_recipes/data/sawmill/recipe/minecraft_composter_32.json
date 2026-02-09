@@ -2,10 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "integrateddynamics:menril_log"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "integrateddynamics:menril_wood"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

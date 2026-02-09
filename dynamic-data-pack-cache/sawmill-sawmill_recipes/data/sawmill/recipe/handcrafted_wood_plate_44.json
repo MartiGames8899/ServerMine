@@ -2,21 +2,15 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:echo_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "deeperdarker:echo_wood"
-    },
-    {
-      "item": "deeperdarker:stripped_echo_log"
-    },
-    {
-      "item": "deeperdarker:stripped_echo_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "handcrafted:wood_plate",
-    "count": 8
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

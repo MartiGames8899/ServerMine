@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:redwood_planks"
+    "item": "productivetrees:yew_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

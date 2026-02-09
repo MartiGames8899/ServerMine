@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:redwood_log"
+      "item": "productivetrees:beliy_naliv_apple_log"
     },
     {
-      "item": "biomeswevegone:redwood_wood"
+      "item": "productivetrees:beliy_naliv_apple_wood"
     },
     {
-      "item": "biomeswevegone:stripped_redwood_log"
+      "item": "productivetrees:beliy_naliv_apple_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_redwood_wood"
+      "item": "productivetrees:beliy_naliv_apple_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

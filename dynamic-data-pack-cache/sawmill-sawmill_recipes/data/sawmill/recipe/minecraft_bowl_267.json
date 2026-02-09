@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:ironwood_planks"
+    "item": "productivetrees:monkey_puzzle_planks"
   },
   "result": {
     "id": "minecraft:bowl",
