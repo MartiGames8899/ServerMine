@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "twilightforest:transformation_log"
-    },
-    {
-      "item": "twilightforest:transformation_wood"
-    },
-    {
-      "item": "twilightforest:stripped_transformation_log"
-    },
-    {
-      "item": "twilightforest:stripped_transformation_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "handcrafted:wood_cup",
     "count": 8

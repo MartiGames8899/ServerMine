@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:smogstem_log"
+      "item": "biomeswevegone:white_mangrove_log"
     },
     {
-      "item": "undergarden:smogstem_wood"
+      "item": "biomeswevegone:white_mangrove_wood"
     },
     {
-      "item": "undergarden:stripped_smogstem_log"
+      "item": "biomeswevegone:stripped_white_mangrove_log"
     },
     {
-      "item": "undergarden:stripped_smogstem_wood"
+      "item": "biomeswevegone:stripped_white_mangrove_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:green_bioshroom_stem"
+      "item": "biomeswevegone:aspen_log"
     },
     {
-      "item": "regions_unexplored:green_bioshroom_hyphae"
+      "item": "biomeswevegone:aspen_wood"
     },
     {
-      "item": "regions_unexplored:stripped_green_bioshroom_stem"
+      "item": "biomeswevegone:stripped_aspen_log"
     },
     {
-      "item": "regions_unexplored:stripped_green_bioshroom_hyphae"
+      "item": "biomeswevegone:stripped_aspen_wood"
     }
   ],
   "result": {

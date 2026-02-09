@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:key_lime_log"
+      "item": "regions_unexplored:mauve_log"
     },
     {
-      "item": "productivetrees:key_lime_wood"
+      "item": "regions_unexplored:mauve_wood"
     },
     {
-      "item": "productivetrees:key_lime_stripped_log"
+      "item": "regions_unexplored:stripped_mauve_log"
     },
     {
-      "item": "productivetrees:key_lime_stripped_wood"
+      "item": "regions_unexplored:stripped_mauve_wood"
     }
   ],
   "result": {

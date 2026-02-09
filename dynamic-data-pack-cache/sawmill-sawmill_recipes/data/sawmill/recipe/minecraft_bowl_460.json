@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:balsa_log"
+      "item": "biomeswevegone:maple_log"
     },
     {
-      "item": "productivetrees:balsa_wood"
+      "item": "biomeswevegone:maple_wood"
     },
     {
-      "item": "productivetrees:balsa_stripped_log"
+      "item": "biomeswevegone:stripped_maple_log"
     },
     {
-      "item": "productivetrees:balsa_stripped_wood"
+      "item": "biomeswevegone:stripped_maple_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

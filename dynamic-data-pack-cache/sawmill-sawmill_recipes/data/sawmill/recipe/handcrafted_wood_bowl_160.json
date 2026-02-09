@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:cradlewood_log"
+      "item": "regions_unexplored:mauve_log"
     },
     {
-      "item": "eternal_starlight:cradlewood_wood"
+      "item": "regions_unexplored:mauve_wood"
     },
     {
-      "item": "eternal_starlight:stripped_cradlewood_log"
+      "item": "regions_unexplored:stripped_mauve_log"
     },
     {
-      "item": "eternal_starlight:stripped_cradlewood_wood"
+      "item": "regions_unexplored:stripped_mauve_wood"
     }
   ],
   "result": {

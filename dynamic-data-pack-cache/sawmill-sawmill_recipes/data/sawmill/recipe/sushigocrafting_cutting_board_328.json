@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:breadfruit_log"
+      "item": "twilightforest:canopy_log"
     },
     {
-      "item": "productivetrees:breadfruit_wood"
+      "item": "twilightforest:canopy_wood"
     },
     {
-      "item": "productivetrees:breadfruit_stripped_log"
+      "item": "twilightforest:stripped_canopy_log"
     },
     {
-      "item": "productivetrees:breadfruit_stripped_wood"
+      "item": "twilightforest:stripped_canopy_wood"
     }
   ],
   "result": {

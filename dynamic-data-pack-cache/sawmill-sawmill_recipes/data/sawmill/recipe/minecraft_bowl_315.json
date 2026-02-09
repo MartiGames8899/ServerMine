@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:eucalyptus_planks"
+    "item": "productivetrees:yew_planks"
   },
   "result": {
     "id": "minecraft:bowl",
-    "count": 2
+    "count": 1
   },
   "type": "sawmill:woodcutting"
 }

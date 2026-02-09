@@ -1,12 +1,23 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "cataclysm:chorus_stem"
-  },
+  "ingredient": [
+    {
+      "item": "twilightforest:canopy_log"
+    },
+    {
+      "item": "twilightforest:canopy_wood"
+    },
+    {
+      "item": "twilightforest:stripped_canopy_log"
+    },
+    {
+      "item": "twilightforest:stripped_canopy_wood"
+    }
+  ],
   "result": {
     "id": "mekanismtools:wood_paxel",
     "count": 1
   },
-  "ingredient_count": 4,
+  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

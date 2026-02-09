@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:palm_log"
+      "item": "aether:skyroot_log"
     },
     {
-      "item": "regions_unexplored:palm_wood"
+      "item": "aether:skyroot_wood"
     },
     {
-      "item": "regions_unexplored:stripped_palm_log"
+      "item": "aether:stripped_skyroot_log"
     },
     {
-      "item": "regions_unexplored:stripped_palm_wood"
+      "item": "aether:stripped_skyroot_wood"
     }
   ],
   "result": {

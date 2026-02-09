@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:aurum_log"
+      "item": "allthemodium:soul_log"
     },
     {
-      "item": "forbidden_arcanus:aurum_wood"
-    },
-    {
-      "item": "forbidden_arcanus:stripped_aurum_log"
-    },
-    {
-      "item": "forbidden_arcanus:stripped_aurum_wood"
+      "item": "allthemodium:stripped_soul_log"
     }
   ],
   "result": {

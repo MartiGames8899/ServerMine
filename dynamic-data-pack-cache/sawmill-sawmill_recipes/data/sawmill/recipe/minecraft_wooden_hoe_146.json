@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:white_mangrove_log"
+      "item": "regions_unexplored:green_bioshroom_stem"
     },
     {
-      "item": "biomeswevegone:white_mangrove_wood"
+      "item": "regions_unexplored:green_bioshroom_hyphae"
     },
     {
-      "item": "biomeswevegone:stripped_white_mangrove_log"
+      "item": "regions_unexplored:stripped_green_bioshroom_stem"
     },
     {
-      "item": "biomeswevegone:stripped_white_mangrove_wood"
+      "item": "regions_unexplored:stripped_green_bioshroom_hyphae"
     }
   ],
   "result": {

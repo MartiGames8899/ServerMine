@@ -1,5 +1,5 @@
 @echo off
-set NEOFORGE_VERSION=21.1.219
+set NEOFORGE_VERSION=21.1.215
 :: To use a specific Java runtime, set an environment variable named ATM10_JAVA to the full path of java.exe.
 :: To disable automatic restarts, set an environment variable named ATM10_RESTART to false.
 :: To install the pack without starting the server, set an environment variable named ATM10_INSTALL_ONLY to true.
@@ -53,15 +53,7 @@ if not %jver% geq 21  (
 ) 
 
 :START
-echo Executando Git Pull...
-git pull origin main
-
 "%ATM10_JAVA%" @user_jvm_args.txt @libraries\net\neoforged\neoforge\%NEOFORGE_VERSION%\win_args.txt nogui
-
-echo Executando Git Push...
-git add .
-git commit -m "Backup automatico ao parar servidor"
-git push origin main
 
 if "%ATM10_RESTART%" == "false" ( 
     goto:EOF 

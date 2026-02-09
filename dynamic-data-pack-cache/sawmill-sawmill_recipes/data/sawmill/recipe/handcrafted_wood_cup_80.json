@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:clove_log"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "productivetrees:clove_wood"
-    },
-    {
-      "item": "productivetrees:clove_stripped_log"
-    },
-    {
-      "item": "productivetrees:clove_stripped_wood"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

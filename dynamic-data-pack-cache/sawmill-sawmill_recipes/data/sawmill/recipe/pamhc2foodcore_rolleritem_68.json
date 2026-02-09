@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "twilightforest:sorting_log"
+    },
+    {
+      "item": "twilightforest:sorting_wood"
+    },
+    {
+      "item": "twilightforest:stripped_sorting_log"
+    },
+    {
+      "item": "twilightforest:stripped_sorting_wood"
+    }
+  ],
   "result": {
     "id": "pamhc2foodcore:rolleritem",
     "count": 1

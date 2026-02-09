@@ -1,23 +1,12 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "regions_unexplored:dead_log"
-    },
-    {
-      "item": "regions_unexplored:dead_wood"
-    },
-    {
-      "item": "regions_unexplored:stripped_dead_log"
-    },
-    {
-      "item": "regions_unexplored:stripped_dead_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
   "result": {
     "id": "actuallyadditions:wooden_aiot",
     "count": 1
   },
-  "ingredient_count": 3,
+  "ingredient_count": 6,
   "type": "sawmill:woodcutting"
 }

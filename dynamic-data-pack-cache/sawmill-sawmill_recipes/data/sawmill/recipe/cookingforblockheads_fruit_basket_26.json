@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:mandarin_log"
+      "item": "productivetrees:allspice_log"
     },
     {
-      "item": "productivetrees:mandarin_wood"
+      "item": "productivetrees:allspice_wood"
     },
     {
-      "item": "productivetrees:mandarin_stripped_log"
+      "item": "productivetrees:allspice_stripped_log"
     },
     {
-      "item": "productivetrees:mandarin_stripped_wood"
+      "item": "productivetrees:allspice_stripped_wood"
     }
   ],
   "result": {

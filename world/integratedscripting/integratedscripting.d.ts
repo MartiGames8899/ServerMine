@@ -14,7 +14,6 @@ export interface Context {
 export interface Operations {
   entityItem: (arg0: ValueEntity) => ValueItemstack;
   fluidstackBucketFillSound: (arg0: ValueFluidstack) => string;
-  numberToLong: (arg0: number) => number;
   operatorMap: (arg0: Function, arg1: any[]) => any[];
   itemstackIsFluidStack: (arg0: ValueItemstack) => boolean;
   anyLessThanOrEquals: (arg0: any, arg1: any) => boolean;
@@ -74,7 +73,6 @@ export interface Operations {
   itemstackDataValue: (arg0: ValueItemstack, arg1: string) => Record<string, any>;
   booleanNand: (arg0: boolean, arg1: boolean) => boolean;
   entityArmorInventory: (arg0: ValueEntity) => any[];
-  numberToDouble: (arg0: number) => number;
   operatorPipe: (arg0: Function, arg1: Function) => Function;
   entityIsMinecart: (arg0: ValueEntity) => boolean;
   stringSplitOnRegex: (arg0: string, arg1: string) => any[];
@@ -98,7 +96,6 @@ export interface Operations {
   itemstackNbt: (arg0: ValueItemstack) => Record<string, any>;
   blockIsOpaque: (arg0: ValueBlock) => boolean;
   entityIsWet: (arg0: ValueEntity) => boolean;
-  numberToInteger: (arg0: number) => number;
   booleanOr: (arg0: boolean, arg1: boolean) => boolean;
   anyIdentity: (arg0: any) => any;
   fluidstackViscosity: (arg0: ValueFluidstack) => number;

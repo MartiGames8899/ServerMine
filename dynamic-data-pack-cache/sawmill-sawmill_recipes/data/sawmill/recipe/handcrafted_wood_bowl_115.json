@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:flickering_sun_planks"
+    "item": "productivetrees:ceylon_ebony_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:pandanus_log"
-    },
-    {
-      "item": "productivetrees:pandanus_wood"
-    },
-    {
-      "item": "productivetrees:pandanus_stripped_log"
-    },
-    {
-      "item": "productivetrees:pandanus_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "iceandfire:dreadwood_log"
+  },
   "result": {
     "id": "domum_ornamentum:blockbarreldeco_standing",
     "count": 1

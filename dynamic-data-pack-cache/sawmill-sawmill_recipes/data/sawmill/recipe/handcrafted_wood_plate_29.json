@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:eucalyptus_planks"
+    "item": "productivetrees:alder_planks"
   },
   "result": {
     "id": "handcrafted:wood_plate",

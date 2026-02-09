@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:cypress_log"
+      "item": "productivetrees:ipe_log"
     },
     {
-      "item": "regions_unexplored:cypress_wood"
+      "item": "productivetrees:ipe_wood"
     },
     {
-      "item": "regions_unexplored:stripped_cypress_log"
+      "item": "productivetrees:ipe_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_cypress_wood"
+      "item": "productivetrees:ipe_stripped_wood"
     }
   ],
   "result": {

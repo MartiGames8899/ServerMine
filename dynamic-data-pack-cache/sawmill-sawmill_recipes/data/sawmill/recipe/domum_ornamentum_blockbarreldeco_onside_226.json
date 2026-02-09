@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:northland_log"
+      "item": "allthemodium:demonic_log"
     },
     {
-      "item": "eternal_starlight:northland_wood"
-    },
-    {
-      "item": "eternal_starlight:stripped_northland_log"
-    },
-    {
-      "item": "eternal_starlight:stripped_northland_wood"
+      "item": "allthemodium:stripped_demonic_log"
     }
   ],
   "result": {

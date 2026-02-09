@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:brimwood_log"
+      "item": "biomeswevegone:blue_enchanted_log"
     },
     {
-      "item": "regions_unexplored:brimwood_wood"
+      "item": "biomeswevegone:blue_enchanted_wood"
     },
     {
-      "item": "regions_unexplored:stripped_brimwood_log"
+      "item": "biomeswevegone:stripped_blue_enchanted_log"
     },
     {
-      "item": "regions_unexplored:stripped_brimwood_wood"
+      "item": "biomeswevegone:stripped_blue_enchanted_wood"
     }
   ],
   "result": {

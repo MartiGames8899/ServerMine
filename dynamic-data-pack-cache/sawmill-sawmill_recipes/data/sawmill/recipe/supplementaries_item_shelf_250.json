@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:smogstem_log"
+      "item": "twilightforest:mining_log"
     },
     {
-      "item": "undergarden:smogstem_wood"
+      "item": "twilightforest:mining_wood"
     },
     {
-      "item": "undergarden:stripped_smogstem_log"
+      "item": "twilightforest:stripped_mining_log"
     },
     {
-      "item": "undergarden:stripped_smogstem_wood"
+      "item": "twilightforest:stripped_mining_wood"
     }
   ],
   "result": {

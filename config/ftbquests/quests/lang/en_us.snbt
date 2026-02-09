@@ -363,8 +363,8 @@
 		"- Exactly one Quantum Computer Core"
 		"- At most one Quantum Data Entangler"
 		"- At most one Quantum Computer Multi-Threader"
-		"- All blocks on the outside layer must be Quantum Computer Structural Glass"
-		"- No blocks on the inside can be Quantum Computer Structural Glass."
+		"- All blocks on the outside layer must be Quantum Computer Structure"
+		"- No blocks on the insite can be Quantum Computer Structure."
 		""
 		"Hope you're ready to make a lot of Singularities."
 	]
@@ -639,8 +639,8 @@
 	quest.061A51A0EC13CA0F.title: "Building the &c&lFoundry&r"
 	quest.06210B6FD0F9989B.quest_desc: ["&d&lUltimate Tier&r is the best we can get from &5&lMekanism&r! Well atleast in Survival. \\n\\nThese will give the most Slots, hold the most &eItems&r, and move the most &eItems&r! \\n\\nEach &d&lUltimate Tier&r will need &dAtomic Alloys&f, &dUltimate Control Circuits&f, and &bDiamonds&r. \\n\\n&dAtomic Alloys&r will need &5Refined Obsidian&r to create, follow the &7Osmium Compressor Quest&r to get those. But basically we'll need to Infuse a &bReinforced Alloy&r with 20mb of &5Refined Obsidian&r. \\n\\nThen, combine 2 &dAtomic Alloys&r with 1 &bElite Control Circuit&r to make the &dUltimate Control Circuit&r!"]
 	quest.06210B6FD0F9989B.title: "&d&lUltimate Tier"
-	quest.062AA943A1629A86.quest_desc: ["You blew up the &zRainbow Furnace&r?!?! Just lit TNT right next to it? Are you mad? That took so many Furnaces and resources and you just blew it up!!! Did you atleast get something good from it? &zRainbow Coal&r? Coal that lasts a very long time? Actually that's pretty worth it."]
-	quest.062AA943A1629A86.title: "&zRainbow Coal"
+	quest.062AA943A1629A86.quest_desc: ["You blew up the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r?!?! Just lit TNT right next to it? Are you mad? That took so many Furnaces and resources and you just blew it up!!! Did you atleast get something good from it? &cR&6a&ei&2n&3b&9o&5w&r &cC&eo&3a&5l&r? Coal that lasts a very long time? Actually that's pretty worth it."]
+	quest.062AA943A1629A86.title: "&cR&6a&ei&2n&3b&9o&5w &cC&eo&3a&5l"
 	quest.063241B72BB3403E.quest_desc: ["The &0&lHeavy Plated Shield&r is used just like a normal Shield, hold it in your Offhand and use it to defend yourself. \\nThe &0&lHeavy Plated Shield&r does have much more Durability and protects from more Damage. \\n\\nOh yeah it also has Upgrades! These upgrades can be added on with the &6Engineer's Workbench&r. \\n\\nThe Shield can hold 2 Upgrades."]
 	quest.063241B72BB3403E.title: "&8&lHeavy Plated Shield"
 	quest.0650996C7818ADB5.quest_desc: ["The &6&lHeat Generator&r has 2 modes to generate &aEnergy&r. \\n\\nPassive: Surrounding the &6&lGenerator&r with &cLava Source&r or flowing blocks creates passive &aEnergy&r by creating &6Heat&r. \\n\\nPlace one &cLava Source Block&r on top, and let it flow over the sides. \\n\\nMake sure to connect &bPipes&r first!\\n\\nActive: Placing combustible materials such as &0Coal&r or &6Wood&r into the &6&lGenerator&r will burn the fuel to create &cEnergy&r. \\n\\nIt now creates 320FE/t."]
@@ -689,9 +689,6 @@
 	quest.06AD25DB96F3A1CC.title: "&cMercury&r Vessel"
 	quest.06B352AE90DD0D3E.quest_desc: ["A &8BlazBee&r pollinating an &4Obsidian Bee Spawn Egg&r will convert it into a &2Infinity Bee Spawn Egg&r."]
 	quest.06B352AE90DD0D3E.title: "Bee Of Infinity"
-	quest.06B6786122F3DAF9.quest_desc: ["Affects the time of day a bee can work. There are 3 levels of this: &aDiurnal&r, &dNocturnal&r, &cMetaturnal&r. &aDiurnal&r bees can only work during daytime, &dNocturnal&r bees can only work during nighttime, &cMetaturnal&r bees can work at any time of the day. &cMetaturnal&r is what we're after. BeeBee naturally has the &cMetaturnal&r trait. As mentioned in the &a&lProductivity&r quest, this bee is found in The Other, and is a particularly lethal one.\\n\\nIf you'd rather not deal with that lethal bee, there's another option. We will need to leash some bees to a fence during nighttime to make them &dNocturnal&r, then leaving those bees out on a fence during daytime to make them &cMetaturnal&r. We can skip one of these steps with a Ghostly Bee, which is naturally &dNocturnal&r."]
-	quest.06B6786122F3DAF9.quest_subtitle: "Sleep is for the weak"
-	quest.06B6786122F3DAF9.title: "&e&lBehavior"
 	quest.06B85804163DD18B.quest_desc: ["The Soaryn Box (Soaryn being the author of XyCraft) is the chest of XyCraft.\\n\\nIt will not hold items off breaking the block! I wonder what those squares on it do?"]
 	quest.06D13E319C26C949.quest_desc: [
 		"The Blood Mushroom Bog is home to the giant Blood Mushrooms. \\n\\nBlood makes me uneasy so I think I'll keep this description short."
@@ -793,11 +790,10 @@
 	quest.0854AD352218E1C3.quest_subtitle: "How?"
 	quest.0854AD352218E1C3.title: "Wireless Heat"
 	quest.08697EB269B011FD.quest_desc: [
-		"With &dRonaza's Contact&r, you can upgrade your &bIesnium Ritual Bowl&r to the Eldritch Chalice. When used in a ritual, reduces the time it takes to complete... entirely. "
+		"With &dRonaza's Contact&r, you can upgrade your &bIesnium Sacrificial Bowl&r to the Eldritch Chalice. When used in a ritual, reduces the time it takes to complete... entirely. "
 		""
 		"Yes, the Eldritch Chalice makes it so that all rituals complete instantly!"
 	]
-	quest.08697EB269B011FD.title: "Eldritch Chalice"
 	quest.08767A1E6D48A5EA.quest_desc: ["The &7Graybeard Staff&r is a very cheap Staff. Cheap in price and quality. \\n\\nIt will only do 3 &4Damage&r but gives 25% Mana Regeneration and 10% &3Spell Power&r. \\n\\nPretty helpful if you're just using &3Spells&r to Kill!"]
 	quest.08767A1E6D48A5EA.quest_subtitle: "When will it become Whitebeards?"
 	quest.08767A1E6D48A5EA.title: "&7Graybeard Staff"
@@ -868,7 +864,7 @@
 	quest.09733948CBCB3FB9.quest_desc: ["&dTier 6&r is the highest tier, anything that is breakable can be mined with it, including Vibranium and Unobtainium."]
 	quest.09733948CBCB3FB9.title: "&dHarvest Tier 6"
 	quest.097DE7038A746847.quest_subtitle: "Spawns from a Reed Nest"
-	quest.097FDC136BC843A7.quest_desc: ["&lWorld Tier: &6Summit&r will need you to upgrade your &eArmor&r and &eTool/Weapon&r from &aUncommon&r to &9Rare&r (or better)! You'll also need to kill &0&lThe Wither&r. \\n\\n&0&lThe Wither&r doesn't need to be an &4Invader&r and honestly, it'll be easier if he isn't. \\n\\nIn &6&lSummit&r &5Epic&r &eItems &fand &2Gems&r will be the most common, and for &eItems&r you can now get &6Mythic&r and with &aGems&r you can find &zPerfect&r. Again, both being extremely rare! \\n\\nNow we'll get 75% Experience Gained and 50% Luck. \\n\\n&4Monsters&r will also be buffed to get 12 Armor Points, 10 Armor Toughness, 15 Armor Pierce, and 10 Protection Pierce. \\n\\nIs it just me or are their upgrades better than ours?"]
+	quest.097FDC136BC843A7.quest_desc: ["&lWorld Tier: &6Summit&r will need you to upgrade your &eArmor&r and &eTool/Weapon&r from &aUncommon&r to &9Rare&r (or better)! You'll also need to kill &0&lThe Wither&r. \\n\\n&0&lThe Wither&r doesn't need to be an &4Invader&r and honestly, it'll be easier if he isn't. \\n\\nIn &6&lSummit&r &5Epic&r &eItems &fand &2Gems&r will be the most common, and for &eItems&r you can now get &6Mythic&r and with &aGems&r you can find &cP&6e&er&ff&de&5c&4t&r. Again, both being extremely rare! \\n\\nNow we'll get 75% Experience Gained and 50% Luck. \\n\\n&4Monsters&r will also be buffed to get 12 Armor Points, 10 Armor Toughness, 15 Armor Pierce, and 10 Protection Pierce. \\n\\nIs it just me or are their upgrades better than ours?"]
 	quest.097FDC136BC843A7.title: "&lWorld Tier: &6Summit"
 	quest.0980661B2F7FBC10.quest_desc: [
 		"Jump on and over the Candles to reach the top! \\n\\nOnce up there you can find some Honey Cocoons. \\n\\nDon't burn your feet.\\n"
@@ -1001,9 +997,9 @@
 	quest.0ACE573560A19309.quest_desc: ["Almost every &5Machine&r will use &aEnergy&r, and when we got dozens of them... it's definitely not easy on our Grids. \\n\\nIf we add &aEnergy &8Upgrades&r, the &5Machines&r will do the same Task, just now requiring less &aEnergy&r to complete! \\nIf only we can put these on the &d&lS.P.S.&r!"]
 	quest.0ACE573560A19309.title: "&aEnergy &8Upgrade"
 	quest.0AD2B11565B484E7.quest_desc: ["You'll need every Furnace before &5Netherite&r for these. Yes all, even the &6Copper&r! Even the &7Silver&r! Even the &3Crystal&r!"]
-	quest.0AD2B11565B484E7.title: "&zRainbow Plating"
-	quest.0ADBE90B33ACC9FB.quest_desc: ["The &zRainbow Generator&r is a boost to the &zRainbow Furnace&r while using &3Augment&r: Generator. If all other 9 Furnaces (not counting AllTheModium Furnaces and above) are around the &zRainbow Furnace&r, have &3Augment&r: Generator, and are actively making Energy (fueled up and not full) they will give a boost to a &zRainbow Furnace&r that has &3Augment&r: Generator and is working. It will make 2kFE a tick more!"]
-	quest.0ADBE90B33ACC9FB.title: "&zRainbow Generator"
+	quest.0AD2B11565B484E7.title: "&cR&6a&ei&2n&3b&9o&5w &cP&6l&ea&2t&3i&9n&5g"
+	quest.0ADBE90B33ACC9FB.quest_desc: ["The &cR&6a&ei&2n&3b&9o&5w&r &cG&6e&en&2e&3r&9a&5t&ce&6r&r is a boost to the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r while using &3Augment&r: Generator. If all other 9 Furnaces (not counting AllTheModium Furnaces and above) are around the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r, have &3Augment&r: Generator, and are actively making Energy (fueled up and not full) they will give a boost to a &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r that has &3Augment&r: Generator and is working. It will make 2kFE a tick more!"]
+	quest.0ADBE90B33ACC9FB.title: "&cR&6a&ei&2n&3b&9o&5w &cG&6e&en&2e&3r&9a&5t&co&6r"
 	quest.0AE28C998A3BF136.quest_subtitle: "531,441 Netherrack"
 	quest.0AE6AD813928DE4F.quest_desc: ["The External Heater can be used with Furnaces, like the &2&lVanilla&r ones, not &c&lCrude Blast Furnace&r! \\n\\nIt takes in &cEnergy&r from the Bottom and uses it for Heat. \\n\\nThe Heat comes out of the other sides of it, to adjacent Blocks. \\n\\nIt is technically used for the &4&lImproved Blast Furnace&r, by Crafting the Preheaters but I don't count that!"]
 	quest.0AE83A6CC21F96D4.quest_desc: ["Electrolysing a &#3127F5Singularity&r will make &#DA27F5UU Matter&r. In this process, the &#3127F5Singularity&r is &n&aNOT&r consumed."]
@@ -1637,7 +1633,6 @@
 	quest.127D085D6C9DB690.quest_desc: ["Saltpeter can be found anywhere Underground but very common in the Warm Shore Biome. \\n\\nIt needs a Stone Pickaxe to mine it and when mined it will drop a couple Saltpeter Powder. Yes, Fortune works on it! \\n\\nThe Powder can be used as a replacement for other Niters."]
 	quest.127F9EAC7C305BF5.quest_desc: ["Trust me when I say, you'll need a &6Wrench&r! \\n\\nThe &6Wrench&r is the perfect Swiss Army Knife like Tool for &6&lCreate&r. You can rotate Blocks, break them, set their configs, what can't you do with it! \\n\\nTo break Blocks just Shift Right Click any &6&lCreate&r Block and it'll break them. \\n\\nTo Rotate a Block just normal Right Click them with the &6Wrench&r. Unfortunately this doesn't give us free &dRotational Power&r, but it is still useful for slip ups! \\n\\nIt will also be useful for setting up &aContraptions&r, but that is for later."]
 	quest.127F9EAC7C305BF5.title: "&6Wrench"
-	quest.128A14A3842325FE.quest_desc: ["When installed into an Advanced Beehive, bees no longer physically exit the hive. A trip to their flower block will be simulated.\\n\\nMake sure to put its required flower block or a Feeding Slab in front of the hive containing the required flower blocks or items for the bee in the hive. To see how to set it up correctly, check the Feeding Slab quest.\\n\\nI highly recommend getting this so your bees don't disappear and to be able to more easily put in/take out bees from the hive."]
 	quest.128A14A3842325FE.quest_subtitle: "Are the Bees still real?"
 	quest.129E09C03E40BA57.quest_desc: ["The Reactor takes Awakened Draconium as Fuel, don't worry its efficient! Fuel Conversion determines when the Awakened Draconium will change to Chaos. It can take only 8 BLocks at a time and can only be Fueled or Refueled when the Reactor is shut off. SAS mode helps to make that easier! Also Fuel goes into the bottom right Slots."]
 	quest.129E09C03E40BA57.title: "Fuel for our Reactor"
@@ -1780,9 +1775,6 @@
 	quest.13F77C38AC015E9F.title: "&bMountain Tower"
 	quest.1403D677CF2815C3.quest_desc: ["The &5&lReforging Table&r does everything the &9&lSimple&r one will do, but better! \\n\\nIt can give us &5Epic&r and &6Mythic &eAffixes&r along with our previous ones!"]
 	quest.1403D677CF2815C3.title: "(Better) &5&lReforging Table&r"
-	quest.1404BB8956D5F8C7.quest_desc: ["Affects the ability of a bee to work under harsh weather conditions. There are 3 levels of this: &aNone&r, &dRain&r, &cAny&r. &cAny&r is what we are after. You could leash the bee to a fence during a thunderstorm if you wanted to, but come on, that's just cruel.\\n\\nI offer you an easier solution. Fishing. That's right, you can fish for bees. Water or Prismarine Bees naturally come with the ability to tolerate any weather conditions. We can make use of this!"]
-	quest.1404BB8956D5F8C7.quest_subtitle: "The least big one of the big ones"
-	quest.1404BB8956D5F8C7.title: "&9&lWeather Tolerance"
 	quest.1409C17773B6A131.quest_desc: ["All Upgrades increase the amount the &e&lPipez&r move but each grant more options to use with the &e&lPipe&r. \\n\\nBasic Upgrade allows Redstone Activation with &e&lPipez&r.\\n\\nImproved Upgrade allows you to change distribution either:Closest First, Farthest First, Round-Robin, or Random.\\n\\nAdvanced Upgrade gives you option to add Filters.\\n\\nUltimate doesn't grant anything new it just moves a lot!"]
 	quest.1409C17773B6A131.title: "&9Pipez: &aUpgrades"
 	quest.140DADB32EF10D58.quest_desc: ["Dragon Egg Seeds require a Dragon Egg Crux placed below in order for them to grow."]
@@ -2351,7 +2343,7 @@
 		"{image:atm:textures/questpics/theurgy/theurgy_reform_2.png width:100 height:100 align:center}"
 	]
 	quest.1A46A97A00A31C03.title: "Step 2: Target Pedestal"
-	quest.1A4B1CA7EC15348E.quest_desc: ["Using a &aLinking Tool&r, you can link 2 Ender Drawers to sync up their contents.\\n\\nThis works just like an Ender Chest, but as a Drawer.\\n\\nTo link, left-click the first Ender Drawer with the &aLinking Tool&r (on the outside, not item face), then crouch/shift + right-click the second Ender Drawer."]
+	quest.1A4B1CA7EC15348E.quest_desc: ["Using a &aLinking Tool&r, you can link 2 Ender Drawers to sync up their contents.\\n\\nThis works just like an Ender Chest, but as a Drawer.\\n\\nTo link, right-click the first Ender Drawer with the &aLinking Tool&r, then left-click the second Ender Drawer."]
 	quest.1A4B1CA7EC15348E.quest_subtitle: "Dimensional Drawer..."
 	quest.1A4FAE5705B53753.quest_subtitle: "Crafted with Enchanting Apparatus"
 	quest.1A4FAE5705B53753.title: "Air Essence Bee"
@@ -2417,8 +2409,6 @@
 	quest.1B700DB77B970E35.quest_subtitle: "Tier: &b4"
 	quest.1B72E95569B07E18.quest_subtitle: "x24 Storage Upgrade"
 	quest.1B72E95569B07E18.title: "&bDiamond Upgrade"
-	quest.1B79F794EDAA810A.quest_desc: ["The Breeding Chamber can be used to breed two bees with each other, automatically. It is capable of self breeding, as well as breeding 2 types of bees to make a third type (Example: Ashy Mining + Crystalline -> Iron). If this would result in a conflict (Continuing off of the earlier example, Ashy Mining + Crystalline -> Aluminium), take out one of the bees, then put it back in.\\n\\nProvide breeding items in each slot (usually flowers, hold SHIFT on a bee cage holding a certain bee type to see what breeding item it uses (Draconic Bees use 2 Draconic Dust for example)) and some bee cages.\\n\\nJust...don't do...whatever it takes to get the F.Bee.I. to go after you. I will ensure you get added to the Hall of Shame if they DO come after you."]
-	quest.1B79F794EDAA810A.quest_subtitle: "Making Babies 2: Electric Beegaloo"
 	quest.1B90B94D07BBDD09.quest_desc: [
 		"To make all these ExtendedAE devices, a Crafting Table's hammer and pliers won't cut it."
 		""
@@ -3845,9 +3835,6 @@
 	quest.2DE7CC686B56881F.quest_subtitle: "Max: 1"
 	quest.2DFFEB29B6CBFD99.quest_subtitle: "Iron + Blue Banded"
 	quest.2DFFEB29B6CBFD99.title: "Lead Bee"
-	quest.2E0275C21D3F0DA3.quest_desc: ["Not to be confused with a Draconic Bee."]
-	quest.2E0275C21D3F0DA3.quest_subtitle: "Wyvern Fusion Crafting"
-	quest.2E0275C21D3F0DA3.title: "Draconium Bee"
 	quest.2E0F82F7E1B74033.quest_desc: ["&d&lArs Elemental&r &2Earth Armor&r!"]
 	quest.2E0F82F7E1B74033.quest_subtitle: "15"
 	quest.2E0F82F7E1B74033.title: "&2Geomancer Outfit"
@@ -3920,11 +3907,11 @@
 	quest.2EDE91023F7924FB.title: "&d&lThe End"
 	quest.2EE4E88FC814AFA4.quest_subtitle: "Tier: &91"
 	quest.2EE8FCB63A338BC4.quest_desc: [
-		"The &zRainbow Furnace&r needs quite literally every other Furnace to Craft. 8 &zRainbow Plating&r and 1 &zRainbow Core&r gives us the best Furnace we could imagine!"
+		"The &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&r needs quite literally every other Furnace to Craft. 8 &cR&6a&ei&2n&3b&9o&5w &cP&6l&ea&2t&3i&9n&5g&r and 1 &cR&6a&ei&2n&3b&9o&5w &cC&eo&3r&5e&r gives us the best Furnace we could imagine!"
 		""
 		"Yes it takes 20 Ticks to smelt or 1 Second to smelt, but it doesn't smelt 1 item. How many items you ask? How many are in a stack of items?"
 	]
-	quest.2EE8FCB63A338BC4.title: "&zRainbow Furnace"
+	quest.2EE8FCB63A338BC4.title: "&cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e"
 	quest.2EF0C033C540A7B1.title: "Ruby Processing"
 	quest.2F0D6267569F740B.quest_desc: ["Common Materials are a step higher and rarer than Abundant. These are mostly Ingots and rarer Mob Drops like Ender Pearls or Rabbit Hide. \\n\\nAgain you can see the whole list in Tags."]
 	quest.2F16B6A173525277.quest_desc: [
@@ -4008,9 +3995,6 @@
 	quest.309B0B2898893B4E.quest_desc: ["&b&lSteve's Carts&r is all about upgrading... well your Carts! \\n\\nWhat sort of upgrades? Pretty much everything but the kitchen sink! \\n\\nFrom Drills, to guns, to arcade machines! What more could you want with your Carts?"]
 	quest.309B0B2898893B4E.title: "&l&bSteve's Carts"
 	quest.309B6B8368E535A0.quest_desc: ["A Router does it's action every time it has one of it's ticks. \\n\\nDefault is 20 Ticks or 1 Second. \\n\\nThis can be made to less Ticks with the Speed Upgrade!"]
-	quest.30A238E87F013CBB.quest_desc: ["Bees have varying traits that can affect how they work, when they work, their aggression, and their likelihood to lose their stinger when they attack you. In these quests I will be going over the way to get the best traits possible, as well as how to use them.\\n\\nTo get these Gene Samples, check out the Bottler quest, which is a dependency of this one. To actually apply these Gene Samples to your bees, you will need to combine them with a Honey Treat in a crafting grid. All traits, except for Type, you can apply to your bees by feeding them the Honey Treat. Type works differently, and must instead be used with the Incubator to make a Spawn Egg of the respective bee."]
-	quest.30A238E87F013CBB.quest_subtitle: "To make the ultimate bee"
-	quest.30A238E87F013CBB.title: "Gene Samples"
 	quest.30A61E1A1EFA81E6.quest_desc: ["&2Steeleaf&r is, technically an Ingot, found within Chests in &9&lThe Twilight Forest&r. \\nEach part of the Armor gives a different Enchantment!"]
 	quest.30A61E1A1EFA81E6.quest_subtitle: "20"
 	quest.30A61E1A1EFA81E6.title: "&2Steeleaf Armor"
@@ -4320,7 +4304,7 @@
 	quest.34FBD04361657724.quest_desc: [
 		"Throughout ExtendedAE, you will often be using &aEntro Crystals &ras a resource."
 		""
-		"To get the &aEntro Crystal&r, you will need a Fluix Block and an Entro Seed. Right click the Fluix Block with the Entro Seed."
+		"To get the &aEntro Crystal&r, you will need a Fluix Block and an Entro Seed."
 		""
 		"This will create &aBudding Entroized Fluix&r, which will, similarly to Budding Certus Quartz, grow Entro Buds around it. Unlike with Certus, its decay is inevitable."
 		""
@@ -4618,7 +4602,7 @@
 	quest.377A41499D8218C9.quest_desc: [
 		"The 1st &lWorld Tier&r is &l&9Haven&r! It being the first makes it the easiest to explore with and easiest to obtain. \\n\\nTo get it you just need to hold an &eAffixed Item&r in your Hand! It will automatically be set when unlocked. \\n\\nThe &lWorld Tier: &9Haven&r has highest chances for &8Common&r &aGear&r &fand &aGems&r. It can also have &aUncommon&r and very rarely, &9Rare&r."
 		""
-		"This is also the only &lWorld Tier&r where &4Invaders&r cannot spawn naturally."
+		"This is also the only &lWorld Tier&r where &4Invaders&r cannot be fought."
 	]
 	quest.377A41499D8218C9.title: "&lWorld Tier: &9Haven"
 	quest.377D6CF86BC1C64F.quest_desc: ["The &8Tome of Scrapping&r will only take off half the &5Enchantments&r, while the &8Tome of Superior Scrapping&r will take every &5Enchantment&r off the Item! \\n\\nBoth of these &8Tomes&r will break the Item in use though. \\n\\nTo &d&lInfuse&r our &8Tome of Scrapping&r into a &8Tome of Superior Scrapping&r we can use 3 &9Echoing Sculkshelves&r and 15 Bookshelves, or 4 Draconium Blocks."]
@@ -4726,7 +4710,7 @@
 	quest.38CAB3EF0D89B8F4.title: "&8Cockatrice"
 	quest.38CB5044AB3F859B.quest_desc: ["&aSuper Glue&r is used to attach Blocks together! In order to move them with &aContraptions&r. \\n\\nTo &aGlue&r Blocks together, Right Click two different Blocks and all between them will be &aGlued&r. If you want to &aUnglue&r them, just Left Click them with the &aSuper-Glue&r. \\n\\nThere is some requirements though, each Block must be connected to the other ones and not diagonally. \\n\\nYou can also combine other &aGlued&r Blocks to different &aGlued&r Blocks. Everyone gets &aGlue&r! \\n\\nPlus this will effect other Blocks near the originally &aGlued&r one. Blocks adjacent to &aGlued&r Blocks will be moved with them. Same with Blocks that are attached to &aGlued&r Blocks, like Torches or Signs."]
 	quest.38CB5044AB3F859B.title: "&aSuper-Glue"
-	quest.38D0BBD5F699EF41.quest_desc: ["Allows the Quantum Armor piece to charge from your ME system's energy if linked to a Wireless Access Point. If placed into a Quantum Chestplate, it also recharges items in your inventory. This has a special interaction with AppliedFlux, where, if you have FE Cells in the network, it will extract energy from those."]
+	quest.38D0BBD5F699EF41.quest_desc: ["Allows the Quantum Armor piece to charge from your ME system's energy if linked to a Wireless Access Point. If placed into a Quantum Chestplate, it also recharges items in your inventory."]
 	quest.38F01BAEC74D5D68.quest_desc: ["It's the same as the other Preheater I just wanted it to be symmetrical :D."]
 	quest.38F9E9A830D3EA0C.quest_desc: ["If you thought this mod was only for storing items, you would be wrong, there are also Fluid Drawers!\\n\\nThey work the same way as regular Drawers, but store fluids instead."]
 	quest.3907E68572324333.quest_desc: ["In order to get &4&lMorgan&r you need &e&lCaliburn&r. \\n\\nIn order to get &e&lCaliburn&r you need the &3Mahou Lake&r. \\n\\nIn order to get the &3Mahou Lake&r you'll need the Power Consolidation Ritual. \\n\\nWhich can be done like any other ritual just with 2 powdered diamonds and 1 powdered emerald. \\n\\nFYI don't do it near your base, the Ritual will be the middle of the &3Lake&r!"]
@@ -5202,9 +5186,11 @@
 	quest.3E2A411FF5B4B0E7.quest_desc: ["Activation Range is how close the Player (You) must be to the Spawner for it to work. The lowest it can be is 1 block away and the highest is a 48 block radius."]
 	quest.3E2A411FF5B4B0E7.title: "Activation Range"
 	quest.3E301F3EEC8C763A.quest_desc: [
-		"This can be used to speed up the growth rate of baby Bees, or to create new Spawn Eggs.\\n\\nPlace a caged baby Bee with 20 Honey Treats to turn it into an adult.\\n\\nTo create Spawn Eggs, you'll need to combine the gene of the bee you want with a honey treat, then use that honey treat in this machine with an egg to create the new spawn egg.\\n\\nGenes can be combined for a maximum of 100% purity, which will give you a 100% chance to convert an Egg to a Bee Spawn Egg."
-		"{@pagebreak}"
-		"You can even apply genes to a bee without taking it out of its cage with this. Put a Honey Treat with the gene samples of your choice into the incubator along with a bee cage holding the bee you want to apply genes to."
+		"This can be used to speed up the growth rate of baby Bees, or to create new Spawn Eggs."
+		""
+		"Place a caged baby Bee with 20 Honey Treats to turn it into an adult."
+		""
+		"To create Spawn Eggs, you'll need to combine the gene of the bee you want with a honey treat, then use that honey treat in this machine with an egg to create the new spawn egg.\\n\\nGenes can be combined for a maximum of 100% purity, which will give you a 100% chance to convert an Egg to a Bee Spawn Egg."
 	]
 	quest.3E301F3EEC8C763A.quest_subtitle: "Baby Bee Daycare"
 	quest.3E32450DBB7529AA.quest_desc: ["&eItem Batcher&r works kinda like the line for a Roller Coaster. \\n\\nThe Roller Coaster won't leave until all seats are filled! The same way the &eBatcher&r won't &6Output&r &eItems&r until the set Filter and Amount has been matched. \\n\\nPerfect for stuff like &5&lMekanism&r Ore Processing which needs certain amounts of &eItems&r &9Inputed&r or else it will bottleneck."]
@@ -5528,7 +5514,7 @@
 	quest.41C7DEAB41F4B700.title: "A &2&lGorgon"
 	quest.41CF7CAEE4F60CCD.quest_desc: ["When placed in the Nether and given Glowstone, the Glowstone Nest will lure in a Glowing Bee."]
 	quest.41CF7CAEE4F60CCD.quest_subtitle: "Lures a Glowing Bee in the Nether"
-	quest.41D0CC616B762F4C.quest_desc: ["You can throw a &9Fluix Bee Spawn Egg&r and &8Entro Dust&r into Water to create an Entro Bee Spawn Egg."]
+	quest.41D0CC616B762F4C.quest_desc: ["You can throw a &9Fluix Bee Spawn Egg&r and &8Entro Dust&r into Water to create a Sky Steel Bee Spawn Egg."]
 	quest.41D0CC616B762F4C.title: "Entro Bee"
 	quest.41D246E896BD791F.quest_subtitle: "Tier: &63"
 	quest.41D539DA3B3EC287.quest_desc: [
@@ -5551,9 +5537,6 @@
 	quest.420FE84DEE12CCE0.title: "&eGolden Furnace"
 	quest.4211F29561F21643.quest_desc: ["The way the &9&lTurbine&r works is it takes in Steam via the &9Ports&r and that Steam will move the &9Blades&r on the &9Rotors&r. \\n\\nOh wait I should probably tell you how to create the &9&lTurbine&r insides! \\n\\nThe &9Rotors&r will be placed from the floor up within the exact center of our &9&lTurbines&r. Each &9Rotor&r can hold 2 &9Blades&r. \\n\\nThe more &9Blades &fand &9Rotors&r the wider it will get. We won't be able to use 5x5 Base with bigger insides. \\n\\nOn top of our highest &9Rotor&r we'll place the &9Rotational Complex&r. Trust me it is important!"]
 	quest.4211F29561F21643.title: "Moving parts"
-	quest.421851D4D39910DB.quest_desc: ["Affects the bee's likelihood of losing its stinger whenever it attacks something. This trait is less important compared to the first 3 I mentioned, but I will talk about it anyway. There are 4 levels of this: &aWeak&r, &9Normal&r, &dMedium&r, &cStrong&r. &cStrong&r is the one I will focus on. Certain Bees, like Draconic, Obsidian, and some other bees I may not have mentioned naturally have strong Endurance, allowing them to keep their stinger."]
-	quest.421851D4D39910DB.quest_subtitle: "One of the less important ones"
-	quest.421851D4D39910DB.title: "&b&lEndurance"
 	quest.421954D7D46FAAD6.quest_desc: ["Energy Core Stabilizers... stabilize? The Core. For the first 4 Tiers of Cores you need only 4 Stabilizers around it. You can access the GUi of the Core through the Stabilizers as well. If they are placed too close to the Core or in the wrong spots it will tell you it's incorrect."]
 	quest.421954D7D46FAAD6.title: "Energy Core Stabilizers"
 	quest.4221D6CDDF90DACB.quest_subtitle: "Tier: &b4"
@@ -5991,7 +5974,7 @@
 	quest.47A7F4972D58A7D5.title: "Feeding your &c&lDragon"
 	quest.47AED7219704EB3E.quest_subtitle: "&f18 &cAttack Damage"
 	quest.47CB136D7764B86D.quest_desc: ["Torreya Vines are found hanging from Torreya Trees. \\n\\nThey are hanging because they can't be placed any other way... \\n\\nThe bulb at the bottom of them will emit Light!"]
-	quest.47CEFA06392C4211.quest_desc: ["Expansion boxes are placed on top of your Advanced Beehives to increase the amount of bees that can be in the hive to a total of 5 slots. These are also necessary for your Advanced Beehives to support upgrades."]
+	quest.47CEFA06392C4211.quest_desc: ["Expansion boxes are placed on top of your Advanced Beehives to increase the amount of bees that can be in the hive to a total of 5 slots."]
 	quest.47CEFA06392C4211.quest_subtitle: "Increasing our bee storage"
 	quest.47CEFA06392C4211.title: "Expansion Box"
 	quest.47E32A084CAA1512.quest_desc: ["Can be Traded with a Gunsmith or Crafted. \\n\\nGuns aren't much fun without Bullets, so let's Craft some! In order to Craft them though we'll need this &9Blueprint&r."]
@@ -6014,7 +5997,7 @@
 	]
 	quest.4818C8387C0DBBE7.title: "ExtendedAE"
 	quest.4821419D44F8083F.quest_desc: [
-		"&9Growth Accelerators&r very slightly increase the growth speed of a seed when placed directly underneath the farmland. Each tier has a range of how many blocks 'up' it can accelerate, with Inferium being the lowest at 9. "
+		"&9Growth Accelerators&r very slightly increase the growth speed of a seed when placed directly underneath the farmland. Each tier has a range of how many blocks 'up' it can accelerate, with Inferium being the lowest at 12. "
 		""
 		"Note: Growth Accelerators of all tiers provide the same rate of growth ticks. Higher tiers however have a larger range, so you can stack more of them below a single plant. It doesn't matter which tier you use as long as the Growth Accelerator is placed within its max range."
 	]
@@ -7070,7 +7053,7 @@
 	quest.54378277B8D28B1D.quest_desc: [
 		"An \"upgrade\" to the Rainbow Chalk, for those who don't like the rapid color-switching runes ruining their tediously crafted aesthetic. "
 		""
-		"Has the same function as the Rainbow Chalk, except all the runes will show up as white. Additionally, it works for foundation chalk as well."
+		"Has the same function as the Rainbow Chalk, except all the runes will show up as white."
 	]
 	quest.543F00603790AD3E.quest_desc: ["The (Log) Stripper strips Logs automatically using Axes put in the machine."]
 	quest.543F00603790AD3E.quest_subtitle: "Please don't"
@@ -7518,11 +7501,8 @@
 	]
 	quest.5A94A2664BFDD7B9.quest_desc: ["Welcome to the Basic Storage Chapter!\\n\\nYou'll find all of the basic ways to store items without needing power, as well as useful items for your storage needs!"]
 	quest.5A94A2664BFDD7B9.title: "Basic Storage"
-	quest.5A955C0F53AED3ED.quest_desc: ["The &bChain of Souls&r works similar to a Grappling Hook. \\n\\nYou can Right Click for it to send a &bChain&r which will drag you toward the Block you shot it at. You can Right Click again to release it. Plus it has a Range of 90 Blocks give or take a few. \\n\\nTo make it you'll need a &bTrapped Soul&r, 2 &5Tenacious Vines&r, and a &9Tenacious Petal&r. \\n\\nYou can get these mobs from killing a &9Lunar Monstrocity&r. "]
+	quest.5A955C0F53AED3ED.quest_desc: ["The &bChain of Souls&r works similar to a Grappling Hook. \\n\\nYou can Right Click for it to send a &bChain&r which will drag you toward the Block you shot it at. You can Right Click again to release it. Plus it has a Range of 90 Blocks give or take a few. \\n\\nTo make it you'll need a &bTrapped Soul&r, 2 &5Tenacious Vines&r, and a &9Tenacious Petal&r. \\n\\nThe first two you can get as drops from a &5Tangled Hatred&r while the last you'll need to kill a &9Lunar Monstrocity&r. "]
 	quest.5A955C0F53AED3ED.title: "&bChain of Souls"
-	quest.5A9B2246E33065A5.quest_desc: ["Affects the amount of combs you receive whenever a bee produces honeycombs. There are 4 levels of this: &aNormal&r, &9Medium&r, &dHigh&r, &cVery High&r. &cVery High&r is what we are after.\\n\\nIt is found on KamikazBee and BeeBee. BeeBee can naturally be found in The Other, and is an EXTREMELY lethal bee. If you'd rather not risk dealing with an exceptionally lethal bee, you can also rely on KamikazBees.\\n\\nTo get a KamikazBee, you need a Bee Nest Helmet. Get attacked by mobs (or shoot yourself with an arrow) while wearing the helmet for a 30% chance of having a KamikazBee emerge. It is quite fast, and will sting the aggressor (unless it's you), so better catch it quickly or use the Catcher."]
-	quest.5A9B2246E33065A5.quest_subtitle: "The big one"
-	quest.5A9B2246E33065A5.title: "&a&lProductivity"
 	quest.5A9C646718EE92C2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_vibranium.png width:100 height:150 align:center}"]
 	quest.5A9C646718EE92C2.title: "&3Vibranium&r"
 	quest.5A9D6672385D3D82.quest_desc: ["Only use 1 Lapis for an Upgrade instead of 4."]
@@ -8009,9 +7989,6 @@
 	quest.5FD88ED4937971D7.title: "Moonlight Magic Crepe Myrtle Sapling"
 	quest.5FE4DAE8F41B1437.quest_desc: ["The &cOre Magnet&r that can pull up anything with Ore in name, except Coal.\\n\\nThis can be found in &2Hollow Hill&r chests."]
 	quest.5FE4DAE8F41B1437.title: "&cOre Magnet"
-	quest.5FE507DAEE770507.quest_desc: ["Don't want to get a &9Marid Crusher&r for &bLight Blue Chalk&r? Then you can settle for a &aDjinni Crusher&r instead. &aOphyx' Calling&r is used for summoning &aDjinnis&r. This includes a Demonic Wife/Husband. &aDjinnis&r are able to crush ores more efficiently than Foliots, but not as efficiently as &cAfrits&r or &9Marids&r. They're also capable of crushing ice without melting it."]
-	quest.5FE507DAEE770507.quest_subtitle: "An alternate path for light blue"
-	quest.5FE507DAEE770507.title: "&aOphyx' Calling"
 	quest.5FE631066CAB7397.quest_desc: ["Used to trap and transport mobs easily."]
 	quest.6009E239E2E15236.quest_desc: [
 		"Hippogryths are mixtures of Horses and Eagles. Their back half is that of a Horse and their front half is like an Eagle. \\n\\nThey are very fast Flyers because of their Wings, they also have 20 &4Hearts&r. \\n\\nHippogryths won't come charging for a Fight but if you get too close they will defend themselves. They will use their Claws to deal a bit of Damage or Kick you high in the air to take Fall Damage. \\n\\nMight be better to try and Tame them... unless you really want the Hippogryth Talon Sword."
@@ -8067,7 +8044,7 @@
 	quest.60A4994078500F63.quest_desc: ["Celestigem is a new material added by JDT. Celestigem is aquired by performing Goo Spread on Diamond Blocks using tier three goo or higher. Celestigem Ore is affected by fortune."]
 	quest.60B52705049D1BA5.quest_desc: ["The &a&lChemical Washer&r is only for &7Ore Processing&r. \\n\\nLike the &9&lElectrolytic Separator&r, this one only works with &cChemicals&f/&bFluids&r! \\n\\n&9Water&r (or &9Water&r replacement) will go in the Left Bar! And the Ore Slurry will go in the Bar next to it. \\n\\nWhen given &aEnergy&r, the &a&lChemical Washer&r will make the Dirty Slurry, Clean! \\n\\nLike a Washing Machine!"]
 	quest.60B52705049D1BA5.title: "&a&lChemical Washer"
-	quest.60B985069E0E643E.quest_subtitle: "Water + Lava"
+	quest.60B985069E0E643E.quest_subtitle: "Magmatic + Sweat"
 	quest.60B985069E0E643E.title: "Obsidian Bee"
 	quest.60C27206F1414DD6.quest_desc: ["Thanks to Newton we know for every action there is an equal and opposite reaction. Basically when an Arrow hits a mob the force of the Mob applies to the Arrow which will slow it down. Unless you have this Module. It doesn't act as if every mob was paper, it acts as if every mob isn't in the way. Arrows won't slow down after Piercing a target."]
 	quest.60C27206F1414DD6.title: "Projectile Immunity Cancellation Module"
@@ -8399,9 +8376,6 @@
 	quest.65A529C8238E89F1.quest_desc: ["Thanks to &5&lMekanism&r we can now make Armor out of &9Lapis Lazuli&r! \\n\\nIt kinda blows though..."]
 	quest.65A529C8238E89F1.quest_subtitle: "9"
 	quest.65A529C8238E89F1.title: "&9Lapis Lazuli Armor"
-	quest.65A7307F9858ECB5.quest_desc: ["Affects the bee's aggression and likeliness to sting you. This is one of the less important traits, though it is worth not having an Aggressive bee when you want to work with one in world. There are 4 levels of this: &aPassive&r, &9Normal&r, &cHostile&r, &dAggressive&r. I'll be honest I don't really know what each level of Temper does. All I know is that &dAggressive&r bees WILL sting you, even if otherwise unprovoked. Bees will become less aggressive if you feed them Honey Treats."]
-	quest.65A7307F9858ECB5.quest_subtitle: "Stop stinging me already!"
-	quest.65A7307F9858ECB5.title: "&4&lTemper"
 	quest.65C8A43FEDBA3835.quest_desc: ["The &3Pattern Grid&r allows you to imprint recipes onto Patterns for your network.\\n\\nThe easiest way to create a recipe for a Pattern is to look up the item in JEI, then click the '+' button on the bottom right of the recipe. This will then place the recipe into the grid.\\n\\nOn the right side, the top slot is used for storing blank Patterns. With a blank Pattern inside, you should be able to click the Arrow underneath to imprint the recipe onto the Pattern.\\n\\nYou'll then want to put the Pattern into an &3Autocrafter&r!"]
 	quest.65C8A43FEDBA3835.title: "&3Pattern Grid"
 	quest.65D89991A45BC042.quest_desc: ["Place a Crafting Interfaces on a crafting table and right-click on it, this will give you some slots for &bVariable Cards&r. \\n\\nUsing the Logic Programmer, search for &eRecipe&r in the top left, and create one for autocrafting, then save it to a &bVariable Card&r. If a recipe &c&lrequires&r items that need to be crafted, create a recipe for each of those, then put everything in the Crafting Interface."]
@@ -8479,7 +8453,7 @@
 	quest.66A450CAC07232E1.title: "&6Thermodynamic Conductors"
 	quest.66AADD32A528A56D.quest_subtitle: "Tier: &63"
 	quest.66B503EB65475B98.quest_subtitle: "Tier: &63"
-	quest.66B5A8D259E12BF5.quest_desc: ["Wait so you're telling me it has the same stats as &cNetherite&r? Plus Spell Boosts? \\n\\nWhy would anyone want regular &cNetherite&r!"]
+	quest.66B5A8D259E12BF5.quest_desc: ["Wait so you're telling me it has the same stats as &cNetherite&r? Plus Spell Boosts? And doesn't need Smithing Templates to craft? \\n\\nWhy would anyone want regular &cNetherite&r!"]
 	quest.66B5A8D259E12BF5.quest_subtitle: "20"
 	quest.66B5A8D259E12BF5.title: "&4Netherite Battlemage Outfit"
 	quest.66BAC2B478F9B119.quest_subtitle: "1/5"
@@ -8725,13 +8699,11 @@
 	quest.6904EC449FBEE387.quest_subtitle: "Connecting the System"
 	quest.6904EC449FBEE387.title: "Cables"
 	quest.690B89D23134B624.quest_desc: [
-		"Grab your chalks, draw your &dRonaza's Contact&r ritual, and get ready to create the ULTIMATE CHALK*!"
+		"Grab your chalks, draw your &dRonaza's Contact&r ritual, and get ready to create the ULTIMATE CHALK!"
 		""
-		"Instead of having to lug around a full set of 16 chalks, you can use the Rainbow Chalk to paint a color-changing Rune that counts as any of them!"
-		""
-		"&8*Does not include Foundation Chalk. Make the Void Chalk to include those&r"
+		"Instead of having to lug around a full set of 16 chalks, you can use the Rainbow Chalk to paint a color-changing Rune that counts as any of them! "
 	]
-	quest.690B89D23134B624.title: "&zRainbow&r Chalk"
+	quest.690B89D23134B624.title: "&cR&6a&ei&an&9b&5o&dw&r Chalk"
 	quest.690CFF61CE787D43.quest_desc: ["Plastic is the main resource of &bIndustrial Foregoing&r, you now have access to some very useful machines!"]
 	quest.690DB8BEF80617E5.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_utherium.png width:100 height:150 align:center}"]
 	quest.690DB8BEF80617E5.title: "&cUtherium&r"
@@ -8781,12 +8753,6 @@
 	quest.69986817D58AC8BE.title: "Reactor Stabilizers"
 	quest.69A517AB8A801939.quest_desc: ["The &5Wither&r is one of the hardest bosses to kill in Minecraft. Mainly because it flies. And explodes. And is fast. You get the picture.\\n\\nTo summon it, place down the 4 Soul Sand in the shape of a T. Place the 3 Wither Skeleton Skulls on the top of the 'T' and the &5Wither&r will spawn.\\n\\nTip: It explodes. A lot. Don't do this near your base."]
 	quest.69A517AB8A801939.title: "&6Kill The &5Wither"
-	quest.69B5D716568AA9EB.quest_desc: [
-		"&d&lCamol&r is the answer to camouflaging &lEVERYTHING.&r From Pipez to Mekanism Cables to ATM Stars, and everything but the- no, wait, the Kitchen Sink, too.\\n\\nCraft the &d&lCamo Block&r together with the block you want to use for the camo, then right click it on the block you want to camouflage, like some kind of cable or something.\\n\\nBy default the &d&lCamo Block&r will take on the collision shape of the camoed block. You can change this to the Shape Retaining version by putting it into a crafting grid by itself. This will make it take on the shape of the camoing block.\\n\\nIf you want to remove a &d&lCamo Block&r, right click the camoed block with another Camo Block."
-		"{@pagebreak}"
-		"{image:atm:textures/questpics/building_tips/camol_example.png width:200 height:100 align:center}"
-	]
-	quest.69B5D716568AA9EB.title: "&d&lCamol"
 	quest.69B7DE2283B4EE6C.quest_desc: ["The &bCrafting Co-Processing Unit&f helps speed up crafting jobs by allowing pattern providers to either send items out to their connected devices faster or to work concurrently to make multiple required ingredients.\\n\\nThe base AE2 co-processor provides one co-processor 'thread' to assist this, while the co-processing unit from &dMEGA Cells&f provides 4 threads in a single such block."]
 	quest.69B7DE2283B4EE6C.quest_subtitle: "Download more CPU cores"
 	quest.69EE22CB4FF1E591.quest_desc: ["&aContraptions&r are very difficult to understand but pretty much it is the art of combining different Blocks and &6Machines&r into one moving systems. \\n\\nYou'll need &6Machines&r to actually move the &aContraption&r like &aLinear Chasis&r, you'll need the &6Machines&r you want to work like &6Drills&r, and you'll need &aGlue&r to hold it all together! \\n\\nOnce it is all &aGlued&r it should move when &dRotational Power&r is given to the moving &6Machine&r of the &aContraption&r."]
@@ -8803,8 +8769,8 @@
 	quest.6A1145678E80FB8E.title: "&bEnchantment Generator"
 	quest.6A1174845810C7A1.quest_desc: ["The &7&lModification Station&r is how we will throw our &7Module Units&r into our Tools and Armor. \\n\\nIt will need &aEnergy&r to operate, because of course it does. \\n\\nWhen you Right Click a (powered) &7&lModification Station&r it will open up its GUI. Here we can see our entire Inventory including Armor and Offhand. We also have a Screen and 2 extra Slots. \\n\\nThe 2 extra Slots are where our &7Module Units&r (Left Slot) and our Armor or Tools we want to add the &7Module Units&r go (Right Slot). \\n\\nOnce both are added into their Slots, they will automatically place the &7Module Units&r into the &eItem&r. If they stay in the Slot, we can view the &7Module Units&r installed in the &eItem&r in the Screen. \\n\\nIf you want to take our a &7Module Unit&r, click it on the Screen, and then hit the Remove Button. \\n\\nWhen we have &7Module Units&r installed we can hit (\\\\) to pull up their Configs. Here we can Enable or Disable them, and more! "]
 	quest.6A1174845810C7A1.title: "&l&7Modification Station"
-	quest.6A12188E50EAEB78.quest_desc: ["The &zRainbow Furnaces&r will smelt a stack of Items at a time! \\n\\nTo craft it you will need a &zRainbow Core&r which needs 2 &cNetherite Furnaces&r and all the colors of the &zrainbow&r in Glass! \\n\\nThen, you'll need &zRainbow Plating&r which you get from combining almost every other Furnace in the mod. You'll need 2 of them to craft the &3&lImprobable Probablility Device&r."]
-	quest.6A12188E50EAEB78.title: "2 &zRainbow Furnaces"
+	quest.6A12188E50EAEB78.quest_desc: ["The &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&cs&r will smelt a stack of Items at a time! \\n\\nTo craft it you will need a &cR&6a&ei&2n&3b&9o&5w&r &cC&eo&ar&9e&r which needs 2 &cNetherite Furnaces&r and all the colors of the &cr&6a&ei&2n&3b&9o&5w&r in Glass! \\n\\nThen, you'll need &cR&6a&ei&2n&3b&9o&5w&r &cP&6l&ea&at&3i&9n&5g&r which you get from combining almost every other Furnace in the mod. You'll need 2 of them to craft the &3&lImprobable Probablility Device&r."]
+	quest.6A12188E50EAEB78.title: "2 &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&cs"
 	quest.6A18B971C3DB83AE.quest_subtitle: "Tier: &63"
 	quest.6A1C0B17B22CE50F.quest_desc: ["The &9Amulet of Mana Boost&r gives a boost to max mana. \\n\\nThe &6Amulet of Mana Regen&r gives a boost to your mana regen."]
 	quest.6A1C0B17B22CE50F.title: "The Amulets"
@@ -9027,9 +8993,6 @@
 	quest.6CCE920735187234.title: "&9&lTurbine"
 	quest.6CD1720B76F47806.quest_desc: ["The &2&lBio-Generator&r works by taking &2Bio Fuel&r, making &2Bioethanol&r, and using that for &aEnergy&r! \\n\\nThis &2&lGenerator&r has been heavily nerfed though, so it is recommened to not use it! \\n\\nThat is because you buttheads keep making massive &aMelon Farms&r that eat Servers TPS!"]
 	quest.6CD1720B76F47806.title: "&2&lBio-Generator"
-	quest.6CD60A9D88227005.quest_desc: ["Ever wanted to fit a pipe between blocks? Allow me to introduce you to &3Transfer Labels&r. &3Transfer Labels&r can be used for items and fluids.\\n\\n&lHow to use&r\\n\\nYou can place &3Labels&r on blocks by sneak right clicking onto blocks.\\nYou can interact with the &3Label&r by holding another &3Label&r or a &#FFAC3BLabel Accessor&r and right clicking the placed &3Label&r.\\nYou can remove the placed &3Label&r by left clicking the &3Label&r while holding another &3Label&r or a &#FFAC3BLabel Accessor&r.\\nYou can access &3Labels&r through blocks using the &#FFAC3BLabel Accessor&r.\\n\\\\n&lAcceleration&r\\n\\nYou can accelerate the &3Labels&r by adding the same type of &3Label&r in the amount or speed slots."]
-	quest.6CD60A9D88227005.quest_subtitle: "When you gotta fit a pipe between your blocks"
-	quest.6CD60A9D88227005.title: "&3&lTransfer Labels"
 	quest.6CD7D99AA102A5C3.quest_desc: ["&n&f&lLogistics&r: \\nA system of moving, managing, and storing items or resources. \\n\\nIn Modded Minecraft it's quite the same, moving items! With Modded you will need items and by the thousands, heck if you want the &6&lStar&r it gets in the millions! So you'll need to move items from factories, machines, farms, and especially chests. That's what &l&fLogistics&r is for."]
 	quest.6CD7D99AA102A5C3.title: "&lLogistics"
 	quest.6CE7115DA2B23776.quest_desc: ["Not much better than the Flimsy one... \\n\\nThis can hold a single &3Spell&r more than the Flimsy Journal! That's one more very powerful &3Spell&r at the ready!"]
@@ -9267,7 +9230,6 @@
 		"When using this in place of a Golden Ritual Bowl, it greatly reduces how long it takes to perform a ritual, taking it down to one fourth of its original time!"
 	]
 	quest.6FFFAE334DFAAAAB.quest_subtitle: "Super-speed Rituals!"
-	quest.6FFFAE334DFAAAAB.title: "Iesnium Ritual Bowl"
 	quest.70099F9B69F9D055.quest_desc: [
 		"Those unfortunate enough to fall under the &bIce&r to around Y Level 0 might come accross a terrifying and cold Cave. \\n\\nA Cave full of slippery &bIce &fand &bIcicles&r pointing down at them. \\n\\nOf course a &bCave &rbelonging to the most powerful &b&lIce Dragons&r. The &lStage 4 &rand &l5 &bIce Dragons&r. \\n\\nAtleast it is also filled with &7Silver&r and Chests galore! \\n\\nAnd also Mobs including &8Frost Trolls&r..."
 		"{image:atm:textures/questpics/iceandfire/iaf_struct_icecave.png width:200 height:100 align:center}"
@@ -10201,12 +10163,12 @@
 	quest.7A41038180C06B00.title: "&cConnectors"
 	quest.7A4ABFCD12202A91.quest_desc: ["Operational Potentional is the Energy source of Draconic Evolution. The main way (not the only way) of moving OP is with IO Relay Crystals. To actually get OP into items you'll need an Energy Transfer."]
 	quest.7A4ABFCD12202A91.title: "What is Energy or as we call it, OP?"
-	quest.7A514E27E1A7FE32.quest_desc: ["Diamonds also allow us to create some cool gadgets to help us build using the mod &l&cBuilding Gadgets&r.\\n\\nThese are great tools to help you build bigger bases, or for clearing out space using the &cDestruction Gadget&r.\\n\\nYou can even link these to an AE2 network by putting it into a Wireless Access Point!"]
+	quest.7A514E27E1A7FE32.quest_desc: ["Diamonds also allow us to create some cool gadgets to help us build using the mod &l&cBuilding Gadgets&r.\\n\\nThese are great tools to help you build bigger bases, or for clearing out space using the &cDestruction Gadget&r."]
 	quest.7A514E27E1A7FE32.title: "&l&cBuilding Gadgets&r"
 	quest.7A579E233C69871F.quest_desc: ["&b&lHostile Neural Networks&r is all about simulating Mobs for farming their Loot! \\n\\nNot much else to it."]
 	quest.7A579E233C69871F.title: "&b&lHostile Neural Networks"
 	quest.7A615E2A152917AD.quest_desc: ["For this you need 2 &5Netherite Furnaces&r and 7 pieces of glass which are each the color of the Rainbow. &cRed&r, &6Orange&r, &eYellow&r, &2Green&r, &3Blue&r, &9Indig&r- &5Purple&r, and &5Vi&r-&dMagenta&r. Yep! The whole Roy G. Bpm!"]
-	quest.7A615E2A152917AD.title: "&zRainbow Core"
+	quest.7A615E2A152917AD.title: "&cR&6a&ei&2n&3b&9o&5w &cC&eo&3r&5e"
 	quest.7A873E48E38B5C0E.quest_desc: ["Steel Machines use twice as much steam as the Bronze ones but they also make up for it with the twice the speed increase."]
 	quest.7A89560F303A8BE6.quest_subtitle: "Tier: &63"
 	quest.7A93F07BE2E6EC97.quest_desc: ["When it's raining, throwing in a &aWeather Container&r will harness the power of the rain.\\n\\nWith this, you can create an &9Infinite Water Bucket&r, or an &9Infinite Water Source Block&r. These are both incredibly useful items to have!\\n\\nYou can also just do this to get rid of the rain!"]
@@ -10348,9 +10310,6 @@
 	quest.7C54581562D2EA75.title: "Basic Speed Module"
 	quest.7C5FC2015F1E6DB1.quest_desc: ["All &8Trolls&r will hold Weapons. They use these &8Weapons&r to try and Kill you. \\n\\nVery rarely they'll Drop their &8Weapon&r upon Death. \\n\\nAll these &8Weapons&r are massive! Yet the Player can still Hold and Use them! They do a ton of Damage but are very slow to Swing."]
 	quest.7C5FC2015F1E6DB1.title: "&8Troll Weapons"
-	quest.7C651B90A738323E.quest_desc: ["Not to be confused with the Awakened Supremium Bee."]
-	quest.7C651B90A738323E.quest_subtitle: "Draconic Fusion Crafting"
-	quest.7C651B90A738323E.title: "Awakened Bee"
 	quest.7C687DCF71D77761.quest_desc: ["&c&lAdvanced&r is the Upgrade to &a&lBasic&r. \\n\\n&c&lAdvanced&r Machines will hold more &eItems&f, move more &eItems&r, and have more Slots than &a&lBasic Tier&r. \\n\\n&c&lAdvanced&r are made from &cInfused Alloys&f, &cAdvanced Control Circuit&f, and usually &7Osmium&r! \\n\\n&cAdvanced Control Circuits&r are made from 2 &cInfused Alloys&r and a &aBasic Control Circuit&r."]
 	quest.7C687DCF71D77761.title: "&c&lAdvanced Tier"
 	quest.7C73740F1B515F2C.quest_desc: ["&#C452C4Tungsten Dust&r needs to be broken down to a much smaller variant to allow its processing."]
@@ -10446,8 +10405,8 @@
 	quest.7D7E4C31DFE59E29.title: "Wyvern Projectile Damage Module"
 	quest.7D81F2381516204D.quest_subtitle: "Needed for Finished PCBs"
 	quest.7D81F2381516204D.title: "Transistors"
-	quest.7D972A3C4211EB26.quest_desc: ["&zRainbow Coal&r is obtained by blowing up a &zRainbow Furnace&r."]
-	quest.7D972A3C4211EB26.title: "&zRainbow Coal"
+	quest.7D972A3C4211EB26.quest_desc: ["&cR&6a&ei&2n&3b&9o&5w &cC&eo&3a&5l&r is obtained by blowing up a &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&r."]
+	quest.7D972A3C4211EB26.title: "&cR&6a&ei&2n&3b&9o&5w &cC&eo&3a&5l"
 	quest.7DA48EDCF28DBE03.quest_subtitle: "Ginkgo + Hazel"
 	quest.7DA8ACE06DE8097F.quest_desc: ["&6Copper&r is the most abundant Ore in &2&lMinecraft&r and its main use is for decoration. \\n\\nThere's already plenty of different variants added by &2&lMinecraft&r but &l&bChipped&r didn't think it was good enough! So we got more! \\n\\nEven variants for the oxidized versions. \\n\\nYou can make faux &aEmerald Blocks&r."]
 	quest.7DA8ACE06DE8097F.title: "&l&bChipped &6Copper"
@@ -10539,7 +10498,7 @@
 	quest.7EEEEDD5FF31ACD3.quest_desc: ["The &eSmart Chute&r is a &eChute&r with the options to Filter."]
 	quest.7EEEEDD5FF31ACD3.title: "&eSmart Chute"
 	quest.7EF57BBEAA4B6B08.quest_desc: ["Looking to create virtual storage using a mod like &9Applied Energistics 2&r?\\n\\nThese are great ways to upgrade your storage, but it is important to talk about &eNBT Items&r and the best way to store them.\\n\\nNBT items are items with extra tags attached to them. Enchanted items, items with durability and more. These are items with NBT tags attached to them. Because of this, they don't usually stack.\\n\\nWhen you store a lot of these into a storage system like AE2, you run the chance of creating issues for your save or server.\\n\\nBecause of this, it is best to store them in Chests or Bags!"]
-	quest.7EF873DCEB3B9D48.quest_desc: ["The last &lWorld Tier&r, &lWorld Tier: &4Pinnacle&r. To get it, you'll need to Kill the &d&lEnder Dragon&r atleast once, and equip all &5Epic&r or &6Mythic&r &eArmor &fand &eTool/Weapon&r. \\n\\nNow &5Epic&r and &6Mythic&r are most common for &aGems &fand &eTools&r, plus we are more likely to get &zPerfect&r gems! This comes at the loss of &8Common&r and &aUncommon&r but hey, who'll miss them! \\n\\nOn the same pattern of upgrades we'll get 125% Experience Gained and 100% Luck increase. \\n\\n&4Monsters&r will receive their final upgrade, getting: 16 Armor Points, 20 Armor Toughness, 25 Armor Pierce, and 20 Protection Pierce."]
+	quest.7EF873DCEB3B9D48.quest_desc: ["The last &lWorld Tier&r, &lWorld Tier: &4Pinnacle&r. To get it, you'll need to Kill the &d&lEnder Dragon&r atleast once, and equip all &5Epic&r or &6Mythic&r &eArmor &fand &eTool/Weapon&r. \\n\\nNow &5Epic&r and &6Mythic&r are most common for &aGems &fand &eTools&r, plus we are more likely to get &cP&6e&er&ff&de&5c&4t&r gems! This comes at the loss of &8Common&r and &aUncommon&r but hey, who'll miss them! \\n\\nOn the same pattern of upgrades we'll get 125% Experience Gained and 100% Luck increase. \\n\\n&4Monsters&r will receive their final upgrade, getting: 16 Armor Points, 20 Armor Toughness, 25 Armor Pierce, and 20 Protection Pierce."]
 	quest.7EF873DCEB3B9D48.title: "&lWorld Tier: &4Pinnacle"
 	quest.7EFBAF3E281D2EBE.quest_desc: [
 		"The &bME Storage Bus&f, when facing some external storage container, will allow the container to be used as though it were part of the ME network, allowing items to be taken out from the container or inserted into it purely via ME. "
@@ -10554,7 +10513,7 @@
 	quest.7F09F8F98C13F11B.quest_desc: [
 		"What is a Demonic Ritual without a &cSacrifice&r! :D\\n\\nMost of the time, Demons just like items so don't be too afraid yet. However, if you have a favorite Cow, you might need to be worried. Sorry Betsy.\\n\\n&aSacrifical Bowls&r are used to place items needed for Rituals. These can be placed anywhere within the Ritual, as long as it isn't convering up any of the required Chalk. "
 		""
-		"For now, you'll only need four, but later on you'll need upwards of ten bowls for each ritual!\\n\\nThe &6Golden Ritual Bowl&r is used in the middle of the Ritual to activate it, and also usually needs a Book of Binding for the Ritual in it."
+		"For now, you'll only need four, but later on you'll need upwards of ten bowls for each ritual!\\n\\nThe &6Golden Sacrificial Bowl&r is used in the middle of the Ritual to activate it, and also usually needs a Book of Binding for the Ritual in it."
 	]
 	quest.7F09F8F98C13F11B.title: "Preparing for a Ritual: &6Bowls"
 	quest.7F0B2D58361FB00E.quest_desc: ["Just Dire Things is a jack of all trades mod. Just Dire Things adds a new crafting mechanic called Goo Spread, along with machines that assist in the automation of Goo Spread and other utilities."]
@@ -10621,8 +10580,6 @@
 		"{image:atm:textures/questpics/iron_spells/spells_battleground.png width:200 height:100 align:center}"
 	]
 	quest.7FC54AF87CBDD222.title: "&5Ancient Battleground"
-	quest.7FD3C1784F32F2AF.quest_subtitle: "Chaotic Fusion Crafting"
-	quest.7FD3C1784F32F2AF.title: "Chaos Bee"
 	quest.7FE273141D3DFFFD.quest_desc: ["The Fusilier is the medium unit of the new Pillagers! \\n\\nThey have 12 Hearts and no Armor. \\n\\nTheir weapon of choice is a &5&lRailgun&r that is charged by their Accumulator Backpack they wear! \\n\\nOn death they will drop &aEmeralds&r and &7Iron Rods&r."]
 	quest.7FE273141D3DFFFD.title: "Fusilier"
 	quest.7FE5864E59D7B827.quest_desc: ["&#6784EBHulls&r control the amount of power that can be pushed into a machine. As you put upgrades into the machine, you will need a higher tier &#6784EBHull&r in it to accept more power. The tier of the &#6784EBHull&r also affects what cable can connect to it."]
@@ -10708,9 +10665,7 @@
 	task.03EB390E79866058.title: "Sourcestones"
 	task.04048BE5351DB782.title: "Exploration Mod Diamond Swords"
 	task.0427B441A750316F.title: "Gold Chests"
-	task.0446B7C6DBB5DDF9.title: "Golden Ritual Bowls"
 	task.05256FE880D981D5.title: "Vibranium Tools"
-	task.05A43D4098C30ED1.title: "Eldritch Chalices"
 	task.064B1841F9288CC3.title: "Blocks"
 	task.065E5450AC87F1D5.title: "Ancient Comb"
 	task.06F2EC3901908BF1.title: "Plastic Construction Bricks"
@@ -10752,7 +10707,6 @@
 	task.0F2BCC279B5731AB.title: "Amethyst Comb"
 	task.0F7D7AE91E20F778.title: "Coal Generators"
 	task.0F9FCFCEE795FD41.title: "Visit The Other"
-	task.10037D5225C2D20E.title: "Iesnium Ritual Bowls"
 	task.103C42C743E2A2DB.title: "Claiming Chunks"
 	task.104E1A4BF3520D67.title: "Reactor Glass"
 	task.1076BC82EECB73F5.title: "Quartz Wrenches"
@@ -10790,7 +10744,6 @@
 	task.1809DDEA104A9CE8.title: "AllRightsReserved"
 	task.1809F1F9A3043683.title: "Kill 1 Ender Dragon"
 	task.181135E3A83C5B9E.title: "Zinc Comb"
-	task.1817E18CF4034F52.title: "Weather Tolerance Genes"
 	task.1854DDA036C8A2BA.title: "Entro Seeds/Combs"
 	task.1869893A4F8E9E9C.title: "Ore Hammers"
 	task.1884D3DA3CCC1439.title: "AllRightsReserved"
@@ -10886,7 +10839,6 @@
 	task.301665A6315B569C.title: "Storage Controllers"
 	task.30921D2007B35206.title: "Exploration Mod Diamond Pickaxes"
 	task.30933620783092A5.title: "Macaw's Furniture"
-	task.30B72EDF37727F5E.title: "Endurance Genes"
 	task.31BE41B971794377.title: "Steel Age"
 	task.31C72EBA091270E7.title: "AllRightsReserved"
 	task.31E6FDB712244B72.title: "64x Generators"
@@ -10934,9 +10886,7 @@
 	task.39702880D9133E3E.title: "Wool"
 	task.3995281792648279.title: "Storage Delight"
 	task.3A76350DDF5A318D.title: "Advanced Pattern Providers"
-	task.3A9C5AE548810FA6.title: "Sacrificial Bowls"
 	task.3AB6845819FF686F.title: "Cardboard Packages"
-	task.3ABFFD6FFEB2E8F4.title: "Gene Samples"
 	task.3AC95E8DC4229D17.title: "Just Dire Things"
 	task.3B1F1A7CAC8B7BC7.title: "Drawers"
 	task.3B219688DA1CF9C8.title: "AllRightsReserved"
@@ -10971,7 +10921,6 @@
 	task.4209A06A392362DB.title: "Importer \\& Exporter GUI"
 	task.429FA8057B666565.title: "Lapis Comb"
 	task.42DA8E971B27ACED.title: "Tipped Out"
-	task.4324462D1A98B672.title: "Temper Genes"
 	task.432FCFECDAA542F1.title: "Bookshelves"
 	task.436475D6C527A458.title: "Macaw's Paths and Pavings"
 	task.43FDC45CF464047E.title: "Warm Items"
@@ -11046,7 +10995,6 @@
 	task.53A682560123F9B6.title: "Glassential"
 	task.53C6E9EAC8AC15EB.title: "Allthemodium Pickaxes"
 	task.53DE943DF951696B.title: "Demon Miner"
-	task.5455E38685EE7187.title: "Behavior Genes"
 	task.55628B1EECBB5E94.title: "Ritual Saplings"
 	task.5580FF146C9E7EA0.title: "Barrels"
 	task.55DD09212E3DB168.title: "Fluid Pipes"
@@ -11054,6 +11002,7 @@
 	task.55F718D796CEB1B1.title: "Bronze Comb"
 	task.564D0E533237E951.title: "Purifiers"
 	task.56D7513E9D02F900.title: "Drill Heads"
+	task.57108C994437F25B.title: "Any #ae2:all_nether_quartz"
 	task.57895147416291FE.title: "AllRightsReserved"
 	task.57DD9261905988F3.title: "Mekanism Iron Swords"
 	task.5805158E69C05AED.title: "AllRightsReserved"
@@ -11131,7 +11080,6 @@
 	task.68DC39876E14FC1B.title: "Kill 1 Mimic"
 	task.690A9C3BC2417BB9.title: "Undergarden Metals"
 	task.69678CAC075C8EA5.title: "Kill 1 Warden"
-	task.696A828CBDAE7EE3.title: "Productivity Genes"
 	task.6A098C929647B0A6.title: "Magic Mod Diamond Swords"
 	task.6A4FADC04E1C9DA7.title: "Steam Boiler Tanks"
 	task.6A7ABDFC419B62A9.title: "Electric Set"

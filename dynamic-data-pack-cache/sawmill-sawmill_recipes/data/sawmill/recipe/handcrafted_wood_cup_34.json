@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:whitebeam_log"
-    },
-    {
-      "item": "productivetrees:whitebeam_wood"
-    },
-    {
-      "item": "productivetrees:whitebeam_stripped_log"
-    },
-    {
-      "item": "productivetrees:whitebeam_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "handcrafted:wood_cup",
     "count": 8

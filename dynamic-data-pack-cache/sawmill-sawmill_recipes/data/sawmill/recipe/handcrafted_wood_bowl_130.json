@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:witch_hazel_log"
+      "item": "productivetrees:balsam_fir_log"
     },
     {
-      "item": "biomeswevegone:witch_hazel_wood"
+      "item": "productivetrees:balsam_fir_wood"
     },
     {
-      "item": "biomeswevegone:stripped_witch_hazel_log"
+      "item": "productivetrees:balsam_fir_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_witch_hazel_wood"
+      "item": "productivetrees:balsam_fir_stripped_wood"
     }
   ],
   "result": {

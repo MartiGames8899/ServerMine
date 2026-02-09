@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "deeperdarker:echo_log"
-    },
-    {
-      "item": "deeperdarker:echo_wood"
-    },
-    {
-      "item": "deeperdarker:stripped_echo_log"
-    },
-    {
-      "item": "deeperdarker:stripped_echo_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "handcrafted:wood_crockery_combo",
     "count": 4

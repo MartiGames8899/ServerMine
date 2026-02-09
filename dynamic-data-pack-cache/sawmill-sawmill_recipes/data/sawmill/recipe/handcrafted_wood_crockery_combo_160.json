@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:smogstem_log"
+      "item": "biomeswevegone:jacaranda_log"
     },
     {
-      "item": "undergarden:smogstem_wood"
+      "item": "biomeswevegone:jacaranda_wood"
     },
     {
-      "item": "undergarden:stripped_smogstem_log"
+      "item": "biomeswevegone:stripped_jacaranda_log"
     },
     {
-      "item": "undergarden:stripped_smogstem_wood"
+      "item": "biomeswevegone:stripped_jacaranda_wood"
     }
   ],
   "result": {

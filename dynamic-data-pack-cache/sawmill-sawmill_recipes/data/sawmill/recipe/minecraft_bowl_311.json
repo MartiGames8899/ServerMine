@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:cika_planks"
+    "item": "productivetrees:moonlight_magic_crepe_myrtle_planks"
   },
   "result": {
     "id": "minecraft:bowl",

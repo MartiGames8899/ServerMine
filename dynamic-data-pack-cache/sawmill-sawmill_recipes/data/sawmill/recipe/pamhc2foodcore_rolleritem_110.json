@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:witch_hazel_log"
+      "item": "biomeswevegone:jacaranda_log"
     },
     {
-      "item": "biomeswevegone:witch_hazel_wood"
+      "item": "biomeswevegone:jacaranda_wood"
     },
     {
-      "item": "biomeswevegone:stripped_witch_hazel_log"
+      "item": "biomeswevegone:stripped_jacaranda_log"
     },
     {
-      "item": "biomeswevegone:stripped_witch_hazel_wood"
+      "item": "biomeswevegone:stripped_jacaranda_wood"
     }
   ],
   "result": {

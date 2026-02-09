@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:beech_planks"
+    "item": "regions_unexplored:blue_bioshroom_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

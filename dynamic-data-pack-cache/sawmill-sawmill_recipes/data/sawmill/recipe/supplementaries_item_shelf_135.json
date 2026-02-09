@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:transformation_planks"
+    "item": "regions_unexplored:maple_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

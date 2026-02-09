@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pandanus_log"
+      "item": "productivetrees:soursop_log"
     },
     {
-      "item": "productivetrees:pandanus_wood"
+      "item": "productivetrees:soursop_wood"
     },
     {
-      "item": "productivetrees:pandanus_stripped_log"
+      "item": "productivetrees:soursop_stripped_log"
     },
     {
-      "item": "productivetrees:pandanus_stripped_wood"
+      "item": "productivetrees:soursop_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

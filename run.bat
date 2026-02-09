@@ -7,7 +7,7 @@ REM  pass them to this script directly
 echo Executando Git Pull...
 git pull origin main
 
-java @user_jvm_args.txt @libraries/net/neoforged/neoforge/21.1.219/win_args.txt %*
+java @user_jvm_args.txt @libraries/net/neoforged/neoforge/21.1.215/win_args.txt %*
 
 echo Executando Git Push...
 git add .

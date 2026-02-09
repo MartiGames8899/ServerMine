@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cork_oak_log"
+      "item": "productivetrees:beliy_naliv_apple_log"
     },
     {
-      "item": "productivetrees:cork_oak_wood"
+      "item": "productivetrees:beliy_naliv_apple_wood"
     },
     {
-      "item": "productivetrees:cork_oak_stripped_log"
+      "item": "productivetrees:beliy_naliv_apple_stripped_log"
     },
     {
-      "item": "productivetrees:cork_oak_stripped_wood"
+      "item": "productivetrees:beliy_naliv_apple_stripped_wood"
     }
   ],
   "result": {

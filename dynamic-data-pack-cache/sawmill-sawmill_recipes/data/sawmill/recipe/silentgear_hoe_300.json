@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:sakura_log"
+      "item": "productivetrees:aquilaria_log"
     },
     {
-      "item": "biomeswevegone:sakura_wood"
+      "item": "productivetrees:aquilaria_wood"
     },
     {
-      "item": "biomeswevegone:stripped_sakura_log"
+      "item": "productivetrees:aquilaria_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_sakura_wood"
+      "item": "productivetrees:aquilaria_stripped_wood"
     }
   ],
   "result": {

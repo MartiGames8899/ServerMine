@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:juniper_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:juniper_wood"
-    },
-    {
-      "item": "productivetrees:juniper_stripped_log"
-    },
-    {
-      "item": "productivetrees:juniper_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "evilcraft:undead_log"
+      "item": "productivetrees:slimy_delight_log"
     },
     {
-      "item": "evilcraft:undead_wood"
+      "item": "productivetrees:slimy_delight_wood"
+    },
+    {
+      "item": "productivetrees:slimy_delight_stripped_log"
+    },
+    {
+      "item": "productivetrees:slimy_delight_stripped_wood"
     }
   ],
   "result": {

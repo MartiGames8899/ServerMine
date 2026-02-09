@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:zebrano_planks"
+    "item": "regions_unexplored:kapok_planks"
   },
   "result": {
     "id": "minecraft:bowl",

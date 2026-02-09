@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:cocobolo_log"
-    },
-    {
-      "item": "productivetrees:cocobolo_wood"
-    },
-    {
-      "item": "productivetrees:cocobolo_stripped_log"
-    },
-    {
-      "item": "productivetrees:cocobolo_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "supplementaries:item_shelf",
     "count": 6

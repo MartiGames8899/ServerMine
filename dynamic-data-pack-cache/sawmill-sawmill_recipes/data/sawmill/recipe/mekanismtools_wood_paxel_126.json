@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:mangrove_log"
+      "item": "biomeswevegone:sakura_log"
     },
     {
-      "item": "twilightforest:mangrove_wood"
+      "item": "biomeswevegone:sakura_wood"
     },
     {
-      "item": "twilightforest:stripped_mangrove_log"
+      "item": "biomeswevegone:stripped_sakura_log"
     },
     {
-      "item": "twilightforest:stripped_mangrove_wood"
+      "item": "biomeswevegone:stripped_sakura_wood"
     }
   ],
   "result": {

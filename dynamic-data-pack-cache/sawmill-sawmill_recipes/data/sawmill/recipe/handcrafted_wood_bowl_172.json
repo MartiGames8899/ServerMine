@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:myrtle_ebony_log"
+      "item": "regions_unexplored:dead_log"
     },
     {
-      "item": "productivetrees:myrtle_ebony_wood"
+      "item": "regions_unexplored:dead_wood"
     },
     {
-      "item": "productivetrees:myrtle_ebony_stripped_log"
+      "item": "regions_unexplored:stripped_dead_log"
     },
     {
-      "item": "productivetrees:myrtle_ebony_stripped_wood"
+      "item": "regions_unexplored:stripped_dead_wood"
     }
   ],
   "result": {

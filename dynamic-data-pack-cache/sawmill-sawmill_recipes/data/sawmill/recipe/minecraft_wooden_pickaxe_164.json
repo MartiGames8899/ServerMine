@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "biomeswevegone:cypress_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "biomeswevegone:cypress_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_cypress_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_cypress_wood"
     }
   ],
   "result": {

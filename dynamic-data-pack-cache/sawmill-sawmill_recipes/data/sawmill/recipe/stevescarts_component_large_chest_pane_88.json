@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:white_willow_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:white_willow_wood"
-    },
-    {
-      "item": "productivetrees:white_willow_stripped_log"
-    },
-    {
-      "item": "productivetrees:white_willow_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

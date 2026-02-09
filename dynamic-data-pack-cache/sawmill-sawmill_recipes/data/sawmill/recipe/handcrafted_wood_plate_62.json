@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "undergarden:wigglewood_log"
+    },
+    {
+      "item": "undergarden:wigglewood_wood"
+    },
+    {
+      "item": "undergarden:stripped_wigglewood_log"
+    },
+    {
+      "item": "undergarden:stripped_wigglewood_wood"
+    }
+  ],
   "result": {
     "id": "handcrafted:wood_plate",
     "count": 8

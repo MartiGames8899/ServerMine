@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:blackwood_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "regions_unexplored:blackwood_wood"
-    },
-    {
-      "item": "regions_unexplored:stripped_blackwood_log"
-    },
-    {
-      "item": "regions_unexplored:stripped_blackwood_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

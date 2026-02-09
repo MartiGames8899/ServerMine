@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:slimy_delight_log"
-    },
-    {
-      "item": "productivetrees:slimy_delight_wood"
-    },
-    {
-      "item": "productivetrees:slimy_delight_stripped_log"
-    },
-    {
-      "item": "productivetrees:slimy_delight_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
   "result": {
     "id": "minecraft:wooden_pickaxe",
     "count": 1

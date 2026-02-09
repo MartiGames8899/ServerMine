@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:old_fustic_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:old_fustic_wood"
-    },
-    {
-      "item": "productivetrees:old_fustic_stripped_log"
-    },
-    {
-      "item": "productivetrees:old_fustic_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

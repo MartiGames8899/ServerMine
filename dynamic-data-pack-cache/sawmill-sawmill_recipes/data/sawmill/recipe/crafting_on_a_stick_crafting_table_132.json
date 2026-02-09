@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:pine_log"
+      "item": "biomeswevegone:cypress_log"
     },
     {
-      "item": "regions_unexplored:pine_wood"
+      "item": "biomeswevegone:cypress_wood"
     },
     {
-      "item": "regions_unexplored:stripped_pine_log"
+      "item": "biomeswevegone:stripped_cypress_log"
     },
     {
-      "item": "regions_unexplored:stripped_pine_wood"
+      "item": "biomeswevegone:stripped_cypress_wood"
     }
   ],
   "result": {

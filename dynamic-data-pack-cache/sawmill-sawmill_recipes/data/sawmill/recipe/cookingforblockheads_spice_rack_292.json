@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:satsuma_log"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "productivetrees:satsuma_wood"
+      "item": "deeperdarker:echo_wood"
     },
     {
-      "item": "productivetrees:satsuma_stripped_log"
+      "item": "deeperdarker:stripped_echo_log"
     },
     {
-      "item": "productivetrees:satsuma_stripped_wood"
+      "item": "deeperdarker:stripped_echo_wood"
     }
   ],
   "result": {

@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:spirit_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "biomeswevegone:spirit_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_spirit_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_spirit_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

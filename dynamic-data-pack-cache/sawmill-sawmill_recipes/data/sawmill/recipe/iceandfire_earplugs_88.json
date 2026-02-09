@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:socotra_dragon_log"
+      "item": "regions_unexplored:pink_bioshroom_stem"
     },
     {
-      "item": "productivetrees:socotra_dragon_wood"
+      "item": "regions_unexplored:pink_bioshroom_hyphae"
     },
     {
-      "item": "productivetrees:socotra_dragon_stripped_log"
+      "item": "regions_unexplored:stripped_pink_bioshroom_stem"
     },
     {
-      "item": "productivetrees:socotra_dragon_stripped_wood"
+      "item": "regions_unexplored:stripped_pink_bioshroom_hyphae"
     }
   ],
   "result": {

@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:spirit_log"
+      "item": "biomeswevegone:pine_log"
     },
     {
-      "item": "biomeswevegone:spirit_wood"
+      "item": "biomeswevegone:pine_wood"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_log"
+      "item": "biomeswevegone:stripped_pine_log"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_wood"
+      "item": "biomeswevegone:stripped_pine_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:sycamore_fig_log"
-    },
-    {
-      "item": "productivetrees:sycamore_fig_wood"
-    },
-    {
-      "item": "productivetrees:sycamore_fig_stripped_log"
-    },
-    {
-      "item": "productivetrees:sycamore_fig_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
   "result": {
     "id": "minecraft:wooden_shovel",
     "count": 1

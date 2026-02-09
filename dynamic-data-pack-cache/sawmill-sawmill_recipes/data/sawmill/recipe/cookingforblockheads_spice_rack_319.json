@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:black_ember_planks"
+    "item": "integrateddynamics:menril_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:florus_stem"
+      "item": "twilightforest:mining_log"
     },
     {
-      "item": "biomeswevegone:florus_wood"
+      "item": "twilightforest:mining_wood"
     },
     {
-      "item": "biomeswevegone:stripped_florus_stem"
+      "item": "twilightforest:stripped_mining_log"
     },
     {
-      "item": "biomeswevegone:stripped_florus_wood"
+      "item": "twilightforest:stripped_mining_wood"
     }
   ],
   "result": {

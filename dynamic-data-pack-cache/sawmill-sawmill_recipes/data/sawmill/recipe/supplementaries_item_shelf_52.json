@@ -2,15 +2,15 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {
     "id": "supplementaries:item_shelf",
-    "count": 3
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

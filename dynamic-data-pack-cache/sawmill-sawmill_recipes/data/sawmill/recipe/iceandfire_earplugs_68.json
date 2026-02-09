@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:monkey_puzzle_log"
+    },
+    {
+      "item": "productivetrees:monkey_puzzle_wood"
+    },
+    {
+      "item": "productivetrees:monkey_puzzle_stripped_log"
+    },
+    {
+      "item": "productivetrees:monkey_puzzle_stripped_wood"
+    }
+  ],
   "result": {
     "id": "iceandfire:earplugs",
     "count": 1

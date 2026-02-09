@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:florus_stem"
+      "item": "productivetrees:yellow_meranti_log"
     },
     {
-      "item": "biomeswevegone:florus_wood"
+      "item": "productivetrees:yellow_meranti_wood"
     },
     {
-      "item": "biomeswevegone:stripped_florus_stem"
+      "item": "productivetrees:yellow_meranti_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_florus_wood"
+      "item": "productivetrees:yellow_meranti_stripped_wood"
     }
   ],
   "result": {

@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:great_sallow_log"
+      "item": "productivetrees:water_wonder_log"
     },
     {
-      "item": "productivetrees:great_sallow_wood"
+      "item": "productivetrees:water_wonder_wood"
     },
     {
-      "item": "productivetrees:great_sallow_stripped_log"
+      "item": "productivetrees:water_wonder_stripped_log"
     },
     {
-      "item": "productivetrees:great_sallow_stripped_wood"
+      "item": "productivetrees:water_wonder_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

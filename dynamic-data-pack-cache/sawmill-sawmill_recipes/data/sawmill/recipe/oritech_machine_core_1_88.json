@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:cobalt_log"
+      "item": "biomeswevegone:skyris_log"
     },
     {
-      "item": "regions_unexplored:cobalt_wood"
+      "item": "biomeswevegone:skyris_wood"
     },
     {
-      "item": "regions_unexplored:stripped_cobalt_log"
+      "item": "biomeswevegone:stripped_skyris_log"
     },
     {
-      "item": "regions_unexplored:stripped_cobalt_wood"
+      "item": "biomeswevegone:stripped_skyris_wood"
     }
   ],
   "result": {

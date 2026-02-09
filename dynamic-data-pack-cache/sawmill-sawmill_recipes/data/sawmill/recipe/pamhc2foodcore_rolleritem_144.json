@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:ironwood_log"
+      "item": "productivetrees:red_crepe_myrtle_log"
     },
     {
-      "item": "biomeswevegone:ironwood_wood"
+      "item": "productivetrees:red_crepe_myrtle_wood"
     },
     {
-      "item": "biomeswevegone:stripped_ironwood_log"
+      "item": "productivetrees:red_crepe_myrtle_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_ironwood_wood"
+      "item": "productivetrees:red_crepe_myrtle_stripped_wood"
     }
   ],
   "result": {

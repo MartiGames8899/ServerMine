@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "silentgear:netherwood_planks"
+    "item": "regions_unexplored:mauve_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

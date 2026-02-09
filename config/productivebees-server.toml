@@ -61,8 +61,6 @@
 	nestSpawnCooldown = 24000
 	#Centrifuges will pick up items thrown on it
 	centrifugeHopperMode = true
-	#Centrifuges will output fluid to any adjacent fluid containers including other centrifuges
-	centrifugeFluidSharing = true
 	#Enable this if you have a right click harvest handler but none of the following mods: right_click_get_crops, croptopia, quark, harvest, simplefarming, reap
 	forceEnableFarmerBeeRightClickHarvest = false
 	#Enable april fools jokes
@@ -110,8 +108,6 @@
 	disableWanderGoal = false
 	#Allow resin bees to encase mobs in amber. With this disabled it's only possible with an amber bee and it's also not as fun.
 	enableResinBeeEncasing = true
-	#Setting this to false will completely disable bee breeding. This overwrites any bee breeding recipes and selfbreed settings in the bee files.
-	allowBeeBreeding = true
 
 ["Bee attributes"]
 	#Number of ticks between attribute improvement attempts while leashed
@@ -255,7 +251,3 @@
 	# Default: 0.05
 	# Range: 0.0 ~ 1.0
 	samplerChance = 0.05
-	#Chance increase for centrifuge output that is not guaranteed.
-	# Default: 0.15
-	# Range: 0.0 ~ 1.0
-	stabilityChanceIncrease = 0.15

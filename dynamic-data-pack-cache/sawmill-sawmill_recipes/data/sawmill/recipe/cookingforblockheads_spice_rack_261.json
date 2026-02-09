@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:blackwood_planks"
+    "item": "productivetrees:sandalwood_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

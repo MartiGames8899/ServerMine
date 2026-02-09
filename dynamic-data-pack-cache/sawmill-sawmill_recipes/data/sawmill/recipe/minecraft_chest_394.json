@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "biomeswevegone:florus_stem"
-    },
-    {
-      "item": "biomeswevegone:florus_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_florus_stem"
-    },
-    {
-      "item": "biomeswevegone:stripped_florus_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "minecraft:chest",
     "count": 1

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:time_log"
+      "item": "biomeswevegone:holly_log"
     },
     {
-      "item": "twilightforest:time_wood"
+      "item": "biomeswevegone:holly_wood"
     },
     {
-      "item": "twilightforest:stripped_time_log"
+      "item": "biomeswevegone:stripped_holly_log"
     },
     {
-      "item": "twilightforest:stripped_time_wood"
+      "item": "biomeswevegone:stripped_holly_wood"
     }
   ],
   "result": {

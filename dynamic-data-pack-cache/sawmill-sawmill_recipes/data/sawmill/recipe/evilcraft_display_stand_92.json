@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:socotra_dragon_log"
-    },
-    {
-      "item": "productivetrees:socotra_dragon_wood"
-    },
-    {
-      "item": "productivetrees:socotra_dragon_stripped_log"
-    },
-    {
-      "item": "productivetrees:socotra_dragon_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
   "result": {
     "id": "evilcraft:display_stand",
     "count": 1

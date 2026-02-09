@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:juniper_log"
+      "item": "productivetrees:logwood_log"
     },
     {
-      "item": "productivetrees:juniper_wood"
+      "item": "productivetrees:logwood_wood"
     },
     {
-      "item": "productivetrees:juniper_stripped_log"
+      "item": "productivetrees:logwood_stripped_log"
     },
     {
-      "item": "productivetrees:juniper_stripped_wood"
+      "item": "productivetrees:logwood_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:smogstem_log"
+      "item": "eternal_starlight:northland_log"
     },
     {
-      "item": "undergarden:smogstem_wood"
+      "item": "eternal_starlight:northland_wood"
     },
     {
-      "item": "undergarden:stripped_smogstem_log"
+      "item": "eternal_starlight:stripped_northland_log"
     },
     {
-      "item": "undergarden:stripped_smogstem_wood"
+      "item": "eternal_starlight:stripped_northland_wood"
     }
   ],
   "result": {

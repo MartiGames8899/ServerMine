@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:ironwood_planks"
+    "item": "productivetrees:sparkle_cherry_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

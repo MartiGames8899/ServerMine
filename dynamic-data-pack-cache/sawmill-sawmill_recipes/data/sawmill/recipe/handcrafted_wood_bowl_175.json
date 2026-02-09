@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:star_anise_planks"
+    "item": "forbidden_arcanus:fungyss_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

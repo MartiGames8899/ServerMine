@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:coconut_log"
-    },
-    {
-      "item": "productivetrees:coconut_wood"
-    },
-    {
-      "item": "productivetrees:coconut_stripped_log"
-    },
-    {
-      "item": "productivetrees:coconut_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "crafting_on_a_stick:crafting_table",
     "count": 1

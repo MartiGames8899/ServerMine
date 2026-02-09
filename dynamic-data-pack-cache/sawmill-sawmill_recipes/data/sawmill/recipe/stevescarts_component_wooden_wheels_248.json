@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cave_dweller_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:cave_dweller_wood"
-    },
-    {
-      "item": "productivetrees:cave_dweller_stripped_log"
-    },
-    {
-      "item": "productivetrees:cave_dweller_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

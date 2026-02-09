@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:green_bioshroom_stem"
+      "item": "undergarden:wigglewood_log"
     },
     {
-      "item": "regions_unexplored:green_bioshroom_hyphae"
+      "item": "undergarden:wigglewood_wood"
     },
     {
-      "item": "regions_unexplored:stripped_green_bioshroom_stem"
+      "item": "undergarden:stripped_wigglewood_log"
     },
     {
-      "item": "regions_unexplored:stripped_green_bioshroom_hyphae"
+      "item": "undergarden:stripped_wigglewood_wood"
     }
   ],
   "result": {

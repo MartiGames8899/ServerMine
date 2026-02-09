@@ -6,7 +6,6 @@
   "scoreboardDebug": false,
   "debugNativeImage": false,
   "disableEternalStarlightProgress": true,
-  "skipTickingUnloadedFluxNetworks": true,
   "disableSearchTree": false,
   "logIntervalInMinutes": 10,
   "showSummaryOnDebugScreen": true,

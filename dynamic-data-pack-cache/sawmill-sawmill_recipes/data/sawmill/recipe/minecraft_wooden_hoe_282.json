@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:elderberry_log"
+      "item": "twilightforest:mining_log"
     },
     {
-      "item": "productivetrees:elderberry_wood"
+      "item": "twilightforest:mining_wood"
     },
     {
-      "item": "productivetrees:elderberry_stripped_log"
+      "item": "twilightforest:stripped_mining_log"
     },
     {
-      "item": "productivetrees:elderberry_stripped_wood"
+      "item": "twilightforest:stripped_mining_wood"
     }
   ],
   "result": {

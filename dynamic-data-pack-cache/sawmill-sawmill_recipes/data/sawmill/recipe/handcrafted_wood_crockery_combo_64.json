@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:aspen_log"
+      "item": "eternal_starlight:lunar_log"
     },
     {
-      "item": "biomeswevegone:aspen_wood"
+      "item": "eternal_starlight:lunar_wood"
     },
     {
-      "item": "biomeswevegone:stripped_aspen_log"
+      "item": "eternal_starlight:stripped_lunar_log"
     },
     {
-      "item": "biomeswevegone:stripped_aspen_wood"
+      "item": "eternal_starlight:stripped_lunar_wood"
     }
   ],
   "result": {

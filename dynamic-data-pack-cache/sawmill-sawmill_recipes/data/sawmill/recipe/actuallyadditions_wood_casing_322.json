@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "iceandfire:dreadwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:black_cherry_log"
+    },
+    {
+      "item": "productivetrees:black_cherry_wood"
+    },
+    {
+      "item": "productivetrees:black_cherry_stripped_log"
+    },
+    {
+      "item": "productivetrees:black_cherry_stripped_wood"
+    }
+  ],
   "result": {
     "id": "actuallyadditions:wood_casing",
     "count": 1

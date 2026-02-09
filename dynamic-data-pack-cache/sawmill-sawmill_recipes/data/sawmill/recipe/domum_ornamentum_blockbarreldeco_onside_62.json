@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:aspen_log"
+      "item": "twilightforest:sorting_log"
     },
     {
-      "item": "biomeswevegone:aspen_wood"
+      "item": "twilightforest:sorting_wood"
     },
     {
-      "item": "biomeswevegone:stripped_aspen_log"
+      "item": "twilightforest:stripped_sorting_log"
     },
     {
-      "item": "biomeswevegone:stripped_aspen_wood"
+      "item": "twilightforest:stripped_sorting_wood"
     }
   ],
   "result": {

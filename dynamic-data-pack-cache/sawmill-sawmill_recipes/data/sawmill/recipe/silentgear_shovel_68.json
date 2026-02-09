@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:cedar_log"
+    },
+    {
+      "item": "productivetrees:cedar_wood"
+    },
+    {
+      "item": "productivetrees:cedar_stripped_log"
+    },
+    {
+      "item": "productivetrees:cedar_stripped_wood"
+    }
+  ],
   "result": {
     "id": "silentgear:shovel",
     "count": 1

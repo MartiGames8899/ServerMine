@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:allspice_log"
+    },
+    {
+      "item": "productivetrees:allspice_wood"
+    },
+    {
+      "item": "productivetrees:allspice_stripped_log"
+    },
+    {
+      "item": "productivetrees:allspice_stripped_wood"
+    }
+  ],
   "result": {
     "id": "evilcraft:display_stand",
     "count": 1

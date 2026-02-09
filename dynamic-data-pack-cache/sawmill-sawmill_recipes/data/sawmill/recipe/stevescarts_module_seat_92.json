@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:beech_log"
+    },
+    {
+      "item": "productivetrees:beech_wood"
+    },
+    {
+      "item": "productivetrees:beech_stripped_log"
+    },
+    {
+      "item": "productivetrees:beech_stripped_wood"
+    }
+  ],
   "result": {
     "id": "stevescarts:module_seat",
     "count": 1

@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:maple_log"
+      "item": "forbidden_arcanus:fungyss_stem"
     },
     {
-      "item": "biomeswevegone:maple_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_maple_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_maple_wood"
+      "item": "forbidden_arcanus:fungyss_hyphae"
     }
   ],
   "result": {

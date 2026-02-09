@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "regions_unexplored:socotra_log"
+    },
+    {
+      "item": "regions_unexplored:socotra_wood"
+    },
+    {
+      "item": "regions_unexplored:stripped_socotra_log"
+    },
+    {
+      "item": "regions_unexplored:stripped_socotra_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:barrel",
     "count": 1

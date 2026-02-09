@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "aether:skyroot_log"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "aether:skyroot_wood"
-    },
-    {
-      "item": "aether:stripped_skyroot_log"
-    },
-    {
-      "item": "aether:stripped_skyroot_wood"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

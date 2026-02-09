@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:witch_hazel_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "biomeswevegone:witch_hazel_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_witch_hazel_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_witch_hazel_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

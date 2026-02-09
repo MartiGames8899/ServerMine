@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:white_mangrove_log"
+      "item": "silentgear:netherwood_log"
     },
     {
-      "item": "biomeswevegone:white_mangrove_wood"
+      "item": "silentgear:netherwood_wood"
     },
     {
-      "item": "biomeswevegone:stripped_white_mangrove_log"
+      "item": "silentgear:stripped_netherwood_log"
     },
     {
-      "item": "biomeswevegone:stripped_white_mangrove_wood"
+      "item": "silentgear:stripped_netherwood_wood"
     }
   ],
   "result": {
     "id": "handcrafted:wood_crockery_combo",
-    "count": 4
+    "count": 3
   },
   "type": "sawmill:woodcutting"
 }

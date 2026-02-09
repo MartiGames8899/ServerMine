@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:peach_log"
+      "item": "productivetrees:red_maple_log"
     },
     {
-      "item": "productivetrees:peach_wood"
+      "item": "productivetrees:red_maple_wood"
     },
     {
-      "item": "productivetrees:peach_stripped_log"
+      "item": "productivetrees:red_maple_stripped_log"
     },
     {
-      "item": "productivetrees:peach_stripped_wood"
+      "item": "productivetrees:red_maple_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:sorting_log"
+      "item": "forbidden_arcanus:fungyss_stem"
     },
     {
-      "item": "twilightforest:sorting_wood"
-    },
-    {
-      "item": "twilightforest:stripped_sorting_log"
-    },
-    {
-      "item": "twilightforest:stripped_sorting_wood"
+      "item": "forbidden_arcanus:fungyss_hyphae"
     }
   ],
   "result": {

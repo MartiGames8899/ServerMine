@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:teak_log"
+      "item": "productivetrees:night_fuchsia_log"
     },
     {
-      "item": "productivetrees:teak_wood"
+      "item": "productivetrees:night_fuchsia_wood"
     },
     {
-      "item": "productivetrees:teak_stripped_log"
+      "item": "productivetrees:night_fuchsia_stripped_log"
     },
     {
-      "item": "productivetrees:teak_stripped_wood"
+      "item": "productivetrees:night_fuchsia_stripped_wood"
     }
   ],
   "result": {

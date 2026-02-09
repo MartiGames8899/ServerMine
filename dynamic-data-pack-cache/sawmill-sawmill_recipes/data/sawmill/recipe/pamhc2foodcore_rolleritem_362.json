@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:grongle_log"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "undergarden:grongle_wood"
-    },
-    {
-      "item": "undergarden:stripped_grongle_log"
-    },
-    {
-      "item": "undergarden:stripped_grongle_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {

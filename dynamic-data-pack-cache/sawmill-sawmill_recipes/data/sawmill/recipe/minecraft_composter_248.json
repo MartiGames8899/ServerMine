@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:larch_log"
+      "item": "twilightforest:canopy_log"
     },
     {
-      "item": "regions_unexplored:larch_wood"
+      "item": "twilightforest:canopy_wood"
     },
     {
-      "item": "regions_unexplored:stripped_larch_log"
+      "item": "twilightforest:stripped_canopy_log"
     },
     {
-      "item": "regions_unexplored:stripped_larch_wood"
+      "item": "twilightforest:stripped_canopy_wood"
     }
   ],
   "result": {

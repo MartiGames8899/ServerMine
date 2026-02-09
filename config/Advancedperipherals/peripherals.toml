@@ -10,8 +10,6 @@
 		playerDetMaxRange = -1
 		#Activates the "getPlayerPos" function of the Player Detector
 		enablePlayerPosFunction = true
-		#Returns a play in any function even when they are in spectator
-		showSpectators = true
 		#Adds more information to `getPlayerPos` of the Player Detector. Like rotation and dimension
 		morePlayerInformation = true
 		#If true, the player detector can observe players which aren't in the same dimension as the detector itself. `playerDetMaxRange` needs to be infinite(-1) for it to work.

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:aspen_log"
+      "item": "biomeswevegone:holly_log"
     },
     {
-      "item": "biomeswevegone:aspen_wood"
+      "item": "biomeswevegone:holly_wood"
     },
     {
-      "item": "biomeswevegone:stripped_aspen_log"
+      "item": "biomeswevegone:stripped_holly_log"
     },
     {
-      "item": "biomeswevegone:stripped_aspen_wood"
+      "item": "biomeswevegone:stripped_holly_wood"
     }
   ],
   "result": {

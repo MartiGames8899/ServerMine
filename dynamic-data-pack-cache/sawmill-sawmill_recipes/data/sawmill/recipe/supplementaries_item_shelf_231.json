@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:brazilwood_planks"
+    "item": "biomeswevegone:baobab_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

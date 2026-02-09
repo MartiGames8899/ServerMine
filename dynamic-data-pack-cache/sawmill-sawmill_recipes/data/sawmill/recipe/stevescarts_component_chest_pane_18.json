@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:purple_spiral_log"
-    },
-    {
-      "item": "productivetrees:purple_spiral_wood"
-    },
-    {
-      "item": "productivetrees:purple_spiral_stripped_log"
-    },
-    {
-      "item": "productivetrees:purple_spiral_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "stevescarts:component_chest_pane",
     "count": 10

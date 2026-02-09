@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:coconut_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:coconut_wood"
-    },
-    {
-      "item": "productivetrees:coconut_stripped_log"
-    },
-    {
-      "item": "productivetrees:coconut_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

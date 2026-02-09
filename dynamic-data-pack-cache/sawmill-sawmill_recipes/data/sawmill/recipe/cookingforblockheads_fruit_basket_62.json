@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:zelkova_log"
+      "item": "biomeswevegone:skyris_log"
     },
     {
-      "item": "biomeswevegone:zelkova_wood"
+      "item": "biomeswevegone:skyris_wood"
     },
     {
-      "item": "biomeswevegone:stripped_zelkova_log"
+      "item": "biomeswevegone:stripped_skyris_log"
     },
     {
-      "item": "biomeswevegone:stripped_zelkova_wood"
+      "item": "biomeswevegone:stripped_skyris_wood"
     }
   ],
   "result": {

@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "regions_unexplored:eucalyptus_log"
-    },
-    {
-      "item": "regions_unexplored:eucalyptus_wood"
-    },
-    {
-      "item": "regions_unexplored:stripped_eucalyptus_log"
-    },
-    {
-      "item": "regions_unexplored:stripped_eucalyptus_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "minecraft:chest",
     "count": 1

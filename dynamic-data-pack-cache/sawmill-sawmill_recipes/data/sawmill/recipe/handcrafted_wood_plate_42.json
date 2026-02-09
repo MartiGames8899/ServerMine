@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:ebony_log"
+      "item": "productivetrees:greenheart_log"
     },
     {
-      "item": "biomeswevegone:ebony_wood"
+      "item": "productivetrees:greenheart_wood"
     },
     {
-      "item": "biomeswevegone:stripped_ebony_log"
+      "item": "productivetrees:greenheart_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_ebony_wood"
+      "item": "productivetrees:greenheart_stripped_wood"
     }
   ],
   "result": {

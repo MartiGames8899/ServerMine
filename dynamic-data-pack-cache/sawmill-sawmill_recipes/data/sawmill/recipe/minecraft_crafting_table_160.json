@@ -2,21 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:warped_stem"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "minecraft:warped_hyphae"
-    },
-    {
-      "item": "minecraft:stripped_warped_stem"
-    },
-    {
-      "item": "minecraft:stripped_warped_hyphae"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "minecraft:crafting_table",
     "count": 1
   },
+  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

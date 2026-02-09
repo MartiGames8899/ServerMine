@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:cika_log"
+      "item": "minecraft:dark_oak_log"
     },
     {
-      "item": "biomeswevegone:cika_wood"
+      "item": "minecraft:dark_oak_wood"
     },
     {
-      "item": "biomeswevegone:stripped_cika_log"
+      "item": "minecraft:stripped_dark_oak_log"
     },
     {
-      "item": "biomeswevegone:stripped_cika_wood"
+      "item": "minecraft:stripped_dark_oak_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:yellow_meranti_log"
+      "item": "regions_unexplored:kapok_log"
     },
     {
-      "item": "productivetrees:yellow_meranti_wood"
+      "item": "regions_unexplored:kapok_wood"
     },
     {
-      "item": "productivetrees:yellow_meranti_stripped_log"
+      "item": "regions_unexplored:stripped_kapok_log"
     },
     {
-      "item": "productivetrees:yellow_meranti_stripped_wood"
+      "item": "regions_unexplored:stripped_kapok_wood"
     }
   ],
   "result": {

@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "biomeswevegone:willow_log"
+    },
+    {
+      "item": "biomeswevegone:willow_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_willow_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_willow_wood"
+    }
+  ],
   "result": {
     "id": "actuallyadditions:wooden_aiot",
     "count": 1

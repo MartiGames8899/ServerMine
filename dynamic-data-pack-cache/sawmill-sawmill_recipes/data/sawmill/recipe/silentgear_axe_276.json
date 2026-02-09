@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "cataclysm:chorus_stem"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:white_poplar_log"
+    },
+    {
+      "item": "productivetrees:white_poplar_wood"
+    },
+    {
+      "item": "productivetrees:white_poplar_stripped_log"
+    },
+    {
+      "item": "productivetrees:white_poplar_stripped_wood"
+    }
+  ],
   "result": {
     "id": "silentgear:axe",
     "count": 1

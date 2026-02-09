@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:rubber_tree_planks"
+    "item": "biomeswevegone:redwood_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

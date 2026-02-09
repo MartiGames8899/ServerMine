@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:demonic_log"
+      "item": "regions_unexplored:magnolia_log"
     },
     {
-      "item": "allthemodium:stripped_demonic_log"
+      "item": "regions_unexplored:magnolia_wood"
+    },
+    {
+      "item": "regions_unexplored:stripped_magnolia_log"
+    },
+    {
+      "item": "regions_unexplored:stripped_magnolia_wood"
     }
   ],
   "result": {

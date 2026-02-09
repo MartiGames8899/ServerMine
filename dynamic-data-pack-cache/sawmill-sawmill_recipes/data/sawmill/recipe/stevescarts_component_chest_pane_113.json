@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:coffea_planks"
+    "item": "regions_unexplored:joshua_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

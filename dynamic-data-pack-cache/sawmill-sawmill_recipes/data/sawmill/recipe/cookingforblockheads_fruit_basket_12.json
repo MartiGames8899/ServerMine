@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:jungle_log"
+      "item": "productivetrees:coconut_log"
     },
     {
-      "item": "minecraft:jungle_wood"
+      "item": "productivetrees:coconut_wood"
     },
     {
-      "item": "minecraft:stripped_jungle_log"
+      "item": "productivetrees:coconut_stripped_log"
     },
     {
-      "item": "minecraft:stripped_jungle_wood"
+      "item": "productivetrees:coconut_stripped_wood"
     }
   ],
   "result": {

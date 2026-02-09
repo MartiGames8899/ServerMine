@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:boxwood_log"
+      "item": "regions_unexplored:palm_log"
     },
     {
-      "item": "productivetrees:boxwood_wood"
+      "item": "regions_unexplored:palm_wood"
     },
     {
-      "item": "productivetrees:boxwood_stripped_log"
+      "item": "regions_unexplored:stripped_palm_log"
     },
     {
-      "item": "productivetrees:boxwood_stripped_wood"
+      "item": "regions_unexplored:stripped_palm_wood"
     }
   ],
   "result": {

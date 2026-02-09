@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:aspen_log"
+      "item": "minecraft:dark_oak_log"
     },
     {
-      "item": "biomeswevegone:aspen_wood"
+      "item": "minecraft:dark_oak_wood"
     },
     {
-      "item": "biomeswevegone:stripped_aspen_log"
+      "item": "minecraft:stripped_dark_oak_log"
     },
     {
-      "item": "biomeswevegone:stripped_aspen_wood"
+      "item": "minecraft:stripped_dark_oak_wood"
     }
   ],
   "result": {

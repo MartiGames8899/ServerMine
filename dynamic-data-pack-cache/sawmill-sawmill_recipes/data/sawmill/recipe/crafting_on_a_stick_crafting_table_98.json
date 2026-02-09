@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:jinglestem_log"
+      "item": "biomeswevegone:jacaranda_log"
     },
     {
-      "item": "eternal_starlight:jinglestem_wood"
+      "item": "biomeswevegone:jacaranda_wood"
     },
     {
-      "item": "eternal_starlight:stripped_jinglestem_log"
+      "item": "biomeswevegone:stripped_jacaranda_log"
     },
     {
-      "item": "eternal_starlight:stripped_jinglestem_wood"
+      "item": "biomeswevegone:stripped_jacaranda_wood"
     }
   ],
   "result": {

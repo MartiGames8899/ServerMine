@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:willow_log"
+      "item": "twilightforest:transformation_log"
     },
     {
-      "item": "biomeswevegone:willow_wood"
+      "item": "twilightforest:transformation_wood"
     },
     {
-      "item": "biomeswevegone:stripped_willow_log"
+      "item": "twilightforest:stripped_transformation_log"
     },
     {
-      "item": "biomeswevegone:stripped_willow_wood"
+      "item": "twilightforest:stripped_transformation_wood"
     }
   ],
   "result": {

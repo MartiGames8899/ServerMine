@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:jungle_log"
+      "item": "regions_unexplored:blue_bioshroom_stem"
     },
     {
-      "item": "minecraft:jungle_wood"
+      "item": "regions_unexplored:blue_bioshroom_hyphae"
     },
     {
-      "item": "minecraft:stripped_jungle_log"
+      "item": "regions_unexplored:stripped_blue_bioshroom_stem"
     },
     {
-      "item": "minecraft:stripped_jungle_wood"
+      "item": "regions_unexplored:stripped_blue_bioshroom_hyphae"
     }
   ],
   "result": {

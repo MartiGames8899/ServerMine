@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:pine_log"
+      "item": "eternal_starlight:northland_log"
     },
     {
-      "item": "biomeswevegone:pine_wood"
+      "item": "eternal_starlight:northland_wood"
     },
     {
-      "item": "biomeswevegone:stripped_pine_log"
+      "item": "eternal_starlight:stripped_northland_log"
     },
     {
-      "item": "biomeswevegone:stripped_pine_wood"
+      "item": "eternal_starlight:stripped_northland_wood"
     }
   ],
   "result": {

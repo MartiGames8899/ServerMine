@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:soul_log"
+      "item": "productivetrees:flickering_sun_log"
     },
     {
-      "item": "allthemodium:stripped_soul_log"
+      "item": "productivetrees:flickering_sun_wood"
+    },
+    {
+      "item": "productivetrees:flickering_sun_stripped_log"
+    },
+    {
+      "item": "productivetrees:flickering_sun_stripped_wood"
     }
   ],
   "result": {

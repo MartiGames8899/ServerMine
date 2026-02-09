@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:cempedak_planks"
+    "item": "regions_unexplored:dead_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

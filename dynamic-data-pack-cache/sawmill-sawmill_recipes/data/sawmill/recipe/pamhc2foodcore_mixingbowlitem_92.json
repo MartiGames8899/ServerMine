@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:dogwood_log"
+    },
+    {
+      "item": "productivetrees:dogwood_wood"
+    },
+    {
+      "item": "productivetrees:dogwood_stripped_log"
+    },
+    {
+      "item": "productivetrees:dogwood_stripped_wood"
+    }
+  ],
   "result": {
     "id": "pamhc2foodcore:mixingbowlitem",
     "count": 1

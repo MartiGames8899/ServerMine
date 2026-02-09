@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:flickering_sun_log"
+      "item": "aether:skyroot_log"
     },
     {
-      "item": "productivetrees:flickering_sun_wood"
+      "item": "aether:skyroot_wood"
     },
     {
-      "item": "productivetrees:flickering_sun_stripped_log"
+      "item": "aether:stripped_skyroot_log"
     },
     {
-      "item": "productivetrees:flickering_sun_stripped_wood"
+      "item": "aether:stripped_skyroot_wood"
     }
   ],
   "result": {

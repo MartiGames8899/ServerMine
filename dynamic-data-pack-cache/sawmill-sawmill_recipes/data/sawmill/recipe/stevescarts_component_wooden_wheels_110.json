@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:witch_hazel_log"
+      "item": "twilightforest:mangrove_log"
     },
     {
-      "item": "biomeswevegone:witch_hazel_wood"
+      "item": "twilightforest:mangrove_wood"
     },
     {
-      "item": "biomeswevegone:stripped_witch_hazel_log"
+      "item": "twilightforest:stripped_mangrove_log"
     },
     {
-      "item": "biomeswevegone:stripped_witch_hazel_wood"
+      "item": "twilightforest:stripped_mangrove_wood"
     }
   ],
   "result": {

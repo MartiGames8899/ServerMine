@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:sakura_log"
+      "item": "aether:skyroot_log"
     },
     {
-      "item": "biomeswevegone:sakura_wood"
+      "item": "aether:skyroot_wood"
     },
     {
-      "item": "biomeswevegone:stripped_sakura_log"
+      "item": "aether:stripped_skyroot_log"
     },
     {
-      "item": "biomeswevegone:stripped_sakura_wood"
+      "item": "aether:stripped_skyroot_wood"
     }
   ],
   "result": {

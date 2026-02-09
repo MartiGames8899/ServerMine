@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:aspen_planks"
+    "item": "regions_unexplored:cypress_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

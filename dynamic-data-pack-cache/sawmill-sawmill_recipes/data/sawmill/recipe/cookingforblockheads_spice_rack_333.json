@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:white_poplar_planks"
+    "item": "productivetrees:brazil_nut_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:cradlewood_log"
+      "item": "silentgear:netherwood_log"
     },
     {
-      "item": "eternal_starlight:cradlewood_wood"
+      "item": "silentgear:netherwood_wood"
     },
     {
-      "item": "eternal_starlight:stripped_cradlewood_log"
+      "item": "silentgear:stripped_netherwood_log"
     },
     {
-      "item": "eternal_starlight:stripped_cradlewood_wood"
+      "item": "silentgear:stripped_netherwood_wood"
     }
   ],
   "result": {
     "id": "cookingforblockheads:spice_rack",
-    "count": 4
+    "count": 3
   },
   "type": "sawmill:woodcutting"
 }
