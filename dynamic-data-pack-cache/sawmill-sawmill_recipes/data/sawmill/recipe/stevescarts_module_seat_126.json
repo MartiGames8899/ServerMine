@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:purpleheart_log"
+      "item": "productivetrees:sycamore_fig_log"
     },
     {
-      "item": "productivetrees:purpleheart_wood"
+      "item": "productivetrees:sycamore_fig_wood"
     },
     {
-      "item": "productivetrees:purpleheart_stripped_log"
+      "item": "productivetrees:sycamore_fig_stripped_log"
     },
     {
-      "item": "productivetrees:purpleheart_stripped_wood"
+      "item": "productivetrees:sycamore_fig_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:almond_log"
+      "item": "biomeswevegone:jacaranda_log"
     },
     {
-      "item": "productivetrees:almond_wood"
+      "item": "biomeswevegone:jacaranda_wood"
     },
     {
-      "item": "productivetrees:almond_stripped_log"
+      "item": "biomeswevegone:stripped_jacaranda_log"
     },
     {
-      "item": "productivetrees:almond_stripped_wood"
+      "item": "biomeswevegone:stripped_jacaranda_wood"
     }
   ],
   "result": {

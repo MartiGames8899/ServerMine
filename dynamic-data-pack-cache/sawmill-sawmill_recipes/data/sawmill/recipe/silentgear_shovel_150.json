@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:avocado_log"
+      "item": "biomeswevegone:holly_log"
     },
     {
-      "item": "productivetrees:avocado_wood"
+      "item": "biomeswevegone:holly_wood"
     },
     {
-      "item": "productivetrees:avocado_stripped_log"
+      "item": "biomeswevegone:stripped_holly_log"
     },
     {
-      "item": "productivetrees:avocado_stripped_wood"
+      "item": "biomeswevegone:stripped_holly_wood"
     }
   ],
   "result": {

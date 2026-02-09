@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "allthemodium:demonic_planks"
+    "item": "productivetrees:purple_spiral_planks"
   },
   "result": {
     "id": "handcrafted:wood_cup",

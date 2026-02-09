@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:cork_oak_log"
-    },
-    {
-      "item": "productivetrees:cork_oak_wood"
-    },
-    {
-      "item": "productivetrees:cork_oak_stripped_log"
-    },
-    {
-      "item": "productivetrees:cork_oak_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "iceandfire:dreadwood_log"
+  },
   "result": {
     "id": "aquaculture:wooden_fillet_knife",
     "count": 1

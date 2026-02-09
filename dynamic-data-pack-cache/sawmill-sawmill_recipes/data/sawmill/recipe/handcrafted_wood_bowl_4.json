@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:almond_log"
+      "item": "regions_unexplored:mauve_log"
     },
     {
-      "item": "productivetrees:almond_wood"
+      "item": "regions_unexplored:mauve_wood"
     },
     {
-      "item": "productivetrees:almond_stripped_log"
+      "item": "regions_unexplored:stripped_mauve_log"
     },
     {
-      "item": "productivetrees:almond_stripped_wood"
+      "item": "regions_unexplored:stripped_mauve_wood"
     }
   ],
   "result": {

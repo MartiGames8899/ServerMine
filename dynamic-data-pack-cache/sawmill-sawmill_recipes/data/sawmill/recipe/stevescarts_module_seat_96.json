@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "twilightforest:dark_log"
-    },
-    {
-      "item": "twilightforest:dark_wood"
-    },
-    {
-      "item": "twilightforest:stripped_dark_log"
-    },
-    {
-      "item": "twilightforest:stripped_dark_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "stevescarts:module_seat",
     "count": 1

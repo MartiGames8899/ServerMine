@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:echo_log"
+      "item": "productivetrees:iroko_log"
     },
     {
-      "item": "deeperdarker:echo_wood"
+      "item": "productivetrees:iroko_wood"
     },
     {
-      "item": "deeperdarker:stripped_echo_log"
+      "item": "productivetrees:iroko_stripped_log"
     },
     {
-      "item": "deeperdarker:stripped_echo_wood"
+      "item": "productivetrees:iroko_stripped_wood"
     }
   ],
   "result": {

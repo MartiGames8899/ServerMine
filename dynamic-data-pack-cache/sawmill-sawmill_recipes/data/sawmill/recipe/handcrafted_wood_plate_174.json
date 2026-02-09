@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:mining_log"
+      "item": "biomeswevegone:blue_enchanted_log"
     },
     {
-      "item": "twilightforest:mining_wood"
+      "item": "biomeswevegone:blue_enchanted_wood"
     },
     {
-      "item": "twilightforest:stripped_mining_log"
+      "item": "biomeswevegone:stripped_blue_enchanted_log"
     },
     {
-      "item": "twilightforest:stripped_mining_wood"
+      "item": "biomeswevegone:stripped_blue_enchanted_wood"
     }
   ],
   "result": {

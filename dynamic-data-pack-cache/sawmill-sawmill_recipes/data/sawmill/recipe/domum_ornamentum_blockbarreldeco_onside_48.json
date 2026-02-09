@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:baobab_log"
+      "item": "productivetrees:monkey_puzzle_log"
     },
     {
-      "item": "biomeswevegone:baobab_wood"
+      "item": "productivetrees:monkey_puzzle_wood"
     },
     {
-      "item": "biomeswevegone:stripped_baobab_log"
+      "item": "productivetrees:monkey_puzzle_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_baobab_wood"
+      "item": "productivetrees:monkey_puzzle_stripped_wood"
     }
   ],
   "result": {

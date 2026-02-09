@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:pink_bioshroom_planks"
+    "item": "productivetrees:swamp_gum_planks"
   },
   "result": {
     "id": "handcrafted:wood_plate",

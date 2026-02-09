@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:aspen_log"
+      "item": "productivetrees:time_traveller_log"
     },
     {
-      "item": "biomeswevegone:aspen_wood"
+      "item": "productivetrees:time_traveller_wood"
     },
     {
-      "item": "biomeswevegone:stripped_aspen_log"
+      "item": "productivetrees:time_traveller_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_aspen_wood"
+      "item": "productivetrees:time_traveller_stripped_wood"
     }
   ],
   "result": {

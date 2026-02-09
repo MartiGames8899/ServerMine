@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:soul_tree_log"
+      "item": "productivetrees:star_anise_log"
     },
     {
-      "item": "productivetrees:soul_tree_wood"
+      "item": "productivetrees:star_anise_wood"
     },
     {
-      "item": "productivetrees:soul_tree_stripped_log"
+      "item": "productivetrees:star_anise_stripped_log"
     },
     {
-      "item": "productivetrees:soul_tree_stripped_wood"
+      "item": "productivetrees:star_anise_stripped_wood"
     }
   ],
   "result": {

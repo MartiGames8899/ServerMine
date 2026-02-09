@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:swamp_gum_log"
+    },
+    {
+      "item": "productivetrees:swamp_gum_wood"
+    },
+    {
+      "item": "productivetrees:swamp_gum_stripped_log"
+    },
+    {
+      "item": "productivetrees:swamp_gum_stripped_wood"
+    }
+  ],
   "result": {
     "id": "silentgear:hoe",
     "count": 1

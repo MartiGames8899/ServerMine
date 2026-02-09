@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:twilight_oak_log"
+      "item": "biomeswevegone:ebony_log"
     },
     {
-      "item": "twilightforest:twilight_oak_wood"
+      "item": "biomeswevegone:ebony_wood"
     },
     {
-      "item": "twilightforest:stripped_twilight_oak_log"
+      "item": "biomeswevegone:stripped_ebony_log"
     },
     {
-      "item": "twilightforest:stripped_twilight_oak_wood"
+      "item": "biomeswevegone:stripped_ebony_wood"
     }
   ],
   "result": {

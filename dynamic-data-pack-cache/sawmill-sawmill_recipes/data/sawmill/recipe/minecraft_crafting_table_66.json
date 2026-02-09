@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:bull_pine_log"
+      "item": "twilightforest:canopy_log"
     },
     {
-      "item": "productivetrees:bull_pine_wood"
+      "item": "twilightforest:canopy_wood"
     },
     {
-      "item": "productivetrees:bull_pine_stripped_log"
+      "item": "twilightforest:stripped_canopy_log"
     },
     {
-      "item": "productivetrees:bull_pine_stripped_wood"
+      "item": "twilightforest:stripped_canopy_wood"
     }
   ],
   "result": {

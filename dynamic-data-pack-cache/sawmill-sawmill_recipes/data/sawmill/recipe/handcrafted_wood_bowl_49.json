@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:baobab_planks"
+    "item": "regions_unexplored:eucalyptus_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:buddhas_hand_log"
+      "item": "regions_unexplored:green_bioshroom_stem"
     },
     {
-      "item": "productivetrees:buddhas_hand_wood"
+      "item": "regions_unexplored:green_bioshroom_hyphae"
     },
     {
-      "item": "productivetrees:buddhas_hand_stripped_log"
+      "item": "regions_unexplored:stripped_green_bioshroom_stem"
     },
     {
-      "item": "productivetrees:buddhas_hand_stripped_wood"
+      "item": "regions_unexplored:stripped_green_bioshroom_hyphae"
     }
   ],
   "result": {

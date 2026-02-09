@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:joshua_log"
+      "item": "minecraft:birch_log"
     },
     {
-      "item": "regions_unexplored:joshua_wood"
+      "item": "minecraft:birch_wood"
     },
     {
-      "item": "regions_unexplored:stripped_joshua_log"
+      "item": "minecraft:stripped_birch_log"
     },
     {
-      "item": "regions_unexplored:stripped_joshua_wood"
+      "item": "minecraft:stripped_birch_wood"
     }
   ],
   "result": {

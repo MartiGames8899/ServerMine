@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:flickering_sun_log"
+      "item": "twilightforest:twilight_oak_log"
     },
     {
-      "item": "productivetrees:flickering_sun_wood"
+      "item": "twilightforest:twilight_oak_wood"
     },
     {
-      "item": "productivetrees:flickering_sun_stripped_log"
+      "item": "twilightforest:stripped_twilight_oak_log"
     },
     {
-      "item": "productivetrees:flickering_sun_stripped_wood"
+      "item": "twilightforest:stripped_twilight_oak_wood"
     }
   ],
   "result": {

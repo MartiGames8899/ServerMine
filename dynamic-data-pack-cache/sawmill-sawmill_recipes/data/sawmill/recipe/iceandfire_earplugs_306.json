@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:baobab_log"
+      "item": "productivetrees:sand_pear_log"
     },
     {
-      "item": "biomeswevegone:baobab_wood"
+      "item": "productivetrees:sand_pear_wood"
     },
     {
-      "item": "biomeswevegone:stripped_baobab_log"
+      "item": "productivetrees:sand_pear_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_baobab_wood"
+      "item": "productivetrees:sand_pear_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rowan_log"
+      "item": "regions_unexplored:socotra_log"
     },
     {
-      "item": "productivetrees:rowan_wood"
+      "item": "regions_unexplored:socotra_wood"
     },
     {
-      "item": "productivetrees:rowan_stripped_log"
+      "item": "regions_unexplored:stripped_socotra_log"
     },
     {
-      "item": "productivetrees:rowan_stripped_wood"
+      "item": "regions_unexplored:stripped_socotra_wood"
     }
   ],
   "result": {

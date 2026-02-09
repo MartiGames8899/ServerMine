@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cinnamon_log"
+      "item": "regions_unexplored:maple_log"
     },
     {
-      "item": "productivetrees:cinnamon_wood"
+      "item": "regions_unexplored:maple_wood"
     },
     {
-      "item": "productivetrees:cinnamon_stripped_log"
+      "item": "regions_unexplored:stripped_maple_log"
     },
     {
-      "item": "productivetrees:cinnamon_stripped_wood"
+      "item": "regions_unexplored:stripped_maple_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:yellow_bioshroom_stem"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "regions_unexplored:yellow_bioshroom_hyphae"
+      "item": "deeperdarker:echo_wood"
     },
     {
-      "item": "regions_unexplored:stripped_yellow_bioshroom_stem"
+      "item": "deeperdarker:stripped_echo_log"
     },
     {
-      "item": "regions_unexplored:stripped_yellow_bioshroom_hyphae"
+      "item": "deeperdarker:stripped_echo_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:silver_fir_log"
+      "item": "productivetrees:wenge_log"
     },
     {
-      "item": "productivetrees:silver_fir_wood"
+      "item": "productivetrees:wenge_wood"
     },
     {
-      "item": "productivetrees:silver_fir_stripped_log"
+      "item": "productivetrees:wenge_stripped_log"
     },
     {
-      "item": "productivetrees:silver_fir_stripped_wood"
+      "item": "productivetrees:wenge_stripped_wood"
     }
   ],
   "result": {

@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "integrateddynamics:menril_log"
+      "item": "productivetrees:grandidiers_baobab_log"
     },
     {
-      "item": "integrateddynamics:menril_wood"
+      "item": "productivetrees:grandidiers_baobab_wood"
+    },
+    {
+      "item": "productivetrees:grandidiers_baobab_stripped_log"
+    },
+    {
+      "item": "productivetrees:grandidiers_baobab_stripped_wood"
     }
   ],
   "result": {

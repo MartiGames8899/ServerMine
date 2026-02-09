@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:brown_amber_log"
+      "item": "regions_unexplored:larch_log"
     },
     {
-      "item": "productivetrees:brown_amber_wood"
+      "item": "regions_unexplored:larch_wood"
     },
     {
-      "item": "productivetrees:brown_amber_stripped_log"
+      "item": "regions_unexplored:stripped_larch_log"
     },
     {
-      "item": "productivetrees:brown_amber_stripped_wood"
+      "item": "regions_unexplored:stripped_larch_wood"
     }
   ],
   "result": {

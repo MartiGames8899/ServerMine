@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:jacaranda_planks"
+    "item": "productivetrees:cedar_planks"
   },
   "result": {
     "id": "handcrafted:wood_cup",

@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:wigglewood_log"
+      "item": "allthemodium:soul_log"
     },
     {
-      "item": "undergarden:wigglewood_wood"
-    },
-    {
-      "item": "undergarden:stripped_wigglewood_log"
-    },
-    {
-      "item": "undergarden:stripped_wigglewood_wood"
+      "item": "allthemodium:stripped_soul_log"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sycamore_fig_log"
+      "item": "regions_unexplored:redwood_log"
     },
     {
-      "item": "productivetrees:sycamore_fig_wood"
+      "item": "regions_unexplored:redwood_wood"
     },
     {
-      "item": "productivetrees:sycamore_fig_stripped_log"
+      "item": "regions_unexplored:stripped_redwood_log"
     },
     {
-      "item": "productivetrees:sycamore_fig_stripped_wood"
+      "item": "regions_unexplored:stripped_redwood_wood"
     }
   ],
   "result": {

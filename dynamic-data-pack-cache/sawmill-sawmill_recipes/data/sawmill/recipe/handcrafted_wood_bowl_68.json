@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:warped_stem"
+      "item": "biomeswevegone:sakura_log"
     },
     {
-      "item": "minecraft:warped_hyphae"
+      "item": "biomeswevegone:sakura_wood"
     },
     {
-      "item": "minecraft:stripped_warped_stem"
+      "item": "biomeswevegone:stripped_sakura_log"
     },
     {
-      "item": "minecraft:stripped_warped_hyphae"
+      "item": "biomeswevegone:stripped_sakura_wood"
     }
   ],
   "result": {

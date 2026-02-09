@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:magnolia_log"
+      "item": "regions_unexplored:pink_bioshroom_stem"
     },
     {
-      "item": "regions_unexplored:magnolia_wood"
+      "item": "regions_unexplored:pink_bioshroom_hyphae"
     },
     {
-      "item": "regions_unexplored:stripped_magnolia_log"
+      "item": "regions_unexplored:stripped_pink_bioshroom_stem"
     },
     {
-      "item": "regions_unexplored:stripped_magnolia_wood"
+      "item": "regions_unexplored:stripped_pink_bioshroom_hyphae"
     }
   ],
   "result": {

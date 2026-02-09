@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:slimy_delight_log"
+      "item": "allthemodium:demonic_log"
     },
     {
-      "item": "productivetrees:slimy_delight_wood"
-    },
-    {
-      "item": "productivetrees:slimy_delight_stripped_log"
-    },
-    {
-      "item": "productivetrees:slimy_delight_stripped_wood"
+      "item": "allthemodium:stripped_demonic_log"
     }
   ],
   "result": {

@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:night_fuchsia_log"
+      "item": "biomeswevegone:skyris_log"
     },
     {
-      "item": "productivetrees:night_fuchsia_wood"
+      "item": "biomeswevegone:skyris_wood"
     },
     {
-      "item": "productivetrees:night_fuchsia_stripped_log"
+      "item": "biomeswevegone:stripped_skyris_log"
     },
     {
-      "item": "productivetrees:night_fuchsia_stripped_wood"
+      "item": "biomeswevegone:stripped_skyris_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:larch_log"
+      "item": "regions_unexplored:palm_log"
     },
     {
-      "item": "regions_unexplored:larch_wood"
+      "item": "regions_unexplored:palm_wood"
     },
     {
-      "item": "regions_unexplored:stripped_larch_log"
+      "item": "regions_unexplored:stripped_palm_log"
     },
     {
-      "item": "regions_unexplored:stripped_larch_wood"
+      "item": "regions_unexplored:stripped_palm_wood"
     }
   ],
   "result": {

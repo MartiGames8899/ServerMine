@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:whitebeam_log"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "productivetrees:whitebeam_wood"
-    },
-    {
-      "item": "productivetrees:whitebeam_stripped_log"
-    },
-    {
-      "item": "productivetrees:whitebeam_stripped_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {

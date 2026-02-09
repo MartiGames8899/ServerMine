@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:firecracker_log"
-    },
-    {
-      "item": "productivetrees:firecracker_wood"
-    },
-    {
-      "item": "productivetrees:firecracker_stripped_log"
-    },
-    {
-      "item": "productivetrees:firecracker_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "oritech:machine_core_1",
     "count": 1

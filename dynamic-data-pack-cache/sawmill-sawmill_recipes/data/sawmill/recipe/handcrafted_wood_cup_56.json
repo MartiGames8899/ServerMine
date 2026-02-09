@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "aether:skyroot_log"
+      "item": "twilightforest:time_log"
     },
     {
-      "item": "aether:skyroot_wood"
+      "item": "twilightforest:time_wood"
     },
     {
-      "item": "aether:stripped_skyroot_log"
+      "item": "twilightforest:stripped_time_log"
     },
     {
-      "item": "aether:stripped_skyroot_wood"
+      "item": "twilightforest:stripped_time_wood"
     }
   ],
   "result": {

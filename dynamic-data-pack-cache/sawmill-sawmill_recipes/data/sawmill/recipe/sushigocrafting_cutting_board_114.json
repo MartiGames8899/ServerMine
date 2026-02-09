@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pistachio_log"
+      "item": "productivetrees:wenge_log"
     },
     {
-      "item": "productivetrees:pistachio_wood"
+      "item": "productivetrees:wenge_wood"
     },
     {
-      "item": "productivetrees:pistachio_stripped_log"
+      "item": "productivetrees:wenge_stripped_log"
     },
     {
-      "item": "productivetrees:pistachio_stripped_wood"
+      "item": "productivetrees:wenge_stripped_wood"
     }
   ],
   "result": {

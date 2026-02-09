@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:candlenut_log"
+      "item": "regions_unexplored:yellow_bioshroom_stem"
     },
     {
-      "item": "productivetrees:candlenut_wood"
+      "item": "regions_unexplored:yellow_bioshroom_hyphae"
     },
     {
-      "item": "productivetrees:candlenut_stripped_log"
+      "item": "regions_unexplored:stripped_yellow_bioshroom_stem"
     },
     {
-      "item": "productivetrees:candlenut_stripped_wood"
+      "item": "regions_unexplored:stripped_yellow_bioshroom_hyphae"
     }
   ],
   "result": {

@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:slimy_delight_log"
-    },
-    {
-      "item": "productivetrees:slimy_delight_wood"
-    },
-    {
-      "item": "productivetrees:slimy_delight_stripped_log"
-    },
-    {
-      "item": "productivetrees:slimy_delight_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "iceandfire:dreadwood_log"
+  },
   "result": {
     "id": "actuallyadditions:wood_casing",
     "count": 1

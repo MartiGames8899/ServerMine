@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:apricot_log"
+      "item": "productivetrees:cultivated_pear_log"
     },
     {
-      "item": "productivetrees:apricot_wood"
+      "item": "productivetrees:cultivated_pear_wood"
     },
     {
-      "item": "productivetrees:apricot_stripped_log"
+      "item": "productivetrees:cultivated_pear_stripped_log"
     },
     {
-      "item": "productivetrees:apricot_stripped_wood"
+      "item": "productivetrees:cultivated_pear_stripped_wood"
     }
   ],
   "result": {

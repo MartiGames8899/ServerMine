@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:palm_planks"
+    "item": "productivetrees:rubber_tree_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

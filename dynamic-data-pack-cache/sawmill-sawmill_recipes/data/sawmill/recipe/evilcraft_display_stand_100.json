@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:grongle_log"
+      "item": "productivetrees:persimmon_log"
     },
     {
-      "item": "undergarden:grongle_wood"
+      "item": "productivetrees:persimmon_wood"
     },
     {
-      "item": "undergarden:stripped_grongle_log"
+      "item": "productivetrees:persimmon_stripped_log"
     },
     {
-      "item": "undergarden:stripped_grongle_wood"
+      "item": "productivetrees:persimmon_stripped_wood"
     }
   ],
   "result": {

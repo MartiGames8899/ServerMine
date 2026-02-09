@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:holly_planks"
+    "item": "productivetrees:black_ember_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

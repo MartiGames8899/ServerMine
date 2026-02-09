@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:cypress_log"
+      "item": "productivetrees:silver_fir_log"
     },
     {
-      "item": "regions_unexplored:cypress_wood"
+      "item": "productivetrees:silver_fir_wood"
     },
     {
-      "item": "regions_unexplored:stripped_cypress_log"
+      "item": "productivetrees:silver_fir_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_cypress_wood"
+      "item": "productivetrees:silver_fir_stripped_wood"
     }
   ],
   "result": {

@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "twilightforest:dark_log"
-    },
-    {
-      "item": "twilightforest:dark_wood"
-    },
-    {
-      "item": "twilightforest:stripped_dark_log"
-    },
-    {
-      "item": "twilightforest:stripped_dark_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "cookingforblockheads:spice_rack",
     "count": 4

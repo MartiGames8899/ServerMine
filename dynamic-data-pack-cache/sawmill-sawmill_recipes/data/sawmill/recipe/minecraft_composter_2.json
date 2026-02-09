@@ -1,13 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "deeperdarker:blooming_stem"
-    },
-    {
-      "item": "deeperdarker:stripped_blooming_stem"
-    }
-  ],
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
   "result": {
     "id": "minecraft:composter",
     "count": 1

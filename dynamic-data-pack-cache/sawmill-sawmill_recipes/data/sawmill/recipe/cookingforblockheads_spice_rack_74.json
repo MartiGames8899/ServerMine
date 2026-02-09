@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:grongle_log"
+      "item": "biomeswevegone:aspen_log"
     },
     {
-      "item": "undergarden:grongle_wood"
+      "item": "biomeswevegone:aspen_wood"
     },
     {
-      "item": "undergarden:stripped_grongle_log"
+      "item": "biomeswevegone:stripped_aspen_log"
     },
     {
-      "item": "undergarden:stripped_grongle_wood"
+      "item": "biomeswevegone:stripped_aspen_wood"
     }
   ],
   "result": {

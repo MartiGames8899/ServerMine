@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:soursop_log"
+      "item": "evilcraft:undead_log"
     },
     {
-      "item": "productivetrees:soursop_wood"
-    },
-    {
-      "item": "productivetrees:soursop_stripped_log"
-    },
-    {
-      "item": "productivetrees:soursop_stripped_wood"
+      "item": "evilcraft:undead_wood"
     }
   ],
   "result": {

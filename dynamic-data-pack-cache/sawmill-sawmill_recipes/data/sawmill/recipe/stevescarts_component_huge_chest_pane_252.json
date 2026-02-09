@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "forbidden_arcanus:edelwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:sparkle_cherry_log"
+    },
+    {
+      "item": "productivetrees:sparkle_cherry_wood"
+    },
+    {
+      "item": "productivetrees:sparkle_cherry_stripped_log"
+    },
+    {
+      "item": "productivetrees:sparkle_cherry_stripped_wood"
+    }
+  ],
   "result": {
     "id": "stevescarts:component_huge_chest_pane",
     "count": 1

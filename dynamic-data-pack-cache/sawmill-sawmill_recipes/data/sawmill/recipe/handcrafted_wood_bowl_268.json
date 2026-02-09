@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:starlight_mangrove_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "eternal_starlight:starlight_mangrove_wood"
-    },
-    {
-      "item": "eternal_starlight:stripped_starlight_mangrove_log"
-    },
-    {
-      "item": "eternal_starlight:stripped_starlight_mangrove_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

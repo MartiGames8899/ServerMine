@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:great_sallow_log"
+      "item": "regions_unexplored:mauve_log"
     },
     {
-      "item": "productivetrees:great_sallow_wood"
+      "item": "regions_unexplored:mauve_wood"
     },
     {
-      "item": "productivetrees:great_sallow_stripped_log"
+      "item": "regions_unexplored:stripped_mauve_log"
     },
     {
-      "item": "productivetrees:great_sallow_stripped_wood"
+      "item": "regions_unexplored:stripped_mauve_wood"
     }
   ],
   "result": {

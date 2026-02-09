@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:maple_log"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "regions_unexplored:maple_wood"
-    },
-    {
-      "item": "regions_unexplored:stripped_maple_log"
-    },
-    {
-      "item": "regions_unexplored:stripped_maple_wood"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

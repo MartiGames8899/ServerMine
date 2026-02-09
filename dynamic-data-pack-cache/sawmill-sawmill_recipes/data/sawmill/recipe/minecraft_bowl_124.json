@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:copper_beech_log"
+      "item": "productivetrees:coffea_log"
     },
     {
-      "item": "productivetrees:copper_beech_wood"
+      "item": "productivetrees:coffea_wood"
     },
     {
-      "item": "productivetrees:copper_beech_stripped_log"
+      "item": "productivetrees:coffea_stripped_log"
     },
     {
-      "item": "productivetrees:copper_beech_stripped_wood"
+      "item": "productivetrees:coffea_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:star_anise_log"
+      "item": "productivetrees:blackthorn_log"
     },
     {
-      "item": "productivetrees:star_anise_wood"
+      "item": "productivetrees:blackthorn_wood"
     },
     {
-      "item": "productivetrees:star_anise_stripped_log"
+      "item": "productivetrees:blackthorn_stripped_log"
     },
     {
-      "item": "productivetrees:star_anise_stripped_wood"
+      "item": "productivetrees:blackthorn_stripped_wood"
     }
   ],
   "result": {

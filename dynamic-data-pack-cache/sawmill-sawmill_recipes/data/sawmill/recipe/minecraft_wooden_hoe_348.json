@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:starlight_mangrove_log"
+      "item": "biomeswevegone:willow_log"
     },
     {
-      "item": "eternal_starlight:starlight_mangrove_wood"
+      "item": "biomeswevegone:willow_wood"
     },
     {
-      "item": "eternal_starlight:stripped_starlight_mangrove_log"
+      "item": "biomeswevegone:stripped_willow_log"
     },
     {
-      "item": "eternal_starlight:stripped_starlight_mangrove_wood"
+      "item": "biomeswevegone:stripped_willow_wood"
     }
   ],
   "result": {

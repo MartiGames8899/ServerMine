@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:wigglewood_log"
+      "item": "eternal_starlight:scarlet_log"
     },
     {
-      "item": "undergarden:wigglewood_wood"
+      "item": "eternal_starlight:scarlet_wood"
     },
     {
-      "item": "undergarden:stripped_wigglewood_log"
+      "item": "eternal_starlight:stripped_scarlet_log"
     },
     {
-      "item": "undergarden:stripped_wigglewood_wood"
+      "item": "eternal_starlight:stripped_scarlet_wood"
     }
   ],
   "result": {

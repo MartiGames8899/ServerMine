@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:purple_blackthorn_log"
+      "item": "biomeswevegone:baobab_log"
     },
     {
-      "item": "productivetrees:purple_blackthorn_wood"
+      "item": "biomeswevegone:baobab_wood"
     },
     {
-      "item": "productivetrees:purple_blackthorn_stripped_log"
+      "item": "biomeswevegone:stripped_baobab_log"
     },
     {
-      "item": "productivetrees:purple_blackthorn_stripped_wood"
+      "item": "biomeswevegone:stripped_baobab_wood"
     }
   ],
   "result": {

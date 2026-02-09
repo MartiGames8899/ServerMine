@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:blue_enchanted_planks"
+    "item": "minecraft:dark_oak_planks"
   },
   "result": {
     "id": "minecraft:bowl",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:northland_log"
+      "item": "forbidden_arcanus:aurum_log"
     },
     {
-      "item": "eternal_starlight:northland_wood"
+      "item": "forbidden_arcanus:aurum_wood"
     },
     {
-      "item": "eternal_starlight:stripped_northland_log"
+      "item": "forbidden_arcanus:stripped_aurum_log"
     },
     {
-      "item": "eternal_starlight:stripped_northland_wood"
+      "item": "forbidden_arcanus:stripped_aurum_wood"
     }
   ],
   "result": {

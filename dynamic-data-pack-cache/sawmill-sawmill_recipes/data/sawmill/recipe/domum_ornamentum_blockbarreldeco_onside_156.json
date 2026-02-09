@@ -2,21 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:pink_bioshroom_stem"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "regions_unexplored:pink_bioshroom_hyphae"
-    },
-    {
-      "item": "regions_unexplored:stripped_pink_bioshroom_stem"
-    },
-    {
-      "item": "regions_unexplored:stripped_pink_bioshroom_hyphae"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {
     "id": "domum_ornamentum:blockbarreldeco_onside",
     "count": 1
   },
+  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

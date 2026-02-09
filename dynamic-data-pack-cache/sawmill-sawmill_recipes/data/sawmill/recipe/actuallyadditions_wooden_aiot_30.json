@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:blue_bioshroom_stem"
+      "item": "biomeswevegone:rainbow_eucalyptus_log"
     },
     {
-      "item": "regions_unexplored:blue_bioshroom_hyphae"
+      "item": "biomeswevegone:rainbow_eucalyptus_wood"
     },
     {
-      "item": "regions_unexplored:stripped_blue_bioshroom_stem"
+      "item": "biomeswevegone:stripped_rainbow_eucalyptus_log"
     },
     {
-      "item": "regions_unexplored:stripped_blue_bioshroom_hyphae"
+      "item": "biomeswevegone:stripped_rainbow_eucalyptus_wood"
     }
   ],
   "result": {

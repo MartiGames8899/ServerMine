@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:wenge_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "productivetrees:wenge_wood"
-    },
-    {
-      "item": "productivetrees:wenge_stripped_log"
-    },
-    {
-      "item": "productivetrees:wenge_stripped_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {

@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:blooming_stem"
+      "item": "regions_unexplored:blue_bioshroom_stem"
     },
     {
-      "item": "deeperdarker:stripped_blooming_stem"
+      "item": "regions_unexplored:blue_bioshroom_hyphae"
+    },
+    {
+      "item": "regions_unexplored:stripped_blue_bioshroom_stem"
+    },
+    {
+      "item": "regions_unexplored:stripped_blue_bioshroom_hyphae"
     }
   ],
   "result": {

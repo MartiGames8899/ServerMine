@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "biomeswevegone:redwood_log"
+    },
+    {
+      "item": "biomeswevegone:redwood_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_redwood_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_redwood_wood"
+    }
+  ],
   "result": {
     "id": "stevescarts:component_chest_pane",
     "count": 10

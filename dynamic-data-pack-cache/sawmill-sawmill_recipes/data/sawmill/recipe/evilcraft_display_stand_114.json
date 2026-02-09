@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:warped_stem"
+      "item": "biomeswevegone:mahogany_log"
     },
     {
-      "item": "minecraft:warped_hyphae"
+      "item": "biomeswevegone:mahogany_wood"
     },
     {
-      "item": "minecraft:stripped_warped_stem"
+      "item": "biomeswevegone:stripped_mahogany_log"
     },
     {
-      "item": "minecraft:stripped_warped_hyphae"
+      "item": "biomeswevegone:stripped_mahogany_wood"
     }
   ],
   "result": {

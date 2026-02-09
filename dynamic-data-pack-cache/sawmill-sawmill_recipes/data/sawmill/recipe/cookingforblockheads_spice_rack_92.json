@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:starlight_mangrove_log"
+      "item": "productivetrees:buddhas_hand_log"
     },
     {
-      "item": "eternal_starlight:starlight_mangrove_wood"
+      "item": "productivetrees:buddhas_hand_wood"
     },
     {
-      "item": "eternal_starlight:stripped_starlight_mangrove_log"
+      "item": "productivetrees:buddhas_hand_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_starlight_mangrove_wood"
+      "item": "productivetrees:buddhas_hand_stripped_wood"
     }
   ],
   "result": {

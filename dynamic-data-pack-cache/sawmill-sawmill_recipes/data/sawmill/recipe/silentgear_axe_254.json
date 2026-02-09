@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "forbidden_arcanus:edelwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "eternal_starlight:northland_log"
+    },
+    {
+      "item": "eternal_starlight:northland_wood"
+    },
+    {
+      "item": "eternal_starlight:stripped_northland_log"
+    },
+    {
+      "item": "eternal_starlight:stripped_northland_wood"
+    }
+  ],
   "result": {
     "id": "silentgear:axe",
     "count": 1

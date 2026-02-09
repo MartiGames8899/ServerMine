@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:moonlight_magic_crepe_myrtle_log"
-    },
-    {
-      "item": "productivetrees:moonlight_magic_crepe_myrtle_wood"
-    },
-    {
-      "item": "productivetrees:moonlight_magic_crepe_myrtle_stripped_log"
-    },
-    {
-      "item": "productivetrees:moonlight_magic_crepe_myrtle_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "bibliocraft:disc_rack",
     "count": 2

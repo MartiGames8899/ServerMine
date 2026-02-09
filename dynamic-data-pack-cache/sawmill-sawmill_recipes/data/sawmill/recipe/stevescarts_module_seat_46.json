@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:peach_log"
+      "item": "regions_unexplored:eucalyptus_log"
     },
     {
-      "item": "productivetrees:peach_wood"
+      "item": "regions_unexplored:eucalyptus_wood"
     },
     {
-      "item": "productivetrees:peach_stripped_log"
+      "item": "regions_unexplored:stripped_eucalyptus_log"
     },
     {
-      "item": "productivetrees:peach_stripped_wood"
+      "item": "regions_unexplored:stripped_eucalyptus_wood"
     }
   ],
   "result": {

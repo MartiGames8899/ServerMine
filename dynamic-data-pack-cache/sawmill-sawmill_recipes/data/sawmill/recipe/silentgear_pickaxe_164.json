@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pandanus_log"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "productivetrees:pandanus_wood"
-    },
-    {
-      "item": "productivetrees:pandanus_stripped_log"
-    },
-    {
-      "item": "productivetrees:pandanus_stripped_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {

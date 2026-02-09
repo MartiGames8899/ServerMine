@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:brown_amber_log"
+      "item": "productivetrees:cork_oak_log"
     },
     {
-      "item": "productivetrees:brown_amber_wood"
+      "item": "productivetrees:cork_oak_wood"
     },
     {
-      "item": "productivetrees:brown_amber_stripped_log"
+      "item": "productivetrees:cork_oak_stripped_log"
     },
     {
-      "item": "productivetrees:brown_amber_stripped_wood"
+      "item": "productivetrees:cork_oak_stripped_wood"
     }
   ],
   "result": {

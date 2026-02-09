@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:jacaranda_log"
+      "item": "minecraft:dark_oak_log"
     },
     {
-      "item": "biomeswevegone:jacaranda_wood"
+      "item": "minecraft:dark_oak_wood"
     },
     {
-      "item": "biomeswevegone:stripped_jacaranda_log"
+      "item": "minecraft:stripped_dark_oak_log"
     },
     {
-      "item": "biomeswevegone:stripped_jacaranda_wood"
+      "item": "minecraft:stripped_dark_oak_wood"
     }
   ],
   "result": {

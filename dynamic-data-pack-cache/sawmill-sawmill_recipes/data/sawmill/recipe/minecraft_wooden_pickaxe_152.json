@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:green_bioshroom_stem"
+      "item": "productivetrees:rosewood_log"
     },
     {
-      "item": "regions_unexplored:green_bioshroom_hyphae"
+      "item": "productivetrees:rosewood_wood"
     },
     {
-      "item": "regions_unexplored:stripped_green_bioshroom_stem"
+      "item": "productivetrees:rosewood_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_green_bioshroom_hyphae"
+      "item": "productivetrees:rosewood_stripped_wood"
     }
   ],
   "result": {

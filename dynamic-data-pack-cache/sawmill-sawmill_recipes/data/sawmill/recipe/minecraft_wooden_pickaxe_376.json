@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:grandidiers_baobab_log"
+      "item": "biomeswevegone:florus_stem"
     },
     {
-      "item": "productivetrees:grandidiers_baobab_wood"
+      "item": "biomeswevegone:florus_wood"
     },
     {
-      "item": "productivetrees:grandidiers_baobab_stripped_log"
+      "item": "biomeswevegone:stripped_florus_stem"
     },
     {
-      "item": "productivetrees:grandidiers_baobab_stripped_wood"
+      "item": "biomeswevegone:stripped_florus_wood"
     }
   ],
   "result": {

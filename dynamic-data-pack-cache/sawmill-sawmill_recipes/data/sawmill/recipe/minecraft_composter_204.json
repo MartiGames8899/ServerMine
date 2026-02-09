@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:soursop_log"
+      "item": "biomeswevegone:green_enchanted_log"
     },
     {
-      "item": "productivetrees:soursop_wood"
+      "item": "biomeswevegone:green_enchanted_wood"
     },
     {
-      "item": "productivetrees:soursop_stripped_log"
+      "item": "biomeswevegone:stripped_green_enchanted_log"
     },
     {
-      "item": "productivetrees:soursop_stripped_wood"
+      "item": "biomeswevegone:stripped_green_enchanted_wood"
     }
   ],
   "result": {

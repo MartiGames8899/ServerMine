@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:beliy_naliv_apple_log"
+      "item": "regions_unexplored:magnolia_log"
     },
     {
-      "item": "productivetrees:beliy_naliv_apple_wood"
+      "item": "regions_unexplored:magnolia_wood"
     },
     {
-      "item": "productivetrees:beliy_naliv_apple_stripped_log"
+      "item": "regions_unexplored:stripped_magnolia_log"
     },
     {
-      "item": "productivetrees:beliy_naliv_apple_stripped_wood"
+      "item": "regions_unexplored:stripped_magnolia_wood"
     }
   ],
   "result": {

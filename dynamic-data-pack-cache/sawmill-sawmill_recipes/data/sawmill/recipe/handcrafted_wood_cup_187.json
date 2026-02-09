@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:ash_planks"
+    "item": "biomeswevegone:holly_planks"
   },
   "result": {
     "id": "handcrafted:wood_cup",

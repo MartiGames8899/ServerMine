@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:alder_log"
+      "item": "biomeswevegone:willow_log"
     },
     {
-      "item": "productivetrees:alder_wood"
+      "item": "biomeswevegone:willow_wood"
     },
     {
-      "item": "productivetrees:alder_stripped_log"
+      "item": "biomeswevegone:stripped_willow_log"
     },
     {
-      "item": "productivetrees:alder_stripped_wood"
+      "item": "biomeswevegone:stripped_willow_wood"
     }
   ],
   "result": {

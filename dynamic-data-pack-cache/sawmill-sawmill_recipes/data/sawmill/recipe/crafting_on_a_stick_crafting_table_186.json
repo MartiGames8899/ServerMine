@@ -2,21 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:torreya_log"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "eternal_starlight:torreya_wood"
-    },
-    {
-      "item": "eternal_starlight:stripped_torreya_log"
-    },
-    {
-      "item": "eternal_starlight:stripped_torreya_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {
     "id": "crafting_on_a_stick:crafting_table",
     "count": 1
   },
+  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

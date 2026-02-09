@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "forbidden_arcanus:edelwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:sour_cherry_log"
+    },
+    {
+      "item": "productivetrees:sour_cherry_wood"
+    },
+    {
+      "item": "productivetrees:sour_cherry_stripped_log"
+    },
+    {
+      "item": "productivetrees:sour_cherry_stripped_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:chest",
     "count": 1

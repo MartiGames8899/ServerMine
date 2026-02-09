@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "productivetrees:prairie_crabapple_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "productivetrees:prairie_crabapple_wood"
+    },
+    {
+      "item": "productivetrees:prairie_crabapple_stripped_log"
+    },
+    {
+      "item": "productivetrees:prairie_crabapple_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:nectarine_log"
+      "item": "biomeswevegone:cika_log"
     },
     {
-      "item": "productivetrees:nectarine_wood"
+      "item": "biomeswevegone:cika_wood"
     },
     {
-      "item": "productivetrees:nectarine_stripped_log"
+      "item": "biomeswevegone:stripped_cika_log"
     },
     {
-      "item": "productivetrees:nectarine_stripped_wood"
+      "item": "biomeswevegone:stripped_cika_wood"
     }
   ],
   "result": {

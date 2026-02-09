@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:kapok_planks"
+    "item": "productivetrees:myrtle_ebony_planks"
   },
   "result": {
     "id": "minecraft:bowl",

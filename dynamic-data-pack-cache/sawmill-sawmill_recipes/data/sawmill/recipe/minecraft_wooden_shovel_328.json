@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "twilightforest:canopy_log"
+    },
+    {
+      "item": "twilightforest:canopy_wood"
+    },
+    {
+      "item": "twilightforest:stripped_canopy_log"
+    },
+    {
+      "item": "twilightforest:stripped_canopy_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:wooden_shovel",
     "count": 1

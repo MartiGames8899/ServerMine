@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:socotra_log"
+      "item": "productivetrees:sand_pear_log"
     },
     {
-      "item": "regions_unexplored:socotra_wood"
+      "item": "productivetrees:sand_pear_wood"
     },
     {
-      "item": "regions_unexplored:stripped_socotra_log"
+      "item": "productivetrees:sand_pear_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_socotra_wood"
+      "item": "productivetrees:sand_pear_stripped_wood"
     }
   ],
   "result": {

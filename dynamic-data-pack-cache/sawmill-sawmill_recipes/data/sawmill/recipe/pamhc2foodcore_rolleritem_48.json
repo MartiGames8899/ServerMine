@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:thunder_bolt_log"
+      "item": "aether:skyroot_log"
     },
     {
-      "item": "productivetrees:thunder_bolt_wood"
+      "item": "aether:skyroot_wood"
     },
     {
-      "item": "productivetrees:thunder_bolt_stripped_log"
+      "item": "aether:stripped_skyroot_log"
     },
     {
-      "item": "productivetrees:thunder_bolt_stripped_wood"
+      "item": "aether:stripped_skyroot_wood"
     }
   ],
   "result": {

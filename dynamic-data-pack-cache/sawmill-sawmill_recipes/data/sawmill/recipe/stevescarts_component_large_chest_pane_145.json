@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:mango_planks"
+    "item": "biomeswevegone:white_mangrove_planks"
   },
   "result": {
     "id": "stevescarts:component_large_chest_pane",

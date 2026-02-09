@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "regions_unexplored:brimwood_log"
-    },
-    {
-      "item": "regions_unexplored:brimwood_wood"
-    },
-    {
-      "item": "regions_unexplored:stripped_brimwood_log"
-    },
-    {
-      "item": "regions_unexplored:stripped_brimwood_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "crafting_on_a_stick:crafting_table",
     "count": 1

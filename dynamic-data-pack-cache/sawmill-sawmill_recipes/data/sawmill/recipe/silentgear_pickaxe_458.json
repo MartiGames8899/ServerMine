@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:cika_log"
+      "item": "productivetrees:blackthorn_log"
     },
     {
-      "item": "biomeswevegone:cika_wood"
+      "item": "productivetrees:blackthorn_wood"
     },
     {
-      "item": "biomeswevegone:stripped_cika_log"
+      "item": "productivetrees:blackthorn_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_cika_wood"
+      "item": "productivetrees:blackthorn_stripped_wood"
     }
   ],
   "result": {

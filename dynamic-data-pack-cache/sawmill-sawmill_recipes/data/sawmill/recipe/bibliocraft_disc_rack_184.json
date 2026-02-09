@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:smogstem_log"
+      "item": "biomeswevegone:florus_stem"
     },
     {
-      "item": "undergarden:smogstem_wood"
+      "item": "biomeswevegone:florus_wood"
     },
     {
-      "item": "undergarden:stripped_smogstem_log"
+      "item": "biomeswevegone:stripped_florus_stem"
     },
     {
-      "item": "undergarden:stripped_smogstem_wood"
+      "item": "biomeswevegone:stripped_florus_wood"
     }
   ],
   "result": {

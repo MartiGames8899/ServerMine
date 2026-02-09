@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:flickering_sun_log"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "productivetrees:flickering_sun_wood"
-    },
-    {
-      "item": "productivetrees:flickering_sun_stripped_log"
-    },
-    {
-      "item": "productivetrees:flickering_sun_stripped_wood"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

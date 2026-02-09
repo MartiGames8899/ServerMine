@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:boxwood_log"
+      "item": "regions_unexplored:kapok_log"
     },
     {
-      "item": "productivetrees:boxwood_wood"
+      "item": "regions_unexplored:kapok_wood"
     },
     {
-      "item": "productivetrees:boxwood_stripped_log"
+      "item": "regions_unexplored:stripped_kapok_log"
     },
     {
-      "item": "productivetrees:boxwood_stripped_wood"
+      "item": "regions_unexplored:stripped_kapok_wood"
     }
   ],
   "result": {

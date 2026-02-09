@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:white_mangrove_planks"
+    "item": "biomeswevegone:palm_planks"
   },
   "result": {
     "id": "minecraft:bowl",

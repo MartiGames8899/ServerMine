@@ -2,21 +2,15 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:kapok_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:kapok_wood"
-    },
-    {
-      "item": "productivetrees:kapok_stripped_log"
-    },
-    {
-      "item": "productivetrees:kapok_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

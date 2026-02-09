@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "cataclysm:chorus_stem"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:padauk_log"
+    },
+    {
+      "item": "productivetrees:padauk_wood"
+    },
+    {
+      "item": "productivetrees:padauk_stripped_log"
+    },
+    {
+      "item": "productivetrees:padauk_stripped_wood"
+    }
+  ],
   "result": {
     "id": "silentgear:axe",
     "count": 1

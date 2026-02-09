@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:blue_yonder_log"
+      "item": "twilightforest:mangrove_log"
     },
     {
-      "item": "productivetrees:blue_yonder_wood"
+      "item": "twilightforest:mangrove_wood"
     },
     {
-      "item": "productivetrees:blue_yonder_stripped_log"
+      "item": "twilightforest:stripped_mangrove_log"
     },
     {
-      "item": "productivetrees:blue_yonder_stripped_wood"
+      "item": "twilightforest:stripped_mangrove_wood"
     }
   ],
   "result": {

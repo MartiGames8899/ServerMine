@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:redwood_log"
+      "item": "minecraft:cherry_log"
     },
     {
-      "item": "regions_unexplored:redwood_wood"
+      "item": "minecraft:cherry_wood"
     },
     {
-      "item": "regions_unexplored:stripped_redwood_log"
+      "item": "minecraft:stripped_cherry_log"
     },
     {
-      "item": "regions_unexplored:stripped_redwood_wood"
+      "item": "minecraft:stripped_cherry_wood"
     }
   ],
   "result": {

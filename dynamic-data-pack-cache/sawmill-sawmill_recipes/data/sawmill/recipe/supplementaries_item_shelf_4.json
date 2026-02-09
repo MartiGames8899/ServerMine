@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:blooming_stem"
+      "item": "regions_unexplored:mauve_log"
     },
     {
-      "item": "deeperdarker:stripped_blooming_stem"
+      "item": "regions_unexplored:mauve_wood"
+    },
+    {
+      "item": "regions_unexplored:stripped_mauve_log"
+    },
+    {
+      "item": "regions_unexplored:stripped_mauve_wood"
     }
   ],
   "result": {

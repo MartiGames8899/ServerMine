@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:spruce_planks"
+    "item": "eternal_starlight:lunar_planks"
   },
   "result": {
     "id": "minecraft:bowl",

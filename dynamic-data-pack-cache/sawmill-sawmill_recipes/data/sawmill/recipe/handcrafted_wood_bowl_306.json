@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:old_fustic_log"
+      "item": "regions_unexplored:blackwood_log"
     },
     {
-      "item": "productivetrees:old_fustic_wood"
+      "item": "regions_unexplored:blackwood_wood"
     },
     {
-      "item": "productivetrees:old_fustic_stripped_log"
+      "item": "regions_unexplored:stripped_blackwood_log"
     },
     {
-      "item": "productivetrees:old_fustic_stripped_wood"
+      "item": "regions_unexplored:stripped_blackwood_wood"
     }
   ],
   "result": {

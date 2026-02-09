@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:green_enchanted_log"
+      "item": "productivetrees:satsuma_log"
     },
     {
-      "item": "biomeswevegone:green_enchanted_wood"
+      "item": "productivetrees:satsuma_wood"
     },
     {
-      "item": "biomeswevegone:stripped_green_enchanted_log"
+      "item": "productivetrees:satsuma_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_green_enchanted_wood"
+      "item": "productivetrees:satsuma_stripped_wood"
     }
   ],
   "result": {

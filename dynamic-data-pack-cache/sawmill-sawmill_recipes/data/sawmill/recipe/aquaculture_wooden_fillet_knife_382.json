@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rainbow_gum_log"
+      "item": "biomeswevegone:willow_log"
     },
     {
-      "item": "productivetrees:rainbow_gum_wood"
+      "item": "biomeswevegone:willow_wood"
     },
     {
-      "item": "productivetrees:rainbow_gum_stripped_log"
+      "item": "biomeswevegone:stripped_willow_log"
     },
     {
-      "item": "productivetrees:rainbow_gum_stripped_wood"
+      "item": "biomeswevegone:stripped_willow_wood"
     }
   ],
   "result": {

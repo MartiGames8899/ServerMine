@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cultivated_pear_log"
+      "item": "productivetrees:nutmeg_log"
     },
     {
-      "item": "productivetrees:cultivated_pear_wood"
+      "item": "productivetrees:nutmeg_wood"
     },
     {
-      "item": "productivetrees:cultivated_pear_stripped_log"
+      "item": "productivetrees:nutmeg_stripped_log"
     },
     {
-      "item": "productivetrees:cultivated_pear_stripped_wood"
+      "item": "productivetrees:nutmeg_stripped_wood"
     }
   ],
   "result": {

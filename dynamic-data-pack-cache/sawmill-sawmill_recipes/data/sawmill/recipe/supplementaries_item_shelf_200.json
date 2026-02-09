@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:tuscarora_crepe_myrtle_log"
+      "item": "biomeswevegone:fir_log"
     },
     {
-      "item": "productivetrees:tuscarora_crepe_myrtle_wood"
+      "item": "biomeswevegone:fir_wood"
     },
     {
-      "item": "productivetrees:tuscarora_crepe_myrtle_stripped_log"
+      "item": "biomeswevegone:stripped_fir_log"
     },
     {
-      "item": "productivetrees:tuscarora_crepe_myrtle_stripped_wood"
+      "item": "biomeswevegone:stripped_fir_wood"
     }
   ],
   "result": {

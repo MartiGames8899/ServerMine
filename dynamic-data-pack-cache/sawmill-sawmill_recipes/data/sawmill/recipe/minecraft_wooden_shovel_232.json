@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:witch_hazel_log"
+      "item": "productivetrees:cocobolo_log"
     },
     {
-      "item": "biomeswevegone:witch_hazel_wood"
+      "item": "productivetrees:cocobolo_wood"
     },
     {
-      "item": "biomeswevegone:stripped_witch_hazel_log"
+      "item": "productivetrees:cocobolo_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_witch_hazel_wood"
+      "item": "productivetrees:cocobolo_stripped_wood"
     }
   ],
   "result": {

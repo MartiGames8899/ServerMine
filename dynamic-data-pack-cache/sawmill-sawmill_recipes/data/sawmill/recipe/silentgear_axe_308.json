@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:white_mangrove_log"
+      "item": "biomeswevegone:cika_log"
     },
     {
-      "item": "biomeswevegone:white_mangrove_wood"
+      "item": "biomeswevegone:cika_wood"
     },
     {
-      "item": "biomeswevegone:stripped_white_mangrove_log"
+      "item": "biomeswevegone:stripped_cika_log"
     },
     {
-      "item": "biomeswevegone:stripped_white_mangrove_wood"
+      "item": "biomeswevegone:stripped_cika_wood"
     }
   ],
   "result": {

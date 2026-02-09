@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "iceandfire:dreadwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "eternal_starlight:torreya_log"
+    },
+    {
+      "item": "eternal_starlight:torreya_wood"
+    },
+    {
+      "item": "eternal_starlight:stripped_torreya_log"
+    },
+    {
+      "item": "eternal_starlight:stripped_torreya_wood"
+    }
+  ],
   "result": {
     "id": "actuallyadditions:wood_casing",
     "count": 1

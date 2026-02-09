@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "undergarden:grongle_log"
-    },
-    {
-      "item": "undergarden:grongle_wood"
-    },
-    {
-      "item": "undergarden:stripped_grongle_log"
-    },
-    {
-      "item": "undergarden:stripped_grongle_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "aquaculture:wooden_fillet_knife",
     "count": 1

@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:blooming_stem"
+      "item": "biomeswevegone:jacaranda_log"
     },
     {
-      "item": "deeperdarker:stripped_blooming_stem"
+      "item": "biomeswevegone:jacaranda_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_jacaranda_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_jacaranda_wood"
     }
   ],
   "result": {

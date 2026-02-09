@@ -1,23 +1,12 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "biomeswevegone:green_enchanted_log"
-    },
-    {
-      "item": "biomeswevegone:green_enchanted_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_green_enchanted_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_green_enchanted_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "mekanismtools:wood_paxel",
     "count": 1
   },
-  "ingredient_count": 2,
+  "ingredient_count": 4,
   "type": "sawmill:woodcutting"
 }

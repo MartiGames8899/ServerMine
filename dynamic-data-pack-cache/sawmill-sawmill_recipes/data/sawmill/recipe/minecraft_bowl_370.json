@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:clove_log"
+      "item": "productivetrees:mango_log"
     },
     {
-      "item": "productivetrees:clove_wood"
+      "item": "productivetrees:mango_wood"
     },
     {
-      "item": "productivetrees:clove_stripped_log"
+      "item": "productivetrees:mango_stripped_log"
     },
     {
-      "item": "productivetrees:clove_stripped_wood"
+      "item": "productivetrees:mango_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

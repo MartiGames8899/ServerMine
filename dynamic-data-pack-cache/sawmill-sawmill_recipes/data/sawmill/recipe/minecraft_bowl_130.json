@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pistachio_log"
+      "item": "biomeswevegone:pine_log"
     },
     {
-      "item": "productivetrees:pistachio_wood"
+      "item": "biomeswevegone:pine_wood"
     },
     {
-      "item": "productivetrees:pistachio_stripped_log"
+      "item": "biomeswevegone:stripped_pine_log"
     },
     {
-      "item": "productivetrees:pistachio_stripped_wood"
+      "item": "biomeswevegone:stripped_pine_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

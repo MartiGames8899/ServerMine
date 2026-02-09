@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:bull_pine_log"
-    },
-    {
-      "item": "productivetrees:bull_pine_wood"
-    },
-    {
-      "item": "productivetrees:bull_pine_stripped_log"
-    },
-    {
-      "item": "productivetrees:bull_pine_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "silentgear:axe",
     "count": 1

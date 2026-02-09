@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:crimson_stem"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "minecraft:crimson_hyphae"
-    },
-    {
-      "item": "minecraft:stripped_crimson_stem"
-    },
-    {
-      "item": "minecraft:stripped_crimson_hyphae"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

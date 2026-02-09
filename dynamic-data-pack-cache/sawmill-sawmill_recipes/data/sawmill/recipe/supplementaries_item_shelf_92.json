@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:mango_log"
-    },
-    {
-      "item": "productivetrees:mango_wood"
-    },
-    {
-      "item": "productivetrees:mango_stripped_log"
-    },
-    {
-      "item": "productivetrees:mango_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "supplementaries:item_shelf",
     "count": 6

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:tangerine_log"
+      "item": "regions_unexplored:maple_log"
     },
     {
-      "item": "productivetrees:tangerine_wood"
+      "item": "regions_unexplored:maple_wood"
     },
     {
-      "item": "productivetrees:tangerine_stripped_log"
+      "item": "regions_unexplored:stripped_maple_log"
     },
     {
-      "item": "productivetrees:tangerine_stripped_wood"
+      "item": "regions_unexplored:stripped_maple_wood"
     }
   ],
   "result": {

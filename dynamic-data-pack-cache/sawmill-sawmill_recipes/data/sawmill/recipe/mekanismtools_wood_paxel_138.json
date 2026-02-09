@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:soul_log"
+      "item": "biomeswevegone:ironwood_log"
     },
     {
-      "item": "allthemodium:stripped_soul_log"
+      "item": "biomeswevegone:ironwood_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_ironwood_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_ironwood_wood"
     }
   ],
   "result": {

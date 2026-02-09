@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "deeperdarker:echo_log"
-    },
-    {
-      "item": "deeperdarker:echo_wood"
-    },
-    {
-      "item": "deeperdarker:stripped_echo_log"
-    },
-    {
-      "item": "deeperdarker:stripped_echo_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "mekanismtools:wood_paxel",
     "count": 1

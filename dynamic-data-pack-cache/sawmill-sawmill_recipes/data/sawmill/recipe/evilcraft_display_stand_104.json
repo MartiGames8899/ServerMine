@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sugar_maple_log"
+      "item": "biomeswevegone:witch_hazel_log"
     },
     {
-      "item": "productivetrees:sugar_maple_wood"
+      "item": "biomeswevegone:witch_hazel_wood"
     },
     {
-      "item": "productivetrees:sugar_maple_stripped_log"
+      "item": "biomeswevegone:stripped_witch_hazel_log"
     },
     {
-      "item": "productivetrees:sugar_maple_stripped_wood"
+      "item": "biomeswevegone:stripped_witch_hazel_wood"
     }
   ],
   "result": {

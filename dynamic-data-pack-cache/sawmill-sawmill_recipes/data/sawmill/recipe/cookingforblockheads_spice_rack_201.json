@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:aspen_planks"
+    "item": "productivetrees:thunder_bolt_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

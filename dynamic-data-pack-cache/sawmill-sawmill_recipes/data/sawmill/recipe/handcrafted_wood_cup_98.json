@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:mango_log"
+      "item": "productivetrees:bull_pine_log"
     },
     {
-      "item": "productivetrees:mango_wood"
+      "item": "productivetrees:bull_pine_wood"
     },
     {
-      "item": "productivetrees:mango_stripped_log"
+      "item": "productivetrees:bull_pine_stripped_log"
     },
     {
-      "item": "productivetrees:mango_stripped_wood"
+      "item": "productivetrees:bull_pine_stripped_wood"
     }
   ],
   "result": {

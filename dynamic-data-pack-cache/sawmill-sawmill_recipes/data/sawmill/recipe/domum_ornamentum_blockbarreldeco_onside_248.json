@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:canopy_log"
+      "item": "regions_unexplored:maple_log"
     },
     {
-      "item": "twilightforest:canopy_wood"
+      "item": "regions_unexplored:maple_wood"
     },
     {
-      "item": "twilightforest:stripped_canopy_log"
+      "item": "regions_unexplored:stripped_maple_log"
     },
     {
-      "item": "twilightforest:stripped_canopy_wood"
+      "item": "regions_unexplored:stripped_maple_wood"
     }
   ],
   "result": {

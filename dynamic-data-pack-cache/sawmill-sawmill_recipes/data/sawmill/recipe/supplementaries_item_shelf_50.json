@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:cypress_log"
+      "item": "regions_unexplored:green_bioshroom_stem"
     },
     {
-      "item": "biomeswevegone:cypress_wood"
+      "item": "regions_unexplored:green_bioshroom_hyphae"
     },
     {
-      "item": "biomeswevegone:stripped_cypress_log"
+      "item": "regions_unexplored:stripped_green_bioshroom_stem"
     },
     {
-      "item": "biomeswevegone:stripped_cypress_wood"
+      "item": "regions_unexplored:stripped_green_bioshroom_hyphae"
     }
   ],
   "result": {

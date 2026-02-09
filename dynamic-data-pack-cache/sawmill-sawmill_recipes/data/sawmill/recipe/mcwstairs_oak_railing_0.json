@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "minecraft:oak_log"
-    },
-    {
-      "item": "minecraft:oak_wood"
-    },
-    {
-      "item": "minecraft:stripped_oak_log"
-    },
-    {
-      "item": "minecraft:stripped_oak_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "mcwstairs:oak_railing",
     "count": 4

@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:asai_palm_log"
+      "item": "twilightforest:twilight_oak_log"
     },
     {
-      "item": "productivetrees:asai_palm_wood"
+      "item": "twilightforest:twilight_oak_wood"
     },
     {
-      "item": "productivetrees:asai_palm_stripped_log"
+      "item": "twilightforest:stripped_twilight_oak_log"
     },
     {
-      "item": "productivetrees:asai_palm_stripped_wood"
+      "item": "twilightforest:stripped_twilight_oak_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

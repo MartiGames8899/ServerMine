@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:pine_log"
+      "item": "allthemodium:demonic_log"
     },
     {
-      "item": "regions_unexplored:pine_wood"
-    },
-    {
-      "item": "regions_unexplored:stripped_pine_log"
-    },
-    {
-      "item": "regions_unexplored:stripped_pine_wood"
+      "item": "allthemodium:stripped_demonic_log"
     }
   ],
   "result": {

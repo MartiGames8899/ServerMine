@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "biomeswevegone:skyris_log"
-    },
-    {
-      "item": "biomeswevegone:skyris_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_skyris_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_skyris_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "handcrafted:wood_bowl",
     "count": 6

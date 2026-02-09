@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:white_mangrove_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "biomeswevegone:white_mangrove_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_white_mangrove_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_white_mangrove_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

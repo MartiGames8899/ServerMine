@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:witch_hazel_log"
+      "item": "productivetrees:sand_pear_log"
     },
     {
-      "item": "biomeswevegone:witch_hazel_wood"
+      "item": "productivetrees:sand_pear_wood"
     },
     {
-      "item": "biomeswevegone:stripped_witch_hazel_log"
+      "item": "productivetrees:sand_pear_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_witch_hazel_wood"
+      "item": "productivetrees:sand_pear_stripped_wood"
     }
   ],
   "result": {

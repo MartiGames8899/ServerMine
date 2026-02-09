@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:demonic_log"
+      "item": "biomeswevegone:redwood_log"
     },
     {
-      "item": "allthemodium:stripped_demonic_log"
+      "item": "biomeswevegone:redwood_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_redwood_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_redwood_wood"
     }
   ],
   "result": {

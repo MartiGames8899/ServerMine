@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:demonic_log"
+      "item": "productivetrees:hazel_log"
     },
     {
-      "item": "allthemodium:stripped_demonic_log"
+      "item": "productivetrees:hazel_wood"
+    },
+    {
+      "item": "productivetrees:hazel_stripped_log"
+    },
+    {
+      "item": "productivetrees:hazel_stripped_wood"
     }
   ],
   "result": {

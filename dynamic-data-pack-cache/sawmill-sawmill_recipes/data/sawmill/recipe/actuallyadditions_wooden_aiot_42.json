@@ -2,22 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:beliy_naliv_apple_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "productivetrees:beliy_naliv_apple_wood"
-    },
-    {
-      "item": "productivetrees:beliy_naliv_apple_stripped_log"
-    },
-    {
-      "item": "productivetrees:beliy_naliv_apple_stripped_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "actuallyadditions:wooden_aiot",
     "count": 1
   },
-  "ingredient_count": 3,
+  "ingredient_count": 6,
   "type": "sawmill:woodcutting"
 }

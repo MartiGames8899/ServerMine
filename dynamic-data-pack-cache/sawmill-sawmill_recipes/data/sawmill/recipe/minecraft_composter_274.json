@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:firecracker_log"
+      "item": "productivetrees:cacao_log"
     },
     {
-      "item": "productivetrees:firecracker_wood"
+      "item": "productivetrees:cacao_wood"
     },
     {
-      "item": "productivetrees:firecracker_stripped_log"
+      "item": "productivetrees:cacao_stripped_log"
     },
     {
-      "item": "productivetrees:firecracker_stripped_wood"
+      "item": "productivetrees:cacao_stripped_wood"
     }
   ],
   "result": {

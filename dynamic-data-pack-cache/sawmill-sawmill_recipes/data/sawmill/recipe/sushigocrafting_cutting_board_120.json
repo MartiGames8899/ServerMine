@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:yew_log"
+      "item": "biomeswevegone:pine_log"
     },
     {
-      "item": "productivetrees:yew_wood"
+      "item": "biomeswevegone:pine_wood"
     },
     {
-      "item": "productivetrees:yew_stripped_log"
+      "item": "biomeswevegone:stripped_pine_log"
     },
     {
-      "item": "productivetrees:yew_stripped_wood"
+      "item": "biomeswevegone:stripped_pine_wood"
     }
   ],
   "result": {

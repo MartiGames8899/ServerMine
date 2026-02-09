@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:zelkova_log"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "biomeswevegone:zelkova_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_zelkova_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_zelkova_wood"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

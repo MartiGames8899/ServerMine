@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:demonic_log"
+      "item": "regions_unexplored:green_bioshroom_stem"
     },
     {
-      "item": "allthemodium:stripped_demonic_log"
+      "item": "regions_unexplored:green_bioshroom_hyphae"
+    },
+    {
+      "item": "regions_unexplored:stripped_green_bioshroom_stem"
+    },
+    {
+      "item": "regions_unexplored:stripped_green_bioshroom_hyphae"
     }
   ],
   "result": {

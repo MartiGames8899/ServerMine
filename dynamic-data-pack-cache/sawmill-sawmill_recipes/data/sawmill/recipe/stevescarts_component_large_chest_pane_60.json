@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:cocobolo_log"
-    },
-    {
-      "item": "productivetrees:cocobolo_wood"
-    },
-    {
-      "item": "productivetrees:cocobolo_stripped_log"
-    },
-    {
-      "item": "productivetrees:cocobolo_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "stevescarts:component_large_chest_pane",
     "count": 2

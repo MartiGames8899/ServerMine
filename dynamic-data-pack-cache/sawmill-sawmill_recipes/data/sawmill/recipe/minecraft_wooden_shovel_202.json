@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pink_ipe_log"
+      "item": "productivetrees:almond_log"
     },
     {
-      "item": "productivetrees:pink_ipe_wood"
+      "item": "productivetrees:almond_wood"
     },
     {
-      "item": "productivetrees:pink_ipe_stripped_log"
+      "item": "productivetrees:almond_stripped_log"
     },
     {
-      "item": "productivetrees:pink_ipe_stripped_wood"
+      "item": "productivetrees:almond_stripped_wood"
     }
   ],
   "result": {

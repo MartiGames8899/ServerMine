@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:scarlet_planks"
+    "item": "productivetrees:tuscarora_crepe_myrtle_planks"
   },
   "result": {
     "id": "minecraft:bowl",
-    "count": 1
+    "count": 2
   },
   "type": "sawmill:woodcutting"
 }

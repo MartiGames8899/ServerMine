@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:aspen_log"
+      "item": "regions_unexplored:dead_log"
     },
     {
-      "item": "productivetrees:aspen_wood"
+      "item": "regions_unexplored:dead_wood"
     },
     {
-      "item": "productivetrees:aspen_stripped_log"
+      "item": "regions_unexplored:stripped_dead_log"
     },
     {
-      "item": "productivetrees:aspen_stripped_wood"
+      "item": "regions_unexplored:stripped_dead_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

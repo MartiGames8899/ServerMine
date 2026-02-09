@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sparkle_cherry_log"
+      "item": "regions_unexplored:joshua_log"
     },
     {
-      "item": "productivetrees:sparkle_cherry_wood"
+      "item": "regions_unexplored:joshua_wood"
     },
     {
-      "item": "productivetrees:sparkle_cherry_stripped_log"
+      "item": "regions_unexplored:stripped_joshua_log"
     },
     {
-      "item": "productivetrees:sparkle_cherry_stripped_wood"
+      "item": "regions_unexplored:stripped_joshua_wood"
     }
   ],
   "result": {

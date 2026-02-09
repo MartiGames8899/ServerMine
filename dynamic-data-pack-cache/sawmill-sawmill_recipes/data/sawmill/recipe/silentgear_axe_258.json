@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:golden_delicious_apple_log"
-    },
-    {
-      "item": "productivetrees:golden_delicious_apple_wood"
-    },
-    {
-      "item": "productivetrees:golden_delicious_apple_stripped_log"
-    },
-    {
-      "item": "productivetrees:golden_delicious_apple_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "silentgear:axe",
     "count": 1

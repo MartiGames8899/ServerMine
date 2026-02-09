@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:sorting_log"
+      "item": "regions_unexplored:blackwood_log"
     },
     {
-      "item": "twilightforest:sorting_wood"
+      "item": "regions_unexplored:blackwood_wood"
     },
     {
-      "item": "twilightforest:stripped_sorting_log"
+      "item": "regions_unexplored:stripped_blackwood_log"
     },
     {
-      "item": "twilightforest:stripped_sorting_wood"
+      "item": "regions_unexplored:stripped_blackwood_wood"
     }
   ],
   "result": {

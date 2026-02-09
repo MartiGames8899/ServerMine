@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:cork_oak_log"
-    },
-    {
-      "item": "productivetrees:cork_oak_wood"
-    },
-    {
-      "item": "productivetrees:cork_oak_stripped_log"
-    },
-    {
-      "item": "productivetrees:cork_oak_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "iceandfire:dreadwood_log"
+  },
   "result": {
     "id": "stevescarts:module_wooden_hull",
     "count": 1

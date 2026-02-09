@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:cypress_log"
+      "item": "biomeswevegone:cika_log"
     },
     {
-      "item": "biomeswevegone:cypress_wood"
+      "item": "biomeswevegone:cika_wood"
     },
     {
-      "item": "biomeswevegone:stripped_cypress_log"
+      "item": "biomeswevegone:stripped_cika_log"
     },
     {
-      "item": "biomeswevegone:stripped_cypress_wood"
+      "item": "biomeswevegone:stripped_cika_wood"
     }
   ],
   "result": {

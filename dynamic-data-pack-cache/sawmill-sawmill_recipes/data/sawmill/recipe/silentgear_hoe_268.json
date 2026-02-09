@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:kapok_log"
+    },
+    {
+      "item": "productivetrees:kapok_wood"
+    },
+    {
+      "item": "productivetrees:kapok_stripped_log"
+    },
+    {
+      "item": "productivetrees:kapok_stripped_wood"
+    }
+  ],
   "result": {
     "id": "silentgear:hoe",
     "count": 1

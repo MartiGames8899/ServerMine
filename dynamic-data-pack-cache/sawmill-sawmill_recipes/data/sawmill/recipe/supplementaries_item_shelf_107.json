@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:fir_planks"
+    "item": "regions_unexplored:cypress_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

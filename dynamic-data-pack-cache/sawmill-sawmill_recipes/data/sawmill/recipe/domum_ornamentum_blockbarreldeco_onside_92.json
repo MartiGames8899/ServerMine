@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:redwood_log"
+      "item": "productivetrees:sycamore_fig_log"
     },
     {
-      "item": "biomeswevegone:redwood_wood"
+      "item": "productivetrees:sycamore_fig_wood"
     },
     {
-      "item": "biomeswevegone:stripped_redwood_log"
+      "item": "productivetrees:sycamore_fig_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_redwood_wood"
+      "item": "productivetrees:sycamore_fig_stripped_wood"
     }
   ],
   "result": {

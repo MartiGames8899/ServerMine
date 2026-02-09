@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:cika_log"
+      "item": "regions_unexplored:willow_log"
     },
     {
-      "item": "biomeswevegone:cika_wood"
+      "item": "regions_unexplored:willow_wood"
     },
     {
-      "item": "biomeswevegone:stripped_cika_log"
+      "item": "regions_unexplored:stripped_willow_log"
     },
     {
-      "item": "biomeswevegone:stripped_cika_wood"
+      "item": "regions_unexplored:stripped_willow_wood"
     }
   ],
   "result": {

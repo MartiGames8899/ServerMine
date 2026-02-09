@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:cempedak_log"
+    },
+    {
+      "item": "productivetrees:cempedak_wood"
+    },
+    {
+      "item": "productivetrees:cempedak_stripped_log"
+    },
+    {
+      "item": "productivetrees:cempedak_stripped_wood"
+    }
+  ],
   "result": {
     "id": "domum_ornamentum:blockbarreldeco_onside",
     "count": 1

@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:florus_stem"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "biomeswevegone:florus_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_florus_stem"
-    },
-    {
-      "item": "biomeswevegone:stripped_florus_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
