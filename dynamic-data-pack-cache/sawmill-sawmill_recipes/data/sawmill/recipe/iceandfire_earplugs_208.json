@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:green_bioshroom_stem"
+      "item": "regions_unexplored:palm_log"
     },
     {
-      "item": "regions_unexplored:green_bioshroom_hyphae"
+      "item": "regions_unexplored:palm_wood"
     },
     {
-      "item": "regions_unexplored:stripped_green_bioshroom_stem"
+      "item": "regions_unexplored:stripped_palm_log"
     },
     {
-      "item": "regions_unexplored:stripped_green_bioshroom_hyphae"
+      "item": "regions_unexplored:stripped_palm_wood"
     }
   ],
   "result": {

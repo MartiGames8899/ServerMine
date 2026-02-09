@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:blackwood_log"
+      "item": "biomeswevegone:maple_log"
     },
     {
-      "item": "regions_unexplored:blackwood_wood"
+      "item": "biomeswevegone:maple_wood"
     },
     {
-      "item": "regions_unexplored:stripped_blackwood_log"
+      "item": "biomeswevegone:stripped_maple_log"
     },
     {
-      "item": "regions_unexplored:stripped_blackwood_wood"
+      "item": "biomeswevegone:stripped_maple_wood"
     }
   ],
   "result": {

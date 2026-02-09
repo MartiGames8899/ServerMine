@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:pink_bioshroom_planks"
+    "item": "productivetrees:red_maple_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:blue_mahoe_log"
+      "item": "regions_unexplored:eucalyptus_log"
     },
     {
-      "item": "productivetrees:blue_mahoe_wood"
+      "item": "regions_unexplored:eucalyptus_wood"
     },
     {
-      "item": "productivetrees:blue_mahoe_stripped_log"
+      "item": "regions_unexplored:stripped_eucalyptus_log"
     },
     {
-      "item": "productivetrees:blue_mahoe_stripped_wood"
+      "item": "regions_unexplored:stripped_eucalyptus_wood"
     }
   ],
   "result": {

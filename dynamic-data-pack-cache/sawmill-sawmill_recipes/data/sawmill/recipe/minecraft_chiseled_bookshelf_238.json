@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "eternal_starlight:jinglestem_log"
+    },
+    {
+      "item": "eternal_starlight:jinglestem_wood"
+    },
+    {
+      "item": "eternal_starlight:stripped_jinglestem_log"
+    },
+    {
+      "item": "eternal_starlight:stripped_jinglestem_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:chiseled_bookshelf",
     "count": 1

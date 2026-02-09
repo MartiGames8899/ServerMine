@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:sakura_log"
+      "item": "eternal_starlight:northland_log"
     },
     {
-      "item": "biomeswevegone:sakura_wood"
+      "item": "eternal_starlight:northland_wood"
     },
     {
-      "item": "biomeswevegone:stripped_sakura_log"
+      "item": "eternal_starlight:stripped_northland_log"
     },
     {
-      "item": "biomeswevegone:stripped_sakura_wood"
+      "item": "eternal_starlight:stripped_northland_wood"
     }
   ],
   "result": {

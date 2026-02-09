@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:monkey_puzzle_log"
+      "item": "forbidden_arcanus:fungyss_stem"
     },
     {
-      "item": "productivetrees:monkey_puzzle_wood"
-    },
-    {
-      "item": "productivetrees:monkey_puzzle_stripped_log"
-    },
-    {
-      "item": "productivetrees:monkey_puzzle_stripped_wood"
+      "item": "forbidden_arcanus:fungyss_hyphae"
     }
   ],
   "result": {

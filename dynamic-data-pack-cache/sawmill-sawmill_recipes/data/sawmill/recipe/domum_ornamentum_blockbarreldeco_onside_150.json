@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:jinglestem_log"
+      "item": "productivetrees:great_sallow_log"
     },
     {
-      "item": "eternal_starlight:jinglestem_wood"
+      "item": "productivetrees:great_sallow_wood"
     },
     {
-      "item": "eternal_starlight:stripped_jinglestem_log"
+      "item": "productivetrees:great_sallow_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_jinglestem_wood"
+      "item": "productivetrees:great_sallow_stripped_wood"
     }
   ],
   "result": {

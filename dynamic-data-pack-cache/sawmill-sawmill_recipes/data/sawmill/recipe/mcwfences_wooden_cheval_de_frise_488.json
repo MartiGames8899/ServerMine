@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:jackfruit_log"
+      "item": "allthemodium:demonic_log"
     },
     {
-      "item": "productivetrees:jackfruit_wood"
-    },
-    {
-      "item": "productivetrees:jackfruit_stripped_log"
-    },
-    {
-      "item": "productivetrees:jackfruit_stripped_wood"
+      "item": "allthemodium:stripped_demonic_log"
     }
   ],
   "result": {

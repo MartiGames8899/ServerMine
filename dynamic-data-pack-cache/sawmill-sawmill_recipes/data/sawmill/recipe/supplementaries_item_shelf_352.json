@@ -1,11 +1,22 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "forbidden_arcanus:edelwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "twilightforest:sorting_log"
+    },
+    {
+      "item": "twilightforest:sorting_wood"
+    },
+    {
+      "item": "twilightforest:stripped_sorting_log"
+    },
+    {
+      "item": "twilightforest:stripped_sorting_wood"
+    }
+  ],
   "result": {
     "id": "supplementaries:item_shelf",
-    "count": 3
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

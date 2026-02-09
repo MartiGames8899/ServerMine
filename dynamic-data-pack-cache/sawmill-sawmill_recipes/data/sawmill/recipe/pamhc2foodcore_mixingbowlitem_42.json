@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:rainbow_eucalyptus_log"
+      "item": "productivetrees:elderberry_log"
     },
     {
-      "item": "biomeswevegone:rainbow_eucalyptus_wood"
+      "item": "productivetrees:elderberry_wood"
     },
     {
-      "item": "biomeswevegone:stripped_rainbow_eucalyptus_log"
+      "item": "productivetrees:elderberry_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_rainbow_eucalyptus_wood"
+      "item": "productivetrees:elderberry_stripped_wood"
     }
   ],
   "result": {

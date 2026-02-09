@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "biomeswevegone:blue_enchanted_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "biomeswevegone:blue_enchanted_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_blue_enchanted_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_blue_enchanted_wood"
     }
   ],
   "result": {

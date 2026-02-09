@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:florus_stem"
+      "item": "productivetrees:loblolly_pine_log"
     },
     {
-      "item": "biomeswevegone:florus_wood"
+      "item": "productivetrees:loblolly_pine_wood"
     },
     {
-      "item": "biomeswevegone:stripped_florus_stem"
+      "item": "productivetrees:loblolly_pine_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_florus_wood"
+      "item": "productivetrees:loblolly_pine_stripped_wood"
     }
   ],
   "result": {

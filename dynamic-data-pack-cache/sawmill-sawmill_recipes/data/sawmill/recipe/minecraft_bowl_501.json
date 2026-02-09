@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:pine_planks"
+    "item": "productivetrees:rose_gum_planks"
   },
   "result": {
     "id": "minecraft:bowl",
-    "count": 1
+    "count": 2
   },
   "type": "sawmill:woodcutting"
 }

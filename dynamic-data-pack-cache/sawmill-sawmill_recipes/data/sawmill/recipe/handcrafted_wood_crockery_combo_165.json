@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:joshua_planks"
+    "item": "regions_unexplored:blue_bioshroom_planks"
   },
   "result": {
     "id": "handcrafted:wood_crockery_combo",

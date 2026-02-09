@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cherry_plum_log"
+      "item": "biomeswevegone:mahogany_log"
     },
     {
-      "item": "productivetrees:cherry_plum_wood"
+      "item": "biomeswevegone:mahogany_wood"
     },
     {
-      "item": "productivetrees:cherry_plum_stripped_log"
+      "item": "biomeswevegone:stripped_mahogany_log"
     },
     {
-      "item": "productivetrees:cherry_plum_stripped_wood"
+      "item": "biomeswevegone:stripped_mahogany_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:jacaranda_log"
+      "item": "eternal_starlight:cradlewood_log"
     },
     {
-      "item": "biomeswevegone:jacaranda_wood"
+      "item": "eternal_starlight:cradlewood_wood"
     },
     {
-      "item": "biomeswevegone:stripped_jacaranda_log"
+      "item": "eternal_starlight:stripped_cradlewood_log"
     },
     {
-      "item": "biomeswevegone:stripped_jacaranda_wood"
+      "item": "eternal_starlight:stripped_cradlewood_wood"
     }
   ],
   "result": {

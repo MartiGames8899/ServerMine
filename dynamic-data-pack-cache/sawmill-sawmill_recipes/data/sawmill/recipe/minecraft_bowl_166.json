@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:boxwood_log"
+      "item": "productivetrees:pistachio_log"
     },
     {
-      "item": "productivetrees:boxwood_wood"
+      "item": "productivetrees:pistachio_wood"
     },
     {
-      "item": "productivetrees:boxwood_stripped_log"
+      "item": "productivetrees:pistachio_stripped_log"
     },
     {
-      "item": "productivetrees:boxwood_stripped_wood"
+      "item": "productivetrees:pistachio_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

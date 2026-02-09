@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:spirit_log"
+      "item": "productivetrees:old_fustic_log"
     },
     {
-      "item": "biomeswevegone:spirit_wood"
+      "item": "productivetrees:old_fustic_wood"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_log"
+      "item": "productivetrees:old_fustic_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_wood"
+      "item": "productivetrees:old_fustic_stripped_wood"
     }
   ],
   "result": {

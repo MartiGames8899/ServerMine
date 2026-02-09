@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:green_bioshroom_stem"
+      "item": "eternal_starlight:lunar_log"
     },
     {
-      "item": "regions_unexplored:green_bioshroom_hyphae"
+      "item": "eternal_starlight:lunar_wood"
     },
     {
-      "item": "regions_unexplored:stripped_green_bioshroom_stem"
+      "item": "eternal_starlight:stripped_lunar_log"
     },
     {
-      "item": "regions_unexplored:stripped_green_bioshroom_hyphae"
+      "item": "eternal_starlight:stripped_lunar_wood"
     }
   ],
   "result": {

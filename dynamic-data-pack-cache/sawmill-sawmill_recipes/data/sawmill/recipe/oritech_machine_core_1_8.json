@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:blue_bioshroom_stem"
+      "item": "minecraft:spruce_log"
     },
     {
-      "item": "regions_unexplored:blue_bioshroom_hyphae"
+      "item": "minecraft:spruce_wood"
     },
     {
-      "item": "regions_unexplored:stripped_blue_bioshroom_stem"
+      "item": "minecraft:stripped_spruce_log"
     },
     {
-      "item": "regions_unexplored:stripped_blue_bioshroom_hyphae"
+      "item": "minecraft:stripped_spruce_wood"
     }
   ],
   "result": {

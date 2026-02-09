@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:ceylon_ebony_log"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "productivetrees:ceylon_ebony_wood"
-    },
-    {
-      "item": "productivetrees:ceylon_ebony_stripped_log"
-    },
-    {
-      "item": "productivetrees:ceylon_ebony_stripped_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {

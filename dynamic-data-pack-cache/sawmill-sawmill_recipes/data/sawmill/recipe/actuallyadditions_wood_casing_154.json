@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sour_cherry_log"
+      "item": "regions_unexplored:yellow_bioshroom_stem"
     },
     {
-      "item": "productivetrees:sour_cherry_wood"
+      "item": "regions_unexplored:yellow_bioshroom_hyphae"
     },
     {
-      "item": "productivetrees:sour_cherry_stripped_log"
+      "item": "regions_unexplored:stripped_yellow_bioshroom_stem"
     },
     {
-      "item": "productivetrees:sour_cherry_stripped_wood"
+      "item": "regions_unexplored:stripped_yellow_bioshroom_hyphae"
     }
   ],
   "result": {

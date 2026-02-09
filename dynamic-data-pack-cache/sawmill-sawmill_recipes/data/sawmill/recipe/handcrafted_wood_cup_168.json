@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:ebony_log"
+      "item": "biomeswevegone:spirit_log"
     },
     {
-      "item": "biomeswevegone:ebony_wood"
+      "item": "biomeswevegone:spirit_wood"
     },
     {
-      "item": "biomeswevegone:stripped_ebony_log"
+      "item": "biomeswevegone:stripped_spirit_log"
     },
     {
-      "item": "biomeswevegone:stripped_ebony_wood"
+      "item": "biomeswevegone:stripped_spirit_wood"
     }
   ],
   "result": {

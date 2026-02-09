@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:night_fuchsia_log"
+      "item": "productivetrees:kapok_log"
     },
     {
-      "item": "productivetrees:night_fuchsia_wood"
+      "item": "productivetrees:kapok_wood"
     },
     {
-      "item": "productivetrees:night_fuchsia_stripped_log"
+      "item": "productivetrees:kapok_stripped_log"
     },
     {
-      "item": "productivetrees:night_fuchsia_stripped_wood"
+      "item": "productivetrees:kapok_stripped_wood"
     }
   ],
   "result": {

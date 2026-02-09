@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:jungle_log"
+      "item": "biomeswevegone:jacaranda_log"
     },
     {
-      "item": "minecraft:jungle_wood"
+      "item": "biomeswevegone:jacaranda_wood"
     },
     {
-      "item": "minecraft:stripped_jungle_log"
+      "item": "biomeswevegone:stripped_jacaranda_log"
     },
     {
-      "item": "minecraft:stripped_jungle_wood"
+      "item": "biomeswevegone:stripped_jacaranda_wood"
     }
   ],
   "result": {

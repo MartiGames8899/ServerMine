@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:butternut_log"
+      "item": "undergarden:wigglewood_log"
     },
     {
-      "item": "productivetrees:butternut_wood"
+      "item": "undergarden:wigglewood_wood"
     },
     {
-      "item": "productivetrees:butternut_stripped_log"
+      "item": "undergarden:stripped_wigglewood_log"
     },
     {
-      "item": "productivetrees:butternut_stripped_wood"
+      "item": "undergarden:stripped_wigglewood_wood"
     }
   ],
   "result": {

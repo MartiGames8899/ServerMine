@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:grongle_log"
+      "item": "regions_unexplored:joshua_log"
     },
     {
-      "item": "undergarden:grongle_wood"
+      "item": "regions_unexplored:joshua_wood"
     },
     {
-      "item": "undergarden:stripped_grongle_log"
+      "item": "regions_unexplored:stripped_joshua_log"
     },
     {
-      "item": "undergarden:stripped_grongle_wood"
+      "item": "regions_unexplored:stripped_joshua_wood"
     }
   ],
   "result": {

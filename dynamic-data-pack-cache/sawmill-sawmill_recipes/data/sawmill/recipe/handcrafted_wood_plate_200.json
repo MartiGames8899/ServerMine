@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:redwood_log"
+      "item": "productivetrees:persimmon_log"
     },
     {
-      "item": "regions_unexplored:redwood_wood"
+      "item": "productivetrees:persimmon_wood"
     },
     {
-      "item": "regions_unexplored:stripped_redwood_log"
+      "item": "productivetrees:persimmon_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_redwood_wood"
+      "item": "productivetrees:persimmon_stripped_wood"
     }
   ],
   "result": {

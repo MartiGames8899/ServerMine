@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:brazilwood_log"
+      "item": "biomeswevegone:aspen_log"
     },
     {
-      "item": "productivetrees:brazilwood_wood"
+      "item": "biomeswevegone:aspen_wood"
     },
     {
-      "item": "productivetrees:brazilwood_stripped_log"
+      "item": "biomeswevegone:stripped_aspen_log"
     },
     {
-      "item": "productivetrees:brazilwood_stripped_wood"
+      "item": "biomeswevegone:stripped_aspen_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

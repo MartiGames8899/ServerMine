@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:demonic_log"
+      "item": "biomeswevegone:jacaranda_log"
     },
     {
-      "item": "allthemodium:stripped_demonic_log"
+      "item": "biomeswevegone:jacaranda_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_jacaranda_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_jacaranda_wood"
     }
   ],
   "result": {

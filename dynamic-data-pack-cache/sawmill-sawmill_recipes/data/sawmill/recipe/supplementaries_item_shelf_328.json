@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:redwood_log"
+      "item": "productivetrees:night_fuchsia_log"
     },
     {
-      "item": "biomeswevegone:redwood_wood"
+      "item": "productivetrees:night_fuchsia_wood"
     },
     {
-      "item": "biomeswevegone:stripped_redwood_log"
+      "item": "productivetrees:night_fuchsia_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_redwood_wood"
+      "item": "productivetrees:night_fuchsia_stripped_wood"
     }
   ],
   "result": {

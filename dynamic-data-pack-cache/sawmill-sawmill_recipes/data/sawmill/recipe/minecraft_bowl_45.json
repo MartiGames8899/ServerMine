@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:greenheart_planks"
+    "item": "productivetrees:golden_delicious_apple_planks"
   },
   "result": {
     "id": "minecraft:bowl",
-    "count": 1
+    "count": 2
   },
   "type": "sawmill:woodcutting"
 }

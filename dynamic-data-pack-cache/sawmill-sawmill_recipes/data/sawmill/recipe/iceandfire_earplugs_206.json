@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "forbidden_arcanus:edelwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:avocado_log"
+    },
+    {
+      "item": "productivetrees:avocado_wood"
+    },
+    {
+      "item": "productivetrees:avocado_stripped_log"
+    },
+    {
+      "item": "productivetrees:avocado_stripped_wood"
+    }
+  ],
   "result": {
     "id": "iceandfire:earplugs",
     "count": 1

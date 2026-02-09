@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "regions_unexplored:dead_log"
-    },
-    {
-      "item": "regions_unexplored:dead_wood"
-    },
-    {
-      "item": "regions_unexplored:stripped_dead_log"
-    },
-    {
-      "item": "regions_unexplored:stripped_dead_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "iceandfire:dreadwood_log"
+  },
   "result": {
     "id": "pamhc2foodcore:rolleritem",
     "count": 1

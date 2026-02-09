@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:cradlewood_planks"
+    "item": "productivetrees:rippling_willow_planks"
   },
   "result": {
     "id": "minecraft:bowl",

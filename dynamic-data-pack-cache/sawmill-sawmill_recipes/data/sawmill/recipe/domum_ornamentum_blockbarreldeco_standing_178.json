@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:mahogany_log"
+      "item": "regions_unexplored:dead_log"
     },
     {
-      "item": "productivetrees:mahogany_wood"
+      "item": "regions_unexplored:dead_wood"
     },
     {
-      "item": "productivetrees:mahogany_stripped_log"
+      "item": "regions_unexplored:stripped_dead_log"
     },
     {
-      "item": "productivetrees:mahogany_stripped_wood"
+      "item": "regions_unexplored:stripped_dead_wood"
     }
   ],
   "result": {

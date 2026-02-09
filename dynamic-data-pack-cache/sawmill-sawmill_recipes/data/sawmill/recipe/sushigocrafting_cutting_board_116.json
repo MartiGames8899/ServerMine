@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:ceylon_ebony_log"
+      "item": "biomeswevegone:pine_log"
     },
     {
-      "item": "productivetrees:ceylon_ebony_wood"
+      "item": "biomeswevegone:pine_wood"
     },
     {
-      "item": "productivetrees:ceylon_ebony_stripped_log"
+      "item": "biomeswevegone:stripped_pine_log"
     },
     {
-      "item": "productivetrees:ceylon_ebony_stripped_wood"
+      "item": "biomeswevegone:stripped_pine_wood"
     }
   ],
   "result": {

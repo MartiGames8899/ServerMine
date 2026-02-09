@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:florus_stem"
+      "item": "minecraft:cherry_log"
     },
     {
-      "item": "biomeswevegone:florus_wood"
+      "item": "minecraft:cherry_wood"
     },
     {
-      "item": "biomeswevegone:stripped_florus_stem"
+      "item": "minecraft:stripped_cherry_log"
     },
     {
-      "item": "biomeswevegone:stripped_florus_wood"
+      "item": "minecraft:stripped_cherry_wood"
     }
   ],
   "result": {

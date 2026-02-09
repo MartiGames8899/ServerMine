@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:baobab_log"
+      "item": "biomeswevegone:ironwood_log"
     },
     {
-      "item": "biomeswevegone:baobab_wood"
+      "item": "biomeswevegone:ironwood_wood"
     },
     {
-      "item": "biomeswevegone:stripped_baobab_log"
+      "item": "biomeswevegone:stripped_ironwood_log"
     },
     {
-      "item": "biomeswevegone:stripped_baobab_wood"
+      "item": "biomeswevegone:stripped_ironwood_wood"
     }
   ],
   "result": {

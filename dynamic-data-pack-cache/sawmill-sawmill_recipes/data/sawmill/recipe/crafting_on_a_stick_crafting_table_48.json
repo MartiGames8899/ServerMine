@@ -2,21 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:witch_hazel_log"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "biomeswevegone:witch_hazel_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_witch_hazel_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_witch_hazel_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {
     "id": "crafting_on_a_stick:crafting_table",
     "count": 1
   },
+  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cork_oak_log"
+      "item": "biomeswevegone:witch_hazel_log"
     },
     {
-      "item": "productivetrees:cork_oak_wood"
+      "item": "biomeswevegone:witch_hazel_wood"
     },
     {
-      "item": "productivetrees:cork_oak_stripped_log"
+      "item": "biomeswevegone:stripped_witch_hazel_log"
     },
     {
-      "item": "productivetrees:cork_oak_stripped_wood"
+      "item": "biomeswevegone:stripped_witch_hazel_wood"
     }
   ],
   "result": {

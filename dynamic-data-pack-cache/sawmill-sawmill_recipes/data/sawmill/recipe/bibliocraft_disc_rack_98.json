@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:flickering_sun_log"
+      "item": "regions_unexplored:joshua_log"
     },
     {
-      "item": "productivetrees:flickering_sun_wood"
+      "item": "regions_unexplored:joshua_wood"
     },
     {
-      "item": "productivetrees:flickering_sun_stripped_log"
+      "item": "regions_unexplored:stripped_joshua_log"
     },
     {
-      "item": "productivetrees:flickering_sun_stripped_wood"
+      "item": "regions_unexplored:stripped_joshua_wood"
     }
   ],
   "result": {

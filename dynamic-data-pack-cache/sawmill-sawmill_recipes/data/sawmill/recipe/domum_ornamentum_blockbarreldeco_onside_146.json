@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:maple_log"
+      "item": "productivetrees:clove_log"
     },
     {
-      "item": "regions_unexplored:maple_wood"
+      "item": "productivetrees:clove_wood"
     },
     {
-      "item": "regions_unexplored:stripped_maple_log"
+      "item": "productivetrees:clove_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_maple_wood"
+      "item": "productivetrees:clove_stripped_wood"
     }
   ],
   "result": {

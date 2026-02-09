@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:key_lime_log"
+      "item": "regions_unexplored:socotra_log"
     },
     {
-      "item": "productivetrees:key_lime_wood"
+      "item": "regions_unexplored:socotra_wood"
     },
     {
-      "item": "productivetrees:key_lime_stripped_log"
+      "item": "regions_unexplored:stripped_socotra_log"
     },
     {
-      "item": "productivetrees:key_lime_stripped_wood"
+      "item": "regions_unexplored:stripped_socotra_wood"
     }
   ],
   "result": {

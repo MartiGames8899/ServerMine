@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:pink_bioshroom_stem"
+      "item": "regions_unexplored:blue_bioshroom_stem"
     },
     {
-      "item": "regions_unexplored:pink_bioshroom_hyphae"
+      "item": "regions_unexplored:blue_bioshroom_hyphae"
     },
     {
-      "item": "regions_unexplored:stripped_pink_bioshroom_stem"
+      "item": "regions_unexplored:stripped_blue_bioshroom_stem"
     },
     {
-      "item": "regions_unexplored:stripped_pink_bioshroom_hyphae"
+      "item": "regions_unexplored:stripped_blue_bioshroom_hyphae"
     }
   ],
   "result": {

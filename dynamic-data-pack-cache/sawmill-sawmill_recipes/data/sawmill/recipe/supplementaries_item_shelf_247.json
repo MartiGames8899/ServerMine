@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:cika_planks"
+    "item": "regions_unexplored:kapok_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

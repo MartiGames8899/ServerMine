@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:time_log"
+      "item": "productivetrees:white_poplar_log"
     },
     {
-      "item": "twilightforest:time_wood"
+      "item": "productivetrees:white_poplar_wood"
     },
     {
-      "item": "twilightforest:stripped_time_log"
+      "item": "productivetrees:white_poplar_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_time_wood"
+      "item": "productivetrees:white_poplar_stripped_wood"
     }
   ],
   "result": {

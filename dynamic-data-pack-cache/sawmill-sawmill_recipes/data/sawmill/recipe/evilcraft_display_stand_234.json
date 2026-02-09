@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "eternal_starlight:scarlet_log"
+    },
+    {
+      "item": "eternal_starlight:scarlet_wood"
+    },
+    {
+      "item": "eternal_starlight:stripped_scarlet_log"
+    },
+    {
+      "item": "eternal_starlight:stripped_scarlet_wood"
+    }
+  ],
   "result": {
     "id": "evilcraft:display_stand",
     "count": 1

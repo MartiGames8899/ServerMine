@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:spirit_log"
+      "item": "biomeswevegone:mahogany_log"
     },
     {
-      "item": "biomeswevegone:spirit_wood"
+      "item": "biomeswevegone:mahogany_wood"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_log"
+      "item": "biomeswevegone:stripped_mahogany_log"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_wood"
+      "item": "biomeswevegone:stripped_mahogany_wood"
     }
   ],
   "result": {

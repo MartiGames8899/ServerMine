@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:skyris_log"
+      "item": "productivetrees:whitebeam_log"
     },
     {
-      "item": "biomeswevegone:skyris_wood"
+      "item": "productivetrees:whitebeam_wood"
     },
     {
-      "item": "biomeswevegone:stripped_skyris_log"
+      "item": "productivetrees:whitebeam_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_skyris_wood"
+      "item": "productivetrees:whitebeam_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

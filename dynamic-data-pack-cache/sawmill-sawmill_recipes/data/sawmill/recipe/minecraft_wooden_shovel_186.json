@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "regions_unexplored:blue_bioshroom_stem"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "regions_unexplored:blue_bioshroom_hyphae"
+    },
+    {
+      "item": "regions_unexplored:stripped_blue_bioshroom_stem"
+    },
+    {
+      "item": "regions_unexplored:stripped_blue_bioshroom_hyphae"
     }
   ],
   "result": {

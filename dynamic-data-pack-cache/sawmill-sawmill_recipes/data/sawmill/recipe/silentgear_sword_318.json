@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:pink_bioshroom_stem"
+      "item": "productivetrees:pomelo_log"
     },
     {
-      "item": "regions_unexplored:pink_bioshroom_hyphae"
+      "item": "productivetrees:pomelo_wood"
     },
     {
-      "item": "regions_unexplored:stripped_pink_bioshroom_stem"
+      "item": "productivetrees:pomelo_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_pink_bioshroom_hyphae"
+      "item": "productivetrees:pomelo_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:butternut_log"
+      "item": "productivetrees:kapok_log"
     },
     {
-      "item": "productivetrees:butternut_wood"
+      "item": "productivetrees:kapok_wood"
     },
     {
-      "item": "productivetrees:butternut_stripped_log"
+      "item": "productivetrees:kapok_stripped_log"
     },
     {
-      "item": "productivetrees:butternut_stripped_wood"
+      "item": "productivetrees:kapok_stripped_wood"
     }
   ],
   "result": {

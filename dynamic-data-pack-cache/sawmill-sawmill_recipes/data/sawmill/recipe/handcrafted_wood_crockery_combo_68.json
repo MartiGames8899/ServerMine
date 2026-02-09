@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:witch_hazel_log"
+      "item": "regions_unexplored:joshua_log"
     },
     {
-      "item": "biomeswevegone:witch_hazel_wood"
+      "item": "regions_unexplored:joshua_wood"
     },
     {
-      "item": "biomeswevegone:stripped_witch_hazel_log"
+      "item": "regions_unexplored:stripped_joshua_log"
     },
     {
-      "item": "biomeswevegone:stripped_witch_hazel_wood"
+      "item": "regions_unexplored:stripped_joshua_wood"
     }
   ],
   "result": {

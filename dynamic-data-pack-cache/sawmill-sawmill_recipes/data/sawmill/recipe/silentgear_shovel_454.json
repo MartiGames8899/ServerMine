@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:zebrano_log"
+      "item": "biomeswevegone:fir_log"
     },
     {
-      "item": "productivetrees:zebrano_wood"
+      "item": "biomeswevegone:fir_wood"
     },
     {
-      "item": "productivetrees:zebrano_stripped_log"
+      "item": "biomeswevegone:stripped_fir_log"
     },
     {
-      "item": "productivetrees:zebrano_stripped_wood"
+      "item": "biomeswevegone:stripped_fir_wood"
     }
   ],
   "result": {

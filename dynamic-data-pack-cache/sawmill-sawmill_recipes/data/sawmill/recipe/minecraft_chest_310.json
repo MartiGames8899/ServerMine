@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "regions_unexplored:kapok_log"
+    },
+    {
+      "item": "regions_unexplored:kapok_wood"
+    },
+    {
+      "item": "regions_unexplored:stripped_kapok_log"
+    },
+    {
+      "item": "regions_unexplored:stripped_kapok_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:chest",
     "count": 1

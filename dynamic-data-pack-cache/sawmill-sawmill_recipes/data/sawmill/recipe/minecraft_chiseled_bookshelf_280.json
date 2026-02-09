@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:almond_log"
-    },
-    {
-      "item": "productivetrees:almond_wood"
-    },
-    {
-      "item": "productivetrees:almond_stripped_log"
-    },
-    {
-      "item": "productivetrees:almond_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "minecraft:chiseled_bookshelf",
     "count": 1

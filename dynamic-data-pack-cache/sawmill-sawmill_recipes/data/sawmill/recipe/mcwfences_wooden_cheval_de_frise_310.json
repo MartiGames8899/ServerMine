@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:yew_log"
+      "item": "regions_unexplored:kapok_log"
     },
     {
-      "item": "productivetrees:yew_wood"
+      "item": "regions_unexplored:kapok_wood"
     },
     {
-      "item": "productivetrees:yew_stripped_log"
+      "item": "regions_unexplored:stripped_kapok_log"
     },
     {
-      "item": "productivetrees:yew_stripped_wood"
+      "item": "regions_unexplored:stripped_kapok_wood"
     }
   ],
   "result": {

@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "twilightforest:mangrove_log"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "twilightforest:mangrove_wood"
+    },
+    {
+      "item": "twilightforest:stripped_mangrove_log"
+    },
+    {
+      "item": "twilightforest:stripped_mangrove_wood"
     }
   ],
   "result": {

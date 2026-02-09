@@ -1,12 +1,22 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "cataclysm:chorus_stem"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:rubber_tree_log"
+    },
+    {
+      "item": "productivetrees:rubber_tree_wood"
+    },
+    {
+      "item": "productivetrees:rubber_tree_stripped_log"
+    },
+    {
+      "item": "productivetrees:rubber_tree_stripped_wood"
+    }
+  ],
   "result": {
     "id": "domum_ornamentum:blockbarreldeco_standing",
     "count": 1
   },
-  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

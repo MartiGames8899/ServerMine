@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:crimson_stem"
+      "item": "regions_unexplored:socotra_log"
     },
     {
-      "item": "minecraft:crimson_hyphae"
+      "item": "regions_unexplored:socotra_wood"
     },
     {
-      "item": "minecraft:stripped_crimson_stem"
+      "item": "regions_unexplored:stripped_socotra_log"
     },
     {
-      "item": "minecraft:stripped_crimson_hyphae"
+      "item": "regions_unexplored:stripped_socotra_wood"
     }
   ],
   "result": {

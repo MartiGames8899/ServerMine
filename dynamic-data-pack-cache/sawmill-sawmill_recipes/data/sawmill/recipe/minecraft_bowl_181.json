@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:zelkova_planks"
+    "item": "regions_unexplored:dead_planks"
   },
   "result": {
     "id": "minecraft:bowl",

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:florus_stem"
+      "item": "regions_unexplored:dead_log"
     },
     {
-      "item": "biomeswevegone:florus_wood"
+      "item": "regions_unexplored:dead_wood"
     },
     {
-      "item": "biomeswevegone:stripped_florus_stem"
+      "item": "regions_unexplored:stripped_dead_log"
     },
     {
-      "item": "biomeswevegone:stripped_florus_wood"
+      "item": "regions_unexplored:stripped_dead_wood"
     }
   ],
   "result": {

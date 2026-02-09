@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:blooming_stem"
+      "item": "biomeswevegone:fir_log"
     },
     {
-      "item": "deeperdarker:stripped_blooming_stem"
+      "item": "biomeswevegone:fir_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_fir_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_fir_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:satsuma_log"
+      "item": "regions_unexplored:blue_bioshroom_stem"
     },
     {
-      "item": "productivetrees:satsuma_wood"
+      "item": "regions_unexplored:blue_bioshroom_hyphae"
     },
     {
-      "item": "productivetrees:satsuma_stripped_log"
+      "item": "regions_unexplored:stripped_blue_bioshroom_stem"
     },
     {
-      "item": "productivetrees:satsuma_stripped_wood"
+      "item": "regions_unexplored:stripped_blue_bioshroom_hyphae"
     }
   ],
   "result": {

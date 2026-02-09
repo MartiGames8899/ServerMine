@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:yew_log"
+      "item": "regions_unexplored:green_bioshroom_stem"
     },
     {
-      "item": "productivetrees:yew_wood"
+      "item": "regions_unexplored:green_bioshroom_hyphae"
     },
     {
-      "item": "productivetrees:yew_stripped_log"
+      "item": "regions_unexplored:stripped_green_bioshroom_stem"
     },
     {
-      "item": "productivetrees:yew_stripped_wood"
+      "item": "regions_unexplored:stripped_green_bioshroom_hyphae"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:lawson_cypress_log"
+      "item": "biomeswevegone:blue_enchanted_log"
     },
     {
-      "item": "productivetrees:lawson_cypress_wood"
+      "item": "biomeswevegone:blue_enchanted_wood"
     },
     {
-      "item": "productivetrees:lawson_cypress_stripped_log"
+      "item": "biomeswevegone:stripped_blue_enchanted_log"
     },
     {
-      "item": "productivetrees:lawson_cypress_stripped_wood"
+      "item": "biomeswevegone:stripped_blue_enchanted_wood"
     }
   ],
   "result": {

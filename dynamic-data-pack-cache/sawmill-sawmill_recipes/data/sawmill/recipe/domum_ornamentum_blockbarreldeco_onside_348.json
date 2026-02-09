@@ -2,21 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:flickering_sun_log"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "productivetrees:flickering_sun_wood"
-    },
-    {
-      "item": "productivetrees:flickering_sun_stripped_log"
-    },
-    {
-      "item": "productivetrees:flickering_sun_stripped_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {
     "id": "domum_ornamentum:blockbarreldeco_onside",
     "count": 1
   },
+  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:dead_log"
+      "item": "undergarden:wigglewood_log"
     },
     {
-      "item": "regions_unexplored:dead_wood"
+      "item": "undergarden:wigglewood_wood"
     },
     {
-      "item": "regions_unexplored:stripped_dead_log"
+      "item": "undergarden:stripped_wigglewood_log"
     },
     {
-      "item": "regions_unexplored:stripped_dead_wood"
+      "item": "undergarden:stripped_wigglewood_wood"
     }
   ],
   "result": {

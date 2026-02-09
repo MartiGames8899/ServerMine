@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "cataclysm:chorus_stem"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:copper_beech_log"
+    },
+    {
+      "item": "productivetrees:copper_beech_wood"
+    },
+    {
+      "item": "productivetrees:copper_beech_stripped_log"
+    },
+    {
+      "item": "productivetrees:copper_beech_stripped_wood"
+    }
+  ],
   "result": {
     "id": "evilcraft:display_stand",
     "count": 1

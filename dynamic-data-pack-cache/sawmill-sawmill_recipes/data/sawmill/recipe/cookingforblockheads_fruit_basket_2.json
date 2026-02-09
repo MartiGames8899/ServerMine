@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:butternut_log"
+      "item": "aether:skyroot_log"
     },
     {
-      "item": "productivetrees:butternut_wood"
+      "item": "aether:skyroot_wood"
     },
     {
-      "item": "productivetrees:butternut_stripped_log"
+      "item": "aether:stripped_skyroot_log"
     },
     {
-      "item": "productivetrees:butternut_stripped_wood"
+      "item": "aether:stripped_skyroot_wood"
     }
   ],
   "result": {

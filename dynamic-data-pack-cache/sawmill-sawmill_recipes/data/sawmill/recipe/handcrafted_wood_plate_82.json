@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:allspice_log"
+      "item": "biomeswevegone:holly_log"
     },
     {
-      "item": "productivetrees:allspice_wood"
+      "item": "biomeswevegone:holly_wood"
     },
     {
-      "item": "productivetrees:allspice_stripped_log"
+      "item": "biomeswevegone:stripped_holly_log"
     },
     {
-      "item": "productivetrees:allspice_stripped_wood"
+      "item": "biomeswevegone:stripped_holly_wood"
     }
   ],
   "result": {

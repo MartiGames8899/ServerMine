@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:breadfruit_log"
+      "item": "regions_unexplored:palm_log"
     },
     {
-      "item": "productivetrees:breadfruit_wood"
+      "item": "regions_unexplored:palm_wood"
     },
     {
-      "item": "productivetrees:breadfruit_stripped_log"
+      "item": "regions_unexplored:stripped_palm_log"
     },
     {
-      "item": "productivetrees:breadfruit_stripped_wood"
+      "item": "regions_unexplored:stripped_palm_wood"
     }
   ],
   "result": {

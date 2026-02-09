@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:cika_log"
+      "item": "biomeswevegone:witch_hazel_log"
     },
     {
-      "item": "biomeswevegone:cika_wood"
+      "item": "biomeswevegone:witch_hazel_wood"
     },
     {
-      "item": "biomeswevegone:stripped_cika_log"
+      "item": "biomeswevegone:stripped_witch_hazel_log"
     },
     {
-      "item": "biomeswevegone:stripped_cika_wood"
+      "item": "biomeswevegone:stripped_witch_hazel_wood"
     }
   ],
   "result": {

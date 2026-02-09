@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:orange_log"
-    },
-    {
-      "item": "productivetrees:orange_wood"
-    },
-    {
-      "item": "productivetrees:orange_stripped_log"
-    },
-    {
-      "item": "productivetrees:orange_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "pamhc2foodcore:rolleritem",
     "count": 1

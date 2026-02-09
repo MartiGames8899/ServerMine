@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:palm_planks"
+    "item": "eternal_starlight:cradlewood_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

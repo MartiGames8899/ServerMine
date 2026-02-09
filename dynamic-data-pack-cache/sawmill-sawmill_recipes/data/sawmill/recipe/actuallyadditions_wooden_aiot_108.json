@@ -2,16 +2,22 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "productivetrees:sour_cherry_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "productivetrees:sour_cherry_wood"
+    },
+    {
+      "item": "productivetrees:sour_cherry_stripped_log"
+    },
+    {
+      "item": "productivetrees:sour_cherry_stripped_wood"
     }
   ],
   "result": {
     "id": "actuallyadditions:wooden_aiot",
     "count": 1
   },
-  "ingredient_count": 6,
+  "ingredient_count": 3,
   "type": "sawmill:woodcutting"
 }

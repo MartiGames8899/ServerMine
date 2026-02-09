@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "silentgear:netherwood_log"
+      "item": "regions_unexplored:pine_log"
     },
     {
-      "item": "silentgear:netherwood_wood"
+      "item": "regions_unexplored:pine_wood"
     },
     {
-      "item": "silentgear:stripped_netherwood_log"
+      "item": "regions_unexplored:stripped_pine_log"
     },
     {
-      "item": "silentgear:stripped_netherwood_wood"
+      "item": "regions_unexplored:stripped_pine_wood"
     }
   ],
   "result": {

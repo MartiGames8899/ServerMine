@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "evilcraft:undead_log"
+      "item": "productivetrees:pecan_log"
     },
     {
-      "item": "evilcraft:undead_wood"
+      "item": "productivetrees:pecan_wood"
+    },
+    {
+      "item": "productivetrees:pecan_stripped_log"
+    },
+    {
+      "item": "productivetrees:pecan_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:pink_bioshroom_stem"
+      "item": "productivetrees:boxwood_log"
     },
     {
-      "item": "regions_unexplored:pink_bioshroom_hyphae"
+      "item": "productivetrees:boxwood_wood"
     },
     {
-      "item": "regions_unexplored:stripped_pink_bioshroom_stem"
+      "item": "productivetrees:boxwood_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_pink_bioshroom_hyphae"
+      "item": "productivetrees:boxwood_stripped_wood"
     }
   ],
   "result": {

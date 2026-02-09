@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:mahogany_log"
+      "item": "regions_unexplored:yellow_bioshroom_stem"
     },
     {
-      "item": "biomeswevegone:mahogany_wood"
+      "item": "regions_unexplored:yellow_bioshroom_hyphae"
     },
     {
-      "item": "biomeswevegone:stripped_mahogany_log"
+      "item": "regions_unexplored:stripped_yellow_bioshroom_stem"
     },
     {
-      "item": "biomeswevegone:stripped_mahogany_wood"
+      "item": "regions_unexplored:stripped_yellow_bioshroom_hyphae"
     }
   ],
   "result": {

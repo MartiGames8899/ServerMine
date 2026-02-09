@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:banana_log"
+    },
+    {
+      "item": "productivetrees:banana_wood"
+    },
+    {
+      "item": "productivetrees:banana_stripped_log"
+    },
+    {
+      "item": "productivetrees:banana_stripped_wood"
+    }
+  ],
   "result": {
     "id": "supplementaries:item_shelf",
     "count": 6

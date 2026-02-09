@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "biomeswevegone:cypress_log"
-    },
-    {
-      "item": "biomeswevegone:cypress_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_cypress_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_cypress_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "minecraft:wooden_sword",
     "count": 1

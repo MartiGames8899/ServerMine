@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:holly_log"
+      "item": "biomeswevegone:skyris_log"
     },
     {
-      "item": "biomeswevegone:holly_wood"
+      "item": "biomeswevegone:skyris_wood"
     },
     {
-      "item": "biomeswevegone:stripped_holly_log"
+      "item": "biomeswevegone:stripped_skyris_log"
     },
     {
-      "item": "biomeswevegone:stripped_holly_wood"
+      "item": "biomeswevegone:stripped_skyris_wood"
     }
   ],
   "result": {

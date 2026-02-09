@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:whitebeam_log"
+      "item": "eternal_starlight:lunar_log"
     },
     {
-      "item": "productivetrees:whitebeam_wood"
+      "item": "eternal_starlight:lunar_wood"
     },
     {
-      "item": "productivetrees:whitebeam_stripped_log"
+      "item": "eternal_starlight:stripped_lunar_log"
     },
     {
-      "item": "productivetrees:whitebeam_stripped_wood"
+      "item": "eternal_starlight:stripped_lunar_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

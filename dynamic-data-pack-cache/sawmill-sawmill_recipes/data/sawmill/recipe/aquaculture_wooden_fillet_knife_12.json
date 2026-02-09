@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "iceandfire:dreadwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:time_traveller_log"
+    },
+    {
+      "item": "productivetrees:time_traveller_wood"
+    },
+    {
+      "item": "productivetrees:time_traveller_stripped_log"
+    },
+    {
+      "item": "productivetrees:time_traveller_stripped_wood"
+    }
+  ],
   "result": {
     "id": "aquaculture:wooden_fillet_knife",
     "count": 1

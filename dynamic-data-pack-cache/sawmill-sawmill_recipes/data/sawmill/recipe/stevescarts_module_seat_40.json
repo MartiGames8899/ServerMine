@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:holly_log"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "biomeswevegone:holly_wood"
+      "item": "deeperdarker:echo_wood"
     },
     {
-      "item": "biomeswevegone:stripped_holly_log"
+      "item": "deeperdarker:stripped_echo_log"
     },
     {
-      "item": "biomeswevegone:stripped_holly_wood"
+      "item": "deeperdarker:stripped_echo_wood"
     }
   ],
   "result": {

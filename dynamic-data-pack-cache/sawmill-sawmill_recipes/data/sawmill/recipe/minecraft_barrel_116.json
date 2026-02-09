@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:echo_log"
+      "item": "aether:skyroot_log"
     },
     {
-      "item": "deeperdarker:echo_wood"
+      "item": "aether:skyroot_wood"
     },
     {
-      "item": "deeperdarker:stripped_echo_log"
+      "item": "aether:stripped_skyroot_log"
     },
     {
-      "item": "deeperdarker:stripped_echo_wood"
+      "item": "aether:stripped_skyroot_wood"
     }
   ],
   "result": {

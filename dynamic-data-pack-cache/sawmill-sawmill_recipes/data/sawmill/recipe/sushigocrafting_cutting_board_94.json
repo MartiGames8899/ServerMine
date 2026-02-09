@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:cypress_log"
+      "item": "productivetrees:soursop_log"
     },
     {
-      "item": "regions_unexplored:cypress_wood"
+      "item": "productivetrees:soursop_wood"
     },
     {
-      "item": "regions_unexplored:stripped_cypress_log"
+      "item": "productivetrees:soursop_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_cypress_wood"
+      "item": "productivetrees:soursop_stripped_wood"
     }
   ],
   "result": {

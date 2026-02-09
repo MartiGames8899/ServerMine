@@ -1,22 +1,11 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "twilightforest:mining_log"
-    },
-    {
-      "item": "twilightforest:mining_wood"
-    },
-    {
-      "item": "twilightforest:stripped_mining_log"
-    },
-    {
-      "item": "twilightforest:stripped_mining_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
   "result": {
     "id": "supplementaries:item_shelf",
-    "count": 6
+    "count": 3
   },
   "type": "sawmill:woodcutting"
 }

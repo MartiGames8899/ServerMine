@@ -2,10 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "integrateddynamics:menril_log"
+      "item": "forbidden_arcanus:fungyss_stem"
     },
     {
-      "item": "integrateddynamics:menril_wood"
+      "item": "forbidden_arcanus:fungyss_hyphae"
     }
   ],
   "result": {

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:northland_planks"
+    "item": "twilightforest:canopy_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

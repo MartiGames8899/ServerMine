@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:aspen_planks"
+    "item": "integrateddynamics:menril_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

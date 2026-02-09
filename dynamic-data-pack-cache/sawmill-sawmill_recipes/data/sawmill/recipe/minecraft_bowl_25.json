@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:alder_planks"
+    "item": "regions_unexplored:redwood_planks"
   },
   "result": {
     "id": "minecraft:bowl",

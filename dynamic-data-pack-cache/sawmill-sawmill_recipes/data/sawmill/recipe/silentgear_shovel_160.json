@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:buddhas_hand_log"
+      "item": "regions_unexplored:dead_log"
     },
     {
-      "item": "productivetrees:buddhas_hand_wood"
+      "item": "regions_unexplored:dead_wood"
     },
     {
-      "item": "productivetrees:buddhas_hand_stripped_log"
+      "item": "regions_unexplored:stripped_dead_log"
     },
     {
-      "item": "productivetrees:buddhas_hand_stripped_wood"
+      "item": "regions_unexplored:stripped_dead_wood"
     }
   ],
   "result": {

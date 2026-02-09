@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:yellow_bioshroom_planks"
+    "item": "productivetrees:sparkle_cherry_planks"
   },
   "result": {
     "id": "minecraft:bowl",

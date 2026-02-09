@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:yellow_bioshroom_stem"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "regions_unexplored:yellow_bioshroom_hyphae"
-    },
-    {
-      "item": "regions_unexplored:stripped_yellow_bioshroom_stem"
-    },
-    {
-      "item": "regions_unexplored:stripped_yellow_bioshroom_hyphae"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

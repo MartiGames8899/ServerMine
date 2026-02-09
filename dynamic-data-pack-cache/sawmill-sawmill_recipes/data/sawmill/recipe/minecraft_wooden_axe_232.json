@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:demonic_log"
+      "item": "biomeswevegone:cika_log"
     },
     {
-      "item": "allthemodium:stripped_demonic_log"
+      "item": "biomeswevegone:cika_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_cika_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_cika_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:olive_log"
+      "item": "biomeswevegone:blue_enchanted_log"
     },
     {
-      "item": "productivetrees:olive_wood"
+      "item": "biomeswevegone:blue_enchanted_wood"
     },
     {
-      "item": "productivetrees:olive_stripped_log"
+      "item": "biomeswevegone:stripped_blue_enchanted_log"
     },
     {
-      "item": "productivetrees:olive_stripped_wood"
+      "item": "biomeswevegone:stripped_blue_enchanted_wood"
     }
   ],
   "result": {

@@ -1,22 +1,12 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "regions_unexplored:blue_bioshroom_stem"
-    },
-    {
-      "item": "regions_unexplored:blue_bioshroom_hyphae"
-    },
-    {
-      "item": "regions_unexplored:stripped_blue_bioshroom_stem"
-    },
-    {
-      "item": "regions_unexplored:stripped_blue_bioshroom_hyphae"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "farmersdelight:cutting_board",
     "count": 1
   },
+  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

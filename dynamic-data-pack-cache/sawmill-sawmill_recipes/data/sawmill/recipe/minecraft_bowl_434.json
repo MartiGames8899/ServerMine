@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:northland_log"
+      "item": "productivetrees:walnut_log"
     },
     {
-      "item": "eternal_starlight:northland_wood"
+      "item": "productivetrees:walnut_wood"
     },
     {
-      "item": "eternal_starlight:stripped_northland_log"
+      "item": "productivetrees:walnut_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_northland_wood"
+      "item": "productivetrees:walnut_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

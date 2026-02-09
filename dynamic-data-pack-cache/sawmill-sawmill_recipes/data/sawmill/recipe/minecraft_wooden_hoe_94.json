@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:transformation_log"
+      "item": "regions_unexplored:pine_log"
     },
     {
-      "item": "twilightforest:transformation_wood"
+      "item": "regions_unexplored:pine_wood"
     },
     {
-      "item": "twilightforest:stripped_transformation_log"
+      "item": "regions_unexplored:stripped_pine_log"
     },
     {
-      "item": "twilightforest:stripped_transformation_wood"
+      "item": "regions_unexplored:stripped_pine_wood"
     }
   ],
   "result": {

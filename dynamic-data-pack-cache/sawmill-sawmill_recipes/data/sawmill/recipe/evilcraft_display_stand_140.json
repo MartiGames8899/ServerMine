@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:green_bioshroom_stem"
+      "item": "twilightforest:mining_log"
     },
     {
-      "item": "regions_unexplored:green_bioshroom_hyphae"
+      "item": "twilightforest:mining_wood"
     },
     {
-      "item": "regions_unexplored:stripped_green_bioshroom_stem"
+      "item": "twilightforest:stripped_mining_log"
     },
     {
-      "item": "regions_unexplored:stripped_green_bioshroom_hyphae"
+      "item": "twilightforest:stripped_mining_wood"
     }
   ],
   "result": {

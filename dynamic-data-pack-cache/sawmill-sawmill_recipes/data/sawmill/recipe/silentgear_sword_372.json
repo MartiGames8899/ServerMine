@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:yellow_meranti_log"
+      "item": "twilightforest:sorting_log"
     },
     {
-      "item": "productivetrees:yellow_meranti_wood"
+      "item": "twilightforest:sorting_wood"
     },
     {
-      "item": "productivetrees:yellow_meranti_stripped_log"
+      "item": "twilightforest:stripped_sorting_log"
     },
     {
-      "item": "productivetrees:yellow_meranti_stripped_wood"
+      "item": "twilightforest:stripped_sorting_wood"
     }
   ],
   "result": {

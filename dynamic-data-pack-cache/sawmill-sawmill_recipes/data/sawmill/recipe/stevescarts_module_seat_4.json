@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:mining_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "twilightforest:mining_wood"
-    },
-    {
-      "item": "twilightforest:stripped_mining_log"
-    },
-    {
-      "item": "twilightforest:stripped_mining_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {

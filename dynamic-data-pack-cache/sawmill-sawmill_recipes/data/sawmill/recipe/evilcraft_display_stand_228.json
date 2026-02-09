@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "integrateddynamics:menril_log"
+      "item": "twilightforest:sorting_log"
     },
     {
-      "item": "integrateddynamics:menril_wood"
+      "item": "twilightforest:sorting_wood"
+    },
+    {
+      "item": "twilightforest:stripped_sorting_log"
+    },
+    {
+      "item": "twilightforest:stripped_sorting_wood"
     }
   ],
   "result": {

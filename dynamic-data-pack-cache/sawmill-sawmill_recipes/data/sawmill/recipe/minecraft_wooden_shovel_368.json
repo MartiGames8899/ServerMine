@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:redwood_log"
+      "item": "twilightforest:dark_log"
     },
     {
-      "item": "biomeswevegone:redwood_wood"
+      "item": "twilightforest:dark_wood"
     },
     {
-      "item": "biomeswevegone:stripped_redwood_log"
+      "item": "twilightforest:stripped_dark_log"
     },
     {
-      "item": "biomeswevegone:stripped_redwood_wood"
+      "item": "twilightforest:stripped_dark_wood"
     }
   ],
   "result": {

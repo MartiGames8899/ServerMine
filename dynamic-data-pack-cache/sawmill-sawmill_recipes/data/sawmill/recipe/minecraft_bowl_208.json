@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sparkle_cherry_log"
+      "item": "eternal_starlight:cradlewood_log"
     },
     {
-      "item": "productivetrees:sparkle_cherry_wood"
+      "item": "eternal_starlight:cradlewood_wood"
     },
     {
-      "item": "productivetrees:sparkle_cherry_stripped_log"
+      "item": "eternal_starlight:stripped_cradlewood_log"
     },
     {
-      "item": "productivetrees:sparkle_cherry_stripped_wood"
+      "item": "eternal_starlight:stripped_cradlewood_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

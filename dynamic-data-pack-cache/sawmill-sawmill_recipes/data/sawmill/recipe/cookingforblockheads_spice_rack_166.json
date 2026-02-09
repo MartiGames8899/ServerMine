@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cashew_log"
+      "item": "biomeswevegone:mahogany_log"
     },
     {
-      "item": "productivetrees:cashew_wood"
+      "item": "biomeswevegone:mahogany_wood"
     },
     {
-      "item": "productivetrees:cashew_stripped_log"
+      "item": "biomeswevegone:stripped_mahogany_log"
     },
     {
-      "item": "productivetrees:cashew_stripped_wood"
+      "item": "biomeswevegone:stripped_mahogany_wood"
     }
   ],
   "result": {

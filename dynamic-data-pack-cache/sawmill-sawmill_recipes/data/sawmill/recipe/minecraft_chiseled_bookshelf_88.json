@@ -2,22 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "silentgear:netherwood_log"
+      "item": "productivetrees:dogwood_log"
     },
     {
-      "item": "silentgear:netherwood_wood"
+      "item": "productivetrees:dogwood_wood"
     },
     {
-      "item": "silentgear:stripped_netherwood_log"
+      "item": "productivetrees:dogwood_stripped_log"
     },
     {
-      "item": "silentgear:stripped_netherwood_wood"
+      "item": "productivetrees:dogwood_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:chiseled_bookshelf",
     "count": 1
   },
-  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

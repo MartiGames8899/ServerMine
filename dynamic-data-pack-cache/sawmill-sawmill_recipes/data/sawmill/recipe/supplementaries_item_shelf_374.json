@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pomegranate_log"
+      "item": "forbidden_arcanus:aurum_log"
     },
     {
-      "item": "productivetrees:pomegranate_wood"
+      "item": "forbidden_arcanus:aurum_wood"
     },
     {
-      "item": "productivetrees:pomegranate_stripped_log"
+      "item": "forbidden_arcanus:stripped_aurum_log"
     },
     {
-      "item": "productivetrees:pomegranate_stripped_wood"
+      "item": "forbidden_arcanus:stripped_aurum_wood"
     }
   ],
   "result": {

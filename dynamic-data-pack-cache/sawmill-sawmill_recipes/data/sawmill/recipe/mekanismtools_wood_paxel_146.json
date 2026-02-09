@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "regions_unexplored:pink_bioshroom_stem"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "regions_unexplored:pink_bioshroom_hyphae"
+    },
+    {
+      "item": "regions_unexplored:stripped_pink_bioshroom_stem"
+    },
+    {
+      "item": "regions_unexplored:stripped_pink_bioshroom_hyphae"
     }
   ],
   "result": {

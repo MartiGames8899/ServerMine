@@ -2,22 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:peach_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "productivetrees:peach_wood"
-    },
-    {
-      "item": "productivetrees:peach_stripped_log"
-    },
-    {
-      "item": "productivetrees:peach_stripped_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "oritech:machine_core_1",
     "count": 1
   },
-  "ingredient_count": 3,
+  "ingredient_count": 6,
   "type": "sawmill:woodcutting"
 }

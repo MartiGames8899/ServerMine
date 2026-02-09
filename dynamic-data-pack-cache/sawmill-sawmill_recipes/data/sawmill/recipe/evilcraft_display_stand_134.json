@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:red_crepe_myrtle_log"
+      "item": "regions_unexplored:eucalyptus_log"
     },
     {
-      "item": "productivetrees:red_crepe_myrtle_wood"
+      "item": "regions_unexplored:eucalyptus_wood"
     },
     {
-      "item": "productivetrees:red_crepe_myrtle_stripped_log"
+      "item": "regions_unexplored:stripped_eucalyptus_log"
     },
     {
-      "item": "productivetrees:red_crepe_myrtle_stripped_wood"
+      "item": "regions_unexplored:stripped_eucalyptus_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:aspen_log"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "biomeswevegone:aspen_wood"
+      "item": "deeperdarker:echo_wood"
     },
     {
-      "item": "biomeswevegone:stripped_aspen_log"
+      "item": "deeperdarker:stripped_echo_log"
     },
     {
-      "item": "biomeswevegone:stripped_aspen_wood"
+      "item": "deeperdarker:stripped_echo_wood"
     }
   ],
   "result": {

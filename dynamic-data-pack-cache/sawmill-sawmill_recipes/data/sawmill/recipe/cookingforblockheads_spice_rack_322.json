@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:rose_gum_log"
+    },
+    {
+      "item": "productivetrees:rose_gum_wood"
+    },
+    {
+      "item": "productivetrees:rose_gum_stripped_log"
+    },
+    {
+      "item": "productivetrees:rose_gum_stripped_wood"
+    }
+  ],
   "result": {
     "id": "cookingforblockheads:spice_rack",
     "count": 4

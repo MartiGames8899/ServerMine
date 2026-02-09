@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:mandarin_log"
-    },
-    {
-      "item": "productivetrees:mandarin_wood"
-    },
-    {
-      "item": "productivetrees:mandarin_stripped_log"
-    },
-    {
-      "item": "productivetrees:mandarin_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "domum_ornamentum:blockbarreldeco_onside",
     "count": 1

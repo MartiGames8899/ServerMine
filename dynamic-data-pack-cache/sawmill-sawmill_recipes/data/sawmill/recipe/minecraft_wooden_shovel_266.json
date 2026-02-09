@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:baobab_log"
+      "item": "minecraft:mangrove_log"
     },
     {
-      "item": "biomeswevegone:baobab_wood"
+      "item": "minecraft:mangrove_wood"
     },
     {
-      "item": "biomeswevegone:stripped_baobab_log"
+      "item": "minecraft:stripped_mangrove_log"
     },
     {
-      "item": "biomeswevegone:stripped_baobab_wood"
+      "item": "minecraft:stripped_mangrove_wood"
     }
   ],
   "result": {

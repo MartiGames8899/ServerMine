@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rubber_tree_log"
+      "item": "biomeswevegone:witch_hazel_log"
     },
     {
-      "item": "productivetrees:rubber_tree_wood"
+      "item": "biomeswevegone:witch_hazel_wood"
     },
     {
-      "item": "productivetrees:rubber_tree_stripped_log"
+      "item": "biomeswevegone:stripped_witch_hazel_log"
     },
     {
-      "item": "productivetrees:rubber_tree_stripped_wood"
+      "item": "biomeswevegone:stripped_witch_hazel_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

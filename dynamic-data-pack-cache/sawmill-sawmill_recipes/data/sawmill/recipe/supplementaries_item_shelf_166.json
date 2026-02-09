@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:palm_log"
+      "item": "biomeswevegone:spirit_log"
     },
     {
-      "item": "regions_unexplored:palm_wood"
+      "item": "biomeswevegone:spirit_wood"
     },
     {
-      "item": "regions_unexplored:stripped_palm_log"
+      "item": "biomeswevegone:stripped_spirit_log"
     },
     {
-      "item": "regions_unexplored:stripped_palm_wood"
+      "item": "biomeswevegone:stripped_spirit_wood"
     }
   ],
   "result": {

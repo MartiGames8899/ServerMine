@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:mangrove_log"
+      "item": "regions_unexplored:green_bioshroom_stem"
     },
     {
-      "item": "minecraft:mangrove_wood"
+      "item": "regions_unexplored:green_bioshroom_hyphae"
     },
     {
-      "item": "minecraft:stripped_mangrove_log"
+      "item": "regions_unexplored:stripped_green_bioshroom_stem"
     },
     {
-      "item": "minecraft:stripped_mangrove_wood"
+      "item": "regions_unexplored:stripped_green_bioshroom_hyphae"
     }
   ],
   "result": {

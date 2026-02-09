@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:kapok_log"
+      "item": "productivetrees:sandalwood_log"
     },
     {
-      "item": "regions_unexplored:kapok_wood"
+      "item": "productivetrees:sandalwood_wood"
     },
     {
-      "item": "regions_unexplored:stripped_kapok_log"
+      "item": "productivetrees:sandalwood_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_kapok_wood"
+      "item": "productivetrees:sandalwood_stripped_wood"
     }
   ],
   "result": {

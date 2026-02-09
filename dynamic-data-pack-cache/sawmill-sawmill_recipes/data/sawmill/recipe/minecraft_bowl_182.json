@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pomelo_log"
+      "item": "productivetrees:orange_log"
     },
     {
-      "item": "productivetrees:pomelo_wood"
+      "item": "productivetrees:orange_wood"
     },
     {
-      "item": "productivetrees:pomelo_stripped_log"
+      "item": "productivetrees:orange_stripped_log"
     },
     {
-      "item": "productivetrees:pomelo_stripped_wood"
+      "item": "productivetrees:orange_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

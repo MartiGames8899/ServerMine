@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:ceylon_ebony_planks"
+    "item": "productivetrees:black_cherry_planks"
   },
   "result": {
     "id": "cookingforblockheads:spice_rack",

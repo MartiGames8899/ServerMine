@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:aspen_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "biomeswevegone:aspen_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_aspen_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_aspen_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

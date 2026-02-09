@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "productivetrees:cinnamon_log"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "productivetrees:cinnamon_wood"
+    },
+    {
+      "item": "productivetrees:cinnamon_stripped_log"
+    },
+    {
+      "item": "productivetrees:cinnamon_stripped_wood"
     }
   ],
   "result": {

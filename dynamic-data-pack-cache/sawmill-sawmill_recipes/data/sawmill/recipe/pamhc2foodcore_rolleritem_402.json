@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:cypress_log"
+      "item": "biomeswevegone:florus_stem"
     },
     {
-      "item": "biomeswevegone:cypress_wood"
+      "item": "biomeswevegone:florus_wood"
     },
     {
-      "item": "biomeswevegone:stripped_cypress_log"
+      "item": "biomeswevegone:stripped_florus_stem"
     },
     {
-      "item": "biomeswevegone:stripped_cypress_wood"
+      "item": "biomeswevegone:stripped_florus_wood"
     }
   ],
   "result": {

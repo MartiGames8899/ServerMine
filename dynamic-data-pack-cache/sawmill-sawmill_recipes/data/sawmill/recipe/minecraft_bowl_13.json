@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "iceandfire:dreadwood_planks"
+    "item": "productivetrees:time_traveller_planks"
   },
   "result": {
     "id": "minecraft:bowl",

@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:red_delicious_apple_log"
+    },
+    {
+      "item": "productivetrees:red_delicious_apple_wood"
+    },
+    {
+      "item": "productivetrees:red_delicious_apple_stripped_log"
+    },
+    {
+      "item": "productivetrees:red_delicious_apple_stripped_wood"
+    }
+  ],
   "result": {
     "id": "handcrafted:wood_cup",
     "count": 8

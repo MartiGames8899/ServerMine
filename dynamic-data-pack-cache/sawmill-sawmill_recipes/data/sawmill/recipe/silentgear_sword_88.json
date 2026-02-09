@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "silentgear:netherwood_log"
+      "item": "eternal_starlight:northland_log"
     },
     {
-      "item": "silentgear:netherwood_wood"
+      "item": "eternal_starlight:northland_wood"
     },
     {
-      "item": "silentgear:stripped_netherwood_log"
+      "item": "eternal_starlight:stripped_northland_log"
     },
     {
-      "item": "silentgear:stripped_netherwood_wood"
+      "item": "eternal_starlight:stripped_northland_wood"
     }
   ],
   "result": {

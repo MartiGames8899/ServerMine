@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:thunder_bolt_log"
+      "item": "productivetrees:logwood_log"
     },
     {
-      "item": "productivetrees:thunder_bolt_wood"
+      "item": "productivetrees:logwood_wood"
     },
     {
-      "item": "productivetrees:thunder_bolt_stripped_log"
+      "item": "productivetrees:logwood_stripped_log"
     },
     {
-      "item": "productivetrees:thunder_bolt_stripped_wood"
+      "item": "productivetrees:logwood_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

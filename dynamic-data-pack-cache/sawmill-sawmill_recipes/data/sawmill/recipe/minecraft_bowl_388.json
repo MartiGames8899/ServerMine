@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rainbow_gum_log"
+      "item": "biomeswevegone:cypress_log"
     },
     {
-      "item": "productivetrees:rainbow_gum_wood"
+      "item": "biomeswevegone:cypress_wood"
     },
     {
-      "item": "productivetrees:rainbow_gum_stripped_log"
+      "item": "biomeswevegone:stripped_cypress_log"
     },
     {
-      "item": "productivetrees:rainbow_gum_stripped_wood"
+      "item": "biomeswevegone:stripped_cypress_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

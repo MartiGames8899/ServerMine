@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:slimy_delight_log"
+      "item": "forbidden_arcanus:fungyss_stem"
     },
     {
-      "item": "productivetrees:slimy_delight_wood"
-    },
-    {
-      "item": "productivetrees:slimy_delight_stripped_log"
-    },
-    {
-      "item": "productivetrees:slimy_delight_stripped_wood"
+      "item": "forbidden_arcanus:fungyss_hyphae"
     }
   ],
   "result": {

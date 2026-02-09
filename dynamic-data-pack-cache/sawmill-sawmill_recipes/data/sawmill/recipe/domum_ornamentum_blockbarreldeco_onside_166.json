@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:baobab_log"
+      "item": "productivetrees:purple_blackthorn_log"
     },
     {
-      "item": "regions_unexplored:baobab_wood"
+      "item": "productivetrees:purple_blackthorn_wood"
     },
     {
-      "item": "regions_unexplored:stripped_baobab_log"
+      "item": "productivetrees:purple_blackthorn_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_baobab_wood"
+      "item": "productivetrees:purple_blackthorn_stripped_wood"
     }
   ],
   "result": {

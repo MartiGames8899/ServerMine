@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:blue_mahoe_planks"
+    "item": "naturesaura:ancient_planks"
   },
   "result": {
     "id": "minecraft:bowl",

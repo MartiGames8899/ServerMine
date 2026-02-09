@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:brimwood_log"
+      "item": "productivetrees:sour_cherry_log"
     },
     {
-      "item": "regions_unexplored:brimwood_wood"
+      "item": "productivetrees:sour_cherry_wood"
     },
     {
-      "item": "regions_unexplored:stripped_brimwood_log"
+      "item": "productivetrees:sour_cherry_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_brimwood_wood"
+      "item": "productivetrees:sour_cherry_stripped_wood"
     }
   ],
   "result": {

@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:soul_log"
+      "item": "productivetrees:cultivated_pear_log"
     },
     {
-      "item": "allthemodium:stripped_soul_log"
+      "item": "productivetrees:cultivated_pear_wood"
+    },
+    {
+      "item": "productivetrees:cultivated_pear_stripped_log"
+    },
+    {
+      "item": "productivetrees:cultivated_pear_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:time_log"
+      "item": "eternal_starlight:cradlewood_log"
     },
     {
-      "item": "twilightforest:time_wood"
+      "item": "eternal_starlight:cradlewood_wood"
     },
     {
-      "item": "twilightforest:stripped_time_log"
+      "item": "eternal_starlight:stripped_cradlewood_log"
     },
     {
-      "item": "twilightforest:stripped_time_wood"
+      "item": "eternal_starlight:stripped_cradlewood_wood"
     }
   ],
   "result": {

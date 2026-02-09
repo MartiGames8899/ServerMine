@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:coconut_log"
+      "item": "regions_unexplored:blue_bioshroom_stem"
     },
     {
-      "item": "productivetrees:coconut_wood"
+      "item": "regions_unexplored:blue_bioshroom_hyphae"
     },
     {
-      "item": "productivetrees:coconut_stripped_log"
+      "item": "regions_unexplored:stripped_blue_bioshroom_stem"
     },
     {
-      "item": "productivetrees:coconut_stripped_wood"
+      "item": "regions_unexplored:stripped_blue_bioshroom_hyphae"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

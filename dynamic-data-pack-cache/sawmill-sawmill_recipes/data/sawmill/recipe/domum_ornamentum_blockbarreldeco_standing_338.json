@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:pink_bioshroom_stem"
+      "item": "allthemodium:soul_log"
     },
     {
-      "item": "regions_unexplored:pink_bioshroom_hyphae"
-    },
-    {
-      "item": "regions_unexplored:stripped_pink_bioshroom_stem"
-    },
-    {
-      "item": "regions_unexplored:stripped_pink_bioshroom_hyphae"
+      "item": "allthemodium:stripped_soul_log"
     }
   ],
   "result": {

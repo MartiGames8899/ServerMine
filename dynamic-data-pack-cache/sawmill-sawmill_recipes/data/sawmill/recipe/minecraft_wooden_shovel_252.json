@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:plantain_log"
+    },
+    {
+      "item": "productivetrees:plantain_wood"
+    },
+    {
+      "item": "productivetrees:plantain_stripped_log"
+    },
+    {
+      "item": "productivetrees:plantain_stripped_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:wooden_shovel",
     "count": 1

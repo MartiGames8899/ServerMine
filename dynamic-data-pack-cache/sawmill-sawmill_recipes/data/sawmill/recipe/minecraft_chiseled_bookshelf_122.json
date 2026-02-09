@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:elderberry_log"
+      "item": "biomeswevegone:holly_log"
     },
     {
-      "item": "productivetrees:elderberry_wood"
+      "item": "biomeswevegone:holly_wood"
     },
     {
-      "item": "productivetrees:elderberry_stripped_log"
+      "item": "biomeswevegone:stripped_holly_log"
     },
     {
-      "item": "productivetrees:elderberry_stripped_wood"
+      "item": "biomeswevegone:stripped_holly_wood"
     }
   ],
   "result": {

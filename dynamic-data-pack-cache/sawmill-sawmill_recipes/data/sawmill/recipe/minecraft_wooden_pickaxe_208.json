@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:green_enchanted_log"
+      "item": "productivetrees:rowan_log"
     },
     {
-      "item": "biomeswevegone:green_enchanted_wood"
+      "item": "productivetrees:rowan_wood"
     },
     {
-      "item": "biomeswevegone:stripped_green_enchanted_log"
+      "item": "productivetrees:rowan_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_green_enchanted_wood"
+      "item": "productivetrees:rowan_stripped_wood"
     }
   ],
   "result": {

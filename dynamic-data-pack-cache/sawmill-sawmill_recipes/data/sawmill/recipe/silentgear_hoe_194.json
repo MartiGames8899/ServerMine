@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:papaya_log"
+      "item": "productivetrees:lawson_cypress_log"
     },
     {
-      "item": "productivetrees:papaya_wood"
+      "item": "productivetrees:lawson_cypress_wood"
     },
     {
-      "item": "productivetrees:papaya_stripped_log"
+      "item": "productivetrees:lawson_cypress_stripped_log"
     },
     {
-      "item": "productivetrees:papaya_stripped_wood"
+      "item": "productivetrees:lawson_cypress_stripped_wood"
     }
   ],
   "result": {

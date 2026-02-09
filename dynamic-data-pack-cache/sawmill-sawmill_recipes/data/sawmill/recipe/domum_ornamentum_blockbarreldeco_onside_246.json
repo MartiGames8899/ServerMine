@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:fir_log"
+      "item": "undergarden:smogstem_log"
     },
     {
-      "item": "biomeswevegone:fir_wood"
+      "item": "undergarden:smogstem_wood"
     },
     {
-      "item": "biomeswevegone:stripped_fir_log"
+      "item": "undergarden:stripped_smogstem_log"
     },
     {
-      "item": "biomeswevegone:stripped_fir_wood"
+      "item": "undergarden:stripped_smogstem_wood"
     }
   ],
   "result": {

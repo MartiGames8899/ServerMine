@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:redwood_log"
+      "item": "productivetrees:bull_pine_log"
     },
     {
-      "item": "regions_unexplored:redwood_wood"
+      "item": "productivetrees:bull_pine_wood"
     },
     {
-      "item": "regions_unexplored:stripped_redwood_log"
+      "item": "productivetrees:bull_pine_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_redwood_wood"
+      "item": "productivetrees:bull_pine_stripped_wood"
     }
   ],
   "result": {

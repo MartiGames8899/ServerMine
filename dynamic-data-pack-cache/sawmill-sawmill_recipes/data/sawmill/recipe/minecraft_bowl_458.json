@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:zebrano_log"
+      "item": "twilightforest:transformation_log"
     },
     {
-      "item": "productivetrees:zebrano_wood"
+      "item": "twilightforest:transformation_wood"
     },
     {
-      "item": "productivetrees:zebrano_stripped_log"
+      "item": "twilightforest:stripped_transformation_log"
     },
     {
-      "item": "productivetrees:zebrano_stripped_wood"
+      "item": "twilightforest:stripped_transformation_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

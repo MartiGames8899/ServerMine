@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "biomeswevegone:aspen_planks"
+    "item": "productivetrees:sweetgum_planks"
   },
   "result": {
     "id": "minecraft:bowl",

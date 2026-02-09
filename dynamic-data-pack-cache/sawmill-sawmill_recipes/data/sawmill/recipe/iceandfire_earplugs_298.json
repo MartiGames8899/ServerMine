@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:echo_log"
+      "item": "forbidden_arcanus:aurum_log"
     },
     {
-      "item": "deeperdarker:echo_wood"
+      "item": "forbidden_arcanus:aurum_wood"
     },
     {
-      "item": "deeperdarker:stripped_echo_log"
+      "item": "forbidden_arcanus:stripped_aurum_log"
     },
     {
-      "item": "deeperdarker:stripped_echo_wood"
+      "item": "forbidden_arcanus:stripped_aurum_wood"
     }
   ],
   "result": {

@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "biomeswevegone:fir_log"
-    },
-    {
-      "item": "biomeswevegone:fir_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_fir_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_fir_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "evilcraft:display_stand",
     "count": 1

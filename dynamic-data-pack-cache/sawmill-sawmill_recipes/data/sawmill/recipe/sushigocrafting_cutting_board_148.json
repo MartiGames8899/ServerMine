@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:redwood_log"
+      "item": "productivetrees:great_sallow_log"
     },
     {
-      "item": "biomeswevegone:redwood_wood"
+      "item": "productivetrees:great_sallow_wood"
     },
     {
-      "item": "biomeswevegone:stripped_redwood_log"
+      "item": "productivetrees:great_sallow_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_redwood_wood"
+      "item": "productivetrees:great_sallow_stripped_wood"
     }
   ],
   "result": {

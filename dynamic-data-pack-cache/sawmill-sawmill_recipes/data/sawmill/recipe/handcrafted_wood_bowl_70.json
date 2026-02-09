@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:holly_log"
+      "item": "productivetrees:sweet_chestnut_log"
     },
     {
-      "item": "biomeswevegone:holly_wood"
+      "item": "productivetrees:sweet_chestnut_wood"
     },
     {
-      "item": "biomeswevegone:stripped_holly_log"
+      "item": "productivetrees:sweet_chestnut_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_holly_wood"
+      "item": "productivetrees:sweet_chestnut_stripped_wood"
     }
   ],
   "result": {

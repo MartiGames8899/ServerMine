@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:allspice_log"
+      "item": "biomeswevegone:aspen_log"
     },
     {
-      "item": "productivetrees:allspice_wood"
+      "item": "biomeswevegone:aspen_wood"
     },
     {
-      "item": "productivetrees:allspice_stripped_log"
+      "item": "biomeswevegone:stripped_aspen_log"
     },
     {
-      "item": "productivetrees:allspice_stripped_wood"
+      "item": "biomeswevegone:stripped_aspen_wood"
     }
   ],
   "result": {

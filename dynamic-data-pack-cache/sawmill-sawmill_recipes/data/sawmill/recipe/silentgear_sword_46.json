@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:brazilwood_log"
+      "item": "productivetrees:allspice_log"
     },
     {
-      "item": "productivetrees:brazilwood_wood"
+      "item": "productivetrees:allspice_wood"
     },
     {
-      "item": "productivetrees:brazilwood_stripped_log"
+      "item": "productivetrees:allspice_stripped_log"
     },
     {
-      "item": "productivetrees:brazilwood_stripped_wood"
+      "item": "productivetrees:allspice_stripped_wood"
     }
   ],
   "result": {

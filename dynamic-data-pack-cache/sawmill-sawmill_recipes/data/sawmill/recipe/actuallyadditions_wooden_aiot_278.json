@@ -1,23 +1,12 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:white_poplar_log"
-    },
-    {
-      "item": "productivetrees:white_poplar_wood"
-    },
-    {
-      "item": "productivetrees:white_poplar_stripped_log"
-    },
-    {
-      "item": "productivetrees:white_poplar_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "actuallyadditions:wooden_aiot",
     "count": 1
   },
-  "ingredient_count": 3,
+  "ingredient_count": 6,
   "type": "sawmill:woodcutting"
 }

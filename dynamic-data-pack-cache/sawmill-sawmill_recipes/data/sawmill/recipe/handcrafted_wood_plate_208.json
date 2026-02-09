@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:aurum_log"
+      "item": "undergarden:smogstem_log"
     },
     {
-      "item": "forbidden_arcanus:aurum_wood"
+      "item": "undergarden:smogstem_wood"
     },
     {
-      "item": "forbidden_arcanus:stripped_aurum_log"
+      "item": "undergarden:stripped_smogstem_log"
     },
     {
-      "item": "forbidden_arcanus:stripped_aurum_wood"
+      "item": "undergarden:stripped_smogstem_wood"
     }
   ],
   "result": {

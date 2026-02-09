@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "aether:skyroot_log"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "aether:skyroot_wood"
+    },
+    {
+      "item": "aether:stripped_skyroot_log"
+    },
+    {
+      "item": "aether:stripped_skyroot_wood"
     }
   ],
   "result": {

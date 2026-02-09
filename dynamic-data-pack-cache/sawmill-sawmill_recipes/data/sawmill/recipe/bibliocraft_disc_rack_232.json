@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:baobab_log"
+      "item": "eternal_starlight:jinglestem_log"
     },
     {
-      "item": "biomeswevegone:baobab_wood"
+      "item": "eternal_starlight:jinglestem_wood"
     },
     {
-      "item": "biomeswevegone:stripped_baobab_log"
+      "item": "eternal_starlight:stripped_jinglestem_log"
     },
     {
-      "item": "biomeswevegone:stripped_baobab_wood"
+      "item": "eternal_starlight:stripped_jinglestem_wood"
     }
   ],
   "result": {

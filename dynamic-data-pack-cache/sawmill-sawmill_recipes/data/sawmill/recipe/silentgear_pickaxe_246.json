@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:iroko_log"
+    },
+    {
+      "item": "productivetrees:iroko_wood"
+    },
+    {
+      "item": "productivetrees:iroko_stripped_log"
+    },
+    {
+      "item": "productivetrees:iroko_stripped_wood"
+    }
+  ],
   "result": {
     "id": "silentgear:pickaxe",
     "count": 1

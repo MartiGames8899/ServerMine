@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cork_oak_log"
+      "item": "productivetrees:brazilwood_log"
     },
     {
-      "item": "productivetrees:cork_oak_wood"
+      "item": "productivetrees:brazilwood_wood"
     },
     {
-      "item": "productivetrees:cork_oak_stripped_log"
+      "item": "productivetrees:brazilwood_stripped_log"
     },
     {
-      "item": "productivetrees:cork_oak_stripped_wood"
+      "item": "productivetrees:brazilwood_stripped_wood"
     }
   ],
   "result": {

@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:padauk_log"
-    },
-    {
-      "item": "productivetrees:padauk_wood"
-    },
-    {
-      "item": "productivetrees:padauk_stripped_log"
-    },
-    {
-      "item": "productivetrees:padauk_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "pamhc2foodcore:mixingbowlitem",
     "count": 1

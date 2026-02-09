@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rubber_tree_log"
+      "item": "biomeswevegone:palm_log"
     },
     {
-      "item": "productivetrees:rubber_tree_wood"
+      "item": "biomeswevegone:palm_wood"
     },
     {
-      "item": "productivetrees:rubber_tree_stripped_log"
+      "item": "biomeswevegone:stripped_palm_log"
     },
     {
-      "item": "productivetrees:rubber_tree_stripped_wood"
+      "item": "biomeswevegone:stripped_palm_wood"
     }
   ],
   "result": {

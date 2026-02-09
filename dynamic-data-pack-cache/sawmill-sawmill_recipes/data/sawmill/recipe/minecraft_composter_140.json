@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:dead_log"
+      "item": "regions_unexplored:cypress_log"
     },
     {
-      "item": "regions_unexplored:dead_wood"
+      "item": "regions_unexplored:cypress_wood"
     },
     {
-      "item": "regions_unexplored:stripped_dead_log"
+      "item": "regions_unexplored:stripped_cypress_log"
     },
     {
-      "item": "regions_unexplored:stripped_dead_wood"
+      "item": "regions_unexplored:stripped_cypress_wood"
     }
   ],
   "result": {

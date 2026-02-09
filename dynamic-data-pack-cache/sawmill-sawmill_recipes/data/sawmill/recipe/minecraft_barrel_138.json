@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "integrateddynamics:menril_log"
+      "item": "biomeswevegone:blue_enchanted_log"
     },
     {
-      "item": "integrateddynamics:menril_wood"
+      "item": "biomeswevegone:blue_enchanted_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_blue_enchanted_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_blue_enchanted_wood"
     }
   ],
   "result": {

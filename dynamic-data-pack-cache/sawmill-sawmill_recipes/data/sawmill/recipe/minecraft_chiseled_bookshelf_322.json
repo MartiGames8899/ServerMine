@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:cypress_log"
+      "item": "biomeswevegone:zelkova_log"
     },
     {
-      "item": "regions_unexplored:cypress_wood"
+      "item": "biomeswevegone:zelkova_wood"
     },
     {
-      "item": "regions_unexplored:stripped_cypress_log"
+      "item": "biomeswevegone:stripped_zelkova_log"
     },
     {
-      "item": "regions_unexplored:stripped_cypress_wood"
+      "item": "biomeswevegone:stripped_zelkova_wood"
     }
   ],
   "result": {

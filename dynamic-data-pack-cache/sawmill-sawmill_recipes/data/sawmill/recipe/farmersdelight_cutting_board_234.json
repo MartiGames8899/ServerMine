@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:demonic_log"
+      "item": "productivetrees:cacao_log"
     },
     {
-      "item": "allthemodium:stripped_demonic_log"
+      "item": "productivetrees:cacao_wood"
+    },
+    {
+      "item": "productivetrees:cacao_stripped_log"
+    },
+    {
+      "item": "productivetrees:cacao_stripped_wood"
     }
   ],
   "result": {

@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "evilcraft:undead_log"
+      "item": "productivetrees:red_banana_log"
     },
     {
-      "item": "evilcraft:undead_wood"
+      "item": "productivetrees:red_banana_wood"
+    },
+    {
+      "item": "productivetrees:red_banana_stripped_log"
+    },
+    {
+      "item": "productivetrees:red_banana_stripped_wood"
     }
   ],
   "result": {

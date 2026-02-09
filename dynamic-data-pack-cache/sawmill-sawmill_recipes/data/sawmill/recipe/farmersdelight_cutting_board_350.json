@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sweet_crabapple_log"
+      "item": "biomeswevegone:green_enchanted_log"
     },
     {
-      "item": "productivetrees:sweet_crabapple_wood"
+      "item": "biomeswevegone:green_enchanted_wood"
     },
     {
-      "item": "productivetrees:sweet_crabapple_stripped_log"
+      "item": "biomeswevegone:stripped_green_enchanted_log"
     },
     {
-      "item": "productivetrees:sweet_crabapple_stripped_wood"
+      "item": "biomeswevegone:stripped_green_enchanted_wood"
     }
   ],
   "result": {

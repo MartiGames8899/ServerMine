@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:spirit_log"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "biomeswevegone:spirit_wood"
+      "item": "deeperdarker:echo_wood"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_log"
+      "item": "deeperdarker:stripped_echo_log"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_wood"
+      "item": "deeperdarker:stripped_echo_wood"
     }
   ],
   "result": {

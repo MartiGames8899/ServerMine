@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:blackwood_log"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "regions_unexplored:blackwood_wood"
+      "item": "deeperdarker:echo_wood"
     },
     {
-      "item": "regions_unexplored:stripped_blackwood_log"
+      "item": "deeperdarker:stripped_echo_log"
     },
     {
-      "item": "regions_unexplored:stripped_blackwood_wood"
+      "item": "deeperdarker:stripped_echo_wood"
     }
   ],
   "result": {

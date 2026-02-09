@@ -2,10 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:soul_log"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "allthemodium:stripped_soul_log"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

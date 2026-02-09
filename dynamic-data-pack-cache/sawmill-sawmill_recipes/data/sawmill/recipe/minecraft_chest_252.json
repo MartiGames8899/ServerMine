@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "undergarden:smogstem_log"
+    },
+    {
+      "item": "undergarden:smogstem_wood"
+    },
+    {
+      "item": "undergarden:stripped_smogstem_log"
+    },
+    {
+      "item": "undergarden:stripped_smogstem_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:chest",
     "count": 1

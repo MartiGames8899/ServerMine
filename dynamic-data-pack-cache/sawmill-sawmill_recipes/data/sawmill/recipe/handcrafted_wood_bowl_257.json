@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:sparkle_cherry_planks"
+    "item": "regions_unexplored:baobab_planks"
   },
   "result": {
     "id": "handcrafted:wood_bowl",

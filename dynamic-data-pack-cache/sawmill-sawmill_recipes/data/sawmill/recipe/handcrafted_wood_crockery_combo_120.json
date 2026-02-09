@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:starlight_mangrove_log"
+      "item": "productivetrees:grandidiers_baobab_log"
     },
     {
-      "item": "eternal_starlight:starlight_mangrove_wood"
+      "item": "productivetrees:grandidiers_baobab_wood"
     },
     {
-      "item": "eternal_starlight:stripped_starlight_mangrove_log"
+      "item": "productivetrees:grandidiers_baobab_stripped_log"
     },
     {
-      "item": "eternal_starlight:stripped_starlight_mangrove_wood"
+      "item": "productivetrees:grandidiers_baobab_stripped_wood"
     }
   ],
   "result": {

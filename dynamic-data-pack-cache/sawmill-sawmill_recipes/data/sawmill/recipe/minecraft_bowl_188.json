@@ -2,15 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "productivetrees:peach_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "productivetrees:peach_wood"
+    },
+    {
+      "item": "productivetrees:peach_stripped_log"
+    },
+    {
+      "item": "productivetrees:peach_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 3
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

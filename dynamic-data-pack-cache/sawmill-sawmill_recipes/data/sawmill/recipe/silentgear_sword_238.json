@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:rosewood_log"
+    },
+    {
+      "item": "productivetrees:rosewood_wood"
+    },
+    {
+      "item": "productivetrees:rosewood_stripped_log"
+    },
+    {
+      "item": "productivetrees:rosewood_stripped_wood"
+    }
+  ],
   "result": {
     "id": "silentgear:sword",
     "count": 1

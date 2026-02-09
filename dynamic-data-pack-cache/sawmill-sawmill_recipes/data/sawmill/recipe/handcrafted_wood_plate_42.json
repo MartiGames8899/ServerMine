@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:greenheart_log"
+      "item": "biomeswevegone:baobab_log"
     },
     {
-      "item": "productivetrees:greenheart_wood"
+      "item": "biomeswevegone:baobab_wood"
     },
     {
-      "item": "productivetrees:greenheart_stripped_log"
+      "item": "biomeswevegone:stripped_baobab_log"
     },
     {
-      "item": "productivetrees:greenheart_stripped_wood"
+      "item": "biomeswevegone:stripped_baobab_wood"
     }
   ],
   "result": {
