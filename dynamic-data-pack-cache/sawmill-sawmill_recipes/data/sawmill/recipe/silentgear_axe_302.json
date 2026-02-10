@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pink_ivory_log"
+      "item": "biomeswevegone:spirit_log"
     },
     {
-      "item": "productivetrees:pink_ivory_wood"
+      "item": "biomeswevegone:spirit_wood"
     },
     {
-      "item": "productivetrees:pink_ivory_stripped_log"
+      "item": "biomeswevegone:stripped_spirit_log"
     },
     {
-      "item": "productivetrees:pink_ivory_stripped_wood"
+      "item": "biomeswevegone:stripped_spirit_wood"
     }
   ],
   "result": {

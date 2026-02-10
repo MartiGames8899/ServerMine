@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:yellow_bioshroom_planks"
+    "item": "productivetrees:logwood_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

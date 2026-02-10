@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:date_palm_log"
+      "item": "twilightforest:transformation_log"
     },
     {
-      "item": "productivetrees:date_palm_wood"
+      "item": "twilightforest:transformation_wood"
     },
     {
-      "item": "productivetrees:date_palm_stripped_log"
+      "item": "twilightforest:stripped_transformation_log"
     },
     {
-      "item": "productivetrees:date_palm_stripped_wood"
+      "item": "twilightforest:stripped_transformation_wood"
     }
   ],
   "result": {

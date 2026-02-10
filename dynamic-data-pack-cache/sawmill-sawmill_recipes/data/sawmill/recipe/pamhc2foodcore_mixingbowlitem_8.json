@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:balsam_fir_log"
-    },
-    {
-      "item": "productivetrees:balsam_fir_wood"
-    },
-    {
-      "item": "productivetrees:balsam_fir_stripped_log"
-    },
-    {
-      "item": "productivetrees:balsam_fir_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "pamhc2foodcore:mixingbowlitem",
     "count": 1

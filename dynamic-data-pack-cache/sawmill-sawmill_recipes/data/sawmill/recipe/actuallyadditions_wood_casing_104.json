@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:cradlewood_log"
+      "item": "allthemodium:demonic_log"
     },
     {
-      "item": "eternal_starlight:cradlewood_wood"
-    },
-    {
-      "item": "eternal_starlight:stripped_cradlewood_log"
-    },
-    {
-      "item": "eternal_starlight:stripped_cradlewood_wood"
+      "item": "allthemodium:stripped_demonic_log"
     }
   ],
   "result": {

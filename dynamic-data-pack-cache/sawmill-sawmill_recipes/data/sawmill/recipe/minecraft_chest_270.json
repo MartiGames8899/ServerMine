@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:brazil_nut_log"
+      "item": "biomeswevegone:sakura_log"
     },
     {
-      "item": "productivetrees:brazil_nut_wood"
+      "item": "biomeswevegone:sakura_wood"
     },
     {
-      "item": "productivetrees:brazil_nut_stripped_log"
+      "item": "biomeswevegone:stripped_sakura_log"
     },
     {
-      "item": "productivetrees:brazil_nut_stripped_wood"
+      "item": "biomeswevegone:stripped_sakura_wood"
     }
   ],
   "result": {

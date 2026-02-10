@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:mahogany_log"
+      "item": "productivetrees:sand_pear_log"
     },
     {
-      "item": "biomeswevegone:mahogany_wood"
+      "item": "productivetrees:sand_pear_wood"
     },
     {
-      "item": "biomeswevegone:stripped_mahogany_log"
+      "item": "productivetrees:sand_pear_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_mahogany_wood"
+      "item": "productivetrees:sand_pear_stripped_wood"
     }
   ],
   "result": {

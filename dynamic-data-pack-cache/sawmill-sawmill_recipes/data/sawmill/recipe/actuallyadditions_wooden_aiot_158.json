@@ -2,16 +2,22 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "biomeswevegone:pine_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "biomeswevegone:pine_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_pine_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_pine_wood"
     }
   ],
   "result": {
     "id": "actuallyadditions:wooden_aiot",
     "count": 1
   },
-  "ingredient_count": 6,
+  "ingredient_count": 3,
   "type": "sawmill:woodcutting"
 }

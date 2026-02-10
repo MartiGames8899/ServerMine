@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:baobab_log"
+      "item": "productivetrees:brazil_nut_log"
     },
     {
-      "item": "biomeswevegone:baobab_wood"
+      "item": "productivetrees:brazil_nut_wood"
     },
     {
-      "item": "biomeswevegone:stripped_baobab_log"
+      "item": "productivetrees:brazil_nut_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_baobab_wood"
+      "item": "productivetrees:brazil_nut_stripped_wood"
     }
   ],
   "result": {

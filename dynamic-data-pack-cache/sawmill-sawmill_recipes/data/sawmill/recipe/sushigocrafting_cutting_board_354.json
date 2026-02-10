@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:blackthorn_log"
+      "item": "productivetrees:sweetgum_log"
     },
     {
-      "item": "productivetrees:blackthorn_wood"
+      "item": "productivetrees:sweetgum_wood"
     },
     {
-      "item": "productivetrees:blackthorn_stripped_log"
+      "item": "productivetrees:sweetgum_stripped_log"
     },
     {
-      "item": "productivetrees:blackthorn_stripped_wood"
+      "item": "productivetrees:sweetgum_stripped_wood"
     }
   ],
   "result": {

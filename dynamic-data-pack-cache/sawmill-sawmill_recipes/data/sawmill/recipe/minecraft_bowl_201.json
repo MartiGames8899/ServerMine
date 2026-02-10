@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:torreya_planks"
+    "item": "productivetrees:ceylon_ebony_planks"
   },
   "result": {
     "id": "minecraft:bowl",

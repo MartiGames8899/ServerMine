@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "eternal_starlight:starlight_mangrove_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "eternal_starlight:starlight_mangrove_wood"
+    },
+    {
+      "item": "eternal_starlight:stripped_starlight_mangrove_log"
+    },
+    {
+      "item": "eternal_starlight:stripped_starlight_mangrove_wood"
     }
   ],
   "result": {

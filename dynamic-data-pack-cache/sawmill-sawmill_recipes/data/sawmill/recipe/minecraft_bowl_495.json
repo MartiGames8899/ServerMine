@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:asai_palm_planks"
+    "item": "biomeswevegone:baobab_planks"
   },
   "result": {
     "id": "minecraft:bowl",

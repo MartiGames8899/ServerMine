@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:dark_log"
+      "item": "biomeswevegone:florus_stem"
     },
     {
-      "item": "twilightforest:dark_wood"
+      "item": "biomeswevegone:florus_wood"
     },
     {
-      "item": "twilightforest:stripped_dark_log"
+      "item": "biomeswevegone:stripped_florus_stem"
     },
     {
-      "item": "twilightforest:stripped_dark_wood"
+      "item": "biomeswevegone:stripped_florus_wood"
     }
   ],
   "result": {

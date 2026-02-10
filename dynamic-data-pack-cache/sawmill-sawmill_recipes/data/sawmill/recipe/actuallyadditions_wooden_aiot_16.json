@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:brazil_nut_log"
+      "item": "productivetrees:buddhas_hand_log"
     },
     {
-      "item": "productivetrees:brazil_nut_wood"
+      "item": "productivetrees:buddhas_hand_wood"
     },
     {
-      "item": "productivetrees:brazil_nut_stripped_log"
+      "item": "productivetrees:buddhas_hand_stripped_log"
     },
     {
-      "item": "productivetrees:brazil_nut_stripped_wood"
+      "item": "productivetrees:buddhas_hand_stripped_wood"
     }
   ],
   "result": {

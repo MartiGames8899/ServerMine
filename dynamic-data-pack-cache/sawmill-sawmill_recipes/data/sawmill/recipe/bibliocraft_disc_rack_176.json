@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:florus_stem"
+      "item": "forbidden_arcanus:aurum_log"
     },
     {
-      "item": "biomeswevegone:florus_wood"
+      "item": "forbidden_arcanus:aurum_wood"
     },
     {
-      "item": "biomeswevegone:stripped_florus_stem"
+      "item": "forbidden_arcanus:stripped_aurum_log"
     },
     {
-      "item": "biomeswevegone:stripped_florus_wood"
+      "item": "forbidden_arcanus:stripped_aurum_wood"
     }
   ],
   "result": {

@@ -1,22 +1,11 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "regions_unexplored:yellow_bioshroom_stem"
-    },
-    {
-      "item": "regions_unexplored:yellow_bioshroom_hyphae"
-    },
-    {
-      "item": "regions_unexplored:stripped_yellow_bioshroom_stem"
-    },
-    {
-      "item": "regions_unexplored:stripped_yellow_bioshroom_hyphae"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "handcrafted:wood_cup",
-    "count": 8
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:swamp_gum_log"
+      "item": "productivetrees:sparkle_cherry_log"
     },
     {
-      "item": "productivetrees:swamp_gum_wood"
+      "item": "productivetrees:sparkle_cherry_wood"
     },
     {
-      "item": "productivetrees:swamp_gum_stripped_log"
+      "item": "productivetrees:sparkle_cherry_stripped_log"
     },
     {
-      "item": "productivetrees:swamp_gum_stripped_wood"
+      "item": "productivetrees:sparkle_cherry_stripped_wood"
     }
   ],
   "result": {

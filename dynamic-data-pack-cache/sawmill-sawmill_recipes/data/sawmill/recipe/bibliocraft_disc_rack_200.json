@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:slimy_delight_log"
+      "item": "productivetrees:sour_cherry_log"
     },
     {
-      "item": "productivetrees:slimy_delight_wood"
+      "item": "productivetrees:sour_cherry_wood"
     },
     {
-      "item": "productivetrees:slimy_delight_stripped_log"
+      "item": "productivetrees:sour_cherry_stripped_log"
     },
     {
-      "item": "productivetrees:slimy_delight_stripped_wood"
+      "item": "productivetrees:sour_cherry_stripped_wood"
     }
   ],
   "result": {

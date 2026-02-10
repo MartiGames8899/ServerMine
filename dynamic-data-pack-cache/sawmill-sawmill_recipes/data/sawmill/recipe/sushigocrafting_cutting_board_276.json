@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:baobab_log"
+      "item": "minecraft:warped_stem"
     },
     {
-      "item": "regions_unexplored:baobab_wood"
+      "item": "minecraft:warped_hyphae"
     },
     {
-      "item": "regions_unexplored:stripped_baobab_log"
+      "item": "minecraft:stripped_warped_stem"
     },
     {
-      "item": "regions_unexplored:stripped_baobab_wood"
+      "item": "minecraft:stripped_warped_hyphae"
     }
   ],
   "result": {

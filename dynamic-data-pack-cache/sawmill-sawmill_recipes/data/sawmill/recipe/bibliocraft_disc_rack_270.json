@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:sequoia_log"
+    },
+    {
+      "item": "productivetrees:sequoia_wood"
+    },
+    {
+      "item": "productivetrees:sequoia_stripped_log"
+    },
+    {
+      "item": "productivetrees:sequoia_stripped_wood"
+    }
+  ],
   "result": {
     "id": "bibliocraft:disc_rack",
     "count": 2

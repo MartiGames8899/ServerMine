@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:jacaranda_log"
+      "item": "productivetrees:western_hemlock_log"
     },
     {
-      "item": "biomeswevegone:jacaranda_wood"
+      "item": "productivetrees:western_hemlock_wood"
     },
     {
-      "item": "biomeswevegone:stripped_jacaranda_log"
+      "item": "productivetrees:western_hemlock_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_jacaranda_wood"
+      "item": "productivetrees:western_hemlock_stripped_wood"
     }
   ],
   "result": {

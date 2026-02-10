@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pistachio_log"
+      "item": "biomeswevegone:cika_log"
     },
     {
-      "item": "productivetrees:pistachio_wood"
+      "item": "biomeswevegone:cika_wood"
     },
     {
-      "item": "productivetrees:pistachio_stripped_log"
+      "item": "biomeswevegone:stripped_cika_log"
     },
     {
-      "item": "productivetrees:pistachio_stripped_wood"
+      "item": "biomeswevegone:stripped_cika_wood"
     }
   ],
   "result": {

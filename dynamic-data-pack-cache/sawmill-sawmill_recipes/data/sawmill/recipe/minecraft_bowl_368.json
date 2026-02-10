@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:kumquat_log"
+      "item": "forbidden_arcanus:aurum_log"
     },
     {
-      "item": "productivetrees:kumquat_wood"
+      "item": "forbidden_arcanus:aurum_wood"
     },
     {
-      "item": "productivetrees:kumquat_stripped_log"
+      "item": "forbidden_arcanus:stripped_aurum_log"
     },
     {
-      "item": "productivetrees:kumquat_stripped_wood"
+      "item": "forbidden_arcanus:stripped_aurum_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

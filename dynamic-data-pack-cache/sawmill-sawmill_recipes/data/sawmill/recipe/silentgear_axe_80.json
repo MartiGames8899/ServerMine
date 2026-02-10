@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:juniper_log"
+      "item": "biomeswevegone:white_mangrove_log"
     },
     {
-      "item": "productivetrees:juniper_wood"
+      "item": "biomeswevegone:white_mangrove_wood"
     },
     {
-      "item": "productivetrees:juniper_stripped_log"
+      "item": "biomeswevegone:stripped_white_mangrove_log"
     },
     {
-      "item": "productivetrees:juniper_stripped_wood"
+      "item": "biomeswevegone:stripped_white_mangrove_wood"
     }
   ],
   "result": {

@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:candlenut_planks"
+    "item": "productivetrees:sycamore_fig_planks"
   },
   "result": {
     "id": "minecraft:bowl",

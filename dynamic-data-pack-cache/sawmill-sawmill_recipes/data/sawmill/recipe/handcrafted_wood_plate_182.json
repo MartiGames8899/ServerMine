@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:granny_smith_apple_log"
+    },
+    {
+      "item": "productivetrees:granny_smith_apple_wood"
+    },
+    {
+      "item": "productivetrees:granny_smith_apple_stripped_log"
+    },
+    {
+      "item": "productivetrees:granny_smith_apple_stripped_wood"
+    }
+  ],
   "result": {
     "id": "handcrafted:wood_plate",
     "count": 8

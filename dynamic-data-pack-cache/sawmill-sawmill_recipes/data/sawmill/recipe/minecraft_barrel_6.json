@@ -2,16 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "regions_unexplored:kapok_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "regions_unexplored:kapok_wood"
+    },
+    {
+      "item": "regions_unexplored:stripped_kapok_log"
+    },
+    {
+      "item": "regions_unexplored:stripped_kapok_wood"
     }
   ],
   "result": {
     "id": "minecraft:barrel",
     "count": 1
   },
-  "ingredient_count": 3,
   "type": "sawmill:woodcutting"
 }

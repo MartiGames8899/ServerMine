@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:palm_planks"
+    "item": "productivetrees:sand_pear_planks"
   },
   "result": {
     "id": "handcrafted:wood_plate",

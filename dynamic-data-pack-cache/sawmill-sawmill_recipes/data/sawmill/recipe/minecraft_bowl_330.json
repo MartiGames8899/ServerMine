@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:balsa_log"
+      "item": "productivetrees:european_larch_log"
     },
     {
-      "item": "productivetrees:balsa_wood"
+      "item": "productivetrees:european_larch_wood"
     },
     {
-      "item": "productivetrees:balsa_stripped_log"
+      "item": "productivetrees:european_larch_stripped_log"
     },
     {
-      "item": "productivetrees:balsa_stripped_wood"
+      "item": "productivetrees:european_larch_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

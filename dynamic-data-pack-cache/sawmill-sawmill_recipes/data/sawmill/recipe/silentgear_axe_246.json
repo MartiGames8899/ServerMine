@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:smogstem_log"
+      "item": "biomeswevegone:zelkova_log"
     },
     {
-      "item": "undergarden:smogstem_wood"
+      "item": "biomeswevegone:zelkova_wood"
     },
     {
-      "item": "undergarden:stripped_smogstem_log"
+      "item": "biomeswevegone:stripped_zelkova_log"
     },
     {
-      "item": "undergarden:stripped_smogstem_wood"
+      "item": "biomeswevegone:stripped_zelkova_wood"
     }
   ],
   "result": {

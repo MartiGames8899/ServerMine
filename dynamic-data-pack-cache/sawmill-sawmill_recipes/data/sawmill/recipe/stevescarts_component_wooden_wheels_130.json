@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:mahogany_log"
+      "item": "productivetrees:apricot_log"
     },
     {
-      "item": "biomeswevegone:mahogany_wood"
+      "item": "productivetrees:apricot_wood"
     },
     {
-      "item": "biomeswevegone:stripped_mahogany_log"
+      "item": "productivetrees:apricot_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_mahogany_wood"
+      "item": "productivetrees:apricot_stripped_wood"
     }
   ],
   "result": {

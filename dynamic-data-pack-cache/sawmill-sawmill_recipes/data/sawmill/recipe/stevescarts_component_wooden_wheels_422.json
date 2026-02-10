@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:coconut_log"
+      "item": "productivetrees:flickering_sun_log"
     },
     {
-      "item": "productivetrees:coconut_wood"
+      "item": "productivetrees:flickering_sun_wood"
     },
     {
-      "item": "productivetrees:coconut_stripped_log"
+      "item": "productivetrees:flickering_sun_stripped_log"
     },
     {
-      "item": "productivetrees:coconut_stripped_wood"
+      "item": "productivetrees:flickering_sun_stripped_wood"
     }
   ],
   "result": {

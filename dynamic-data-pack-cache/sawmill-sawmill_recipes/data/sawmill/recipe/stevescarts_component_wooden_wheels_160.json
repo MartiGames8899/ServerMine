@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sugar_maple_log"
+      "item": "biomeswevegone:willow_log"
     },
     {
-      "item": "productivetrees:sugar_maple_wood"
+      "item": "biomeswevegone:willow_wood"
     },
     {
-      "item": "productivetrees:sugar_maple_stripped_log"
+      "item": "biomeswevegone:stripped_willow_log"
     },
     {
-      "item": "productivetrees:sugar_maple_stripped_wood"
+      "item": "biomeswevegone:stripped_willow_wood"
     }
   ],
   "result": {

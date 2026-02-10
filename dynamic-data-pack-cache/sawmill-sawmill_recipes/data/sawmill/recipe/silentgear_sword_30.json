@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:sakura_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "biomeswevegone:sakura_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_sakura_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_sakura_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {

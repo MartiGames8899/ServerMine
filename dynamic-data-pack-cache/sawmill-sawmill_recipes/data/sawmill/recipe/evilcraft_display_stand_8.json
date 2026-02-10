@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:balsam_fir_log"
+      "item": "biomeswevegone:holly_log"
     },
     {
-      "item": "productivetrees:balsam_fir_wood"
+      "item": "biomeswevegone:holly_wood"
     },
     {
-      "item": "productivetrees:balsam_fir_stripped_log"
+      "item": "biomeswevegone:stripped_holly_log"
     },
     {
-      "item": "productivetrees:balsam_fir_stripped_wood"
+      "item": "biomeswevegone:stripped_holly_wood"
     }
   ],
   "result": {

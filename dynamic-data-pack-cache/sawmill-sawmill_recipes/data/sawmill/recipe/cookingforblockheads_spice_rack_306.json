@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "eternal_starlight:lunar_log"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "eternal_starlight:lunar_wood"
+    },
+    {
+      "item": "eternal_starlight:stripped_lunar_log"
+    },
+    {
+      "item": "eternal_starlight:stripped_lunar_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:elderberry_log"
+      "item": "biomeswevegone:florus_stem"
     },
     {
-      "item": "productivetrees:elderberry_wood"
+      "item": "biomeswevegone:florus_wood"
     },
     {
-      "item": "productivetrees:elderberry_stripped_log"
+      "item": "biomeswevegone:stripped_florus_stem"
     },
     {
-      "item": "productivetrees:elderberry_stripped_wood"
+      "item": "biomeswevegone:stripped_florus_wood"
     }
   ],
   "result": {

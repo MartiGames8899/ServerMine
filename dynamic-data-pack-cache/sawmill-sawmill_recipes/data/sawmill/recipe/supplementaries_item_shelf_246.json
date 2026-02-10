@@ -2,21 +2,15 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:kapok_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "regions_unexplored:kapok_wood"
-    },
-    {
-      "item": "regions_unexplored:stripped_kapok_log"
-    },
-    {
-      "item": "regions_unexplored:stripped_kapok_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "supplementaries:item_shelf",
-    "count": 6
+    "count": 3
   },
   "type": "sawmill:woodcutting"
 }

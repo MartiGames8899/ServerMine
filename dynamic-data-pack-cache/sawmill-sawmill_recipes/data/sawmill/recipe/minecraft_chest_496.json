@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:canopy_log"
+      "item": "productivetrees:yellow_meranti_log"
     },
     {
-      "item": "twilightforest:canopy_wood"
+      "item": "productivetrees:yellow_meranti_wood"
     },
     {
-      "item": "twilightforest:stripped_canopy_log"
+      "item": "productivetrees:yellow_meranti_stripped_log"
     },
     {
-      "item": "twilightforest:stripped_canopy_wood"
+      "item": "productivetrees:yellow_meranti_stripped_wood"
     }
   ],
   "result": {

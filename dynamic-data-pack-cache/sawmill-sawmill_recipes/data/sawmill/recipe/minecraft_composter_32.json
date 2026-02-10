@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "integrateddynamics:menril_log"
+      "item": "biomeswevegone:maple_log"
     },
     {
-      "item": "integrateddynamics:menril_wood"
+      "item": "biomeswevegone:maple_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_maple_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_maple_wood"
     }
   ],
   "result": {

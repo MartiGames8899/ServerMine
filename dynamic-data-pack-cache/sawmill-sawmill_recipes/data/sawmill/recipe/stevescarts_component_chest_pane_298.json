@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:cinnamon_log"
+    },
+    {
+      "item": "productivetrees:cinnamon_wood"
+    },
+    {
+      "item": "productivetrees:cinnamon_stripped_log"
+    },
+    {
+      "item": "productivetrees:cinnamon_stripped_wood"
+    }
+  ],
   "result": {
     "id": "stevescarts:component_chest_pane",
     "count": 10

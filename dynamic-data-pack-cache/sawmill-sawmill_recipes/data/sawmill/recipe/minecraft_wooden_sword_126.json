@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "biomeswevegone:ebony_log"
-    },
-    {
-      "item": "biomeswevegone:ebony_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_ebony_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_ebony_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "minecraft:wooden_sword",
     "count": 1

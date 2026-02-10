@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:eucalyptus_log"
+      "item": "regions_unexplored:green_bioshroom_stem"
     },
     {
-      "item": "regions_unexplored:eucalyptus_wood"
+      "item": "regions_unexplored:green_bioshroom_hyphae"
     },
     {
-      "item": "regions_unexplored:stripped_eucalyptus_log"
+      "item": "regions_unexplored:stripped_green_bioshroom_stem"
     },
     {
-      "item": "regions_unexplored:stripped_eucalyptus_wood"
+      "item": "regions_unexplored:stripped_green_bioshroom_hyphae"
     }
   ],
   "result": {

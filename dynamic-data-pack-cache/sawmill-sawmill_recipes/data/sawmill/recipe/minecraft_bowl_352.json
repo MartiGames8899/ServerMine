@@ -2,15 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "twilightforest:canopy_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "twilightforest:canopy_wood"
+    },
+    {
+      "item": "twilightforest:stripped_canopy_log"
+    },
+    {
+      "item": "twilightforest:stripped_canopy_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

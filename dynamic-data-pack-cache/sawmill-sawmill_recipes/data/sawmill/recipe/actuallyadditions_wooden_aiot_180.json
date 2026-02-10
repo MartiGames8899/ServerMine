@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:white_poplar_log"
+      "item": "biomeswevegone:ebony_log"
     },
     {
-      "item": "productivetrees:white_poplar_wood"
+      "item": "biomeswevegone:ebony_wood"
     },
     {
-      "item": "productivetrees:white_poplar_stripped_log"
+      "item": "biomeswevegone:stripped_ebony_log"
     },
     {
-      "item": "productivetrees:white_poplar_stripped_wood"
+      "item": "biomeswevegone:stripped_ebony_wood"
     }
   ],
   "result": {

@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:socotra_dragon_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:socotra_dragon_wood"
-    },
-    {
-      "item": "productivetrees:socotra_dragon_stripped_log"
-    },
-    {
-      "item": "productivetrees:socotra_dragon_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

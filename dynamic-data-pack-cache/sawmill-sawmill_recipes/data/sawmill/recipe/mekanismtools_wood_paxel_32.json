@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:skyris_log"
+      "item": "biomeswevegone:sakura_log"
     },
     {
-      "item": "biomeswevegone:skyris_wood"
+      "item": "biomeswevegone:sakura_wood"
     },
     {
-      "item": "biomeswevegone:stripped_skyris_log"
+      "item": "biomeswevegone:stripped_sakura_log"
     },
     {
-      "item": "biomeswevegone:stripped_skyris_wood"
+      "item": "biomeswevegone:stripped_sakura_wood"
     }
   ],
   "result": {

@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "productivetrees:rosewood_log"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "productivetrees:rosewood_wood"
+    },
+    {
+      "item": "productivetrees:rosewood_stripped_log"
+    },
+    {
+      "item": "productivetrees:rosewood_stripped_wood"
     }
   ],
   "result": {

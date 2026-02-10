@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "aether:skyroot_log"
+      "item": "biomeswevegone:skyris_log"
     },
     {
-      "item": "aether:skyroot_wood"
+      "item": "biomeswevegone:skyris_wood"
     },
     {
-      "item": "aether:stripped_skyroot_log"
+      "item": "biomeswevegone:stripped_skyris_log"
     },
     {
-      "item": "aether:stripped_skyroot_wood"
+      "item": "biomeswevegone:stripped_skyris_wood"
     }
   ],
   "result": {

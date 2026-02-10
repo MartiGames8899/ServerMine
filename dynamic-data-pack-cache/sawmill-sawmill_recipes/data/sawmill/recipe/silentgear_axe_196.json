@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:torreya_log"
+      "item": "biomeswevegone:blue_enchanted_log"
     },
     {
-      "item": "eternal_starlight:torreya_wood"
+      "item": "biomeswevegone:blue_enchanted_wood"
     },
     {
-      "item": "eternal_starlight:stripped_torreya_log"
+      "item": "biomeswevegone:stripped_blue_enchanted_log"
     },
     {
-      "item": "eternal_starlight:stripped_torreya_wood"
+      "item": "biomeswevegone:stripped_blue_enchanted_wood"
     }
   ],
   "result": {

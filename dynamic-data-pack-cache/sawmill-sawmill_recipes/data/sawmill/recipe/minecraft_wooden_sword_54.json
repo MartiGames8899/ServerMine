@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:greenheart_log"
+      "item": "regions_unexplored:dead_log"
     },
     {
-      "item": "productivetrees:greenheart_wood"
+      "item": "regions_unexplored:dead_wood"
     },
     {
-      "item": "productivetrees:greenheart_stripped_log"
+      "item": "regions_unexplored:stripped_dead_log"
     },
     {
-      "item": "productivetrees:greenheart_stripped_wood"
+      "item": "regions_unexplored:stripped_dead_wood"
     }
   ],
   "result": {

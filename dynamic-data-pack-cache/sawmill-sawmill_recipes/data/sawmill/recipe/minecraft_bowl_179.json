@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "productivetrees:finger_lime_planks"
+    "item": "regions_unexplored:eucalyptus_planks"
   },
   "result": {
     "id": "minecraft:bowl",

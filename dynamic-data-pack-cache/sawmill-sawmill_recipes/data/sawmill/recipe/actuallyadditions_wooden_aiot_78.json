@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:kapok_log"
+      "item": "productivetrees:papaya_log"
     },
     {
-      "item": "regions_unexplored:kapok_wood"
+      "item": "productivetrees:papaya_wood"
     },
     {
-      "item": "regions_unexplored:stripped_kapok_log"
+      "item": "productivetrees:papaya_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_kapok_wood"
+      "item": "productivetrees:papaya_stripped_wood"
     }
   ],
   "result": {

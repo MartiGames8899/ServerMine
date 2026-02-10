@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:larch_log"
+      "item": "biomeswevegone:mahogany_log"
     },
     {
-      "item": "regions_unexplored:larch_wood"
+      "item": "biomeswevegone:mahogany_wood"
     },
     {
-      "item": "regions_unexplored:stripped_larch_log"
+      "item": "biomeswevegone:stripped_mahogany_log"
     },
     {
-      "item": "regions_unexplored:stripped_larch_wood"
+      "item": "biomeswevegone:stripped_mahogany_wood"
     }
   ],
   "result": {

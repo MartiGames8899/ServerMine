@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:pine_planks"
+    "item": "minecraft:dark_oak_planks"
   },
   "result": {
     "id": "minecraft:bowl",

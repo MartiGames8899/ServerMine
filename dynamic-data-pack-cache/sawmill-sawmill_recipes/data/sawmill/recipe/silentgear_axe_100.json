@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "biomeswevegone:holly_log"
-    },
-    {
-      "item": "biomeswevegone:holly_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_holly_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_holly_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "silentgear:axe",
     "count": 1

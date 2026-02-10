@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:copper_beech_log"
+      "item": "biomeswevegone:spirit_log"
     },
     {
-      "item": "productivetrees:copper_beech_wood"
+      "item": "biomeswevegone:spirit_wood"
     },
     {
-      "item": "productivetrees:copper_beech_stripped_log"
+      "item": "biomeswevegone:stripped_spirit_log"
     },
     {
-      "item": "productivetrees:copper_beech_stripped_wood"
+      "item": "biomeswevegone:stripped_spirit_wood"
     }
   ],
   "result": {

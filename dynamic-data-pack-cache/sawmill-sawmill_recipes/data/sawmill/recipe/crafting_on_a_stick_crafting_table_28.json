@@ -2,21 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:florus_stem"
+      "item": "naturesaura:ancient_log"
     },
     {
-      "item": "biomeswevegone:florus_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_florus_stem"
-    },
-    {
-      "item": "biomeswevegone:stripped_florus_wood"
+      "item": "naturesaura:ancient_bark"
     }
   ],
   "result": {
     "id": "crafting_on_a_stick:crafting_table",
     "count": 1
   },
+  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

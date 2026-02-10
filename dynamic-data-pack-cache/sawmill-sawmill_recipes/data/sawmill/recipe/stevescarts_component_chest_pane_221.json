@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:palm_planks"
+    "item": "productivetrees:peach_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

@@ -1,13 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "allthemodium:soul_log"
-    },
-    {
-      "item": "allthemodium:stripped_soul_log"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "actuallyadditions:wooden_aiot",
     "count": 1

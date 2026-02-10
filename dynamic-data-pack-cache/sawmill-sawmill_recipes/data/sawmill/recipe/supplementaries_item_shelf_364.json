@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:mahogany_log"
+    },
+    {
+      "item": "productivetrees:mahogany_wood"
+    },
+    {
+      "item": "productivetrees:mahogany_stripped_log"
+    },
+    {
+      "item": "productivetrees:mahogany_stripped_wood"
+    }
+  ],
   "result": {
     "id": "supplementaries:item_shelf",
     "count": 6

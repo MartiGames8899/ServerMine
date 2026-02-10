@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:baobab_log"
+      "item": "twilightforest:transformation_log"
     },
     {
-      "item": "regions_unexplored:baobab_wood"
+      "item": "twilightforest:transformation_wood"
     },
     {
-      "item": "regions_unexplored:stripped_baobab_log"
+      "item": "twilightforest:stripped_transformation_log"
     },
     {
-      "item": "regions_unexplored:stripped_baobab_wood"
+      "item": "twilightforest:stripped_transformation_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:ipe_log"
+      "item": "regions_unexplored:larch_log"
     },
     {
-      "item": "productivetrees:ipe_wood"
+      "item": "regions_unexplored:larch_wood"
     },
     {
-      "item": "productivetrees:ipe_stripped_log"
+      "item": "regions_unexplored:stripped_larch_log"
     },
     {
-      "item": "productivetrees:ipe_stripped_wood"
+      "item": "regions_unexplored:stripped_larch_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:baobab_log"
+      "item": "productivetrees:teak_log"
     },
     {
-      "item": "biomeswevegone:baobab_wood"
+      "item": "productivetrees:teak_wood"
     },
     {
-      "item": "biomeswevegone:stripped_baobab_log"
+      "item": "productivetrees:teak_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_baobab_wood"
+      "item": "productivetrees:teak_stripped_wood"
     }
   ],
   "result": {

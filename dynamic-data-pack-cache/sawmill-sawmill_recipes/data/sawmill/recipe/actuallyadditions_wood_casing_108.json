@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:blue_bioshroom_stem"
+      "item": "productivetrees:padauk_log"
     },
     {
-      "item": "regions_unexplored:blue_bioshroom_hyphae"
+      "item": "productivetrees:padauk_wood"
     },
     {
-      "item": "regions_unexplored:stripped_blue_bioshroom_stem"
+      "item": "productivetrees:padauk_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_blue_bioshroom_hyphae"
+      "item": "productivetrees:padauk_stripped_wood"
     }
   ],
   "result": {

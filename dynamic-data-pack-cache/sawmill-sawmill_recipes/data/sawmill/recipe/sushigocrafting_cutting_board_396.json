@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:night_fuchsia_log"
+      "item": "biomeswevegone:blue_enchanted_log"
     },
     {
-      "item": "productivetrees:night_fuchsia_wood"
+      "item": "biomeswevegone:blue_enchanted_wood"
     },
     {
-      "item": "productivetrees:night_fuchsia_stripped_log"
+      "item": "biomeswevegone:stripped_blue_enchanted_log"
     },
     {
-      "item": "productivetrees:night_fuchsia_stripped_wood"
+      "item": "biomeswevegone:stripped_blue_enchanted_wood"
     }
   ],
   "result": {

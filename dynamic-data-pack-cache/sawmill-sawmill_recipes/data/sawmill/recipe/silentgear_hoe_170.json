@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:star_anise_log"
+      "item": "undergarden:wigglewood_log"
     },
     {
-      "item": "productivetrees:star_anise_wood"
+      "item": "undergarden:wigglewood_wood"
     },
     {
-      "item": "productivetrees:star_anise_stripped_log"
+      "item": "undergarden:stripped_wigglewood_log"
     },
     {
-      "item": "productivetrees:star_anise_stripped_wood"
+      "item": "undergarden:stripped_wigglewood_wood"
     }
   ],
   "result": {

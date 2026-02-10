@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "regions_unexplored:brimwood_log"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "regions_unexplored:brimwood_wood"
+    },
+    {
+      "item": "regions_unexplored:stripped_brimwood_log"
+    },
+    {
+      "item": "regions_unexplored:stripped_brimwood_wood"
     }
   ],
   "result": {

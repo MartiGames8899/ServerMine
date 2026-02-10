@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:time_log"
+      "item": "biomeswevegone:witch_hazel_log"
     },
     {
-      "item": "twilightforest:time_wood"
+      "item": "biomeswevegone:witch_hazel_wood"
     },
     {
-      "item": "twilightforest:stripped_time_log"
+      "item": "biomeswevegone:stripped_witch_hazel_log"
     },
     {
-      "item": "twilightforest:stripped_time_wood"
+      "item": "biomeswevegone:stripped_witch_hazel_wood"
     }
   ],
   "result": {

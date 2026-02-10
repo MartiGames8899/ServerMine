@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rubber_tree_log"
+      "item": "productivetrees:brazilwood_log"
     },
     {
-      "item": "productivetrees:rubber_tree_wood"
+      "item": "productivetrees:brazilwood_wood"
     },
     {
-      "item": "productivetrees:rubber_tree_stripped_log"
+      "item": "productivetrees:brazilwood_stripped_log"
     },
     {
-      "item": "productivetrees:rubber_tree_stripped_wood"
+      "item": "productivetrees:brazilwood_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

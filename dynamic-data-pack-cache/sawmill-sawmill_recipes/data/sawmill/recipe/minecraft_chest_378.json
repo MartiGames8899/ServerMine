@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:carob_log"
+      "item": "productivetrees:white_poplar_log"
     },
     {
-      "item": "productivetrees:carob_wood"
+      "item": "productivetrees:white_poplar_wood"
     },
     {
-      "item": "productivetrees:carob_stripped_log"
+      "item": "productivetrees:white_poplar_stripped_log"
     },
     {
-      "item": "productivetrees:carob_stripped_wood"
+      "item": "productivetrees:white_poplar_stripped_wood"
     }
   ],
   "result": {

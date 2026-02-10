@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:jungle_log"
+      "item": "biomeswevegone:fir_log"
     },
     {
-      "item": "minecraft:jungle_wood"
+      "item": "biomeswevegone:fir_wood"
     },
     {
-      "item": "minecraft:stripped_jungle_log"
+      "item": "biomeswevegone:stripped_fir_log"
     },
     {
-      "item": "minecraft:stripped_jungle_wood"
+      "item": "biomeswevegone:stripped_fir_wood"
     }
   ],
   "result": {

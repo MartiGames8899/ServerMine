@@ -2,16 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "biomeswevegone:aspen_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "biomeswevegone:aspen_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_aspen_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_aspen_wood"
     }
   ],
   "result": {
     "id": "minecraft:chiseled_bookshelf",
     "count": 1
   },
-  "ingredient_count": 3,
   "type": "sawmill:woodcutting"
 }

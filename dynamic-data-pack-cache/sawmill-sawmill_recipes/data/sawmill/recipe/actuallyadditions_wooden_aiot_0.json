@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:witch_hazel_log"
+      "item": "minecraft:cherry_log"
     },
     {
-      "item": "biomeswevegone:witch_hazel_wood"
+      "item": "minecraft:cherry_wood"
     },
     {
-      "item": "biomeswevegone:stripped_witch_hazel_log"
+      "item": "minecraft:stripped_cherry_log"
     },
     {
-      "item": "biomeswevegone:stripped_witch_hazel_wood"
+      "item": "minecraft:stripped_cherry_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:white_poplar_log"
+      "item": "regions_unexplored:cypress_log"
     },
     {
-      "item": "productivetrees:white_poplar_wood"
+      "item": "regions_unexplored:cypress_wood"
     },
     {
-      "item": "productivetrees:white_poplar_stripped_log"
+      "item": "regions_unexplored:stripped_cypress_log"
     },
     {
-      "item": "productivetrees:white_poplar_stripped_wood"
+      "item": "regions_unexplored:stripped_cypress_wood"
     }
   ],
   "result": {

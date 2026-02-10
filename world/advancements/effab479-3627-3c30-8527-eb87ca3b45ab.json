@@ -1,291 +1,298 @@
 {
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2026-02-10 18:35:17 +0000"
-    },
-    "done": true
-  },
   "ae2wtlib:recipe/magnet_card": {
     "criteria": {
-      "has_wct": "2026-02-10 18:34:53 +0000"
+      "has_wct": "2026-02-10 19:52:32 +0000"
     },
     "done": true
   },
   "ae2wtlib:recipe/wireless_universal_terminal/ce": {
     "criteria": {
-      "has_wpt": "2026-02-10 18:34:53 +0000",
-      "has_wct": "2026-02-10 18:34:53 +0000"
+      "has_wpt": "2026-02-10 19:52:32 +0000",
+      "has_wct": "2026-02-10 19:52:32 +0000"
     },
     "done": true
   },
   "ae2wtlib:recipe/wireless_universal_terminal/ca": {
     "criteria": {
-      "has_wit": "2026-02-10 18:34:53 +0000",
-      "has_wct": "2026-02-10 18:34:53 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/root": {
-    "criteria": {
-      "tick": "2026-02-10 18:33:57 +0000"
+      "has_wit": "2026-02-10 19:52:32 +0000",
+      "has_wct": "2026-02-10 19:52:32 +0000"
     },
     "done": true
   },
   "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
     "criteria": {
-      "has_wit": "2026-02-10 18:34:53 +0000"
+      "has_wit": "2026-02-10 19:52:32 +0000"
     },
     "done": true
   },
   "minecraft:story/mine_stone": {
     "criteria": {
-      "get_stone": "2026-02-10 18:44:39 +0000"
+      "get_stone": "2026-02-10 19:52:32 +0000"
     },
     "done": true
-  },
-  "the_bumblezone:structures/enter_all_structures": {
-    "criteria": {
-      "in_goliath_honey_fountain": "2026-02-10 18:33:58 +0000",
-      "in_mite_fortress": "2026-02-10 18:33:58 +0000"
-    },
-    "done": false
   },
   "create:root": {
     "criteria": {
-      "0": "2026-02-10 18:34:53 +0000"
-    },
-    "done": true
-  },
-  "occultism:chalks/root": {
-    "criteria": {
-      "always": "2026-02-10 18:33:57 +0000"
-    },
-    "done": true
-  },
-  "theurgy:book_root": {
-    "criteria": {
-      "theurgy_present": "2026-02-10 18:33:57 +0000"
-    },
-    "done": true
-  },
-  "undergarden:undergarden/root": {
-    "criteria": {
-      "tick": "2026-02-10 18:33:57 +0000"
+      "0": "2026-02-10 19:52:32 +0000"
     },
     "done": true
   },
   "constructionstick:root": {
     "criteria": {
-      "stick": "2026-02-10 18:39:14 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:root": {
-    "criteria": {
-      "always": "2026-02-10 18:33:57 +0000"
-    },
-    "done": true
-  },
-  "mekanism:root": {
-    "criteria": {
-      "automatic": "2026-02-10 18:33:57 +0000"
+      "stick": "2026-02-10 19:52:32 +0000"
     },
     "done": true
   },
   "silentgear:root": {
     "criteria": {
-      "get_item": "2026-02-10 18:39:13 +0000"
-    },
-    "done": true
-  },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2026-02-10 18:33:57 +0000"
-    },
-    "done": true
-  },
-  "merrymaking:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2026-02-10 18:33:57 +0000"
-    },
-    "done": true
-  },
-  "modern_industrialization:guidebook": {
-    "criteria": {
-      "logged_in": "2026-02-10 18:33:57 +0000"
+      "get_item": "2026-02-10 19:52:32 +0000"
     },
     "done": true
   },
   "ae2wtlib:recipe/wireless_universal_terminal/ae": {
     "criteria": {
-      "has_wit": "2026-02-10 18:34:53 +0000",
-      "has_wpt": "2026-02-10 18:34:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2026-02-10 18:38:54 +0000"
-    },
-    "done": true
-  },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2026-02-10 18:33:57 +0000"
+      "has_wit": "2026-02-10 19:52:32 +0000",
+      "has_wpt": "2026-02-10 19:52:32 +0000"
     },
     "done": true
   },
   "cataclysm:root": {
     "criteria": {
-      "crafting_table": "2026-02-10 18:39:13 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:progression/root": {
-    "criteria": {
-      "tick": "2026-02-10 18:33:57 +0000"
+      "crafting_table": "2026-02-10 19:52:32 +0000"
     },
     "done": true
   },
   "ae2wtlib:recipe/wireless_pattern_access_terminal": {
     "criteria": {
-      "has_wt": "2026-02-10 18:34:53 +0000"
+      "has_wt": "2026-02-10 19:52:32 +0000"
     },
     "done": true
-  },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2026-02-10 18:33:57 +0000"
-    },
-    "done": true
-  },
-  "lootr:social": {
-    "criteria": {
-      "opened_chest": "2026-02-10 18:35:17 +0000"
-    },
-    "done": false
   },
   "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
     "criteria": {
-      "has_wt": "2026-02-10 18:34:53 +0000"
+      "has_wt": "2026-02-10 19:52:32 +0000"
     },
     "done": true
   },
   "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
     "criteria": {
-      "has_wct": "2026-02-10 18:34:53 +0000"
+      "has_wct": "2026-02-10 19:52:32 +0000"
     },
     "done": true
   },
   "create_enchantment_industry:root": {
     "criteria": {
-      "0": "2026-02-10 18:34:53 +0000"
+      "0": "2026-02-10 19:52:32 +0000"
     },
     "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2026-02-10 18:33:57 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:regions_explored": {
-    "criteria": {
-      "golden_boreal_taiga": "2026-02-10 18:33:58 +0000"
-    },
-    "done": false
   },
   "mffs:grant_book_on_first_join": {
     "criteria": {
-      "guidebook": "2026-02-10 18:33:56 +0000"
+      "guidebook": "2026-02-10 19:52:32 +0000"
     },
     "done": true
   },
   "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
-      "has_wpt": "2026-02-10 18:34:53 +0000"
+      "has_wpt": "2026-02-10 19:52:32 +0000"
     },
     "done": true
   },
   "ae2wtlib:recipe/quantum_bridge_card": {
     "criteria": {
-      "has_wit": "2026-02-10 18:34:53 +0000",
-      "has_wpt": "2026-02-10 18:34:53 +0000",
-      "has_wct": "2026-02-10 18:34:53 +0000"
+      "has_wit": "2026-02-10 19:52:32 +0000",
+      "has_wpt": "2026-02-10 19:52:32 +0000",
+      "has_wct": "2026-02-10 19:52:32 +0000"
     },
     "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2026-02-10 18:34:53 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:root": {
-    "criteria": {
-      "instant_granted": "2026-02-10 18:33:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:wiki": {
-    "criteria": {
-      "instant_granted": "2026-02-10 18:33:57 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:pioneer": {
-    "criteria": {
-      "golden_boreal_taiga": "2026-02-10 18:33:58 +0000"
-    },
-    "done": false
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2026-02-10 18:33:57 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/husbandry/root": {
-    "criteria": {
-      "consumed_item": "2026-02-10 18:38:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_beef": "2026-02-10 18:38:54 +0000"
-    },
-    "done": false
-  },
-  "occultism:occultism/root": {
-    "criteria": {
-      "occultism_present": "2026-02-10 18:33:57 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:got_wood": {
-    "criteria": {
-      "larch_log": "2026-02-10 18:34:53 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2026-02-10 18:33:58 +0000"
+      "seeds": "2026-02-10 19:52:32 +0000"
     },
     "done": true
   },
   "minecraft:story/root": {
     "criteria": {
-      "crafting_table": "2026-02-10 18:39:13 +0000"
+      "crafting_table": "2026-02-10 19:52:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2026-02-10 19:52:33 +0000"
+    },
+    "done": true
+  },
+  "occultism:chalks/root": {
+    "criteria": {
+      "always": "2026-02-10 19:52:33 +0000"
+    },
+    "done": true
+  },
+  "theurgy:book_root": {
+    "criteria": {
+      "theurgy_present": "2026-02-10 19:52:33 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2026-02-10 19:52:33 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2026-02-10 19:52:33 +0000"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2026-02-10 19:52:33 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-02-10 19:52:33 +0000"
+    },
+    "done": true
+  },
+  "merrymaking:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2026-02-10 19:52:33 +0000"
+    },
+    "done": true
+  },
+  "modern_industrialization:guidebook": {
+    "criteria": {
+      "logged_in": "2026-02-10 19:52:33 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2026-02-10 19:52:33 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/root": {
+    "criteria": {
+      "tick": "2026-02-10 19:52:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2026-02-10 19:52:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2026-02-10 19:52:33 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2026-02-10 19:52:33 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2026-02-10 19:52:33 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-02-10 19:52:33 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2026-02-10 19:52:33 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_goliath_honey_fountain": "2026-02-10 19:52:35 +0000",
+      "in_mite_fortress": "2026-02-10 19:52:35 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "golden_boreal_taiga": "2026-02-10 19:52:35 +0000",
+      "ancient_delta": "2026-02-10 20:17:39 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "golden_boreal_taiga": "2026-02-10 19:52:35 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2026-02-10 19:52:35 +0000"
     },
     "done": true
   },
   "regions_unexplored:parent": {
     "criteria": {
-      "load_in_world": "2026-02-10 18:33:58 +0000"
+      "load_in_world": "2026-02-10 19:52:35 +0000"
     },
     "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2026-02-10 19:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-02-10 20:11:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-02-10 20:11:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2026-02-10 20:11:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-02-10 20:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-02-10 20:15:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "ancient_delta": "2026-02-10 20:17:39 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }

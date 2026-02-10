@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:grongle_log"
+      "item": "twilightforest:sorting_log"
     },
     {
-      "item": "undergarden:grongle_wood"
+      "item": "twilightforest:sorting_wood"
     },
     {
-      "item": "undergarden:stripped_grongle_log"
+      "item": "twilightforest:stripped_sorting_log"
     },
     {
-      "item": "undergarden:stripped_grongle_wood"
+      "item": "twilightforest:stripped_sorting_wood"
     }
   ],
   "result": {

@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:ironwood_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "biomeswevegone:ironwood_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_ironwood_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_ironwood_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {

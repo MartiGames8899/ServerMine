@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "silentgear:netherwood_log"
-    },
-    {
-      "item": "silentgear:netherwood_wood"
-    },
-    {
-      "item": "silentgear:stripped_netherwood_log"
-    },
-    {
-      "item": "silentgear:stripped_netherwood_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "evilcraft:display_stand",
     "count": 1

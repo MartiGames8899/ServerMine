@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rosewood_log"
+      "item": "regions_unexplored:mauve_log"
     },
     {
-      "item": "productivetrees:rosewood_wood"
+      "item": "regions_unexplored:mauve_wood"
     },
     {
-      "item": "productivetrees:rosewood_stripped_log"
+      "item": "regions_unexplored:stripped_mauve_log"
     },
     {
-      "item": "productivetrees:rosewood_stripped_wood"
+      "item": "regions_unexplored:stripped_mauve_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

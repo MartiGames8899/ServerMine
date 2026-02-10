@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:firecracker_log"
+      "item": "regions_unexplored:joshua_log"
     },
     {
-      "item": "productivetrees:firecracker_wood"
+      "item": "regions_unexplored:joshua_wood"
     },
     {
-      "item": "productivetrees:firecracker_stripped_log"
+      "item": "regions_unexplored:stripped_joshua_log"
     },
     {
-      "item": "productivetrees:firecracker_stripped_wood"
+      "item": "regions_unexplored:stripped_joshua_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:asai_palm_log"
+      "item": "biomeswevegone:aspen_log"
     },
     {
-      "item": "productivetrees:asai_palm_wood"
+      "item": "biomeswevegone:aspen_wood"
     },
     {
-      "item": "productivetrees:asai_palm_stripped_log"
+      "item": "biomeswevegone:stripped_aspen_log"
     },
     {
-      "item": "productivetrees:asai_palm_stripped_wood"
+      "item": "biomeswevegone:stripped_aspen_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sycamore_fig_log"
+      "item": "forbidden_arcanus:aurum_log"
     },
     {
-      "item": "productivetrees:sycamore_fig_wood"
+      "item": "forbidden_arcanus:aurum_wood"
     },
     {
-      "item": "productivetrees:sycamore_fig_stripped_log"
+      "item": "forbidden_arcanus:stripped_aurum_log"
     },
     {
-      "item": "productivetrees:sycamore_fig_stripped_wood"
+      "item": "forbidden_arcanus:stripped_aurum_wood"
     }
   ],
   "result": {

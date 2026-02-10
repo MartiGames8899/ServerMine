@@ -2,15 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "regions_unexplored:baobab_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "regions_unexplored:baobab_wood"
+    },
+    {
+      "item": "regions_unexplored:stripped_baobab_log"
+    },
+    {
+      "item": "regions_unexplored:stripped_baobab_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 3
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

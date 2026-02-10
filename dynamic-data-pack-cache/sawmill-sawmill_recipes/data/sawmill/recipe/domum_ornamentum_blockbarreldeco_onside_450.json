@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:buddhas_hand_log"
+      "item": "productivetrees:black_locust_log"
     },
     {
-      "item": "productivetrees:buddhas_hand_wood"
+      "item": "productivetrees:black_locust_wood"
     },
     {
-      "item": "productivetrees:buddhas_hand_stripped_log"
+      "item": "productivetrees:black_locust_stripped_log"
     },
     {
-      "item": "productivetrees:buddhas_hand_stripped_wood"
+      "item": "productivetrees:black_locust_stripped_wood"
     }
   ],
   "result": {

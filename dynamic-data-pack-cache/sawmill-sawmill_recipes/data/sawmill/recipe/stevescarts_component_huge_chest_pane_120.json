@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:joshua_log"
+      "item": "productivetrees:butternut_log"
     },
     {
-      "item": "regions_unexplored:joshua_wood"
+      "item": "productivetrees:butternut_wood"
     },
     {
-      "item": "regions_unexplored:stripped_joshua_log"
+      "item": "productivetrees:butternut_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_joshua_wood"
+      "item": "productivetrees:butternut_stripped_wood"
     }
   ],
   "result": {

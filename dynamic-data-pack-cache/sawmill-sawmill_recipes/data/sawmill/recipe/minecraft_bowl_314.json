@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sequoia_log"
+      "item": "productivetrees:greenheart_log"
     },
     {
-      "item": "productivetrees:sequoia_wood"
+      "item": "productivetrees:greenheart_wood"
     },
     {
-      "item": "productivetrees:sequoia_stripped_log"
+      "item": "productivetrees:greenheart_stripped_log"
     },
     {
-      "item": "productivetrees:sequoia_stripped_wood"
+      "item": "productivetrees:greenheart_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 6
+    "count": 4
   },
   "type": "sawmill:woodcutting"
 }

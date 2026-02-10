@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:pecan_log"
-    },
-    {
-      "item": "productivetrees:pecan_wood"
-    },
-    {
-      "item": "productivetrees:pecan_stripped_log"
-    },
-    {
-      "item": "productivetrees:pecan_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
   "result": {
     "id": "aquaculture:wooden_fillet_knife",
     "count": 1

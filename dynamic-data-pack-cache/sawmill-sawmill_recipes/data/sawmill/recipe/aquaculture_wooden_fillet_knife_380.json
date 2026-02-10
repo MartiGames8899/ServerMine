@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:star_anise_log"
+      "item": "twilightforest:time_log"
     },
     {
-      "item": "productivetrees:star_anise_wood"
+      "item": "twilightforest:time_wood"
     },
     {
-      "item": "productivetrees:star_anise_stripped_log"
+      "item": "twilightforest:stripped_time_log"
     },
     {
-      "item": "productivetrees:star_anise_stripped_wood"
+      "item": "twilightforest:stripped_time_wood"
     }
   ],
   "result": {

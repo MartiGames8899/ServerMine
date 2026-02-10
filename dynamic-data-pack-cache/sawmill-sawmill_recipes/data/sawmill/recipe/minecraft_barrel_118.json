@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "biomeswevegone:ebony_log"
+    },
+    {
+      "item": "biomeswevegone:ebony_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_ebony_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_ebony_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:barrel",
     "count": 1

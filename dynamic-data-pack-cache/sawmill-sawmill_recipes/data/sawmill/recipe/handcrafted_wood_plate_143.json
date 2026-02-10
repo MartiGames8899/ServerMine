@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:dead_planks"
+    "item": "cataclysm:chorus_planks"
   },
   "result": {
     "id": "handcrafted:wood_plate",
-    "count": 2
+    "count": 1
   },
   "type": "sawmill:woodcutting"
 }

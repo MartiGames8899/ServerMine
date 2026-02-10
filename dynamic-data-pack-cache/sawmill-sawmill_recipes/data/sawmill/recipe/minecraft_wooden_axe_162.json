@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:pistachio_log"
+      "item": "productivetrees:pink_ipe_log"
     },
     {
-      "item": "productivetrees:pistachio_wood"
+      "item": "productivetrees:pink_ipe_wood"
     },
     {
-      "item": "productivetrees:pistachio_stripped_log"
+      "item": "productivetrees:pink_ipe_stripped_log"
     },
     {
-      "item": "productivetrees:pistachio_stripped_wood"
+      "item": "productivetrees:pink_ipe_stripped_wood"
     }
   ],
   "result": {

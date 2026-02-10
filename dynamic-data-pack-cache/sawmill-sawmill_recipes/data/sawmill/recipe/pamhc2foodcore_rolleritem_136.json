@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:rainbow_gum_log"
+      "item": "biomeswevegone:green_enchanted_log"
     },
     {
-      "item": "productivetrees:rainbow_gum_wood"
+      "item": "biomeswevegone:green_enchanted_wood"
     },
     {
-      "item": "productivetrees:rainbow_gum_stripped_log"
+      "item": "biomeswevegone:stripped_green_enchanted_log"
     },
     {
-      "item": "productivetrees:rainbow_gum_stripped_wood"
+      "item": "biomeswevegone:stripped_green_enchanted_wood"
     }
   ],
   "result": {

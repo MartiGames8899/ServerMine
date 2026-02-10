@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:pomelo_log"
+    },
+    {
+      "item": "productivetrees:pomelo_wood"
+    },
+    {
+      "item": "productivetrees:pomelo_stripped_log"
+    },
+    {
+      "item": "productivetrees:pomelo_stripped_wood"
+    }
+  ],
   "result": {
     "id": "mcwfences:wooden_cheval_de_frise",
     "count": 1

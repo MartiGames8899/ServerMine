@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:tangerine_log"
+      "item": "undergarden:smogstem_log"
     },
     {
-      "item": "productivetrees:tangerine_wood"
+      "item": "undergarden:smogstem_wood"
     },
     {
-      "item": "productivetrees:tangerine_stripped_log"
+      "item": "undergarden:stripped_smogstem_log"
     },
     {
-      "item": "productivetrees:tangerine_stripped_wood"
+      "item": "undergarden:stripped_smogstem_wood"
     }
   ],
   "result": {

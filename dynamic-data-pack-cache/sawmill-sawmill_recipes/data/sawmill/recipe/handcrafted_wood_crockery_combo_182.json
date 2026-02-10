@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:lemon_log"
+    },
+    {
+      "item": "productivetrees:lemon_wood"
+    },
+    {
+      "item": "productivetrees:lemon_stripped_log"
+    },
+    {
+      "item": "productivetrees:lemon_stripped_wood"
+    }
+  ],
   "result": {
     "id": "handcrafted:wood_crockery_combo",
     "count": 4

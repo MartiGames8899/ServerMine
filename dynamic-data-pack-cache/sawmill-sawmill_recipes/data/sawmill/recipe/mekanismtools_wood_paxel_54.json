@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:sweet_chestnut_log"
+      "item": "biomeswevegone:florus_stem"
     },
     {
-      "item": "productivetrees:sweet_chestnut_wood"
+      "item": "biomeswevegone:florus_wood"
     },
     {
-      "item": "productivetrees:sweet_chestnut_stripped_log"
+      "item": "biomeswevegone:stripped_florus_stem"
     },
     {
-      "item": "productivetrees:sweet_chestnut_stripped_wood"
+      "item": "biomeswevegone:stripped_florus_wood"
     }
   ],
   "result": {

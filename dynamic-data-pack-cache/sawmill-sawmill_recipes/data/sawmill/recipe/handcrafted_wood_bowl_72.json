@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:wenge_log"
+      "item": "productivetrees:night_fuchsia_log"
     },
     {
-      "item": "productivetrees:wenge_wood"
+      "item": "productivetrees:night_fuchsia_wood"
     },
     {
-      "item": "productivetrees:wenge_stripped_log"
+      "item": "productivetrees:night_fuchsia_stripped_log"
     },
     {
-      "item": "productivetrees:wenge_stripped_wood"
+      "item": "productivetrees:night_fuchsia_stripped_wood"
     }
   ],
   "result": {

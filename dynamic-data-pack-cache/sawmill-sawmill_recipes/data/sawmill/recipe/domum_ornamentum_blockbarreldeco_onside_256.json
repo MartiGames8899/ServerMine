@@ -2,21 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:cedar_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "productivetrees:cedar_wood"
-    },
-    {
-      "item": "productivetrees:cedar_stripped_log"
-    },
-    {
-      "item": "productivetrees:cedar_stripped_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "domum_ornamentum:blockbarreldeco_onside",
     "count": 1
   },
+  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

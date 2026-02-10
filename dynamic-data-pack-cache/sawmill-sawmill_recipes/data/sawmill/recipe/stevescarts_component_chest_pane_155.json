@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:northland_planks"
+    "item": "regions_unexplored:eucalyptus_planks"
   },
   "result": {
     "id": "stevescarts:component_chest_pane",

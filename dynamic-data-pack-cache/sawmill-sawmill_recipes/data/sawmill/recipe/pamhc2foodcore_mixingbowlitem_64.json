@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:firecracker_log"
-    },
-    {
-      "item": "productivetrees:firecracker_wood"
-    },
-    {
-      "item": "productivetrees:firecracker_stripped_log"
-    },
-    {
-      "item": "productivetrees:firecracker_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "pamhc2foodcore:mixingbowlitem",
     "count": 1

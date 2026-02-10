@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:scarlet_log"
+      "item": "twilightforest:mangrove_log"
     },
     {
-      "item": "eternal_starlight:scarlet_wood"
+      "item": "twilightforest:mangrove_wood"
     },
     {
-      "item": "eternal_starlight:stripped_scarlet_log"
+      "item": "twilightforest:stripped_mangrove_log"
     },
     {
-      "item": "eternal_starlight:stripped_scarlet_wood"
+      "item": "twilightforest:stripped_mangrove_wood"
     }
   ],
   "result": {

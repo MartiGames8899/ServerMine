@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:mauve_log"
+      "item": "productivetrees:cashew_log"
     },
     {
-      "item": "regions_unexplored:mauve_wood"
+      "item": "productivetrees:cashew_wood"
     },
     {
-      "item": "regions_unexplored:stripped_mauve_log"
+      "item": "productivetrees:cashew_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_mauve_wood"
+      "item": "productivetrees:cashew_stripped_wood"
     }
   ],
   "result": {

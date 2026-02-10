@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:cradlewood_log"
+      "item": "minecraft:crimson_stem"
     },
     {
-      "item": "eternal_starlight:cradlewood_wood"
+      "item": "minecraft:crimson_hyphae"
     },
     {
-      "item": "eternal_starlight:stripped_cradlewood_log"
+      "item": "minecraft:stripped_crimson_stem"
     },
     {
-      "item": "eternal_starlight:stripped_cradlewood_wood"
+      "item": "minecraft:stripped_crimson_hyphae"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:dead_log"
+      "item": "biomeswevegone:green_enchanted_log"
     },
     {
-      "item": "regions_unexplored:dead_wood"
+      "item": "biomeswevegone:green_enchanted_wood"
     },
     {
-      "item": "regions_unexplored:stripped_dead_log"
+      "item": "biomeswevegone:stripped_green_enchanted_log"
     },
     {
-      "item": "regions_unexplored:stripped_dead_wood"
+      "item": "biomeswevegone:stripped_green_enchanted_wood"
     }
   ],
   "result": {

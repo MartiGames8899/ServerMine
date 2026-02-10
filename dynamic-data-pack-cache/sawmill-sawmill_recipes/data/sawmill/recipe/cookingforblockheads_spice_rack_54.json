@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:skyris_log"
+      "item": "productivetrees:cashew_log"
     },
     {
-      "item": "biomeswevegone:skyris_wood"
+      "item": "productivetrees:cashew_wood"
     },
     {
-      "item": "biomeswevegone:stripped_skyris_log"
+      "item": "productivetrees:cashew_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_skyris_wood"
+      "item": "productivetrees:cashew_stripped_wood"
     }
   ],
   "result": {

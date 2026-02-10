@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:lunar_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "eternal_starlight:lunar_wood"
-    },
-    {
-      "item": "eternal_starlight:stripped_lunar_log"
-    },
-    {
-      "item": "eternal_starlight:stripped_lunar_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {

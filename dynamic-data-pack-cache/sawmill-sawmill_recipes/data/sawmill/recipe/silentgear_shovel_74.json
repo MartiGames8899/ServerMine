@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:white_mangrove_log"
+      "item": "biomeswevegone:rainbow_eucalyptus_log"
     },
     {
-      "item": "biomeswevegone:white_mangrove_wood"
+      "item": "biomeswevegone:rainbow_eucalyptus_wood"
     },
     {
-      "item": "biomeswevegone:stripped_white_mangrove_log"
+      "item": "biomeswevegone:stripped_rainbow_eucalyptus_log"
     },
     {
-      "item": "biomeswevegone:stripped_white_mangrove_wood"
+      "item": "biomeswevegone:stripped_rainbow_eucalyptus_wood"
     }
   ],
   "result": {

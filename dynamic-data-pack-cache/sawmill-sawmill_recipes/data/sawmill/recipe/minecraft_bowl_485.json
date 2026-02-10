@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:brimwood_planks"
+    "item": "biomeswevegone:palm_planks"
   },
   "result": {
     "id": "minecraft:bowl",

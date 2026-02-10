@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "undergarden:smogstem_log"
+      "item": "productivetrees:citron_log"
     },
     {
-      "item": "undergarden:smogstem_wood"
+      "item": "productivetrees:citron_wood"
     },
     {
-      "item": "undergarden:stripped_smogstem_log"
+      "item": "productivetrees:citron_stripped_log"
     },
     {
-      "item": "undergarden:stripped_smogstem_wood"
+      "item": "productivetrees:citron_stripped_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:mauve_log"
+      "item": "minecraft:dark_oak_log"
     },
     {
-      "item": "regions_unexplored:mauve_wood"
+      "item": "minecraft:dark_oak_wood"
     },
     {
-      "item": "regions_unexplored:stripped_mauve_log"
+      "item": "minecraft:stripped_dark_oak_log"
     },
     {
-      "item": "regions_unexplored:stripped_mauve_wood"
+      "item": "minecraft:stripped_dark_oak_wood"
     }
   ],
   "result": {

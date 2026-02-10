@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:brown_amber_log"
+      "item": "eternal_starlight:torreya_log"
     },
     {
-      "item": "productivetrees:brown_amber_wood"
+      "item": "eternal_starlight:torreya_wood"
     },
     {
-      "item": "productivetrees:brown_amber_stripped_log"
+      "item": "eternal_starlight:stripped_torreya_log"
     },
     {
-      "item": "productivetrees:brown_amber_stripped_wood"
+      "item": "eternal_starlight:stripped_torreya_wood"
     }
   ],
   "result": {

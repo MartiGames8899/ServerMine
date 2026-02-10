@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:green_bioshroom_stem"
+      "item": "biomeswevegone:jacaranda_log"
     },
     {
-      "item": "regions_unexplored:green_bioshroom_hyphae"
+      "item": "biomeswevegone:jacaranda_wood"
     },
     {
-      "item": "regions_unexplored:stripped_green_bioshroom_stem"
+      "item": "biomeswevegone:stripped_jacaranda_log"
     },
     {
-      "item": "regions_unexplored:stripped_green_bioshroom_hyphae"
+      "item": "biomeswevegone:stripped_jacaranda_wood"
     }
   ],
   "result": {

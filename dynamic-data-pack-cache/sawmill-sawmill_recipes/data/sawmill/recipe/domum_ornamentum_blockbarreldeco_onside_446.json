@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:thunder_bolt_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:thunder_bolt_wood"
-    },
-    {
-      "item": "productivetrees:thunder_bolt_stripped_log"
-    },
-    {
-      "item": "productivetrees:thunder_bolt_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

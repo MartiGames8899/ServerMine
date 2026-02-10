@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:cacao_log"
-    },
-    {
-      "item": "productivetrees:cacao_wood"
-    },
-    {
-      "item": "productivetrees:cacao_stripped_log"
-    },
-    {
-      "item": "productivetrees:cacao_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "silentgear:hoe",
     "count": 1

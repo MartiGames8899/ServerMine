@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "biomeswevegone:cika_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "biomeswevegone:cika_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_cika_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_cika_wood"
     }
   ],
   "result": {

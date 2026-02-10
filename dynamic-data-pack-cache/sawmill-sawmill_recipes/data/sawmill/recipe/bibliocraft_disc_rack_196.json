@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:purple_blackthorn_log"
+      "item": "regions_unexplored:blue_bioshroom_stem"
     },
     {
-      "item": "productivetrees:purple_blackthorn_wood"
+      "item": "regions_unexplored:blue_bioshroom_hyphae"
     },
     {
-      "item": "productivetrees:purple_blackthorn_stripped_log"
+      "item": "regions_unexplored:stripped_blue_bioshroom_stem"
     },
     {
-      "item": "productivetrees:purple_blackthorn_stripped_wood"
+      "item": "regions_unexplored:stripped_blue_bioshroom_hyphae"
     }
   ],
   "result": {

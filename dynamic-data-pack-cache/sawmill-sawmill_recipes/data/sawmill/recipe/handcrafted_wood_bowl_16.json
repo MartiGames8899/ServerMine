@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "integrateddynamics:menril_log"
+      "item": "productivetrees:cempedak_log"
     },
     {
-      "item": "integrateddynamics:menril_wood"
+      "item": "productivetrees:cempedak_wood"
+    },
+    {
+      "item": "productivetrees:cempedak_stripped_log"
+    },
+    {
+      "item": "productivetrees:cempedak_stripped_wood"
     }
   ],
   "result": {

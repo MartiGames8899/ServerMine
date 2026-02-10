@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:kapok_log"
+      "item": "productivetrees:sand_pear_log"
     },
     {
-      "item": "productivetrees:kapok_wood"
+      "item": "productivetrees:sand_pear_wood"
     },
     {
-      "item": "productivetrees:kapok_stripped_log"
+      "item": "productivetrees:sand_pear_stripped_log"
     },
     {
-      "item": "productivetrees:kapok_stripped_wood"
+      "item": "productivetrees:sand_pear_stripped_wood"
     }
   ],
   "result": {

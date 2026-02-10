@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:balsam_fir_log"
+      "item": "regions_unexplored:kapok_log"
     },
     {
-      "item": "productivetrees:balsam_fir_wood"
+      "item": "regions_unexplored:kapok_wood"
     },
     {
-      "item": "productivetrees:balsam_fir_stripped_log"
+      "item": "regions_unexplored:stripped_kapok_log"
     },
     {
-      "item": "productivetrees:balsam_fir_stripped_wood"
+      "item": "regions_unexplored:stripped_kapok_wood"
     }
   ],
   "result": {

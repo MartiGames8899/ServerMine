@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:cherry_log"
+      "item": "forbidden_arcanus:fungyss_stem"
     },
     {
-      "item": "minecraft:cherry_wood"
-    },
-    {
-      "item": "minecraft:stripped_cherry_log"
-    },
-    {
-      "item": "minecraft:stripped_cherry_wood"
+      "item": "forbidden_arcanus:fungyss_hyphae"
     }
   ],
   "result": {

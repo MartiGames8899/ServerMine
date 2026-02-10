@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:mahogany_log"
+      "item": "productivetrees:logwood_log"
     },
     {
-      "item": "productivetrees:mahogany_wood"
+      "item": "productivetrees:logwood_wood"
     },
     {
-      "item": "productivetrees:mahogany_stripped_log"
+      "item": "productivetrees:logwood_stripped_log"
     },
     {
-      "item": "productivetrees:mahogany_stripped_wood"
+      "item": "productivetrees:logwood_stripped_wood"
     }
   ],
   "result": {

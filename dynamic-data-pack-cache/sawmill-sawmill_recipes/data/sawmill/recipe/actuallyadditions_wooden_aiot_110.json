@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:foggy_blast_log"
+      "item": "biomeswevegone:skyris_log"
     },
     {
-      "item": "productivetrees:foggy_blast_wood"
+      "item": "biomeswevegone:skyris_wood"
     },
     {
-      "item": "productivetrees:foggy_blast_stripped_log"
+      "item": "biomeswevegone:stripped_skyris_log"
     },
     {
-      "item": "productivetrees:foggy_blast_stripped_wood"
+      "item": "biomeswevegone:stripped_skyris_wood"
     }
   ],
   "result": {

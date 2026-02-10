@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:green_bioshroom_stem"
+      "item": "minecraft:crimson_stem"
     },
     {
-      "item": "regions_unexplored:green_bioshroom_hyphae"
+      "item": "minecraft:crimson_hyphae"
     },
     {
-      "item": "regions_unexplored:stripped_green_bioshroom_stem"
+      "item": "minecraft:stripped_crimson_stem"
     },
     {
-      "item": "regions_unexplored:stripped_green_bioshroom_hyphae"
+      "item": "minecraft:stripped_crimson_hyphae"
     }
   ],
   "result": {

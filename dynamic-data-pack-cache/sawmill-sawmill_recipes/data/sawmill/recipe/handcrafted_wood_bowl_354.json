@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:mandarin_log"
+      "item": "productivetrees:sycamore_fig_log"
     },
     {
-      "item": "productivetrees:mandarin_wood"
+      "item": "productivetrees:sycamore_fig_wood"
     },
     {
-      "item": "productivetrees:mandarin_stripped_log"
+      "item": "productivetrees:sycamore_fig_stripped_log"
     },
     {
-      "item": "productivetrees:mandarin_stripped_wood"
+      "item": "productivetrees:sycamore_fig_stripped_wood"
     }
   ],
   "result": {

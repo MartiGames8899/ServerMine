@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:baobab_log"
+      "item": "regions_unexplored:dead_log"
     },
     {
-      "item": "biomeswevegone:baobab_wood"
+      "item": "regions_unexplored:dead_wood"
     },
     {
-      "item": "biomeswevegone:stripped_baobab_log"
+      "item": "regions_unexplored:stripped_dead_log"
     },
     {
-      "item": "biomeswevegone:stripped_baobab_wood"
+      "item": "regions_unexplored:stripped_dead_wood"
     }
   ],
   "result": {

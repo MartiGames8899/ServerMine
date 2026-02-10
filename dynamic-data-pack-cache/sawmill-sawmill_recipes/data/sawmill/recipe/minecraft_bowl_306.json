@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:lemon_log"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_log"
     },
     {
-      "item": "productivetrees:lemon_wood"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_wood"
     },
     {
-      "item": "productivetrees:lemon_stripped_log"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_stripped_log"
     },
     {
-      "item": "productivetrees:lemon_stripped_wood"
+      "item": "productivetrees:moonlight_magic_crepe_myrtle_stripped_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

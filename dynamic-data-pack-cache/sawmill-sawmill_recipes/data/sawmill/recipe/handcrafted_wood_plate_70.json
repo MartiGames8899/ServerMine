@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:kapok_log"
+      "item": "productivetrees:great_sallow_log"
     },
     {
-      "item": "productivetrees:kapok_wood"
+      "item": "productivetrees:great_sallow_wood"
     },
     {
-      "item": "productivetrees:kapok_stripped_log"
+      "item": "productivetrees:great_sallow_stripped_log"
     },
     {
-      "item": "productivetrees:kapok_stripped_wood"
+      "item": "productivetrees:great_sallow_stripped_wood"
     }
   ],
   "result": {

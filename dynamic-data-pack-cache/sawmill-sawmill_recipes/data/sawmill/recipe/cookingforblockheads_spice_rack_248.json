@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:pink_bioshroom_stem"
+      "item": "productivetrees:soul_tree_log"
     },
     {
-      "item": "regions_unexplored:pink_bioshroom_hyphae"
+      "item": "productivetrees:soul_tree_wood"
     },
     {
-      "item": "regions_unexplored:stripped_pink_bioshroom_stem"
+      "item": "productivetrees:soul_tree_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_pink_bioshroom_hyphae"
+      "item": "productivetrees:soul_tree_stripped_wood"
     }
   ],
   "result": {

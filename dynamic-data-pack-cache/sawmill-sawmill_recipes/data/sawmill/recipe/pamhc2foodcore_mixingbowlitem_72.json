@@ -2,10 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "naturesaura:ancient_log"
+      "item": "forbidden_arcanus:fungyss_stem"
     },
     {
-      "item": "naturesaura:ancient_bark"
+      "item": "forbidden_arcanus:fungyss_hyphae"
     }
   ],
   "result": {

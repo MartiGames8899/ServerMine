@@ -1,8 +1,13 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "forbidden_arcanus:edelwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "evilcraft:undead_log"
+    },
+    {
+      "item": "evilcraft:undead_wood"
+    }
+  ],
   "result": {
     "id": "aquaculture:wooden_fillet_knife",
     "count": 1

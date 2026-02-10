@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:socotra_log"
+      "item": "productivetrees:purpleheart_log"
     },
     {
-      "item": "regions_unexplored:socotra_wood"
+      "item": "productivetrees:purpleheart_wood"
     },
     {
-      "item": "regions_unexplored:stripped_socotra_log"
+      "item": "productivetrees:purpleheart_stripped_log"
     },
     {
-      "item": "regions_unexplored:stripped_socotra_wood"
+      "item": "productivetrees:purpleheart_stripped_wood"
     }
   ],
   "result": {

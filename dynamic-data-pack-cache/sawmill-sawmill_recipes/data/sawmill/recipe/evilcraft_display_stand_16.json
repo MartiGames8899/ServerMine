@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:swamp_gum_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "productivetrees:swamp_gum_wood"
-    },
-    {
-      "item": "productivetrees:swamp_gum_stripped_log"
-    },
-    {
-      "item": "productivetrees:swamp_gum_stripped_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {

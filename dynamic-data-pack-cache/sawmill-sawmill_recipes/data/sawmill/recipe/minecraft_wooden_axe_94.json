@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:soursop_log"
+      "item": "regions_unexplored:pink_bioshroom_stem"
     },
     {
-      "item": "productivetrees:soursop_wood"
+      "item": "regions_unexplored:pink_bioshroom_hyphae"
     },
     {
-      "item": "productivetrees:soursop_stripped_log"
+      "item": "regions_unexplored:stripped_pink_bioshroom_stem"
     },
     {
-      "item": "productivetrees:soursop_stripped_wood"
+      "item": "regions_unexplored:stripped_pink_bioshroom_hyphae"
     }
   ],
   "result": {

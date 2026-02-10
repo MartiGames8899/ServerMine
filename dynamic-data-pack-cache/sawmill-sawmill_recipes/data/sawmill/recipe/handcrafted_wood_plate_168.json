@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:spirit_log"
+      "item": "undergarden:wigglewood_log"
     },
     {
-      "item": "biomeswevegone:spirit_wood"
+      "item": "undergarden:wigglewood_wood"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_log"
+      "item": "undergarden:stripped_wigglewood_log"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_wood"
+      "item": "undergarden:stripped_wigglewood_wood"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:sakura_log"
+      "item": "productivetrees:great_sallow_log"
     },
     {
-      "item": "biomeswevegone:sakura_wood"
+      "item": "productivetrees:great_sallow_wood"
     },
     {
-      "item": "biomeswevegone:stripped_sakura_log"
+      "item": "productivetrees:great_sallow_stripped_log"
     },
     {
-      "item": "biomeswevegone:stripped_sakura_wood"
+      "item": "productivetrees:great_sallow_stripped_wood"
     }
   ],
   "result": {

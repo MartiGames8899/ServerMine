@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:european_larch_log"
+      "item": "regions_unexplored:joshua_log"
     },
     {
-      "item": "productivetrees:european_larch_wood"
+      "item": "regions_unexplored:joshua_wood"
     },
     {
-      "item": "productivetrees:european_larch_stripped_log"
+      "item": "regions_unexplored:stripped_joshua_log"
     },
     {
-      "item": "productivetrees:european_larch_stripped_wood"
+      "item": "regions_unexplored:stripped_joshua_wood"
     }
   ],
   "result": {

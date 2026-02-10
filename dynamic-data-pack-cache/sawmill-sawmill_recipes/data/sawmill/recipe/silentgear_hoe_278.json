@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "forbidden_arcanus:edelwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "biomeswevegone:palm_log"
+    },
+    {
+      "item": "biomeswevegone:palm_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_palm_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_palm_wood"
+    }
+  ],
   "result": {
     "id": "silentgear:hoe",
     "count": 1

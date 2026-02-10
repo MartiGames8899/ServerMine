@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:swamp_gum_log"
+      "item": "biomeswevegone:holly_log"
     },
     {
-      "item": "productivetrees:swamp_gum_wood"
+      "item": "biomeswevegone:holly_wood"
     },
     {
-      "item": "productivetrees:swamp_gum_stripped_log"
+      "item": "biomeswevegone:stripped_holly_log"
     },
     {
-      "item": "productivetrees:swamp_gum_stripped_wood"
+      "item": "biomeswevegone:stripped_holly_wood"
     }
   ],
   "result": {

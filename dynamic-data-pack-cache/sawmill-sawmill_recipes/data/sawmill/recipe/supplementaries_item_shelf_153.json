@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "eternal_starlight:torreya_planks"
+    "item": "productivetrees:tuscarora_crepe_myrtle_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

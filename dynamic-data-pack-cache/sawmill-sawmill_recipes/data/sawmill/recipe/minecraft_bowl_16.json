@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "integrateddynamics:menril_log"
+      "item": "productivetrees:buddhas_hand_log"
     },
     {
-      "item": "integrateddynamics:menril_wood"
+      "item": "productivetrees:buddhas_hand_wood"
+    },
+    {
+      "item": "productivetrees:buddhas_hand_stripped_log"
+    },
+    {
+      "item": "productivetrees:buddhas_hand_stripped_wood"
     }
   ],
   "result": {

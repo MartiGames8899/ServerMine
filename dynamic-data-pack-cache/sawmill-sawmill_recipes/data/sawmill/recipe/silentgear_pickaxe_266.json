@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:yellow_meranti_log"
+      "item": "productivetrees:kumquat_log"
     },
     {
-      "item": "productivetrees:yellow_meranti_wood"
+      "item": "productivetrees:kumquat_wood"
     },
     {
-      "item": "productivetrees:yellow_meranti_stripped_log"
+      "item": "productivetrees:kumquat_stripped_log"
     },
     {
-      "item": "productivetrees:yellow_meranti_stripped_wood"
+      "item": "productivetrees:kumquat_stripped_wood"
     }
   ],
   "result": {

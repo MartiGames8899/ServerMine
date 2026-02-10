@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "forbidden_arcanus:fungyss_stem"
+      "item": "productivetrees:satsuma_log"
     },
     {
-      "item": "forbidden_arcanus:fungyss_hyphae"
+      "item": "productivetrees:satsuma_wood"
+    },
+    {
+      "item": "productivetrees:satsuma_stripped_log"
+    },
+    {
+      "item": "productivetrees:satsuma_stripped_wood"
     }
   ],
   "result": {

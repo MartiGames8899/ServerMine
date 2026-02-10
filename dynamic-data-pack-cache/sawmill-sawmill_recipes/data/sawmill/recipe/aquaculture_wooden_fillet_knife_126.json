@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:butternut_log"
-    },
-    {
-      "item": "productivetrees:butternut_wood"
-    },
-    {
-      "item": "productivetrees:butternut_stripped_log"
-    },
-    {
-      "item": "productivetrees:butternut_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "aquaculture:wooden_fillet_knife",
     "count": 1

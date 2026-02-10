@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:mandarin_log"
+      "item": "biomeswevegone:pine_log"
     },
     {
-      "item": "productivetrees:mandarin_wood"
+      "item": "biomeswevegone:pine_wood"
     },
     {
-      "item": "productivetrees:mandarin_stripped_log"
+      "item": "biomeswevegone:stripped_pine_log"
     },
     {
-      "item": "productivetrees:mandarin_stripped_wood"
+      "item": "biomeswevegone:stripped_pine_wood"
     }
   ],
   "result": {

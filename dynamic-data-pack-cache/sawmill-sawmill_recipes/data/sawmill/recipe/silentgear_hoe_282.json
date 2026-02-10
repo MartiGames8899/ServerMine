@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "regions_unexplored:cypress_log"
+      "item": "allthemodium:soul_log"
     },
     {
-      "item": "regions_unexplored:cypress_wood"
-    },
-    {
-      "item": "regions_unexplored:stripped_cypress_log"
-    },
-    {
-      "item": "regions_unexplored:stripped_cypress_wood"
+      "item": "allthemodium:stripped_soul_log"
     }
   ],
   "result": {

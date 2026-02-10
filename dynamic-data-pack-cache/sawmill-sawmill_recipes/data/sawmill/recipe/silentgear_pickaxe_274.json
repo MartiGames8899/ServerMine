@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "biomeswevegone:ebony_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "biomeswevegone:ebony_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_ebony_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_ebony_wood"
     }
   ],
   "result": {

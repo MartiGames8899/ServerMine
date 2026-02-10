@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:transformation_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "twilightforest:transformation_wood"
-    },
-    {
-      "item": "twilightforest:stripped_transformation_log"
-    },
-    {
-      "item": "twilightforest:stripped_transformation_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

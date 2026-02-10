@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:citron_log"
+      "item": "biomeswevegone:jacaranda_log"
     },
     {
-      "item": "productivetrees:citron_wood"
+      "item": "biomeswevegone:jacaranda_wood"
     },
     {
-      "item": "productivetrees:citron_stripped_log"
+      "item": "biomeswevegone:stripped_jacaranda_log"
     },
     {
-      "item": "productivetrees:citron_stripped_wood"
+      "item": "biomeswevegone:stripped_jacaranda_wood"
     }
   ],
   "result": {

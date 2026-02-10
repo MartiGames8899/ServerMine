@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:great_sallow_log"
+      "item": "forbidden_arcanus:fungyss_stem"
     },
     {
-      "item": "productivetrees:great_sallow_wood"
-    },
-    {
-      "item": "productivetrees:great_sallow_stripped_log"
-    },
-    {
-      "item": "productivetrees:great_sallow_stripped_wood"
+      "item": "forbidden_arcanus:fungyss_hyphae"
     }
   ],
   "result": {
