@@ -229,14 +229,26 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "pine_taiga": "2026-02-11 23:07:11 +0000",
+      "bayou": "2026-02-11 23:12:23 +0000",
+      "temperate_grove": "2026-02-11 23:10:35 +0000",
       "golden_boreal_taiga": "2026-02-10 19:52:35 +0000",
-      "ancient_delta": "2026-02-10 20:17:39 +0000"
+      "old_growth_bayou": "2026-02-11 23:14:18 +0000",
+      "boreal_forest": "2026-02-11 22:55:54 +0000",
+      "ancient_delta": "2026-02-10 20:17:39 +0000",
+      "blackwood_taiga": "2026-02-11 22:52:39 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "golden_boreal_taiga": "2026-02-10 19:52:35 +0000"
+      "pine_taiga": "2026-02-11 23:07:11 +0000",
+      "bayou": "2026-02-11 23:12:23 +0000",
+      "temperate_grove": "2026-02-11 23:10:35 +0000",
+      "golden_boreal_taiga": "2026-02-10 19:52:35 +0000",
+      "old_growth_bayou": "2026-02-11 23:14:18 +0000",
+      "boreal_forest": "2026-02-11 22:55:54 +0000",
+      "blackwood_taiga": "2026-02-11 22:52:39 +0000"
     },
     "done": false
   },
@@ -272,15 +284,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2026-02-10 20:11:33 +0000"
+      "apple": "2026-02-11 23:00:00 +0000",
+      "bread": "2026-02-10 20:11:33 +0000",
+      "pumpkin_pie": "2026-02-11 22:56:05 +0000"
     },
     "done": false
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2026-02-10 20:15:55 +0000"
-    },
-    "done": true
   },
   "minecraft:story/smelt_iron": {
     "criteria": {
@@ -288,9 +296,214 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-02-10 20:15:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:spelunker": {
     "criteria": {
       "ancient_delta": "2026-02-10 20:17:39 +0000"
+    },
+    "done": false
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2026-02-11 22:42:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/true_traveler": {
+    "criteria": {
+      "swamp_village": "2026-02-11 23:18:27 +0000"
+    },
+    "done": false
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2026-02-11 23:15:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2026-02-11 23:18:12 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:maple_taiga": "2026-02-11 23:00:19 +0000",
+      "biomeswevegone:pumpkin_valley": "2026-02-11 23:27:48 +0000",
+      "biomeswevegone:cypress_swamplands": "2026-02-11 23:18:21 +0000",
+      "biomeswevegone:prairie": "2026-02-11 23:24:35 +0000",
+      "biomeswevegone:zelkova_forest": "2026-02-11 22:56:13 +0000",
+      "biomeswevegone:allium_shrubland": "2026-02-11 22:59:00 +0000",
+      "biomeswevegone:aspen_boreal": "2026-02-11 23:20:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-02-11 22:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2026-02-11 23:28:28 +0000",
+      "minecraft:skeleton": "2026-02-11 23:04:59 +0000",
+      "minecraft:witch": "2026-02-11 23:17:42 +0000",
+      "minecraft:spider": "2026-02-11 22:49:34 +0000",
+      "minecraft:zombie": "2026-02-11 23:05:41 +0000",
+      "minecraft:bogged": "2026-02-11 23:18:12 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2026-02-11 22:51:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2026-02-11 23:17:42 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2026-02-11 22:46:08 +0000",
+      "opened_chest": "2026-02-11 22:42:40 +0000"
+    },
+    "done": false
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "opened_50": "2026-02-11 23:26:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2026-02-11 23:17:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2026-02-11 22:50:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "opened_10": "2026-02-11 22:46:54 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "opened_25": "2026-02-11 22:55:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2026-02-11 22:46:08 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2026-02-11 22:58:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2026-02-11 22:59:47 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:progression/summit": {
+    "criteria": {
+      "rare_chest": "2026-02-11 23:01:10 +0000",
+      "rare_hand": "2026-02-11 23:01:05 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:progression/ascent": {
+    "criteria": {
+      "uncommon_chest": "2026-02-11 23:01:10 +0000",
+      "uncommon_hand": "2026-02-11 22:55:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-02-11 22:46:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:zelkova_forest": "2026-02-11 22:56:13 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2026-02-11 22:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2026-02-11 22:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_birch_forest": "2026-02-11 22:58:10 +0000",
+      "minecraft:old_growth_pine_taiga": "2026-02-11 22:46:37 +0000",
+      "minecraft:forest": "2026-02-11 22:59:13 +0000",
+      "minecraft:taiga": "2026-02-11 23:00:34 +0000",
+      "minecraft:windswept_forest": "2026-02-11 23:21:59 +0000",
+      "minecraft:sunflower_plains": "2026-02-11 23:26:09 +0000",
+      "minecraft:river": "2026-02-11 23:10:36 +0000",
+      "minecraft:swamp": "2026-02-11 23:12:25 +0000",
+      "minecraft:windswept_hills": "2026-02-11 23:22:07 +0000",
+      "minecraft:plains": "2026-02-11 23:25:04 +0000"
+    },
+    "done": false
+  },
+  "tombstone:recipe/enchanted_grave_key": {
+    "criteria": {
+      "has_ingredient": "2026-02-11 22:50:51 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/haven": {
+    "criteria": {
+      "affixed": "2026-02-11 22:43:02 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/frontier": {
+    "criteria": {
+      "common_hand": "2026-02-11 22:55:04 +0000",
+      "common_chest": "2026-02-11 23:01:10 +0000",
+      "common_feet": "2026-02-11 22:43:03 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_land_warm": "2026-02-11 23:26:13 +0000"
     },
     "done": false
   },
