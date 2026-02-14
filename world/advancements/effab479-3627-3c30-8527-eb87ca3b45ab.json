@@ -231,11 +231,17 @@
     "criteria": {
       "joshua_desert": "2026-02-12 22:29:23 +0000",
       "temperate_grove": "2026-02-11 23:10:35 +0000",
+      "deciduous_forest": "2026-02-14 01:36:41 +0000",
       "dry_bushland": "2026-02-12 22:29:54 +0000",
       "old_growth_bayou": "2026-02-11 23:14:18 +0000",
       "grassy_beach": "2026-02-12 22:05:26 +0000",
+      "redstone_abyss": "2026-02-14 01:59:26 +0000",
       "boreal_forest": "2026-02-11 22:55:54 +0000",
+      "glistering_meadow": "2026-02-14 01:59:33 +0000",
+      "grassland": "2026-02-14 01:39:31 +0000",
       "blackwood_taiga": "2026-02-11 22:52:39 +0000",
+      "rocky_meadow": "2026-02-14 01:25:42 +0000",
+      "mycotoxic_undergrowth": "2026-02-14 02:00:51 +0000",
       "pine_taiga": "2026-02-11 23:07:11 +0000",
       "bayou": "2026-02-11 23:12:23 +0000",
       "maple_forest": "2026-02-12 22:00:48 +0000",
@@ -251,11 +257,14 @@
     "criteria": {
       "joshua_desert": "2026-02-12 22:29:23 +0000",
       "temperate_grove": "2026-02-11 23:10:35 +0000",
+      "deciduous_forest": "2026-02-14 01:36:41 +0000",
       "dry_bushland": "2026-02-12 22:29:54 +0000",
       "old_growth_bayou": "2026-02-11 23:14:18 +0000",
       "grassy_beach": "2026-02-12 22:05:26 +0000",
       "boreal_forest": "2026-02-11 22:55:54 +0000",
+      "grassland": "2026-02-14 01:39:31 +0000",
       "blackwood_taiga": "2026-02-11 22:52:39 +0000",
+      "rocky_meadow": "2026-02-14 01:25:42 +0000",
       "pine_taiga": "2026-02-11 23:07:11 +0000",
       "bayou": "2026-02-11 23:12:23 +0000",
       "maple_forest": "2026-02-12 22:00:48 +0000",
@@ -380,7 +389,10 @@
       "minecraft:old_growth_pine_taiga": "2026-02-11 22:46:37 +0000",
       "minecraft:forest": "2026-02-11 22:59:13 +0000",
       "minecraft:taiga": "2026-02-11 23:00:34 +0000",
+      "minecraft:sparse_jungle": "2026-02-14 01:10:18 +0000",
       "minecraft:river": "2026-02-11 23:10:36 +0000",
+      "minecraft:lukewarm_ocean": "2026-02-14 01:24:08 +0000",
+      "minecraft:lush_caves": "2026-02-14 00:05:22 +0000",
       "minecraft:old_growth_birch_forest": "2026-02-11 22:58:10 +0000",
       "minecraft:desert": "2026-02-12 22:28:22 +0000",
       "minecraft:windswept_forest": "2026-02-11 23:21:59 +0000",
@@ -391,6 +403,7 @@
       "minecraft:windswept_hills": "2026-02-11 23:22:07 +0000",
       "minecraft:savanna": "2026-02-12 22:16:31 +0000",
       "minecraft:wooded_badlands": "2026-02-12 22:48:00 +0000",
+      "minecraft:bamboo_jungle": "2026-02-14 00:24:41 +0000",
       "minecraft:plains": "2026-02-11 23:25:04 +0000",
       "minecraft:warm_ocean": "2026-02-12 22:45:11 +0000"
     },
@@ -412,13 +425,22 @@
     "criteria": {
       "minecraft:pillager": "2026-02-11 23:28:28 +0000",
       "minecraft:skeleton": "2026-02-11 23:04:59 +0000",
+      "minecraft:zombified_piglin": "2026-02-14 02:08:22 +0000",
+      "minecraft:witch": "2026-02-11 23:17:42 +0000",
+      "minecraft:husk": "2026-02-12 22:28:38 +0000",
+      "minecraft:bogged": "2026-02-11 23:18:12 +0000",
+      "minecraft:hoglin": "2026-02-14 01:59:42 +0000",
+      "minecraft:cave_spider": "2026-02-14 00:06:23 +0000",
       "minecraft:vindicator": "2026-02-13 21:10:43 +0000",
       "minecraft:stray": "2026-02-13 21:04:50 +0000",
-      "minecraft:witch": "2026-02-11 23:17:42 +0000",
+      "minecraft:enderman": "2026-02-14 01:15:44 +0000",
+      "minecraft:silverfish": "2026-02-14 01:08:49 +0000",
       "minecraft:spider": "2026-02-11 22:49:34 +0000",
+      "minecraft:piglin_brute": "2026-02-14 01:56:46 +0000",
       "minecraft:zombie": "2026-02-11 23:05:41 +0000",
-      "minecraft:husk": "2026-02-12 22:28:38 +0000",
-      "minecraft:bogged": "2026-02-11 23:18:12 +0000"
+      "minecraft:creeper": "2026-02-14 01:47:39 +0000",
+      "minecraft:drowned": "2026-02-14 01:29:43 +0000",
+      "minecraft:zombie_villager": "2026-02-13 23:59:10 +0000"
     },
     "done": false
   },
@@ -450,11 +472,12 @@
     "criteria": {
       "uncommon_chest": "2026-02-11 23:01:10 +0000",
       "uncommon_legs": "2026-02-13 20:47:31 +0000",
+      "kill_apothic_invader": "2026-02-14 00:03:28 +0000",
       "uncommon_hand": "2026-02-11 22:55:04 +0000",
       "uncommon_helm": "2026-02-12 21:59:40 +0000",
       "uncommon_feet": "2026-02-13 21:10:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "lootr:25loot": {
     "criteria": {
@@ -464,13 +487,19 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:redwood_thicket": "2026-02-14 01:36:49 +0000",
+      "biomeswevegone:ironwood_gour": "2026-02-14 01:23:08 +0000",
+      "biomeswevegone:crag_gardens": "2026-02-13 23:58:14 +0000",
+      "biomeswevegone:amaranth_grassland": "2026-02-13 23:57:42 +0000",
+      "biomeswevegone:weeping_witch_forest": "2026-02-14 00:04:57 +0000",
+      "biomeswevegone:allium_shrubland": "2026-02-11 22:59:00 +0000",
       "biomeswevegone:sierra_badlands": "2026-02-12 22:41:17 +0000",
       "biomeswevegone:maple_taiga": "2026-02-11 23:00:19 +0000",
       "biomeswevegone:pumpkin_valley": "2026-02-11 23:27:48 +0000",
+      "biomeswevegone:tropical_rainforest": "2026-02-13 23:58:32 +0000",
       "biomeswevegone:cypress_swamplands": "2026-02-11 23:18:21 +0000",
       "biomeswevegone:prairie": "2026-02-11 23:24:35 +0000",
       "biomeswevegone:zelkova_forest": "2026-02-11 22:56:13 +0000",
-      "biomeswevegone:allium_shrubland": "2026-02-11 22:59:00 +0000",
       "biomeswevegone:forgotten_forest": "2026-02-12 22:00:35 +0000",
       "biomeswevegone:aspen_boreal": "2026-02-11 23:20:41 +0000"
     },
@@ -498,7 +527,9 @@
     "criteria": {
       "rare_chest": "2026-02-11 23:01:10 +0000",
       "rare_hand": "2026-02-11 23:01:05 +0000",
-      "rare_legs": "2026-02-13 20:47:31 +0000"
+      "rare_legs": "2026-02-13 20:47:31 +0000",
+      "rare_helm": "2026-02-14 02:28:09 +0000",
+      "rare_feet": "2026-02-14 02:28:38 +0000"
     },
     "done": false
   },
@@ -688,15 +719,152 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "opened_100": "2026-02-13 20:13:18 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2026-02-13 21:11:44 +0000"
     },
     "done": true
   },
-  "lootr:100loot": {
+  "apothic_enchanting:enchanter": {
     "criteria": {
-      "opened_100": "2026-02-13 20:13:18 +0000"
+      "enchanting_table": "2026-02-14 00:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2026-02-14 02:00:54 +0000",
+      "minecraft:warped_forest": "2026-02-14 01:55:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-02-14 01:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-02-14 01:25:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2026-02-14 02:00:51 +0000",
+      "redstone_abyss": "2026-02-14 01:59:26 +0000",
+      "glistering_meadow": "2026-02-14 01:59:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2026-02-14 00:58:31 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2026-02-14 02:29:10 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/pinnacle": {
+    "criteria": {
+      "epic_legs": "2026-02-14 01:57:14 +0000",
+      "epic_hand": "2026-02-14 01:50:08 +0000",
+      "epic_helm": "2026-02-14 02:28:09 +0000",
+      "epic_chest": "2026-02-14 01:58:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2026-02-14 02:15:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2026-02-14 02:38:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2026-02-14 01:37:24 +0000",
+      "silicon": "2026-02-14 01:37:28 +0000",
+      "engineering": "2026-02-14 01:37:19 +0000",
+      "logic": "2026-02-14 01:37:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_leggings": "2026-02-14 01:03:47 +0000",
+      "fiery_pick": "2026-02-14 01:21:07 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:challenge_gatekeeper": {
+    "criteria": {
+      "challenged": "2026-02-14 01:17:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "structure_found": "2026-02-14 01:11:43 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_jungle": "2026-02-14 01:32:50 +0000",
+      "in_pyramid_nether": "2026-02-14 02:06:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-02-14 01:55:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2026-02-14 01:29:43 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2026-02-14 01:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-02-14 00:44:02 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2026-02-14 01:19:35 +0000"
+    },
+    "done": false
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2026-02-14 01:55:02 +0000"
     },
     "done": true
   },
