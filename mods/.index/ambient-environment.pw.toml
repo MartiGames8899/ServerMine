@@ -1,0 +1,17 @@
+filename = 'AmbientEnvironment-forge-1.20.1-11.0.0.1.jar'
+name = 'Ambient Environment'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'AmbientEnvironment-forge-1.20.1-11.0.0.1.jar'
+
+[download]
+hash = '03c839b24e5a19f8225400be354f8ffd9572e47f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4598390
+project-id = 320163

@@ -1,0 +1,17 @@
+filename = 'set_things_up-1.0.jar'
+name = 'Set Things Up '
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'set things up'
+
+[download]
+hash = 'aaa861a0bb796e5738116f62a2089556945a961f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7454589
+project-id = 1426274

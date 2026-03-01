@@ -1,0 +1,17 @@
+filename = 'DynamicTreesRU-1.20.1-1.0.1.jar'
+name = 'Dynamic Trees - Regions Unexplored'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'DynamicTreesRU-1.20.1-1.0.1.jar'
+
+[download]
+hash = '083b5bfd85924e9e7aaf65535d776dab3bebc128'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6658693
+project-id = 1157051

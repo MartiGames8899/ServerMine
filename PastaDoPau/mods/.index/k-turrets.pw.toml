@@ -1,0 +1,17 @@
+filename = 'K-Turrets-3.0.44-1.20.1.jar'
+name = 'K-Turrets'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'K-Turrets-3.0.44-1.20.1.jar'
+
+[download]
+hash = '229e0e20886c9273b794b9ca525832797333c582'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7415745
+project-id = 536437

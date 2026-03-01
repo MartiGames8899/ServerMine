@@ -1,0 +1,17 @@
+filename = 'flan-1.20.1-1.11.15-forge.jar'
+name = 'Flan (Forge, NeoForge)'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'flan-1.20.1-1.11.15-forge.jar'
+
+[download]
+hash = 'dab59a6cc1c542ebc81669947311c6fa36c40260'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6989323
+project-id = 493246

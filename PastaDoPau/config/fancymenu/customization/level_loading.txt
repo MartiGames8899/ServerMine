@@ -1,0 +1,34 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = net.minecraft.client.gui.screens.LevelLoadingScreen
+  render_custom_elements_behind_vanilla = false
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+}
+
+customization {
+  action = setscale
+  scale = 1.0
+}
+
+menu_background {
+  image_path = [source:local]/config/fancymenu/assets/world_loading_bg.png
+  slide = false
+  repeat_texture = false
+  background_type = image
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+vanilladeepcustomizationelement {
+  element_type = vanilla_button
+  vanillaelement_identifier = branding
+  is_hidden = true
+}

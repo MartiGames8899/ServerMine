@@ -1,0 +1,17 @@
+filename = 'RapidLeafDecay-1.20.1-2.0.2.jar'
+name = 'Rapid Leaf Decay'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Rapid Leaf Decay 1.20.1-2.0.2'
+
+[download]
+hash = 'b364543e2a2609608d69b9c957be554c5ac58486'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4628710
+project-id = 396847

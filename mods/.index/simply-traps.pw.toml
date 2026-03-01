@@ -1,0 +1,17 @@
+filename = 'simply_traps-1.7-forge-1.20.1.jar'
+name = 'Simply Traps'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'simply_traps-1.7-forge-1.20.1.jar'
+
+[download]
+hash = '8d549b3c83fdcfcf43c09828499eb65e2bf01a6c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6980501
+project-id = 1172014

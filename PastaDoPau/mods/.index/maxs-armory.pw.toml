@@ -1,0 +1,17 @@
+filename = 'max_armory-1.3.0-forge-1.20.1.jar'
+name = "Max's Armory"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'max_armory-1.3.0-forge-1.20.1.jar'
+
+[download]
+hash = '939ad2e406ce98e442a71827d5e2ee8f1c0f31e9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7095405
+project-id = 846574

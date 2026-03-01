@@ -1,0 +1,17 @@
+filename = 'FazRoleplayClothes-1.20.1-2.4.jar'
+name = "Faz's Roleplay Clothes"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'FazRoleplayClothes-1.20.1-2.4.jar'
+
+[download]
+hash = '64ef59203d33efd35e7fb4ceb787d7543fb25ee0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7518655
+project-id = 1250026

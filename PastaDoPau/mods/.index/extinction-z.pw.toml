@@ -1,0 +1,17 @@
+filename = 'Extinction Z 1.20.1 1.1.3.jar'
+name = 'Extinction Z'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Extinction Z 1.20.1 1.1.3'
+
+[download]
+hash = '8ba9e15e73e395d166aef1fa6c3074739655e3f2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7004322
+project-id = 1056956

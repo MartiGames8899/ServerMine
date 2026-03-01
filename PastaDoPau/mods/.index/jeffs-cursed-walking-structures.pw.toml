@@ -1,0 +1,17 @@
+filename = 'jeffs_cursed_walking_structures-3.3.0-forge-1.20.1.jar'
+name = "Jeff's Cursed Walking Structures"
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[NIGHTMARE] jeffs_cursed_walking_structures-3.3.0-forge-1.20.1.jar'
+
+[download]
+hash = '7dd812f2af8bb061479326af13eafb9a1ce5df1b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7408541
+project-id = 1140880

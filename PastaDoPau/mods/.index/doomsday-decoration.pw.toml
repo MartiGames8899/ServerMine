@@ -1,0 +1,17 @@
+filename = 'doomsday_decoration-1.1.3-forge-1.20.1.jar'
+name = 'Doomsday Decoration'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'doomsday_decoration-1.1.3-forge-1.20.1.jar'
+
+[download]
+hash = 'b5250979fb0c79e8ea93742bfab9c67d4a886cad'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6781856
+project-id = 1180487

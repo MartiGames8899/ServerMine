@@ -1,0 +1,17 @@
+filename = 'DynamicTreesCroptopia-1.20.1-1.0.0.jar'
+name = 'Dynamic Trees - Croptopia '
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'DynamicTreesCroptopia-1.20.1-1.0.0'
+
+[download]
+hash = '35ff86489685ed401b2e9e961e87b3e8efc08d01'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6090656
+project-id = 1168636

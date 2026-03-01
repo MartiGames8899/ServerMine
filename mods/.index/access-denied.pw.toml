@@ -1,0 +1,17 @@
+filename = 'access_denied-6.2.1.jar'
+name = 'Access Denied'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge] 1.20.1-6.2.1 | Access Denied'
+
+[download]
+hash = '360a8db3442149929dcef5c0dd57613466515a28'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7193940
+project-id = 917449

@@ -1,0 +1,17 @@
+filename = 'PhilipsRuins1.20.1-5.7.jar'
+name = "Philip's Ruins"
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'PhilipsRuins1.20.1-5.7'
+
+[download]
+hash = '2b5ca7b5adc7feb6721ce6406fcd903e4c382c38'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7024377
+project-id = 569737

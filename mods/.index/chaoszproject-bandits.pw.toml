@@ -1,0 +1,17 @@
+filename = 'chaoszproject-bandits-1.0.0-1.20.1.jar'
+name = "ChaosZProject: Bandits! - Pillager's Gun Addon"
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ChaosZProject-Bandits-1.0.0-1.20.1.jar'
+
+[download]
+hash = 'ec58a560dca01c292a2c946470d8ebaebec94932'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6562409
+project-id = 1272684

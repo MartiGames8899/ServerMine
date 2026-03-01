@@ -1,0 +1,17 @@
+filename = 'psg-5.7.0d-forge-1.20.1.jar'
+name = "Potassium 'n' Sulfur's Gunpowder (PSG)"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'psg-5.7.0d-forge-1.20.1'
+
+[download]
+hash = '6dc65ec8d857e2ce1ad5de4bdc51326a9c687b68'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7170300
+project-id = 554210

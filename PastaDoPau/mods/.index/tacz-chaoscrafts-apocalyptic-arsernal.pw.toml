@@ -1,0 +1,17 @@
+filename = 'apocalypticarsenal-1.0.1.jar'
+name = "[TaCZ] ChaosCraft's Apocalyptic Arsernal"
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "ChaosCraft's Apocalyptic Arsernal v.1.0.1"
+
+[download]
+hash = '40f0651e7da145857ade6aca25051a7058c4dfc7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6916053
+project-id = 1326391

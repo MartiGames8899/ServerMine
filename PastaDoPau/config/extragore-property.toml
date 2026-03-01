@@ -1,0 +1,385 @@
+# ExtraGore Particle Group Configuration
+# ------------------------------------------------------
+# This file enables the creation of custom blood particle properties for various entities.
+# Begin by uniquely naming each property group to effectively manage different settings.
+
+# Particle Behavior Options:
+# - Bounce: The particle will bounce off surfaces like a solid object.
+# - Stick: The particle will stick to walls and other surfaces.
+# - Magic: Some particles will fall to the ground while the majority will fly up to the sky.
+# - None: The particle won't have any special effects.
+
+# Particle Weight Options:
+# - Heavy: The particle will sink to the bottom when it's underwater.
+# - Light: The particle will float up to the top of the water.
+
+# Particle State Options:
+# - Liquid: The particle will get larger during its lifetime.
+# - Solid: The particle will remain the same size all the time.
+
+# Color Settings:
+# Set an RGB color value to visually distinguish particles for various entities.
+
+# How to Use:
+# 1. Define a group with a name, including behavior, weight, state, color and entity values.
+# 2. Example:
+#    ["Color Group Name"]
+#    behavior = Choose from "Stuck", "Bounce" or "None"
+#    weight = Choose from "Heavy" or "Light"
+#    state = Choose from "Liquid" or "Solid"
+#    color = "R,G,B"
+#    entities = ["entityID1", "entityID2"]
+# 3. You can modify or delete any predefined groups, except for the red group. The red group is non editable and serves only to show you unused entities which are compatible with different color groups.
+# 4. Add your custom color groups under an already predefined group, except for the red one.
+# 5. Ensure each color group has a unique name and is properly structured.
+
+# Note: Incorrectly formatted lines or unrecognized entity IDs will be ignored.
+# ------------------------------------------------------
+
+["Violet Group"]
+behavior = "Magic"
+weight = "Light"
+state = "Liquid"
+color = "128,0,128"
+entities = ["minecraft:enderman", "minecraft:endermite", "minecraft:phantom", "minecraft:shulker", "minecraft:silverfish", "minecraft:warden", "minecraft:ender_dragon"]
+
+["White Group"]
+behavior = "Bounce"
+weight = "Heavy"
+state = "Solid"
+color = "255,255,255"
+entities = ["minecraft:skeleton", "minecraft:ghast", "minecraft:iron_golem", "minecraft:skeleton_horse", "minecraft:snow_golem", "minecraft:stray", "minecraft:vex", "minecraft:wither_skeleton", "minecraft:allay", "minecraft:wither"]
+
+["Green Group"]
+behavior = "Stuck"
+weight = "Light"
+state = "Liquid"
+color = "0,255,0"
+entities = ["minecraft:cave_spider", "minecraft:creeper", "minecraft:slime", "minecraft:spider", "minecraft:witch"]
+
+["Yellow Group"]
+behavior = "Bounce"
+weight = "Heavy"
+state = "Solid"
+color = "255,255,0"
+entities = ["minecraft:blaze", "minecraft:magma_cube", "minecraft:strider"]
+
+["Blue Group"]
+behavior = "None"
+weight = "Light"
+state = "Liquid"
+color = "0,0,255"
+entities = ["minecraft:squid", "minecraft:elder_guardian", "minecraft:guardian", "minecraft:glow_squid"]
+
+# Auto generated red color group - do not edit. Use this as reference for unused entity IDs.
+"255,0,0" = [
+    "jeffs_cursed_walking_structures:mutated_spawner_placer",
+    "alexsmobs:snow_leopard",
+    "alexsmobs:seal",
+    "alexsmobs:roadrunner",
+    "alexsmobs:laviathan",
+    "minecraft:trader_llama",
+    "jeffs_cursed_walking_structures:bunker_spawner_placer",
+    "apocalypsenow:soldiers_02",
+    "alexsmobs:endergrade",
+    "minecraft:horse",
+    "minecraft:llama",
+    "alexsmobs:maned_wolf",
+    "mutantszombies:split_head_zombie",
+    "extinction:infected_police",
+    "alexsmobs:skreecher",
+    "minecraft:tadpole",
+    "minecraft:dolphin",
+    "apocalypsenow:rat",
+    "alexsmobs:gelada_monkey",
+    "apocalypsenow:hunter",
+    "alexsmobs:hammerhead_shark",
+    "alexsmobs:dropbear",
+    "alexsmobs:tiger",
+    "alexsmobs:grizzly_bear",
+    "alexsmobs:murmur_head",
+    "extinction:runner",
+    "minecraft:bee",
+    "alexsmobs:devils_hole_pupfish",
+    "minecraft:illusioner",
+    "max_armory:east_soldier",
+    "jeffsgibbing:gib_head_entity",
+    "minecraft:mooshroom",
+    "alexsmobs:bison",
+    "minecraft:drowned",
+    "minecraft:axolotl",
+    "jeffsgibbing:gib_leg_entity",
+    "alexsmobs:gorilla",
+    "alexsmobs:tusklin",
+    "alexsmobs:cosmic_cod",
+    "apocalypsenow:horde_2",
+    "apocalypsenow:horde_3",
+    "apocalypsenow:horde_4",
+    "alexsmobs:underminer",
+    "apocalypsenow:horde_5",
+    "apocalypsenow:horde_1",
+    "extinction:soldier_clicker",
+    "minecraft:wandering_trader",
+    "extinction:patient_zero",
+    "alexsmobs:kangaroo",
+    "ecologics:coconut_crab",
+    "extinction:patient_zero_i",
+    "bloomingnature:termite",
+    "mutantszombies:mutant_brute",
+    "alexsmobs:hummingbird",
+    "mutantmonsters:mutant_zombie",
+    "extinction:infected_hazmat",
+    "dreamcaslib:seismic_wave",
+    "hordes:drowned_player",
+    "alexsmobs:crow",
+    "apocalypsenow:soldiers",
+    "alexsmobs:guster",
+    "minecraft:pufferfish",
+    "minecraft:fox",
+    "immersiveengineering:bulwark",
+    "bloomingnature:wandering_gardener",
+    "alexsmobs:warped_toad",
+    "minecraft:chicken",
+    "alexsmobs:giant_squid",
+    "minecraft:zombie",
+    "immersiveengineering:fusilier",
+    "alexsmobs:emu",
+    "alexsmobs:cockroach",
+    "superbwarfare:senpai",
+    "apocalypsenow:looter_3",
+    "extinction:mercenary",
+    "apocalypsenow:looter_4",
+    "apocalypsenow:looter_5",
+    "alexsmobs:flutter",
+    "apocalypsenow:looter_1",
+    "minecraft:hoglin",
+    "apocalypsenow:looter_2",
+    "alexsmobs:capuchin_monkey",
+    "hordes:husk_player",
+    "apocalypsenow:walker_3",
+    "minecraft:polar_bear",
+    "apocalypsenow:walker_2",
+    "apocalypsenow:walker_5",
+    "apocalypsenow:walker_4",
+    "minecraft:zombified_piglin",
+    "apocalypsenow:walker_1",
+    "dweller_dweller:ominous_presence",
+    "minecraft:turtle",
+    "apocalypsenow:walker_7",
+    "minecraft:sheep",
+    "apocalypsenow:walker_6",
+    "apocalypsenow:walker_9",
+    "apocalypsenow:walker_8",
+    "alexsmobs:rattlesnake",
+    "jeffsgibbing:villager_ash",
+    "jeffsgibbing:skelington",
+    "alexsmobs:bone_serpent_part",
+    "extinction:goon",
+    "alexsmobs:raccoon",
+    "minecraft:ravager",
+    "alexsmobs:bone_serpent",
+    "alexsmobs:potoo",
+    "alexsmobs:fly",
+    "alexsmobs:straddler",
+    "alexsmobs:sea_bear",
+    "extinction:boomer",
+    "dweller_dweller:dweller_dweller",
+    "alexsmobs:mudskipper",
+    "alexsmobs:sugar_glider",
+    "mutantszombies:zombie_brute",
+    "alexsmobs:crimson_mosquito",
+    "alexsmobs:orca",
+    "extinction:infected_mutated",
+    "decoration_delight:stool_entity",
+    "alexsmobs:jerboa",
+    "minecraft:bat",
+    "alexsmobs:cosmaw",
+    "alexsmobs:comb_jelly",
+    "jeffsgibbing:ash",
+    "apocalypsenow:runner_39",
+    "apocalypsenow:runner_38",
+    "apocalypsenow:runner_37",
+    "railways:conductor",
+    "apocalypsenow:runner_36",
+    "apocalypsenow:runner_35",
+    "apocalypsenow:runner_34",
+    "apocalypsenow:crawler_3",
+    "apocalypsenow:survivor_10",
+    "apocalypsenow:crawler_2",
+    "apocalypsenow:crawler_4",
+    "apocalypsenow:crawler_1",
+    "apocalypsenow:cockroach",
+    "extinction:stalker_ii",
+    "alexsmobs:skunk",
+    "alexsmobs:enderiophage",
+    "apocalypsenow:runner_49",
+    "apocalypsenow:runner_48",
+    "alexsmobs:sunbird",
+    "apocalypsenow:runner_43",
+    "apocalypsenow:runner_42",
+    "apocalypsenow:runner_41",
+    "alexsmobs:tasmanian_devil",
+    "apocalypsenow:runner_40",
+    "apocalypsenow:runner_47",
+    "apocalypsenow:runner_46",
+    "apocalypsenow:runner_45",
+    "apocalypsenow:runner_44",
+    "minecraft:cat",
+    "alexsmobs:stradpole",
+    "apocalypsenow:runner_50",
+    "ecologics:penguin",
+    "minecraft:tropical_fish",
+    "apocalypsenow:runner_54",
+    "apocalypsenow:runner_53",
+    "apocalypsenow:runner_52",
+    "minecraft:panda",
+    "minecraft:zombie_villager",
+    "apocalypsenow:runner_51",
+    "apocalypsenow:runner_57",
+    "apocalypsenow:runner_56",
+    "apocalypsenow:runner_55",
+    "alexsmobs:froststalker",
+    "jeffs_cursed_walking_structures:warehouse_spawner_placer",
+    "minecraft:giant",
+    "alexsmobs:lobster",
+    "alexsmobs:seagull",
+    "alexsmobs:moose",
+    "alexsmobs:shoebill",
+    "alexsmobs:farseer",
+    "alexsmobs:warped_mosco",
+    "immersiveengineering:commando",
+    "hordes:zombie_player",
+    "jeffs_cursed_walking_structures:hazmat_spawner_placer",
+    "minecraft:husk",
+    "extinction:infected_riot_gear",
+    "jeffsgibbing:flesh_3",
+    "jeffsgibbing:flesh_2",
+    "alexsmobs:komodo_dragon",
+    "minecraft:donkey",
+    "jeffs_cursed_walking_structures:nomorewaterlogging",
+    "mutantmonsters:mutant_skeleton",
+    "minecraft:piglin_brute",
+    "extinction:traveler",
+    "superbwarfare:target",
+    "alexsmobs:crocodile",
+    "jeffs_cursed_walking_structures:spawnpoint_entity",
+    "apocalypsenow:military_medic",
+    "alexsmobs:triops",
+    "alexsmobs:rhinoceros",
+    "alexsmobs:frilled_shark",
+    "mutantszombies:crawler",
+    "alexsmobs:bald_eagle",
+    "extinction:soldier",
+    "alexsmobs:blobfish",
+    "ecologics:squirrel",
+    "alexsmobs:mimicube",
+    "alexsmobs:void_worm",
+    "dreamcaslib:impact_wave",
+    "minecraft:parrot",
+    "max_armory:esat_officer",
+    "alexsmobs:centipede_head",
+    "jeffsgibbing:flesh_entity",
+    "minecraft:frog",
+    "warrior:warrior",
+    "alexsmobs:banana_slug",
+    "mutantmonsters:mutant_creeper",
+    "alexsmobs:mimic_octopus",
+    "alexsmobs:bunfungus",
+    "alexsmobs:void_worm_part",
+    "minecraft:mule",
+    "minecraft:vindicator",
+    "alexsmobs:flying_fish",
+    "mutantszombies:blister_zombie",
+    "minecraft:evoker",
+    "alexsmobs:tarantula_hawk",
+    "alexsmobs:cachalot_whale",
+    "jeffs_cursed_walking_structures:driller",
+    "jeffsgibbing:ribs",
+    "apocalypsenow:walker_29",
+    "apocalypsenow:walker_28",
+    "apocalypsenow:walker_27",
+    "apocalypsenow:walker_26",
+    "apocalypsenow:walker_25",
+    "apocalypsenow:walker_24",
+    "apocalypsenow:walker_23",
+    "apocalypsenow:walker_22",
+    "apocalypsenow:walker_21",
+    "apocalypsenow:walker_20",
+    "alexsmobs:terrapin",
+    "alexsmobs:anaconda",
+    "minecraft:pig",
+    "alexsmobs:alligator_snapping_turtle",
+    "extinction:infected_bear",
+    "apocalypsenow:walker_33",
+    "apocalypsenow:walker_32",
+    "apocalypsenow:walker_31",
+    "apocalypsenow:walker_30",
+    "minecraft:goat",
+    "mutantmonsters:mutant_enderman",
+    "minecraft:cod",
+    "alexsmobs:mantis_shrimp",
+    "jeffsgibbing:asmd_combo",
+    "alexsmobs:platypus",
+    "mutantmonsters:spider_pig",
+    "extinction:hunter",
+    "minecraft:cow",
+    "alexsmobs:rocky_roller",
+    "alexsmobs:soul_vulture",
+    "apocalypsenow:survivor_5",
+    "apocalypsenow:survivor_4",
+    "apocalypsenow:survivor_3",
+    "apocalypsenow:survivor_2",
+    "alexsmobs:blue_jay",
+    "apocalypsenow:survivor_1",
+    "alexsmobs:toucan",
+    "minecraft:salmon",
+    "apocalypsenow:walker_19",
+    "apocalypsenow:walker_18",
+    "apocalypsenow:walker_17",
+    "apocalypsenow:survivor_9",
+    "apocalypsenow:walker_16",
+    "apocalypsenow:survivor_8",
+    "apocalypsenow:walker_15",
+    "extinction:parasite",
+    "apocalypsenow:survivor_7",
+    "apocalypsenow:walker_14",
+    "apocalypsenow:survivor_6",
+    "apocalypsenow:walker_13",
+    "apocalypsenow:walker_12",
+    "apocalypsenow:walker_11",
+    "alexsmobs:anteater",
+    "apocalypsenow:walker_10",
+    "alexsmobs:rain_frog",
+    "extinction:stalker",
+    "minecraft:rabbit",
+    "tacz_npc:bandit",
+    "minecraft:pillager",
+    "alexsmobs:murmur",
+    "minecraft:zoglin",
+    "mutantszombies:rotten_mutant",
+    "alexsmobs:leafcutter_ant",
+    "alexsmobs:mungus",
+    "alexsmobs:caiman",
+    "alexsmobs:spectre",
+    "extinction:fallen_survivor",
+    "alexsmobs:catfish",
+    "mutantmonsters:endersoul_clone",
+    "minecraft:piglin",
+    "mutantszombies:spitter",
+    "alexsmobs:skelewag",
+    "extinction:infected_soldier",
+    "alexsmobs:elephant",
+    "apocalypsenow:military_02",
+    "apocalypsenow:military_01",
+    "alexsmobs:gazelle",
+    "minecraft:sniffer",
+    "minecraft:zombie_horse",
+    "minecraft:camel",
+    "apocalypsenow:cannibal",
+    "superbwarfare:dps_generator",
+    "jeffs_cursed_walking_structures:soldier_spawner_placer",
+    "minecraft:ocelot",
+    "jeffsgibbing:bone_entity",
+    "minecraft:wolf",
+    "extinction:runner_ii"
+]

@@ -1,0 +1,130 @@
+
+[survivor]
+	#Survivor max health
+	#Range: 10.0 ~ 200.0
+	maxHealth = 30.0
+	#Survivor movement speed
+	#Range: 0.1 ~ 1.0
+	moveSpeed = 0.3
+	#Survivor base attack damage
+	#Range: 1.0 ~ 50.0
+	attackDamage = 4.0
+	#HP % below which survivor is considered injured
+	#Range: 0.1 ~ 0.9
+	injuryThreshold = 0.4
+	#Ticks between dialogue lines
+	#Range: 40 ~ 2400
+	dialogueCooldown = 200
+	#Ticks between radio broadcasts
+	#Range: 200 ~ 6000
+	radioCooldown = 1200
+	#Ticks before hunger warnings
+	#Range: 6000 ~ 72000
+	hungerStarveTicks = 24000
+
+[combat]
+	#Ticks between medic injured-ally scans
+	#Range: 5 ~ 60
+	medicScanInterval = 10
+	#Range to scan for injured allies
+	#Range: 4.0 ~ 32.0
+	medicHealRange = 12.0
+	#Range cowards detect threats
+	#Range: 8.0 ~ 32.0
+	cowardThreatRange = 16.0
+	#Ticks between formation updates
+	#Range: 5 ~ 40
+	formationScanInterval = 10
+
+[radio]
+	#Base radio broadcast range in blocks
+	#Range: 16 ~ 256
+	baseRange = 64
+	#Radio range with tower boost
+	#Range: 64 ~ 512
+	towerRange = 200
+	#Maximum stored radio messages
+	#Range: 10 ~ 200
+	maxMessages = 50
+
+[power]
+	#Maximum blocks in a power network BFS
+	#Range: 32 ~ 1024
+	maxNetworkSize = 256
+	#Maximum Manhattan distance for power BFS
+	#Range: 16 ~ 256
+	maxSearchDistance = 64
+	#Maximum blocks in a water network BFS
+	#Range: 16 ~ 512
+	waterMaxNetworkSize = 128
+	#Maximum Manhattan distance for water BFS
+	#Range: 16 ~ 128
+	waterMaxSearchDistance = 48
+
+[siege]
+	#Default siege radius
+	#Range: 20 ~ 200
+	defaultRadius = 60
+	#Maximum breach points per siege
+	#Range: 1 ~ 20
+	maxBreachPoints = 5
+
+[bio]
+	#Maximum mutations per survivor
+	#Range: 1 ~ 20
+	maxMutations = 5
+	#Ticks between mutation effect applications
+	#Range: 5 ~ 100
+	tickInterval = 20
+	#Toxic blood effect range
+	#Range: 1.0 ~ 10.0
+	toxicBloodRange = 3.0
+	#Toxic blood damage per tick
+	#Range: 0.5 ~ 10.0
+	toxicBloodDamage = 1.0
+
+[blocks]
+	#Spike trap damage to monsters
+	#Range: 1.0 ~ 20.0
+	spikeDamage = 6.0
+	#Electric fence damage
+	#Range: 1.0 ~ 20.0
+	fenceDamage = 6.0
+	#Alarm bell survivor scan range
+	#Range: 16 ~ 128
+	alarmBellRange = 50
+	#Watch tower threat scan range
+	#Range: 10 ~ 64
+	watchTowerScanRange = 30
+	#Watch tower NPC buff range
+	#Range: 5 ~ 48
+	watchTowerBuffRange = 20
+	#Watch tower scan interval in ticks
+	#Range: 10 ~ 100
+	watchTowerScanInterval = 40
+	#Razor wire damage to monsters
+	#Range: 0.5 ~ 20.0
+	razorWireMonsterDamage = 3.0
+	#Razor wire damage to players
+	#Range: 0.5 ~ 10.0
+	razorWirePlayerDamage = 1.0
+	#Razor wire damage to other entities
+	#Range: 0.5 ~ 10.0
+	razorWireOtherDamage = 2.0
+
+[items]
+	#Signal flare rally range
+	#Range: 20 ~ 256
+	signalFlareRange = 100
+	#PDA block scan range
+	#Range: 16 ~ 64
+	pdaScanRange = 32
+
+[betrayal]
+	#Ticks between betrayal attempts
+	#Range: 6000 ~ 72000
+	cooldown = 24000
+	#Betrayal target search range
+	#Range: 10.0 ~ 64.0
+	searchRange = 30.0
+
