@@ -1,53 +1,49 @@
-[01Mar2026 21:48:37.973] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.16, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[01Mar2026 21:48:37.980] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 25.0.1 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
-[01Mar2026 21:48:39.727] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[01Mar2026 21:48:39.769] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/ServerMine/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[01Mar2026 21:48:40.673] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at C:\ServerMine\mods} returned 2 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
-[01Mar2026 21:48:40.754] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\ServerMine\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.16\fmlcore-1.20.1-47.4.16.jar is missing mods.toml file
-[01Mar2026 21:48:40.756] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\ServerMine\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.16\javafmllanguage-1.20.1-47.4.16.jar is missing mods.toml file
-[01Mar2026 21:48:40.759] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\ServerMine\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.16\lowcodelanguage-1.20.1-47.4.16.jar is missing mods.toml file
-[01Mar2026 21:48:40.762] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\ServerMine\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.16\mclanguage-1.20.1-47.4.16.jar is missing mods.toml file
-[01Mar2026 21:48:41.770] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 60 dependencies adding them to mods collection
-[01Mar2026 21:48:42.122] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
-[01Mar2026 21:48:42.141] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
-[01Mar2026 21:48:42.149] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
-[01Mar2026 21:48:42.154] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory C:\ServerMine\mods\scripts as it did not exist.
-[01Mar2026 21:48:42.161] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
-[01Mar2026 21:48:42.712] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Found version metadata from piston-meta.
-[01Mar2026 21:48:42.756] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: version.json is up to date.
-[01Mar2026 21:48:43.131] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Official mappings are up to date.
-[01Mar2026 21:48:43.434] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: MCPConfig is up to date.
-[01Mar2026 21:48:44.615] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 2450ms
-[01Mar2026 21:48:44.615] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
-[01Mar2026 21:48:45.980] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[01Mar2026 21:48:45.993] [main/ERROR] [mixin/]: Mixin config gamemenuremovegfarb-common.mixins.json does not specify "minVersion" property
-[01Mar2026 21:48:46.010] [main/ERROR] [mixin/]: Mixin config combatlog-forge.mixins.json does not specify "minVersion" property
-[01Mar2026 21:48:46.171] [main/ERROR] [mixin/]: Mixin config scaling_mobs.mixin.json does not specify "minVersion" property
-[01Mar2026 21:48:46.238] [main/ERROR] [mixin/]: Mixin config yacl.mixins.json does not specify "minVersion" property
-[01Mar2026 21:48:46.286] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[01Mar2026 21:48:46.288] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [mcinterface1201.mixin.MixinConnector]
-[01Mar2026 21:48:46.289] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[01Mar2026 21:48:46.368] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.26.2+mc1.20.1: 98 options available, 9 override(s) found
-[01Mar2026 21:48:46.369] [main/WARN] [ModernFix/]: Option 'mixin.perf.smart_ingredient_sync' overriden (by mods [crafttweaker]) to 'false'
-[01Mar2026 21:48:46.370] [main/WARN] [ModernFix/]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
-[01Mar2026 21:48:46.370] [main/WARN] [ModernFix/]: Option 'mixin.perf.clear_mixin_classinfo' overriden (by user configuration) to 'true'
-[01Mar2026 21:48:46.370] [main/WARN] [ModernFix/]: Option 'mixin.perf.deduplicate_location' overriden (by user configuration) to 'true'
-[01Mar2026 21:48:46.370] [main/WARN] [ModernFix/]: Option 'mixin.perf.dynamic_entity_renderers' overriden (by user configuration) to 'true'
-[01Mar2026 21:48:46.370] [main/WARN] [ModernFix/]: Option 'mixin.perf.remove_spawn_chunks' overriden (by user configuration) to 'true'
-[01Mar2026 21:48:46.370] [main/WARN] [ModernFix/]: Option 'mixin.perf.ingredient_item_deduplication' overriden (by user configuration) to 'true'
-[01Mar2026 21:48:46.371] [main/WARN] [ModernFix/]: Option 'mixin.perf.deduplicate_climate_parameters' overriden (by user configuration) to 'true'
-[01Mar2026 21:48:46.371] [main/WARN] [ModernFix/]: Option 'mixin.perf.thread_priorities' overriden (by mods [smoothboot]) to 'false'
-[01Mar2026 21:48:46.372] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[01Mar2026 21:48:46.387] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[01Mar2026 21:48:46.404] [main/WARN] [mixin/]: Reference map '' for chat_heads.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Mar2026 21:48:46.418] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 319 options available, 3 override(s) found
-[01Mar2026 21:48:46.432] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Mar2026 21:48:46.487] [main/WARN] [mixin/]: Reference map 'EpheroLib-refmap.json' for epherolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Mar2026 21:48:46.492] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Mar2026 21:48:46.522] [main/WARN] [mixin/]: Reference map 'fastpaintings-forge-refmap.json' for fastpaintings-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Mar2026 21:48:46.526] [main/WARN] [mixin/]: Reference map 'farmersrespite.refmap.json' for farmersrespite.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Mar2026 21:48:46.533] [main/WARN] [mixin/]: Reference map 'tacz_npc.refmap.json' for tacz_npc.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Mar2026 21:48:46.556] [main/INFO] [Puzzles Lib/]: Loading 273 mods:
+[01Mar2026 22:05:21.142] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.16, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[01Mar2026 22:05:21.149] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 25.0.1 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[01Mar2026 22:05:22.965] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[01Mar2026 22:05:23.008] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/ServerMine/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[01Mar2026 22:05:23.765] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at C:\ServerMine\mods} returned 2 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[01Mar2026 22:05:23.837] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\ServerMine\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.16\fmlcore-1.20.1-47.4.16.jar is missing mods.toml file
+[01Mar2026 22:05:23.839] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\ServerMine\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.16\javafmllanguage-1.20.1-47.4.16.jar is missing mods.toml file
+[01Mar2026 22:05:23.842] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\ServerMine\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.16\lowcodelanguage-1.20.1-47.4.16.jar is missing mods.toml file
+[01Mar2026 22:05:23.844] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\ServerMine\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.16\mclanguage-1.20.1-47.4.16.jar is missing mods.toml file
+[01Mar2026 22:05:24.748] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 60 dependencies adding them to mods collection
+[01Mar2026 22:05:25.100] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
+[01Mar2026 22:05:25.119] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
+[01Mar2026 22:05:25.128] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
+[01Mar2026 22:05:25.134] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory C:\ServerMine\mods\scripts as it did not exist.
+[01Mar2026 22:05:25.141] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
+[01Mar2026 22:05:26.337] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 1110ms
+[01Mar2026 22:05:26.338] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
+[01Mar2026 22:05:28.459] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[01Mar2026 22:05:28.472] [main/ERROR] [mixin/]: Mixin config gamemenuremovegfarb-common.mixins.json does not specify "minVersion" property
+[01Mar2026 22:05:28.492] [main/ERROR] [mixin/]: Mixin config combatlog-forge.mixins.json does not specify "minVersion" property
+[01Mar2026 22:05:28.681] [main/ERROR] [mixin/]: Mixin config scaling_mobs.mixin.json does not specify "minVersion" property
+[01Mar2026 22:05:28.755] [main/ERROR] [mixin/]: Mixin config yacl.mixins.json does not specify "minVersion" property
+[01Mar2026 22:05:28.842] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[01Mar2026 22:05:28.843] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [mcinterface1201.mixin.MixinConnector]
+[01Mar2026 22:05:28.845] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[01Mar2026 22:05:28.958] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.26.2+mc1.20.1: 98 options available, 9 override(s) found
+[01Mar2026 22:05:28.960] [main/WARN] [ModernFix/]: Option 'mixin.perf.smart_ingredient_sync' overriden (by mods [crafttweaker]) to 'false'
+[01Mar2026 22:05:28.960] [main/WARN] [ModernFix/]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
+[01Mar2026 22:05:28.960] [main/WARN] [ModernFix/]: Option 'mixin.perf.clear_mixin_classinfo' overriden (by user configuration) to 'true'
+[01Mar2026 22:05:28.960] [main/WARN] [ModernFix/]: Option 'mixin.perf.deduplicate_location' overriden (by user configuration) to 'true'
+[01Mar2026 22:05:28.960] [main/WARN] [ModernFix/]: Option 'mixin.perf.dynamic_entity_renderers' overriden (by user configuration) to 'true'
+[01Mar2026 22:05:28.960] [main/WARN] [ModernFix/]: Option 'mixin.perf.remove_spawn_chunks' overriden (by user configuration) to 'true'
+[01Mar2026 22:05:28.961] [main/WARN] [ModernFix/]: Option 'mixin.perf.ingredient_item_deduplication' overriden (by user configuration) to 'true'
+[01Mar2026 22:05:28.961] [main/WARN] [ModernFix/]: Option 'mixin.perf.deduplicate_climate_parameters' overriden (by user configuration) to 'true'
+[01Mar2026 22:05:28.961] [main/WARN] [ModernFix/]: Option 'mixin.perf.thread_priorities' overriden (by mods [smoothboot]) to 'false'
+[01Mar2026 22:05:28.962] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[01Mar2026 22:05:28.981] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[01Mar2026 22:05:29.001] [main/WARN] [mixin/]: Reference map '' for chat_heads.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Mar2026 22:05:29.017] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 319 options available, 3 override(s) found
+[01Mar2026 22:05:29.032] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Mar2026 22:05:29.077] [main/WARN] [mixin/]: Reference map 'EpheroLib-refmap.json' for epherolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Mar2026 22:05:29.085] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Mar2026 22:05:29.119] [main/WARN] [mixin/]: Reference map 'fastpaintings-forge-refmap.json' for fastpaintings-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Mar2026 22:05:29.123] [main/WARN] [mixin/]: Reference map 'farmersrespite.refmap.json' for farmersrespite.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Mar2026 22:05:29.131] [main/WARN] [mixin/]: Reference map 'tacz_npc.refmap.json' for tacz_npc.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Mar2026 22:05:29.164] [main/INFO] [Puzzles Lib/]: Loading 273 mods:
 	- access_denied 6.2.1
 	- alekiships 1.0.14
 	- alexsmobs 1.22.9
@@ -323,93 +319,93 @@
 	- yet_another_config_lib_v3 3.6.6+1.20.1-forge
 	- yungsapi 1.20-Forge-4.0.6
 	- zombieawareness 1.20.1-1.13.1
-[01Mar2026 21:48:46.623] [main/WARN] [mixin/]: Reference map 'mixins.warborn.refmap.json' for warborn.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Mar2026 21:48:46.624] [main/WARN] [mixin/]: Reference map 'warborn_recipes.refmap.json' for warborn_recipes.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Mar2026 21:48:46.641] [main/WARN] [mixin/]: Reference map 'mixins.jeffs_cursed_walking_structures.refmap.json' for mixins.jeffs_cursed_walking_structures.json could not be read. If this is a development environment you can ignore this message
-[01Mar2026 21:48:46.654] [main/WARN] [mixin/]: Reference map 'pandalib-common-common-refmap.json' for pandalib-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Mar2026 21:48:46.660] [main/WARN] [mixin/]: Reference map 'LesRaisinsAddon_1201.refmap.json' for lradd.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Mar2026 21:48:46.722] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Mar2026 21:48:46.766] [main/INFO] [dev.tonimatas.packetfixer.mixins.v1_19_4_forge.MixinPlugin/]: Packet Fixer forge 1.19.4-1.20.1 has been applied successfully.
-[01Mar2026 21:48:47.394] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
-[01Mar2026 21:48:47.395] [main/WARN] [mixin/]: @Mixin target com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity was not found fishingoverhaul.mixins.json:AquaFishingBobberEntityMixin
-[01Mar2026 21:48:47.444] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[01Mar2026 21:48:47.460] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[01Mar2026 21:48:47.734] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/MultiPlayerGameMode for invalid dist DEDICATED_SERVER
-[01Mar2026 21:48:47.735] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/MultiPlayerGameMode (java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/MultiPlayerGameMode for invalid dist DEDICATED_SERVER)
-[01Mar2026 21:48:47.736] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.MultiPlayerGameMode was not found mixins.cofhcore.json:MultiPlayerGameModeMixin
-[01Mar2026 21:48:47.814] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER
-[01Mar2026 21:48:47.814] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/GameRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER)
-[01Mar2026 21:48:47.814] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.GameRenderer was not found darkness.client.json:MixinGameRenderer
-[01Mar2026 21:48:47.815] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/LightTexture for invalid dist DEDICATED_SERVER
-[01Mar2026 21:48:47.815] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/LightTexture (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/LightTexture for invalid dist DEDICATED_SERVER)
-[01Mar2026 21:48:47.815] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.LightTexture was not found darkness.client.json:MixinLightTexture
-[01Mar2026 21:48:47.816] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/texture/DynamicTexture (java.lang.ClassNotFoundException: net.minecraft.client.renderer.texture.DynamicTexture)
-[01Mar2026 21:48:47.816] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.texture.DynamicTexture was not found darkness.client.json:MixinDynamicTexture
-[01Mar2026 21:48:47.816] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/DimensionSpecialEffects$EndEffects for invalid dist DEDICATED_SERVER
-[01Mar2026 21:48:47.817] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/DimensionSpecialEffects$EndEffects (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/DimensionSpecialEffects$EndEffects for invalid dist DEDICATED_SERVER)
-[01Mar2026 21:48:47.817] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.DimensionSpecialEffects$EndEffects was not found darkness.client.json:MixinEndEffects
-[01Mar2026 21:48:47.817] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/DimensionSpecialEffects$NetherEffects for invalid dist DEDICATED_SERVER
-[01Mar2026 21:48:47.817] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/DimensionSpecialEffects$NetherEffects (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/DimensionSpecialEffects$NetherEffects for invalid dist DEDICATED_SERVER)
-[01Mar2026 21:48:47.817] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.DimensionSpecialEffects$NetherEffects was not found darkness.client.json:MixinNetherEffects
-[01Mar2026 21:48:47.962] [main/WARN] [mixin/]: Error loading class: net/raphimc/immediatelyfast/feature/core/BatchableBufferSource (java.lang.ClassNotFoundException: net.raphimc.immediatelyfast.feature.core.BatchableBufferSource)
-[01Mar2026 21:48:47.964] [main/WARN] [mixin/]: Error loading class: dev/tr7zw/skinlayers/render/CustomizableModelPart (java.lang.ClassNotFoundException: dev.tr7zw.skinlayers.render.CustomizableModelPart)
-[01Mar2026 21:48:48.071] [main/WARN] [mixin/]: Error loading class: net/mehvahdjukaar/supplementaries/common/entities/SlimeBallEntity (java.lang.ClassNotFoundException: net.mehvahdjukaar.supplementaries.common.entities.SlimeBallEntity)
-[01Mar2026 21:48:48.180] [main/WARN] [mixin/]: Error loading class: xfacthd/framedblocks/common/blockentity/doubled/FramedAdjustableDoubleBlockEntity (java.lang.ClassNotFoundException: xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity)
-[01Mar2026 21:48:48.181] [main/WARN] [mixin/]: @Mixin target xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity was not found createbigcannons.mixins.json:compat.FramedAdjustableDoubleBlockEntityAccessor
-[01Mar2026 21:48:48.392] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/Sheets for invalid dist DEDICATED_SERVER
-[01Mar2026 21:48:48.392] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/Sheets (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/Sheets for invalid dist DEDICATED_SERVER)
-[01Mar2026 21:48:48.392] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.Sheets was not found shouldersurfing.forge.compat.mixins.json:iris.MixinSheets_1_7_0
-[01Mar2026 21:48:48.416] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/PoseStack$Pose for invalid dist DEDICATED_SERVER
-[01Mar2026 21:48:48.416] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/vertex/PoseStack$Pose (java.lang.RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/PoseStack$Pose for invalid dist DEDICATED_SERVER)
-[01Mar2026 21:48:48.487] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData for invalid dist DEDICATED_SERVER
-[01Mar2026 21:48:48.488] [main/WARN] [mixin/]: Error loading class: com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData (java.lang.RuntimeException: Attempted to load class com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData for invalid dist DEDICATED_SERVER)
-[01Mar2026 21:48:48.488] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData for invalid dist DEDICATED_SERVER
-[01Mar2026 21:48:48.489] [main/WARN] [mixin/]: Error loading class: com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData (java.lang.RuntimeException: Attempted to load class com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData for invalid dist DEDICATED_SERVER)
-[01Mar2026 21:48:48.491] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData for invalid dist DEDICATED_SERVER
-[01Mar2026 21:48:48.492] [main/WARN] [mixin/]: Error loading class: com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData (java.lang.RuntimeException: Attempted to load class com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData for invalid dist DEDICATED_SERVER)
-[01Mar2026 21:48:48.544] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[01Mar2026 21:48:48.975] [main/INFO] [Smooth Boot (Reloaded)/]: Smooth Boot (Reloaded) config initialized
-[01Mar2026 21:48:49.072] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_216202_ in modernfix-modernfix.mixins.json:perf.tag_id_caching.TagOrElementLocationMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[01Mar2026 21:48:49.163] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[01Mar2026 21:48:49.215] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:571]: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
-[01Mar2026 21:48:49.215] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:571]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:32)
-[01Mar2026 21:48:49.215] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:571]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
-[01Mar2026 21:48:49.216] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:571]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
-[01Mar2026 21:48:49.216] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:571]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.run(Launcher.java:108)
-[01Mar2026 21:48:49.216] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:571]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.main(Launcher.java:78)
-[01Mar2026 21:48:49.216] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:571]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
-[01Mar2026 21:48:49.216] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:571]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
-[01Mar2026 21:48:49.216] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:571]: 	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
-[01Mar2026 21:48:49.217] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:579]: Caused by: java.lang.reflect.InvocationTargetException
-[01Mar2026 21:48:49.217] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:579]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
-[01Mar2026 21:48:49.217] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:579]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
-[01Mar2026 21:48:49.218] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:579]: 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.4.16/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111)
-[01Mar2026 21:48:49.218] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:579]: 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.4.16/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103)
-[01Mar2026 21:48:49.219] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:579]: 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.4.16/net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27)
-[01Mar2026 21:48:49.219] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:579]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
-[01Mar2026 21:48:49.219] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:579]: 	... 7 more
-[01Mar2026 21:48:49.220] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:686]: Caused by: java.lang.ExceptionInInitializerError
-[01Mar2026 21:48:49.220] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:686]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.chat.MutableComponent.m_237204_(MutableComponent.java:29)
-[01Mar2026 21:48:49.220] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:686]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.chat.Component.m_237115_(Component.java:444)
-[01Mar2026 21:48:49.221] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:686]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.commands.BrigadierExceptions.<clinit>(BrigadierExceptions.java:24)
-[01Mar2026 21:48:49.221] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:686]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.SharedConstants.<clinit>(SharedConstants.java:216)
-[01Mar2026 21:48:49.221] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:686]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.Main.main(Main.java:69)
-[01Mar2026 21:48:49.221] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:686]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
-[01Mar2026 21:48:49.221] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:686]: 	... 12 more
-[01Mar2026 21:48:49.222] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[01Mar2026 21:48:49.222] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.4.16/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
-[01Mar2026 21:48:49.222] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
-[01Mar2026 21:48:49.222] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
-[01Mar2026 21:48:49.223] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
-[01Mar2026 21:48:49.223] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
-[01Mar2026 21:48:49.224] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
-[01Mar2026 21:48:49.224] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
-[01Mar2026 21:48:49.224] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
-[01Mar2026 21:48:49.224] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
-[01Mar2026 21:48:49.224] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
-[01Mar2026 21:48:49.225] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.resources.ResourceLocation.handler$cac000$etf$illegalPathOverride(ResourceLocation.java:525)
-[01Mar2026 21:48:49.225] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.resources.ResourceLocation.m_135841_(ResourceLocation.java:206)
-[01Mar2026 21:48:49.226] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.resources.ResourceLocation.m_245185_(ResourceLocation.java:241)
-[01Mar2026 21:48:49.226] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:40)
-[01Mar2026 21:48:49.226] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.chat.Style.<clinit>(Style.java:39)
-[01Mar2026 21:48:49.226] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	... 18 more
+[01Mar2026 22:05:29.251] [main/WARN] [mixin/]: Reference map 'mixins.warborn.refmap.json' for warborn.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Mar2026 22:05:29.252] [main/WARN] [mixin/]: Reference map 'warborn_recipes.refmap.json' for warborn_recipes.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Mar2026 22:05:29.280] [main/WARN] [mixin/]: Reference map 'mixins.jeffs_cursed_walking_structures.refmap.json' for mixins.jeffs_cursed_walking_structures.json could not be read. If this is a development environment you can ignore this message
+[01Mar2026 22:05:29.295] [main/WARN] [mixin/]: Reference map 'pandalib-common-common-refmap.json' for pandalib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Mar2026 22:05:29.300] [main/WARN] [mixin/]: Reference map 'LesRaisinsAddon_1201.refmap.json' for lradd.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Mar2026 22:05:29.358] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Mar2026 22:05:29.409] [main/INFO] [dev.tonimatas.packetfixer.mixins.v1_19_4_forge.MixinPlugin/]: Packet Fixer forge 1.19.4-1.20.1 has been applied successfully.
+[01Mar2026 22:05:30.070] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
+[01Mar2026 22:05:30.070] [main/WARN] [mixin/]: @Mixin target com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity was not found fishingoverhaul.mixins.json:AquaFishingBobberEntityMixin
+[01Mar2026 22:05:30.121] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[01Mar2026 22:05:30.136] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[01Mar2026 22:05:30.476] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/MultiPlayerGameMode for invalid dist DEDICATED_SERVER
+[01Mar2026 22:05:30.477] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/MultiPlayerGameMode (java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/MultiPlayerGameMode for invalid dist DEDICATED_SERVER)
+[01Mar2026 22:05:30.478] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.MultiPlayerGameMode was not found mixins.cofhcore.json:MultiPlayerGameModeMixin
+[01Mar2026 22:05:30.612] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER
+[01Mar2026 22:05:30.613] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/GameRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER)
+[01Mar2026 22:05:30.613] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.GameRenderer was not found darkness.client.json:MixinGameRenderer
+[01Mar2026 22:05:30.614] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/LightTexture for invalid dist DEDICATED_SERVER
+[01Mar2026 22:05:30.614] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/LightTexture (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/LightTexture for invalid dist DEDICATED_SERVER)
+[01Mar2026 22:05:30.615] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.LightTexture was not found darkness.client.json:MixinLightTexture
+[01Mar2026 22:05:30.615] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/texture/DynamicTexture (java.lang.ClassNotFoundException: net.minecraft.client.renderer.texture.DynamicTexture)
+[01Mar2026 22:05:30.615] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.texture.DynamicTexture was not found darkness.client.json:MixinDynamicTexture
+[01Mar2026 22:05:30.616] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/DimensionSpecialEffects$EndEffects for invalid dist DEDICATED_SERVER
+[01Mar2026 22:05:30.617] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/DimensionSpecialEffects$EndEffects (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/DimensionSpecialEffects$EndEffects for invalid dist DEDICATED_SERVER)
+[01Mar2026 22:05:30.617] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.DimensionSpecialEffects$EndEffects was not found darkness.client.json:MixinEndEffects
+[01Mar2026 22:05:30.617] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/DimensionSpecialEffects$NetherEffects for invalid dist DEDICATED_SERVER
+[01Mar2026 22:05:30.618] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/DimensionSpecialEffects$NetherEffects (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/DimensionSpecialEffects$NetherEffects for invalid dist DEDICATED_SERVER)
+[01Mar2026 22:05:30.618] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.DimensionSpecialEffects$NetherEffects was not found darkness.client.json:MixinNetherEffects
+[01Mar2026 22:05:30.817] [main/WARN] [mixin/]: Error loading class: net/raphimc/immediatelyfast/feature/core/BatchableBufferSource (java.lang.ClassNotFoundException: net.raphimc.immediatelyfast.feature.core.BatchableBufferSource)
+[01Mar2026 22:05:30.819] [main/WARN] [mixin/]: Error loading class: dev/tr7zw/skinlayers/render/CustomizableModelPart (java.lang.ClassNotFoundException: dev.tr7zw.skinlayers.render.CustomizableModelPart)
+[01Mar2026 22:05:30.968] [main/WARN] [mixin/]: Error loading class: net/mehvahdjukaar/supplementaries/common/entities/SlimeBallEntity (java.lang.ClassNotFoundException: net.mehvahdjukaar.supplementaries.common.entities.SlimeBallEntity)
+[01Mar2026 22:05:31.080] [main/WARN] [mixin/]: Error loading class: xfacthd/framedblocks/common/blockentity/doubled/FramedAdjustableDoubleBlockEntity (java.lang.ClassNotFoundException: xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity)
+[01Mar2026 22:05:31.081] [main/WARN] [mixin/]: @Mixin target xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity was not found createbigcannons.mixins.json:compat.FramedAdjustableDoubleBlockEntityAccessor
+[01Mar2026 22:05:31.286] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/Sheets for invalid dist DEDICATED_SERVER
+[01Mar2026 22:05:31.286] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/Sheets (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/Sheets for invalid dist DEDICATED_SERVER)
+[01Mar2026 22:05:31.286] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.Sheets was not found shouldersurfing.forge.compat.mixins.json:iris.MixinSheets_1_7_0
+[01Mar2026 22:05:31.311] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/PoseStack$Pose for invalid dist DEDICATED_SERVER
+[01Mar2026 22:05:31.311] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/vertex/PoseStack$Pose (java.lang.RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/PoseStack$Pose for invalid dist DEDICATED_SERVER)
+[01Mar2026 22:05:31.363] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData for invalid dist DEDICATED_SERVER
+[01Mar2026 22:05:31.363] [main/WARN] [mixin/]: Error loading class: com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData (java.lang.RuntimeException: Attempted to load class com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData for invalid dist DEDICATED_SERVER)
+[01Mar2026 22:05:31.364] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData for invalid dist DEDICATED_SERVER
+[01Mar2026 22:05:31.364] [main/WARN] [mixin/]: Error loading class: com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData (java.lang.RuntimeException: Attempted to load class com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData for invalid dist DEDICATED_SERVER)
+[01Mar2026 22:05:31.367] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData for invalid dist DEDICATED_SERVER
+[01Mar2026 22:05:31.367] [main/WARN] [mixin/]: Error loading class: com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData (java.lang.RuntimeException: Attempted to load class com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData for invalid dist DEDICATED_SERVER)
+[01Mar2026 22:05:31.422] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[01Mar2026 22:05:31.855] [main/INFO] [Smooth Boot (Reloaded)/]: Smooth Boot (Reloaded) config initialized
+[01Mar2026 22:05:31.968] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_216202_ in modernfix-modernfix.mixins.json:perf.tag_id_caching.TagOrElementLocationMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[01Mar2026 22:05:32.018] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[01Mar2026 22:05:32.020] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:571]: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+[01Mar2026 22:05:32.021] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:571]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:32)
+[01Mar2026 22:05:32.021] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:571]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+[01Mar2026 22:05:32.021] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:571]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+[01Mar2026 22:05:32.021] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:571]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.run(Launcher.java:108)
+[01Mar2026 22:05:32.021] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:571]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.main(Launcher.java:78)
+[01Mar2026 22:05:32.022] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:571]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+[01Mar2026 22:05:32.022] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:571]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+[01Mar2026 22:05:32.022] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:571]: 	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+[01Mar2026 22:05:32.022] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:579]: Caused by: java.lang.reflect.InvocationTargetException
+[01Mar2026 22:05:32.022] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:579]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+[01Mar2026 22:05:32.023] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:579]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+[01Mar2026 22:05:32.023] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:579]: 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.4.16/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111)
+[01Mar2026 22:05:32.023] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:579]: 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.4.16/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103)
+[01Mar2026 22:05:32.023] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:579]: 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.4.16/net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27)
+[01Mar2026 22:05:32.023] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:579]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+[01Mar2026 22:05:32.024] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:579]: 	... 7 more
+[01Mar2026 22:05:32.024] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:686]: Caused by: java.lang.ExceptionInInitializerError
+[01Mar2026 22:05:32.024] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:686]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.chat.MutableComponent.m_237204_(MutableComponent.java:29)
+[01Mar2026 22:05:32.024] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:686]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.chat.Component.m_237115_(Component.java:444)
+[01Mar2026 22:05:32.024] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:686]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.commands.BrigadierExceptions.<clinit>(BrigadierExceptions.java:24)
+[01Mar2026 22:05:32.024] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:686]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.SharedConstants.<clinit>(SharedConstants.java:216)
+[01Mar2026 22:05:32.025] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:686]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.Main.main(Main.java:69)
+[01Mar2026 22:05:32.025] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:686]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[01Mar2026 22:05:32.025] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:686]: 	... 12 more
+[01Mar2026 22:05:32.025] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[01Mar2026 22:05:32.025] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.4.16/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+[01Mar2026 22:05:32.026] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+[01Mar2026 22:05:32.026] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+[01Mar2026 22:05:32.026] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[01Mar2026 22:05:32.026] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[01Mar2026 22:05:32.026] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[01Mar2026 22:05:32.027] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[01Mar2026 22:05:32.027] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[01Mar2026 22:05:32.027] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[01Mar2026 22:05:32.027] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+[01Mar2026 22:05:32.028] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.resources.ResourceLocation.handler$cac000$etf$illegalPathOverride(ResourceLocation.java:525)
+[01Mar2026 22:05:32.028] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.resources.ResourceLocation.m_135841_(ResourceLocation.java:206)
+[01Mar2026 22:05:32.028] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.resources.ResourceLocation.m_245185_(ResourceLocation.java:241)
+[01Mar2026 22:05:32.028] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:40)
+[01Mar2026 22:05:32.028] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.chat.Style.<clinit>(Style.java:39)
+[01Mar2026 22:05:32.028] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:709]: 	... 18 more
