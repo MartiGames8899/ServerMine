@@ -1,0 +1,17 @@
+{
+	id: "4c7f02a3-2754-35b1-a0c5-274a28bc091e"
+	type: "player"
+	player_name: "MartiGames8899"
+	ranks: {
+		4c7f02a3-2754-35b1-a0c5-274a28bc091e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MartiGames8899"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59F7"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
