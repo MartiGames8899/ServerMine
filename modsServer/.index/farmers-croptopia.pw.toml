@@ -1,0 +1,17 @@
+filename = 'farmers_croptopia-1.20.1-3.2.0.jar'
+name = "Farmer's (Delight) Croptopia"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.20.1-3.2.0'
+
+[download]
+hash = 'b0ae79739380da17e8854c889b0674579c6f97df'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7181384
+project-id = 1132546

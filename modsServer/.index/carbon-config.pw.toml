@@ -1,0 +1,17 @@
+filename = 'CarbonConfig-1.20-1.2.8.2.jar'
+name = 'Carbon Config'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'CarbonConfig-1.20-1.2.8.2'
+
+[download]
+hash = '0820589798f057bded4454b07d84b3bed1740fcc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7578453
+project-id = 898104

@@ -1,0 +1,17 @@
+filename = 'DynamicTreesSoilsCompat-1.0.1.jar'
+name = 'Dynamic Trees for Immersive Weathering/Grounded Soils'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2', '1.19.2', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'DynamicTreesSoilsCompat-1.0.1.jar'
+
+[download]
+hash = '11904c09c167d0c5f95a62fd57ca2d00270d885a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6290689
+project-id = 1185895

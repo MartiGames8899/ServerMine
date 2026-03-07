@@ -1,0 +1,17 @@
+filename = 'survival_instinct-1.0.2-forge-1.20.1.jar'
+name = 'Survival Instinct'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'survival_instinct-1.0.2-forge-1.20.1.jar'
+
+[download]
+hash = 'a2dbab6aded299d7304ee93634ec38dd08df059b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7357198
+project-id = 1242915

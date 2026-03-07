@@ -1,0 +1,17 @@
+filename = 'Gunfire Overhaul-0.1.5-a Forge-1.20.1.jar'
+name = 'Gunfire Overhaul: Echoes of the Battlefield'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Gunfire Overhaul-0.1.5-a Forge-1.20.1.jar'
+
+[download]
+hash = '7ca1f83395fb5c2943a82a9369aa1765bc6a9180'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7282863
+project-id = 1324526

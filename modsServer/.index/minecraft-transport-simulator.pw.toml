@@ -1,0 +1,17 @@
+filename = 'Immersive Vehicles-1.20.1-23.0.0.jar'
+name = 'Immersive Vehicles (Formerly Transport Simulator)'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Immersive Vehicles-1.20.1-23.0.0.jar'
+
+[download]
+hash = 'b13190d582a460a818a4020fe75af5f4abf2063d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7423733
+project-id = 286703

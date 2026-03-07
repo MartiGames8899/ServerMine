@@ -1,0 +1,17 @@
+filename = 'daffas_arsenal-3.2.0.jar'
+name = "[TACZ Addons] Daffa's Arsenal"
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'daffas_arsenal-3.2.0.jar'
+
+[download]
+hash = 'f5ed84fdd195cf694966b302ea6b1b2700862eb6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7632877
+project-id = 1254350

@@ -1,0 +1,17 @@
+filename = 'quantified api-forge-1.20.1-1.2.1.jar'
+name = 'Quantified API'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'quantified api-forge-1.20.1-1.2.1.jar'
+
+[download]
+hash = '8e184e31311a16a9e90a97295080411ad5e39dc8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7638609
+project-id = 1397967
