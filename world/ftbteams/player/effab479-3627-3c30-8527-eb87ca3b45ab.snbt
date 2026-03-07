@@ -1,0 +1,17 @@
+{
+	id: "effab479-3627-3c30-8527-eb87ca3b45ab"
+	type: "player"
+	player_name: "Andrinh0"
+	ranks: {
+		effab479-3627-3c30-8527-eb87ca3b45ab: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Andrinh0"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5981"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

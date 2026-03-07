@@ -1,8 +1,8 @@
-[18:31:27] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[18:31:27] [INIT] Loaded plugins:
-[18:31:27] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[18:31:27] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
-[18:31:27] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
-[18:31:28] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[18:31:28] [INFO] Loaded script startup_scripts:example.js in 0.075 s
-[18:31:28] [INFO] Loaded 1/1 KubeJS startup scripts in 0.984 s with 0 errors and 0 warnings
+[15:06:44] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[15:06:44] [INIT] Loaded plugins:
+[15:06:44] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[15:06:44] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[15:06:44] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
+[15:06:46] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[15:06:46] [INFO] Loaded script startup_scripts:example.js in 0.181 s
+[15:06:46] [INFO] Loaded 1/1 KubeJS startup scripts in 1.222 s with 0 errors and 0 warnings
