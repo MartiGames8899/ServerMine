@@ -170,3 +170,18 @@
 [Quantified] [OpenCL] Probe unavailable - attempt 1 (initial) - GPU acceleration disabled
 [Quantified] [OpenCL] Probe skipped - OpenCL runtime unavailable: org/lwjgl/system/SharedLibrary (binding: LWJGL)
 [Quantified] [OpenCL] Probe unavailable - attempt 2 (server-start) - GPU acceleration disabled
+[Quantified] Quantified API starting
+[Quantified] Quantified Core Starting
+[Quantified] Quantified Async Pool Start
+[Quantified] Quantified OpenCL Acceleration Starting
+[Quantified] [OpenCL] Background probe scheduled
+[Quantified] [OpenCL] Probe skipped - OpenCL runtime unavailable: org/lwjgl/system/SharedLibrary (binding: LWJGL)
+[Quantified] OpenCL unavailable at startup
+[Quantified] Quantified API WebPanel starting
+[Quantified] Forcing API class initialization
+[Quantified] OpenCL core not available - CPU fallback mode
+[Quantified] API classes initialized successfully
+[Quantified] [OpenCL] Probe skipped - OpenCL runtime unavailable: org/lwjgl/system/SharedLibrary (binding: LWJGL)
+[Quantified] [OpenCL] Probe unavailable - attempt 1 (initial) - GPU acceleration disabled
+[Quantified] [OpenCL] Probe skipped - OpenCL runtime unavailable: org/lwjgl/system/SharedLibrary (binding: LWJGL)
+[Quantified] [OpenCL] Probe unavailable - attempt 2 (server-start) - GPU acceleration disabled
